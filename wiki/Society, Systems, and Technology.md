@@ -43,7 +43,7 @@ The term "Indigo League" can refer to several distinct but interconnected system
     *   **Purpose:** A system for identifying, licensing, and contracting the region's most elite trainers as official defensive assets for the unified Indigo region. This program was re-established after the Indigo War to create a neutral, standing defense force.
     *   **The Ace Challenge:** To become a licensed "Ace Trainer," a candidate must challenge a designated Gym Leader to a high-stakes "Ace Challenge" and win.
     *   **The Contract:** A successful challenge results in a lucrative, four-year contract with the Indigo League. Ace Trainers are paid as much as top professional athletes and are granted significant freedom and authority. In return, they are on call to handle the most dangerous missions across both Kanto and Johto. They must re-qualify every four years to maintain their license.
-    *   **"Unofficial" Aces:** Some trainers possess the strength to pass the Ace Challenge but choose not to register, forgoing the contract to maintain their personal freedom. They often operate as high-tier mercenaries, taking on dangerous missions through the [[#Pokémon Centers | Pokémon Center]] job boards.
+    *   **"Unofficial" Aces:** Some trainers possess the strength to pass the Ace Challenge but choose not to register, forgoing the contract to maintain their personal freedom. They often operate as high-tier mercenaries, taking on dangerous missions through the [[Society, Systems, and Technology#Pokémon Centers | Pokémon Center]] job boards.
 
 ### Other Systems
 

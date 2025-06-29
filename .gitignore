@@ -1,0 +1,17 @@
+# General ignores
+.DS_Store
+Thumbs.db
+
+# Editor/IDE ignores
+.vscode/
+
+# Script generated files (if any)
+# You can add specific file patterns here if your scripts generate temporary files
+
+# Specific to pokemon-amber-xml/ - if any generated files that should be ignored
+# For example, if there are backup files or temporary outputs
+
+# Specific to wikipage/ - if any temporary files created by wiki software or editors
+
+pokemon-amber-xml/*.xml
+pokemon-amber-xml/_meta.xml

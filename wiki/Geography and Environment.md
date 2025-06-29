@@ -1,5 +1,3 @@
-This article details the known geographical locations, environments, and key settlements featured in *Pokemon: Ambertwo*. The Kanto region depicted is one of stark contrasts, from bustling, technologically advanced cities to isolated, rural towns still bearing the cultural scars of the [[History of the World (Pre-Story)#The Great Unification War | Great Unification War]].
-
 ## Kanto Region
 
 The primary setting of the story. This version of Kanto is more fragmented than in other depictions. While major cities are connected by advanced transport like the [[#Pidgeot Express | Pidgeot Express]], the routes between them are dangerous and information does not flow freely. This has led to a culture of regional isolation, where cities develop unique economies and social structures, and rural towns can feel like they exist in a different era entirely.
