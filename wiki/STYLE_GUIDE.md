@@ -1,0 +1,70 @@
+# Wiki Contribution & Style Guide
+
+This document outlines the core principles and style guidelines for writing and editing articles for a narrative-based wiki. Following these guidelines will ensure the wiki remains a clear, consistent, and credible resource for all readers.
+
+---
+
+## I. Core Principles
+
+Every article in the wiki should adhere to these three foundational principles.
+
+### 1. Clarity and Objectivity
+*   **Encyclopedic Tone:** Write from a neutral, third-person perspective. The goal is to present factual information as it appears in the story, not to provide literary analysis or personal commentary.
+*   **Concise Summaries:** Begin articles with a brief, one- or two-sentence "Overview" section. This gives readers the most critical information upfront. Use bullet points for lists (e.g., key actions, relationships, known abilities) to make information easy to scan.
+
+### 2. Verifiability Through Citations
+To maintain credibility, information must be traceable back to the source material.
+*   **Mandatory Citations:** Any significant claim, event, character detail, or quote **must** be followed by a citation linking to the relevant source file (e.g., a chapter).
+*   **Citation Format:** Use a consistent Markdown format for citations. The path should be relative to the article's location. For example, if source files are in a `/story/` directory:
+    *   From `/wiki/characters/`: `([Chapter 1](../../story/chapter1.md))`
+    *   From the `/wiki/` root: `([Chapter 1](./story/chapter1.md))`
+
+### 3. Connectivity
+A wiki's strength lies in the connection between its articles.
+*   **Internal Linking:** On the first mention of a character, location, faction, or key event, create a link to its corresponding wiki article. This creates a navigable web of information for readers to explore.
+*   **Link Format:** Use relative links. For example, when linking to an antagonist's page from a protagonist's page, the format is `[[Antagonist Name](./Antagonist_Name.md)]`.
+
+---
+
+## II. Article Structure & Templates
+
+While consistency is important, article structure should be flexible, adapting to the subject's importance in the story. Use the following as adaptable templates, not rigid rules. Omit sections that are not relevant or for which there is little information.
+
+*   **Discretion for New Categories:** If existing categories do not adequately encompass a subject, new categories (and corresponding directories) can be created at the discretion of the editor. Ensure new categories are logical and well-defined.
+
+### Category: Characters (`/wiki/characters/`)
+
+**For a Major Character (e.g., a protagonist, a primary antagonist):**
+*   `## Overview`: 1-2 sentence summary.
+*   `## History / Backstory`: Their past before the story's start.
+*   `## Role in the Story`: A chronological summary of their actions.
+*   `## Personality`: Key personality traits.
+*   `## Relationships`: Bulleted list of connections to other characters.
+*   `## Abilities / Possessions`: List of known skills or important items.
+*   `## Status`: Current situation (e.g., Deceased, Location).
+
+**For a Minor Character (e.g., a supporting character with a brief appearance):**
+*   `## Overview`: 1-2 sentence summary.
+*   `## Role in the Story`: Describe their appearance and actions.
+*   *(Optional)* `## Partner / Key Possessions`
+
+### Category: Key Beings / Items (`/wiki/items/`)
+
+**For a Significant Entity (e.g., a magical artifact, a unique creature, a special vehicle):**
+*   `## Overview`: 1-2 sentence summary.
+*   `## Origin`: Its origin, especially if unique.
+*   `## Role in the Story`: Its actions and importance.
+*   `## Abilities / Features`: Any notable or unique properties.
+*   `## Status`: Current status/whereabouts.
+
+*(Note: Most common items can simply be listed on their owner's page unless they are unique and perform a significant, independent action.)*
+
+### Category: Locations (`/wiki/locations/`)
+*   `## Overview`: 1-2 sentence summary.
+*   `## Key Areas`: Bulleted list of important sub-locations.
+*   `## Role in the Story`: Key events that happened here.
+
+### Category: Events (`/wiki/events/`)
+*   `## Overview`: Summary of the event and its significance.
+*   `## Timeline of Events`: A chronological list detailing the event's progression.
+*   `## Aftermath`: The consequences and resolution of the event. 
