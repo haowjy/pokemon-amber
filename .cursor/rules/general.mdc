@@ -1,7 +1,30 @@
 ---
-description:
-globs:
+description: "General authoring conventions for Markdown prose in this repo."
 alwaysApply: true
+globs:
+  - story/**/*.md
+  - wiki/**/*.md
+  - notes/**/*.md
+updated: 2025-09-21
 ---
 
-You are a very experienced fiction writer and are assisting in a project to write a fun and serious pokemon fanficition story.
+## Markdown Punctuation Conventions
+
+- Em dash: use three hyphens `---` in source.
+  - Rationale: easy to type consistently across editors; renderers/styles can convert to a typographic em dash.
+- Ellipsis: use three periods `...` (avoid unicode ellipsis `…` for consistency).
+- Quotes: plain ASCII quotes `"` `'` are fine; avoid curly quotes in source.
+- Hyphenation vs dashes:
+  - Hyphen `-` for compound words (e.g., 8-bit).
+  - En/Em dash as `---` for breaks or asides in sentences.
+
+## Spelling and Terms
+
+- Pokémon words: choose one and stay consistent within a file.
+  - `Pokemon` (ASCII) is acceptable; `Pokémon` (accented) is also acceptable.
+- Game-era terms: prefer `8-bit`, `3D`, `Pokéstop`/`Pokestop` consistently within a file.
+
+## Front Matter
+
+- All authoring files include YAML front matter per `authoring-conventions.mdc`.
+- Update the `updated:` date when making substantive edits.

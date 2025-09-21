@@ -1,9 +1,9 @@
 ---
 chapter: 6
 title: "[Chapter 6] Scientist Fuji"
-status: draft
+status: released
 hidden: false
-updated: 2025-09-21
+updated: 2025-09-20
 ---
 
 # \[Chapter 6\] Scientist Fuji

@@ -1,9 +1,9 @@
 ---
 chapter: 8
 title: "[Chapter 8] Start of an Unpaid Side Quest"
-status: draft
+status: released
 hidden: false
-updated: 2025-09-21
+updated: 2025-09-20
 ---
 
 # \[Chapter 8\] Start of an Unpaid Side Quest

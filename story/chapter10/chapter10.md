@@ -1,9 +1,9 @@
 ---
 chapter: 10
 title: "[Chapter 10] Side Quest: Complete!"
-status: draft
+status: released
 hidden: false
-updated: 2025-09-21
+updated: 2025-09-20
 ---
 
 # \[Chapter 10\] Side Quest: Complete!

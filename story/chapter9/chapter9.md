@@ -1,9 +1,9 @@
 ---
 chapter: 9
 title: "[Chapter 9] Side Quest: Trade Secrets"
-status: draft
+status: released
 hidden: false
-updated: 2025-09-21
+updated: 2025-09-20
 ---
 
 # \[Chapter 9\] Side Quest: Trade Secrets

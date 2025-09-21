@@ -1,9 +1,9 @@
 ---
 chapter: 12
 title: "[Chapter 12] A Very Reasonable Man"
-status: draft
+status: released
 hidden: false
-updated: 2025-09-21
+updated: 2025-09-20
 ---
 
 # \[Chapter 12\] A Very Reasonable Man

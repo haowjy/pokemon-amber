@@ -1,9 +1,9 @@
 ---
 chapter: 15
 title: "[Chapter 15] Electabuzz v Magmar"
-status: draft
+status: released
 hidden: false
-updated: 2025-09-21
+updated: 2025-09-20
 ---
 
 # \[Chapter 15\] Electabuzz v Magmar

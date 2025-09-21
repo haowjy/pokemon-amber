@@ -3,7 +3,7 @@ type: note
 scope: chapter
 chapter: 1
 story_file: ./chapter1.md
-spoilers: true
+spoilers: false
 hidden: true
 title: "Chapter 1 Summary"
 description: "Sequence-level (big scenes) summary for Chapter 1."
@@ -23,7 +23,7 @@ An adult from another world dies during a Shadow Mewtwo raid alert and awakens a
 Note: Names reflect POV knowledge at the time; label “caretaker” until recognition.
 
 ### Sequence 1: Old World
-- The protagonist’s Nuzklocke run interupted by a Discord message announcing a surprise Shadow Mewtwo raid at the campus library
+- The protagonist’s Nuzlocke run interrupted by a Discord message announcing a surprise Shadow Mewtwo raid at the campus library
 - MC sprints across University Avenue and is struck by a truck-an abrupt, unsentimental end
 - Introductions: POV adult (unnamed); online handles only (off-page voices)
 

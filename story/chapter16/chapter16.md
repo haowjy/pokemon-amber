@@ -1,9 +1,9 @@
 ---
 chapter: 16
 title: "[Chapter 16] Dr. Fuji v Professor Oak"
-status: draft
+status: released
 hidden: false
-updated: 2025-09-21
+updated: 2025-09-20
 ---
 
 # \[Chapter 16\] Dr. Fuji v Professor Oak

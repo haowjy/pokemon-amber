@@ -1,9 +1,9 @@
 ---
 chapter: 7
 title: "[Chapter 7] Side Quests Galore"
-status: draft
+status: released
 hidden: false
-updated: 2025-09-21
+updated: 2025-09-20
 ---
 
 # \[Chapter 7\] Side Quests Galore

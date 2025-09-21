@@ -1,9 +1,9 @@
 ---
 chapter: 3
 title: "[Chapter 3] Into the World of (Pocket) Monsters"
-status: draft
+status: released
 hidden: false
-updated: 2025-09-21
+updated: 2025-09-20
 ---
 
 # \[Chapter 3\] Into the World of (Pocket) Monsters

@@ -1,9 +1,9 @@
 ---
 chapter: 2
 title: "[Chapter 2] All Aboard!"
-status: draft
+status: released
 hidden: false
-updated: 2025-09-21
+updated: 2025-09-20
 ---
 
 # \[Chapter 2\] All Aboard!
