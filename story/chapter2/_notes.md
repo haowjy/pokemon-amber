@@ -8,11 +8,3 @@ updated: 2025-09-20
 # Chapter 2 - Notes
 
 - Story: ../chapter2.md (current location)
-
-Sections
-- Intent
-- Beats
-- Foreshadowing
-- Continuity
-- Open Questions
-- To-Do
