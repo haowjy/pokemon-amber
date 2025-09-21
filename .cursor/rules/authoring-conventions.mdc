@@ -1,0 +1,92 @@
+---
+description: Filenaming convention and YAML metadata requirements for story/wiki/notes
+alwaysApply: true
+---
+
+# Authoring Conventions (Filenames + YAML Front Matter)
+
+## Filenaming
+- Official, reader-facing content: no leading underscores
+  - Examples: `story/chapter1/chapter1.md`, `wiki/chapters.md`, `wiki/events/pallet_attack.md`
+- Author notes/unofficial/drafts: begin with an underscore `_`
+  - Examples: `story/chapter1/_notes.md`, `story/chapter1/_characters.md`, `wiki/_drafts/_migration-plan.md`
+- This convention applies to both `story/` and `wiki/` (and anywhere else we keep writing).
+
+## YAML Front Matter (required)
+All authoring files (story, wiki, notes) should start with YAML front matter. Schemas below are recommended; add fields as needed.
+
+### Story chapter (reader-facing)
+```yaml
+---
+title: "[Chapter 1] Truck-kun Strikes Again"
+chapter: 1
+arc: cinnabar
+pov: Amber Fuji
+status: draft # or published
+hidden: false # true for withheld/unpublished content
+created: 2025-09-20
+updated: 2025-09-20
+---
+```
+
+### Chapter-local notes (author/internal)
+```yaml
+---
+type: note
+scope: chapter
+chapter: 1
+spoilers: true
+status: draft
+hidden: true
+created: 2025-09-20
+updated: 2025-09-20
+tags: [intent, foreshadowing]
+---
+```
+
+### Arc notes (author/internal)
+```yaml
+---
+type: note
+scope: arc
+arc_id: arc01-celadon
+chapters: [7, 8, 9, 10]
+spoilers: true
+status: draft
+hidden: true
+updated: 2025-09-20
+---
+```
+
+### Global notes (author/internal)
+```yaml
+---
+type: note
+scope: global
+category: worldbuilding # or continuity, themes, mechanics
+spoilers: false
+status: draft
+hidden: true
+updated: 2025-09-20
+---
+```
+
+### Wiki pages (reader-facing reference)
+```yaml
+---
+type: wiki
+category: events # or chapters, index
+title: Pallet Town Attack
+requires_citations: true
+status: published
+updated: 2025-09-20
+---
+```
+
+## Hidden content
+- Use `hidden: true` on any file we don’t want surfaced or exported.
+- Notes default to `hidden: true`. Story/wiki defaults to `hidden: false` unless intentionally withheld.
+
+## Notes
+- Keep official prose and public wiki clean (no inline author commentary).
+- Add/adjust fields as our process evolves; prefer consistency across files.
