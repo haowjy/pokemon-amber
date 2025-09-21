@@ -1,7 +1,7 @@
 ---
 chapter: 1
 title: "[Chapter 1] Truck-kun Strikes Again"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---
@@ -103,7 +103,7 @@ A pair of arms caught me while I fell---arms that seemed impossibly large. They 
 
 He pulled back just enough to shrug off his lab coat with shaking hands, wrapping it around my shoulders and pulling me close with gentle urgency. The fabric draped over me like a tent, still warm from his body and carrying a mix of scents---antiseptic, coffee, and something earthy that spoke of long hours.
 
-"Who-?" I started to say, but stopped to clear my throat. This voice… wasn’t mine. It felt too young. Even my coughs were weirdly super high-pitched… almost like a little girl's.
+"Who---?" I started to say, but stopped to clear my throat. This voice... wasn't mine. It felt too young. Even my coughs were weirdly super high-pitched... almost like a little girl's.
 
 "Amber!" the giant middle-aged man whispered through his choking sobs. He eased me back so we could really see each other.
 

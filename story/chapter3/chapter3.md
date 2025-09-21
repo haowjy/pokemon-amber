@@ -1,7 +1,7 @@
 ---
 chapter: 3
 title: "[Chapter 3] Into the World of (Pocket) Monsters"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---
@@ -150,7 +150,7 @@ I reached up on my tiptoes and opened the door to my real first steps into Celad
 
 The morning streets made my earlier caution feel absurd. Pokemon were everywhere, woven into the fabric of city life as naturally as pigeons in my old world-a Meowth sprawled across a windowsill like a furry king surveying its domain, Pidgey squabbling over something shiny in the gutters, even a Growlithe padding importantly beside a police officer, its badge-shaped collar catching the sun.
 
-My fingers relaxed around Ditto's minimized ball, feeling sheepish. Red light flashed as I released it, and Ditto materialized with what I swore was an expression of mild amusement. Without prompting, it flowed up my arm and settled across my shoulders like a living scarf, its weight oddly comforting against my neck.
+My fingers relaxed around Ditto's minimized ball, feeling sheepish. Red light flashed as I published it, and Ditto materialized with what I swore was an expression of mild amusement. Without prompting, it flowed up my arm and settled across my shoulders like a living scarf, its weight oddly comforting against my neck.
 
 A real Pokemon city sprawled before me. Where my mind expected neat gridlines of pixels and predictable paths, Real Celadon flowed with organic chaos. Streets twisted between buildings that defied the simple up-down geography of the games, their shadows painting patterns that no sprite artist could have conceived.
 

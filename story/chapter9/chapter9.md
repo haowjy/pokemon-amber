@@ -1,7 +1,7 @@
 ---
 chapter: 9
 title: "[Chapter 9] Side Quest: Trade Secrets"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---

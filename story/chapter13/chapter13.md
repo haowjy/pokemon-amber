@@ -1,7 +1,7 @@
 ---
 chapter: 13
 title: "[Chapter 13] Sweet Home"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---

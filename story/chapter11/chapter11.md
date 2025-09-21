@@ -1,7 +1,7 @@
 ---
 chapter: 11
 title: "[Chapter 11] Pallet Town"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---
@@ -126,7 +126,7 @@ That word-cancer-carried the weight of years of grief. The setting sun caught in
 
 A breeze stirred the flowers, carrying the scent of freshly turned earth and something that might have been dinner cooking inside that cheerful blue house. Some other version of this evening existed where they'd all be sitting down to eat right now, if we hadn't shown up to shatter their peace.
 
-Dr. Fuji's fingers dug so deep into my shoulder that I could feel each individual digit trembling. Not with grief or shame, but with that particular kind of desperate anger that comes when someone's carefully constructed reality starts to crack. "You don't understand," he said, his voice rising to match the wind. "I did it. I actually did it! While you were here playing house with-" he released my shoulder to jab a finger at Ash's father, "-with some *lab assistant*," he spat the words like they tasted foul, "I brought our daughter back! I did what everyone said was impossible! This is what I promised you, what you never believed I could-"
+Dr. Fuji's fingers dug so deep into my shoulder that I could feel each individual digit trembling. Not with grief or shame, but with that particular kind of desperate anger that comes when someone's carefully constructed reality starts to crack. "You don't understand," he said, his voice rising to match the wind. "I did it. I actually did it! While you were here playing house with-" he published my shoulder to jab a finger at Ash's father, "-with some *lab assistant*," he spat the words like they tasted foul, "I brought our daughter back! I did what everyone said was impossible! This is what I promised you, what you never believed I could-"
 
 "Get off my property." Delia's voice cut through his rant like a knife. Her shadow stretched long across her garden, merging with the darkness gathering at the edges of this broken family tableau. "Before I call Officer Jenny."
 

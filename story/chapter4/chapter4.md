@@ -1,7 +1,7 @@
 ---
 chapter: 4
 title: "[Chapter 4] Achievement Unlocked! First Battle!"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---

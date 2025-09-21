@@ -1,7 +1,7 @@
 ---
 chapter: 7
 title: "[Chapter 7] Side Quests Galore"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---

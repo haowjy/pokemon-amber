@@ -1,7 +1,7 @@
 ---
 chapter: 5
 title: "[Chapter 5] A Perfectly Normal Gym Session"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---

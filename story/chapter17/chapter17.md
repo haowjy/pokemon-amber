@@ -1,7 +1,7 @@
 ---
 chapter: 17
 title: "[Chapter 17] The Eye of the Storm"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---

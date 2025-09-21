@@ -1,7 +1,7 @@
 ---
 chapter: 15
 title: "[Chapter 15] Electabuzz v Magmar"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---

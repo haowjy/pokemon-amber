@@ -1,7 +1,7 @@
 ---
 chapter: 6
 title: "[Chapter 6] Scientist Fuji"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---

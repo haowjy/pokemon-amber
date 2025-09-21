@@ -1,7 +1,7 @@
 ---
 chapter: 12
 title: "[Chapter 12] A Very Reasonable Man"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---

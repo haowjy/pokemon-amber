@@ -1,7 +1,7 @@
 ---
 chapter: 16
 title: "[Chapter 16] Dr. Fuji v Professor Oak"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---
@@ -116,7 +116,7 @@ A blinding, white-hot torrent of pure energy erupted from Ditto-Dragonite’s ma
 
 Ditto-Dragonite’s massive chest heaved, its form flickering for a split second, threatening to dissolve back into its amorphous state before stabilizing. Wisps of smoke curled from its maw, the physical toll of the attack made manifest.
 
-Across the ruined yard, Oak rereleased Tauros.
+Across the ruined yard, Oak republished Tauros.
 
 Tauros shook its massive head, the smell of burnt hide sharp in the air. It let out a defiant snort, pawing the ground, but its movements were stiff, favoring one side.
 

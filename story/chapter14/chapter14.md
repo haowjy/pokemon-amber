@@ -1,7 +1,7 @@
 ---
 chapter: 14
 title: "[Chapter 14] Flowers for Delia"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---

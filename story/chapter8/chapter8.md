@@ -1,7 +1,7 @@
 ---
 chapter: 8
 title: "[Chapter 8] Start of an Unpaid Side Quest"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---

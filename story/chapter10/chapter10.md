@@ -1,7 +1,7 @@
 ---
 chapter: 10
 title: "[Chapter 10] Side Quest: Complete!"
-status: released
+status: published
 hidden: false
 updated: 2025-09-20
 ---
@@ -132,7 +132,7 @@ Despite its burned wings, Golbat’s resistance to poison let it hold firm in th
 
 Two gym trainers quickly moved onto the field to carefully lift the unconscious Weepinbell onto a stretcher. I frowned slightly, wondering why Erika didn't just use a Pokeball to return it.
 
-But my attention was drawn to back to the battle as Erika released her Tangela. The challenger's Golbat was still airborne, but its wingbeats seeming labored after the hits, and its earlier exertions were starting to show. The challenger frowned as he studied their exhausted Pokémon.
+But my attention was drawn to back to the battle as Erika published her Tangela. The challenger's Golbat was still airborne, but its wingbeats seeming labored after the hits, and its earlier exertions were starting to show. The challenger frowned as he studied their exhausted Pokémon.
 
 "Final round!" the referee called, readying his flags. "Begin!"
 
