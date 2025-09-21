@@ -125,7 +125,7 @@ Our eye contact shattered---pure survival instinct took over.
 
 Everything suddenly clicked into place like a puzzle I hadn't known I was solving---the liquid tank, the legendary Pokemon wreaking havoc above us, and this man who seemed achingly familiar.
 
-Mewtwo, laboratory, and... I stared at the disheveled scientist in front of me. Was this perhaps Dr. Fuji?
+Mewtwo, laboratory, and... I stared at the disheveled scientist in front of me. Was this perhaps... "Dr. Fuji?"
 
 It felt strange to be looked at with such intensity by this man whom I assumed to be an anime or video game character.
 
