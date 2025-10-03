@@ -80,7 +80,7 @@ In turn, however, static electricity crackled across Magmar's body at the contac
 
 Electabuzz drove through the poison, fists crackling with electricity as his fist exploded against Magmar's chest in a burst of voltage.
 
-The Fire Pokémon flew backwards, crashing into Dr. Fuji’s rented car. Metal crumpled and hissed as Magmar's searing body melted into the frame.
+The Fire Pokemon flew backwards, crashing into Dr. Fuji’s rented car. Metal crumpled and hissed as Magmar's searing body melted into the frame.
 
 Electabuzz was already lunging forward, fists crackling as its arms whirled to life once again.
 
@@ -150,9 +150,9 @@ He stood, brushing futilely at the stains on his suit before looking briefly at 
 
 "Magmar." His voice was eerily calm now as he pointed toward the Electabuzz. "Finish it."
 
-The Fire Pokémon nodded, flames flickering brighter as it lumbered toward the helpless Electabuzz. Each step left smoking footprints in the grass.
+The Fire Pokemon nodded, flames flickering brighter as it lumbered toward the helpless Electabuzz. Each step left smoking footprints in the grass.
 
-"No! Don’t! That’s Dad’s partner!" Ash's scream was raw with desperation as he thrashed in my arms, trying to break free. "Electabuzz! Get up! Please! Dad said you'd be his Champion Pokémon! Get up!"
+"No! Don’t! That’s Dad’s partner!" Ash's scream was raw with desperation as he thrashed in my arms, trying to break free. "Electabuzz! Get up! Please! Dad said you'd be his Champion Pokemon! Get up!"
 
 I held him tighter, my own heart pounding as Magmar drew closer to its target. Ash's tears soaked into my shirt as he collapsed against me, his struggles weakening into sobs.
 
@@ -170,13 +170,13 @@ He turned back to the pinned Electabuzz. "Now, Magmar."
 
 Electabuzz, his eyes no longer swirling, met Magmar’s gaze with defiance. A weak spark crawled across its body-one last desperate attempt to summon electricity that wouldn't come. Its muscles tensed, trying to move, to fight, to protect-but the earth held it fast.
 
-The flames burst without mercy or hesitation. Magmar drove its burning claw down, pressing it against Electabuzz's chest. The fire spread hungrily across the Electric Pokémon's fur, a terrible crackling sound filling the air as flesh and fur surrendered to flame.
+The flames burst without mercy or hesitation. Magmar drove its burning claw down, pressing it against Electabuzz's chest. The fire spread hungrily across the Electric Pokemon's fur, a terrible crackling sound filling the air as flesh and fur surrendered to flame.
 
-The horrific sight burned itself into my memory-Magmar's vindictive expression, the way Electabuzz's defiant gaze gradually dimmed, the swift, brutal dismissal of a police Pokémon, the terrible silence broken only by the roar of fire and Ash's muffled sobs against my shoulder.
+The horrific sight burned itself into my memory-Magmar's vindictive expression, the way Electabuzz's defiant gaze gradually dimmed, the swift, brutal dismissal of a police Pokemon, the terrible silence broken only by the roar of fire and Ash's muffled sobs against my shoulder.
 
 Officer Jenny’s face, illuminated by the horrific pyre, was a mask of disbelief that quickly hardened into fury. "You monster!" she screamed. "Growlithe, Ember!"
 
-The brave puppy Pokémon barked and charged, a stream of glowing embers spitting from its mouth. They pattered harmlessly against Magmar's thick, fiery hide.
+The brave puppy Pokemon barked and charged, a stream of glowing embers spitting from its mouth. They pattered harmlessly against Magmar's thick, fiery hide.
 
 Magmar met the charge with a single, contemptuous Fire Punch. The sound was a sickening thud. The Growlithe was thrown backward, tumbling through the air before landing in a heap at its trainer's feet, swirls in its eyes.
 
@@ -209,16 +209,6 @@ I kept my eyes fixed on Ash's trembling form, avoiding Dr. Fuji's gaze. My mind 
 But as I looked at the charred remains of Electabuzz, I knew the truth. There was no reasoning with this man. No scenario where this ended well. And even if I cooperated, would I want to live under a crazed murderer like that?
 
 A strange calm washed over me. I'd already died once, after all. Hit by a truck while chasing a digital Mewtwo. What was one more death?
-
-This world-this hell where Pokemon weren't cute, approachable creatures but deadly weapons in the hands of monsters like Dr. Fuji-wasn't the world I'd dreamed of.
-
-The world I'd escaped to whenever my parents hovered over my shoulder, demanding another hour of studying, another perfect test score. 
-
-"Those games are a distraction," they'd say, confiscating my Pokemon cartridges while shoving me into any random supplementary classes they could find.
-
-But I'd always found ways to sneak back to that colorful world where children were heroes and monsters were friends.
-
-Maybe this was my punishment. A twisted afterlife designed to torment me for every rebellious moment, for every hour I spent playing games instead of studying, for failing to be the perfect child they’d wanted. The universe's cruel joke: trapping me in a nightmarish version of the very world that had once been my sanctuary.
 
 I lifted my gaze to meet Dr. Fuji's, no longer trying to hide my disgust.
 

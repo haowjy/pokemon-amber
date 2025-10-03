@@ -6,7 +6,7 @@ Preferred layout for chapter-local notes:
   - `chapterX.md` (optional future move of the chapter file)
   - `notes.md` (primary author notes for this chapter)
   - `characters.md` (optional, chapter-specific character notes)
-  - `pokemon.md` (optional, chapter-specific Pokémon notes)
+  - `pokemon.md` (optional, chapter-specific Pokemon notes)
 
 Current state
 - Chapters still live as `story/chapterX.md`.

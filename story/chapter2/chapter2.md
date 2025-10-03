@@ -3,7 +3,7 @@ chapter: 2
 title: "[Chapter 2] All Aboard!"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2025-09-21
 ---
 
 # \[Chapter 2\] All Aboard!
@@ -28,7 +28,7 @@ Laughter drifted through the walls from other rooms-probably tourists enjoying t
 
 How many people visited this island, never knowing about the laboratory hidden beneath their feet? About the clone tanks and the failed experiments and the most powerful Pokemon in existence now tasting its first breath of freedom?
 
-The volcano's silhouette loomed beyond the window, a darker shadow against the night sky. Somewhere out there, Mewtwo was grappling with its own existence, another consciousness that never should have been. But at least it had been made with a purpose-to be the most powerful Pokémon in existence. I was just... an accident. A consciousness that slipped through some crack in reality into a form that should have failed.
+The volcano's silhouette loomed beyond the window, a darker shadow against the night sky. Somewhere out there, Mewtwo was grappling with its own existence, another consciousness that never should have been. But at least it had been made with a purpose-to be the most powerful Pokemon in existence. I was just... an accident. A consciousness that slipped through some crack in reality into a form that should have failed.
 
 Memories of my old life flashed before my eyes like someone else's home videos-crystal clear but impossibly distant. Mom's patient smile as I explained why this new Pokemon game was different from the last six. That lazy orange tabby who'd earned his Snorlax nickname. The thrill of finally pulling that Charizard VMAX during lockdown, when Pokemon cards became an escape from endless Zoom lectures. That last, stupid battle-Tsunami the Gyarados getting crit twice in the mansion right before...
 

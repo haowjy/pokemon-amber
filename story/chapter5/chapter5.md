@@ -86,7 +86,7 @@ The girl stepped forward, her gym uniform crisp despite the greenhouse humidity.
 
 As if betrayed by the very words, Ditto's perfect Gloom form wavered, a ripple of pink breaking through the illusion like a blush spreading across someone's cheeks. The real Gloom, still half-hidden in shadow, made a sound somewhere between disappointment and embarrassment.
 
-The gym trainer's eyes widened, all pretense of authority momentarily forgotten. "What... what kind of Pokémon is that?" She took half a step forward, then caught herself. She shook her head, visibly forcing herself back into her official role, though her eyes kept darting to Ditto's now pink form with poorly concealed fascination.
+The gym trainer's eyes widened, all pretense of authority momentarily forgotten. "What... what kind of Pokemon is that?" She took half a step forward, then caught herself. She shook her head, visibly forcing herself back into her official role, though her eyes kept darting to Ditto's now pink form with poorly concealed fascination.
 
 "There are signs everywhere saying 'Do Not Enter' and 'Staff Only,'" she said, gesturing vaguely behind her, though her stern tone had lost its edge. Then her eyes tracked down to my height, really seeing me for the first time, and something in her expression softened.
 

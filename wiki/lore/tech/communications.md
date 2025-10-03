@@ -16,7 +16,7 @@ hidden: false
 - Satellite: Early adoption during this arc; becomes common by MC’s later journey era.
 
 ## Messaging and Data
-- Postal + Courier Pokémon: Reliable within regions; cross‑region routes sparse.
+- Postal + Courier Pokemon: Reliable within regions; cross‑region routes sparse.
 - League Relays: Preferential access for League operations; not widely available to civilians yet.
 
 ## Trajectory

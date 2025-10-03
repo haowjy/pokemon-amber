@@ -8,6 +8,12 @@ updated: 2025-09-20
 
 # [Chapter 1] Truck-kun Strikes Again
 
+The world beyond my container was a blur of orange-tinted shadows. I floated, suspended in something that felt thicker than water, almost syrupy against my skin. My lungs should have been burning, demanding air, but they felt eerily still, as if my body had forgotten it needed to breathe.
+
+Sound reached me in waves, distorted and strange. Everything felt muffled except for the deep vibrations that traveled through the fluid itself, pressing against skin that felt too new, too small, like clothes that had shrunk in the wash.
+
+-[?.?]-
+
 'Fuck,' I thought, hunched over my phone in the fading afternoon light. My fingers hovered over the screen as if I could somehow intimidate the numbers into change.
 
 My Gyarados---level 40, carefully trained, survivor of multiple gym battles and approximately eight thousand random Pidgey and Mankey encounters---was down to just a sliver of health. Across the battlefield, a level 37 Vulpix stared back with pixels that somehow managed to look smug. It had probably practiced that look in the mirror.
@@ -87,13 +93,11 @@ My last thoughts weren't deep or meaningful. Nothing about family, nothing about
 
 Then darkness. Not the dramatic fade-to-black of movies or the peaceful drift of sleep, but a sudden cessation of input, like someone yanked the cartridge out mid-game.
 
--[v.v]-
+\\[@.@]/
 
-The darkness didn't last.
+Except the game hadn't ended.
 
-Awareness returned in fragments, each sensation filtered through amber fluid that pressed against me like thick honey. The world beyond my container was a blur of orange-tinted shadows. I floated, suspended in something that felt thicker than water, almost syrupy against my skin. My lungs should have been burning, demanding air, but they felt eerily still, as if my body had forgotten it needed to breathe.
-
-Sound reached me in waves, distorted and strange. Everything felt muffled except for the deep vibrations that traveled through the fluid itself, pressing against skin that felt too new, too small, like clothes that had shrunk in the wash. A tremor rippled through my container, and another, each one stronger than the last. Then came a sound that defied description---something between a roar and a thought-given voice, so deep it seemed to resonate in bones I wasn't sure were mine anymore.
+A tremor rippled through my container, and another, each one stronger than the last. Then came a sound that defied description---something between a roar and a thought-given voice, so deep it seemed to resonate in bones I wasn't sure were mine anymore.
 
 When the container finally gave way, it wasn't gradual. Hairline fractures quickly spiderwebbed across my visible world, immediately transforming the emergency lights into kaleidoscopic fragments before the final crack broke.
 
@@ -119,31 +123,35 @@ Our eyes met, and primal terror froze me in place. Hours of playing Pokemon had 
 
 Time stretched between us, neither moving, neither breathing. Something flickered in those violet eyes---recognition? Memory?---before reality came crashing back in the form of a torrent of flames that caught Mewtwo in its side. The legendary Pokemon tumbled through the air, its psychic shield materializing like heat shimmer before steadying.
 
-Our eye contact shattered---pure survival instinct took over.
-
-"We have to go!" My borrowed voice cracked with urgency as I pushed myself away from him. 
-
 Everything suddenly clicked into place like a puzzle I hadn't known I was solving---the liquid tank, the legendary Pokemon wreaking havoc above us, and this man who seemed achingly familiar.
 
 Mewtwo, laboratory, and... I stared at the disheveled scientist in front of me. Was this perhaps... "Dr. Fuji?"
 
-It felt strange to be looked at with such intensity by this man whom I assumed to be an anime or video game character.
+It felt strange to be looked at with such intensity by a man I'd only ever seen animated or an 8-bit pixel sprite.
 
-The middle-aged man I assumed to be Dr. Fuji nodded and wiped his tears, though he kept staring at me with a hint of disbelief. "Yes... let's go."
+The middle-aged man I assumed to be Dr. Fuji nodded and wiped his tears, though he kept staring at me with a hint of disbelief. "Yes... Amber... you're alive."
 
-Without another word, he tightly hugged me and started to carry me like some kind of child. The instant I stretched my arms around him, I realized that perhaps it was because I was a child.
+"And I'm... Amber?" I asked, my voice cracking. Like... the daughter of Dr. Fuji? The one that Dr. Fuji tried to clone in the first Pokemon movie? The one that Dr. Fuji tried to bring back to life through cloning?
 
-As he carefully started to move, I finally took note of the world around us.
+Dr. Fuji nodded warmly and pulled me closer. "Yes, you are Amber. My Amber."
 
-The laboratory was in chaos---emergency lights cutting red swaths through steam clouds, while sparks rained from destroyed equipment like artificial stars. The air itself felt wrong, charged with an electric tension that made my skin prickle and my hair stand on end.
+A psychic shockwave rippled through the air above us, and I looked up to see Mewtwo preparing another attack—but this time its gaze swept across the laboratory floor, across the fleeing scientists. Violet energy began to coalesce around its form, and I didn't need to be a Pokemon expert to recognize the charging of something catastrophic.
 
-Through the mayhem, I caught glimpses of other tanks like mine, now reduced to modern art installations of shattered glass and spilled amber fluid. 
+"Dr. Fuji! We have to get out of here!" someone shouted at us.
+
+A support beam groaned overhead, fractured concrete raining down in chunks. Dr. Fuji didn't hesitate---he scooped me up like I was some kind of little kid and started running.
+
+The world bounced with each of his strides as I finally took note of the chaos around us.
+
+Emergency lights cutting red swaths through steam clouds, while sparks rained from destroyed equipment like artificial stars. The air itself felt wrong, charged with an electric tension that made my skin prickle and my hair stand on end.
+
+Through the mayhem, I caught glimpses of other tanks like mine, now reduced to shattered glass and spilled fluid. I shoved aside what that meant and focused on what mattered: I couldn't help the giddy excitement as I watched Mewtwo and the Arcanine clash.
 
 An Arcanine launched another stream of flames, catching Mewtwo mid-hover. For all its legendary status, basic physics still applied---the impact slammed it into reinforced concrete hard enough to crack both. Pain flashed across its features, quickly transforming into something darker, something that promised retribution.
 
-For a moment, I thought we were about to witness exactly why the games classified it as being the world's strongest Pokemon. But instead, it glanced between the Arcanine, the damaged wall, and---briefly---at me.
+For a moment, I thought we were about to witness exactly why the games classified it as being the world's strongest Pokemon. But instead, it glanced between the Arcanine, the damaged wall, and---briefly---at me, making eye contact for a second time.
 
-Then, with a pulse of psychic energy that shattered every remaining bit of glass in the room, it blasted upward through the ceiling. Moonlight poured in through the new skylight, illuminating the destruction below. Dr. Fuji's arms tightened around me with sudden urgency as he stopped and shielded me from the falling debris.
+Then, with a pulse of psychic energy that shattered every remaining bit of glass in the room, it blasted upward through what remained of the ceiling. Moonlight poured in through the new skylight, illuminating the destruction below. Dr. Fuji's arms tightened around me with sudden urgency as he stopped and shielded me from the falling debris.
 
 Sound painted the picture I couldn't see---the thunderous cascade of falling concrete, the crystalline symphony of shattering glass, something that might have been a support beam groaning its way to failure.
 
@@ -157,7 +165,7 @@ A pained grunt drew my attention back to Dr. Fuji. He was hunched forward now, o
 
 Dr. Fuji grunted with a pained smile. "I'm fine," he said, before he quickly grabbed my arm and pulled me along.
 
-At this moment, I saw his back. I could see part of his suit had been torn by some of the debris and blood was seeping through the fabric.
+At this moment, I saw his back. Blood was seeping through the torn fabric of his suit, darkening the white shirt beneath in an expanding bloom. He didn't look fine, but he seemed to just be trying to be strong.
 
 We picked our way across what remained of the laboratory floor, my bare feet finding surprising purchase on debris-scattered tiles. The reinforced door hung askew on its hinges, blown outward by Mewtwo's psychic blast. Beyond it, the scene transformed with jarring suddenness---no more clinical white walls or exposed machinery, just the refined interior of what could have been any wealthy estate. Wood paneling replaced sterile steel and ornate light fixtures cast shadows where monitoring equipment should have been.
 
@@ -176,3 +184,5 @@ The facility's emergency lighting painted everything in harsh red pulses as we m
 The lab coat around my shoulders felt less comforting now, its fabric growing warm from more than just body heat. I couldn't stop staring at Dr. Fuji's back, watching crimson slowly seep through his clothes while orange light from growing fires cast dancing shadows around us. Each step seemed to cost him, though he never loosened his grip on my arm.
 
 "Everything will be different now," Dr. Fuji said softly, his voice barely carrying over the crackle of flames behind us. Orange light painted the treeline in false sunset, while smoke curled through branches. "We can fix it all---our family, our life. Everything."
+
+Dr. Fuji's grip on my arm never loosened, even when we had to step over debris---as if he thought I might dissolve if he let go.

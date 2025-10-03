@@ -3,9 +3,9 @@ description:
 globs: wiki/*
 alwaysApply: false
 ---
-# Pokémon Amber Wiki Style Guide
+# Pokemon Amber Wiki Style Guide
 
-Project-specific conventions for the *Pokémon Amber* fanfiction wiki. Complements the general Wiki Style Guide
+Project-specific conventions for the *Pokemon Amber* fanfiction wiki. Complements the general Wiki Style Guide
 
 ---
 
@@ -17,7 +17,7 @@ Project-specific conventions for the *Pokémon Amber* fanfiction wiki. Complemen
 **Required for all articles:**
 - Major characters: "Canon Divergence" section
 - Minor characters: Divergence info in "Overview" 
-- Pokémon: Note behavioral/origin differences from canon
+- Pokemon: Note behavioral/origin differences from canon
 
 ### 2. Fan Theory Integration
 - Label clearly: "Based on the fan theory that..."
@@ -25,9 +25,11 @@ Project-specific conventions for the *Pokémon Amber* fanfiction wiki. Complemen
 - Note community acceptance level
 
 ### 3. Source Priority
-1. Game canon (primary)
-2. Anime canon (secondary) 
-3. Manga/movie canon (tertiary)
+1. Anime canon / movie canon (primary) 
+2. Game canon (secondary)
+3. Manga canon (tertiary) - but still important
+4. little pieces of other official lore (like pokemon cards, etc.)
+5. fan theories (quaternary) - but still important
 
 ---
 
@@ -40,7 +42,7 @@ Project-specific conventions for the *Pokémon Amber* fanfiction wiki. Complemen
 4. Document all URLs and access dates
 
 **Required Sources:**
-- **Canon:** Bulbapedia, Serebii.net, Pokémon Database
+- **Canon:** Bulbapedia, Serebii.net, Pokemon Database
 - **Fan Theories:** Reddit (r/pokemonconspiracies), Bulbagarden Forums, fan wikis
 
 ---
@@ -60,7 +62,7 @@ Project-specific conventions for the *Pokémon Amber* fanfiction wiki. Complemen
 ```markdown
 ## Canon Divergence
 **Official Canon ([Source URL]):** [Description]
-**Pokémon Amber:** [How it differs] ([Chapter])
+**Pokemon Amber:** [How it differs] ([Chapter])
 **Fan Theory:** [If applicable] ([Source URL])
 ```
 
@@ -74,6 +76,6 @@ Dr. Fuji's grief over his daughter (anime canon) drives his research ([Chapter 1
 ## Special Notes
 
 - **Darker themes:** Present factually, appropriate for general audience
-- **Multiple media:** Specify which Pokémon version you're referencing
+- **Multiple media:** Specify which Pokemon version you're referencing
 - **Spoilers:** Use clear warnings for major plot reveals
 - **Tone:** Neutral presentation, not "corrections" to canon 

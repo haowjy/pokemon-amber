@@ -42,7 +42,7 @@ The sound of footsteps along gravel pulled him from his spiral. Stephen was righ
 
 Stephen stopped, briefcase shifting in his grip. His expression was guarded, but not yet afraid. 
 
-"Dr. Fuji." He spoke like someone approaching a wounded Pokémon. "What you're doing with that child... Delia told me everything about Amber. About what happened. I understand what you went through, but-"
+"Dr. Fuji." He spoke like someone approaching a wounded Pokemon. "What you're doing with that child... Delia told me everything about Amber. About what happened. I understand what you went through, but-"
 
 "Understand?" The word tasted like acid. "You understand?" Dr. Fuji's hand tightened around the Pokeball. The static in his head crescendoed, drowning out whatever patronizing comfort this *lab assistant* thought he could offer. "I was reconstructing genetic sequences while you were still learning how to operate a centrifuge. I brought our daughter back while you were... what? Filing reports? Cleaning test tubes?"
 

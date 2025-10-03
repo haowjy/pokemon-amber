@@ -15,21 +15,21 @@ Dr. Fuji is a brilliant geneticist whose grief over his daughter Amber's death l
 ## Canonical Interpretations
 
 ### Anime
-In *Pokémon: Mewtwo Strikes Back* and related media, Dr. Fuji is portrayed as a tragic scientist driven by grief over his daughter Amber's death ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dr._Fuji)). He works with Team Rocket to create Mewtwo, hoping to perfect cloning technology that might one day resurrect his daughter. The anime presents him as a sympathetic figure whose noble intentions lead to catastrophic consequences when Mewtwo awakens and destroys the laboratory, killing Dr. Fuji in the process.
+In *Pokemon: Mewtwo Strikes Back* and related media, Dr. Fuji is portrayed as a tragic scientist driven by grief over his daughter Amber's death ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dr._Fuji)). He works with Team Rocket to create Mewtwo, hoping to perfect cloning technology that might one day resurrect his daughter. The anime presents him as a sympathetic figure whose noble intentions lead to catastrophic consequences when Mewtwo awakens and destroys the laboratory, killing Dr. Fuji in the process.
 
 The anime's *Mewtwo Returns* special reveals additional backstory about his relationship with Giovanni and his conflicted feelings about the Mewtwo project. His character serves as a cautionary tale about the dangers of letting grief override ethical considerations in scientific research.
 
 ### Games
-In the original Pokémon Red/Blue games, Dr. Fuji appears as "Mr. Fuji," the kind caretaker of Pokémon Tower in Lavender Town ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mr._Fuji)). This version is characterized as a compassionate elder who cares for abandoned and orphaned Pokémon. The games initially presented no connection between Mr. Fuji and Mewtwo's creation.
+In the original Pokemon Red/Blue games, Dr. Fuji appears as "Mr. Fuji," the kind caretaker of Pokemon Tower in Lavender Town ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mr._Fuji)). This version is characterized as a compassionate elder who cares for abandoned and orphaned Pokemon. The games initially presented no connection between Mr. Fuji and Mewtwo's creation.
 
-However, later games and supplementary materials established that Mr. Fuji was indeed involved in Mewtwo's creation before retiring to care for Pokémon. This retcon created a more complex character who found redemption through caring for the very creatures he once experimented upon.
+However, later games and supplementary materials established that Mr. Fuji was indeed involved in Mewtwo's creation before retiring to care for Pokemon. This retcon created a more complex character who found redemption through caring for the very creatures he once experimented upon.
 
 ### Manga
-In *Pokémon Adventures*, Dr. Fuji's role is more limited but follows similar themes to the anime. He is depicted as a scientist working with Team Rocket on the Mewtwo project, though the manga focuses more on the aftermath of Mewtwo's creation rather than Dr. Fuji's personal motivations. His character serves to illustrate the broader theme of how scientific ambition can be corrupted by criminal organizations.
+In *Pokemon Adventures*, Dr. Fuji's role is more limited but follows similar themes to the anime. He is depicted as a scientist working with Team Rocket on the Mewtwo project, though the manga focuses more on the aftermath of Mewtwo's creation rather than Dr. Fuji's personal motivations. His character serves to illustrate the broader theme of how scientific ambition can be corrupted by criminal organizations.
 
 ## Fan Interpretations
 
-The Pokémon fan community has extensively explored Dr. Fuji's character, often expanding on his limited canonical appearances:
+The Pokemon fan community has extensively explored Dr. Fuji's character, often expanding on his limited canonical appearances:
 
 **Sympathetic Villain Archetype:** Many fan works portray Dr. Fuji as a well-intentioned scientist whose love for his daughter leads him down a dark path. These interpretations focus on the tragedy of a good man making terrible choices due to grief and desperation.
 
@@ -39,7 +39,7 @@ The Pokémon fan community has extensively explored Dr. Fuji's character, often 
 
 **Ethical Exploration:** Academic and fan discussions often use Dr. Fuji as a case study for exploring bioethics, the responsibility of scientists, and the moral implications of playing god through genetic manipulation.
 
-## Pokémon Ambertwo's Interpretation
+## Pokemon Ambertwo's Interpretation
 
 This story's portrayal of Dr. Fuji represents a significant departure from canonical interpretations while maintaining the core tragic elements:
 
@@ -59,7 +59,7 @@ This story's portrayal of Dr. Fuji represents a significant departure from canon
 
 **Unreliable Narrator Effect:** By filtering Dr. Fuji's actions through Amber's initially sympathetic perspective, the story creates a gradual revelation of his true nature that mirrors how manipulation and abuse often work in real life—seeming caring on the surface while being fundamentally controlling underneath.
 
-**Unique Lore Integration:** Perhaps most significantly, this interpretation establishes Dr. Fuji as Delia Ketchum's former husband, making him Ash's stepfather and creating a previously unexplored connection that ties the protagonist directly into core Pokémon world lore. This relationship adds layers of complexity to both Dr. Fuji's motivations and the protagonist's position in this world.
+**Unique Lore Integration:** Perhaps most significantly, this interpretation establishes Dr. Fuji as Delia Ketchum's former husband, making him Ash's stepfather and creating a previously unexplored connection that ties the protagonist directly into core Pokemon world lore. This relationship adds layers of complexity to both Dr. Fuji's motivations and the protagonist's position in this world.
 
 This interpretation serves as both a character study in psychological deterioration and a commentary on how grief, when left unchecked and combined with the power to "play god," can corrupt even the most understandable human emotions into something truly dangerous.
 
@@ -74,7 +74,7 @@ Unable to accept his daughter's death, Dr. Fuji began working with Team Rocket o
 ⚠️ **Warning: The following contains detailed backstory information that may include future story revelations. Read with caution if you prefer to discover plot elements organically.**
 
 **Early Life & Catalyst (~32 years before story):**
-At age 8, young Fuji had a transformative encounter with the mythical Pokémon Mew in distant jungles. Witnessing a creature capable of perfect biological transformation ignited a lifelong fascination that would become both his greatest achievement and ultimate corruption. This childhood wonder shaped his dedication to understanding cellular biology and genetics.
+At age 8, young Fuji had a transformative encounter with the mythical Pokemon Mew in distant jungles. Witnessing a creature capable of perfect biological transformation ignited a lifelong fascination that would become both his greatest achievement and ultimate corruption. This childhood wonder shaped his dedication to understanding cellular biology and genetics.
 
 **Academic Rise & The Great Unification War (~25 to 15 years before story):**
 In his early twenties, Fuji married Delia and became a rising star at Celadon University. His breakthrough creation of the first successful Ditto (from a failed Pikachu cloning attempt) earned him prestigious research grants, including one publicly awarded by then-Champion Samuel Oak.
@@ -87,7 +87,7 @@ After the war ended and Project Chimera was defunded, tragedy struck: 10-year-ol
 Amber's death shattered his sanity, transforming grief into singular obsession: conquering death to bring her back. Delia, horrified by his morbid fixation and inability to grieve normally, eventually left him. After being universally rejected by legitimate institutions for unethical research proposals, the desperate and disgraced Fuji accepted Team Rocket's offer of unlimited resources without hesitation.
 
 **The Team Rocket Years (~12 years ago to present):**
-Team Rocket restarts Project Chimera under Fuji's leadership with a primary mandate: clone Mew to produce a controllable weapon (Mewtwo). In exchange for delivering on Mewtwo, Fuji is granted latitude for side experiments—both human and Pokémon—aimed at perfecting the techniques he needs to resurrect Amber. During this period he produces various "two" prototypes (e.g., Charmandertwo, Bulbatwo) by spiking source genomes with trace Mew cells; the Mew admixture often destabilizes morphogenesis, yielding failures. Mewtwo is framed publicly (and to Rocket) as the end goal, but for Fuji it is the stepping stone to his personal objective.
+Team Rocket restarts Project Chimera under Fuji's leadership with a primary mandate: clone Mew to produce a controllable weapon (Mewtwo). In exchange for delivering on Mewtwo, Fuji is granted latitude for side experiments—both human and Pokemon—aimed at perfecting the techniques he needs to resurrect Amber. During this period he produces various "two" prototypes (e.g., Charmandertwo, Bulbatwo) by spiking source genomes with trace Mew cells; the Mew admixture often destabilizes morphogenesis, yielding failures. Mewtwo is framed publicly (and to Rocket) as the end goal, but for Fuji it is the stepping stone to his personal objective.
 
 Meanwhile, Delia fled to Pallet Town, where she met war veteran Stephen Ketchum. They bonded over shared desires to leave the past behind, eventually marrying and having their son Ash.
 
@@ -117,13 +117,13 @@ Dr. Fuji's psychological deterioration accelerates into violent psychosis:
 - **Pallet Town Confrontation**: Attempts to reclaim Delia and Amber, becoming enraged when rejected ([Ch.11](../../story/chapter11/chapter11.md))
 - **Stephen's Murder**: Cold-bloodedly murders Stephen Ketchum and his Poliwag to eliminate obstacles to his "perfect family" ([Ch.12](../../story/chapter12/chapter12.md))
 - **House Attack**: Burns down Delia's home and murders Electabuzz in front of children ([Ch.14-15](../../story/chapter14/chapter14.md))
-- **Final Battle**: Engages Professor Oak in destructive combat using enhanced Pokémon before being apprehended ([Ch.16-17](../../story/chapter16/chapter16.md))
+- **Final Battle**: Engages Professor Oak in destructive combat using enhanced Pokemon before being apprehended ([Ch.16-17](../../story/chapter16/chapter16.md))
 
 ## Personality
 Dr. Fuji presents a complex psychological profile that deteriorates throughout the story:
 
 **Surface Traits:**
-- Brilliant scientist with advanced knowledge of genetics and Pokémon enhancement
+- Brilliant scientist with advanced knowledge of genetics and Pokemon enhancement
 - Articulate and professional in Team Rocket settings
 - Initially appears caring and protective toward Amber
 
@@ -144,10 +144,10 @@ Dr. Fuji presents a complex psychological profile that deteriorates throughout t
 ## Abilities / Possessions
 **Scientific Expertise:**
 - Advanced genetic engineering and cloning technology
-- Pokémon enhancement serums and modification techniques ([Ch.16](../../story/chapter16/chapter16.md))
+- Pokemon enhancement serums and modification techniques ([Ch.16](../../story/chapter16/chapter16.md))
 - Forge official documents and identity records ([Ch.6](../../story/chapter6/chapter6.md))
 
-**Pokémon Team:**
+**Pokemon Team:**
 - **Ditto**: A failed Mew clone (legendary baseline). Exceptional transformation fidelity; can retain near-source strength and rehearse specific forms without a live model. Nevertheless demonstrates moral resistance to lethal orders ([Ch.12](../../story/chapter12/chapter12.md), [Ch.15-16](../../story/chapter15/chapter15.md)).
 - **Magmar**: Enhanced with experimental serum; shows unwavering obedience to violent commands ([Ch.12](../../story/chapter12/chapter12.md), [Ch.14-16](../../story/chapter14/chapter14.md))
 

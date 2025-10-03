@@ -20,11 +20,11 @@ Purpose: Centralize invisible rules that govern the story. These principles guid
 
 ## Project Chimera (Team Rocket) – Operational Truths
 - Team Rocket revives Project Chimera with one mandate: clone Mew into a controllable weapon (Mewtwo). Fuji accepts this as the necessary step to deepen cloning expertise for his personal goal (resurrect Amber). Mewtwo is an instrument, not his true end.
-- In exchange for delivering on Mewtwo, Fuji is granted latitude for side experiments (human and Pokémon). The “two” prototypes (e.g., Charmandertwo, Bulbatwo) are constructed by spiking source genomes with trace Mew cells; the admixture destabilizes development and causes failure modes (morphological, metabolic, or behavioral).
+- In exchange for delivering on Mewtwo, Fuji is granted latitude for side experiments (human and Pokemon). The “two” prototypes (e.g., Charmandertwo, Bulbatwo) are constructed by spiking source genomes with trace Mew cells; the admixture destabilizes development and causes failure modes (morphological, metabolic, or behavioral).
 - Public/organizational-facing framing: Mewtwo is the project goal. Private truth: Amber is the goal; Mewtwo is the stepping stone.
 
 ## Cloning & Consciousness – Hidden Rules
-1. Pokémon cloning with Mew admixture
+1. Pokemon cloning with Mew admixture
    - Stability ∝ genomic compatibility + protocol fidelity; Mew admixture confers transformative capacity but increases instability.
    - Most “two” lines will fail late-stage morphogenesis or present behavioral divergence; this is normal and expected.
 2. Human cloning (general case)
@@ -41,10 +41,10 @@ Purpose: Centralize invisible rules that govern the story. These principles guid
 - Recognition Hook: contributes to Mewtwo’s hesitation and recognition behavior around “Amber.”
 
 ## Ditto – Origin, Fidelity & Constraints
-- Ontology: Dittos are failed clones. In most attempts, Pokémon cellular structures prove too unstable and collapse; what persists is a metastable, undifferentiated matrix capable of mimetic reconfiguration.
+- Ontology: Dittos are failed clones. In most attempts, Pokemon cellular structures prove too unstable and collapse; what persists is a metastable, undifferentiated matrix capable of mimetic reconfiguration.
 - Transform Capability: The ability to transform arises from the same instability that prevented proper differentiation. Fidelity scales with the quality/success of the underlying clone attempt.
 - Common Ditto: Often exhibit obvious flaws (proportion errors, incomplete features, low power carryover), matching anime-like imperfections.
-- MC’s Ditto: A failed Mew clone (legendary baseline). Because the source was Mew, this Ditto can: (a) transform into any Pokémon with high morphological fidelity, (b) retain near-source strength when transformed, and (c) remember/practice specific transformations without a live model present. Keep this exceptionalism rare and narrative-costly.
+- MC’s Ditto: A failed Mew clone (legendary baseline). Because the source was Mew, this Ditto can: (a) transform into any Pokemon with high morphological fidelity, (b) retain near-source strength when transformed, and (c) remember/practice specific transformations without a live model present. Keep this exceptionalism rare and narrative-costly.
 - Moral Resistance: Primed with a “protect Amber” schema; refuses lethal orders against innocents even under protocol triggers (seen in [Ch.12–16](../../story/chapter12/chapter12.md)). Treat as emergent training bias, not sapient ethics.
 - Limits: Cannot copy non-physical attributes (memories, complex learned strategies) beyond immediate morphology/biomechanics; apparent “experience” reflects rehearsal and conditioning, not mind copy.
 

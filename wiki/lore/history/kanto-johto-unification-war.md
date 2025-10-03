@@ -20,8 +20,8 @@ Kanto and Johto developed as distinct regions separated by the Indigo mountain r
 
 ## The Indigo Corridor Conflict (aka Unification War)
 - Causes: Competing sovereignty claims over the corridor; customs control; League jurisdiction.
-- Character: Skirmish‑heavy, prolonged standoff; Pokémon used in combined arms with strict League constraints.
-- Civil Impact: Evacuations near passes; disrupted trade; surge in orphan care and Pokémon shelters.
+- Character: Skirmish‑heavy, prolonged standoff; Pokemon used in combined arms with strict League constraints.
+- Civil Impact: Evacuations near passes; disrupted trade; surge in orphan care and Pokemon shelters.
 
 ## Treaty and Unification
 - Terms: Joint League administration of the Indigo complex; shared customs; phased demilitarization of passes.
@@ -34,7 +34,8 @@ Kanto and Johto developed as distinct regions separated by the Indigo mountain r
 
 ## Relevance to Story
 - Background to lax security in early chapters and inconsistent ID enforcement.
-- Explains patchwork communications and the rise of beach airfields and mixed transport.
+- Explains patchwork communications and the rise of airstrips with mixed transport (Pokemon flights, balloons, blimps).
+- Post‑war prosperity: tourism booms at coastal hubs like Cinnabar; ad‑hoc terminals expand before formal airports.
 - Sets stakes for League authority in later arcs.
 
 ## Citations / Sources

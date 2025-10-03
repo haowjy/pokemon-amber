@@ -31,7 +31,7 @@ Dr. Fuji rescues Ambertwo during the Mewtwo escape and embarks on a delusional p
 - Ash: innocence → confusion/jealousy → trauma; seeds of determination shaped by loss.
 - Ditto: guardian protocol → emergent resistance to lethal orders; subtle moral agency without exposition.
 
-## Foreshadowing & Reader Perception (Show, Don’t Tell)
+## Foreshadowing & Reader Perception
 Goal: Make it clear in hindsight that Fuji was never “good,” only possessively obsessed. Readers sense wrongness early via concrete cues, not exposition.
 
 - Ritualized Control (Ch.3, Ch.6):
@@ -58,11 +58,11 @@ Author execution tips:
 ## Beat-by-Beat Outline
 
 1) Cinnabar Aftermath (Setup)
-- MC awakens; Fuji “rescues” and imprints new routine (dress, breakfast, VCR). Signals control behaviors ([Ch.1, Ch.3, Ch.6](../../story/)).
-- Hidden mechanic: success was luck; Fuji cannot reproduce; his certainty masks fear ([Ch.6](../../story/chapter6/chapter6.md)).
+- MC awakens; Fuji “rescues” and imprints new routine (dress, breakfast, VCR). Signals control behaviors ([Ch.1, Ch.3, Ch.6](../../../story/)).
+- Hidden mechanic: success was luck; Fuji cannot reproduce; his certainty masks fear ([Ch.6](../../../story/chapter6/chapter6.md)).
 
 2) Controlled Domesticity in Celadon
-- Fuji scripts MC’s days; Ditto assigned as guardian; mounting friction over agency (dresses, tone, movement) ([Ch.3, Ch.6](../../story/)).
+- Fuji scripts MC’s days; Ditto assigned as guardian; mounting friction over agency (dresses, tone, movement) ([Ch.3](../../../story/chapter3/chapter3.md), [Ch.6](../../../story/chapter6/chapter6.md)).
 - MC trains quietly; first taste of freedom leads to public attention on Ditto ([Ch.4]).
 
 3) The Recall

@@ -326,9 +326,9 @@ I focused on finishing my pasta, trying not to think too deeply into it. My new 
 
 The wall clock ticked on as Delia glanced at it yet again, lines of worry etched in her face.
 
-"Ms. Martinez said my project on water Pokémon was 'overly simplistic'," Ash grumbled, stabbing a meatball with his fork. "No wonder Gary and his friends laughed at me."
+"Ms. Martinez said my project on water Pokemon was 'overly simplistic'," Ash grumbled, stabbing a meatball with his fork. "No wonder Gary and his friends laughed at me."
 
-"I'm sure it was a wonderful project, sweetie," Delia said distractedly, eyes flicking to the clock. "Everyone starts somewhere with their Pokémon knowledge."
+"I'm sure it was a wonderful project, sweetie," Delia said distractedly, eyes flicking to the clock. "Everyone starts somewhere with their Pokemon knowledge."
 
 When we finished, Delia soaked the plates in the sink, her movements quick and distracted. Ash spread his English workbook across the living room floor, grumbling about vocabulary words.
 

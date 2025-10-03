@@ -32,13 +32,13 @@ Delia snatched it up.
 
 She listened, her face falling. "Yes… Yes… I understand. Thank you." She hung up, her knuckles white. "School's cancelled," she muttered, before her eyes immediately scanned the phonebook again.
 
-Across the living room, Gary Oak pumped his fist. "Yes! No school!" He sat opposite Ash, who was staring blankly at the Pokémon cards between them.
+Across the living room, Gary Oak pumped his fist. "Yes! No school!" He sat opposite Ash, who was staring blankly at the Pokemon cards between them.
 
 "Whatever," Ash muttered, his voice flat. "Your turn."
 
 Gary drew a card, a cruel grin spreading across his face. “Perfect. I use Boss’s Orders. Bring your Elekid to the front.”
 
-Ash’s hands trembled. He stared at the small, yellow Pokémon on the card, his face pale.
+Ash’s hands trembled. He stared at the small, yellow Pokemon on the card, his face pale.
 
 "What's wrong, Ashy-boy?" Gary taunted, his voice sharp. "Too scared to fight? My Arcanine will knock it out. Easy prize."
 
@@ -234,7 +234,7 @@ A wry, pained smile touched his lips. "He put up quite a fight," he admitted, hi
 
 *Overheat*, I thought, my mind instinctively supplying the data. *A 130 base power special attack. He took that head-on and is just... bandaged? Maybe people are just more durable in this world.*
 
-He sighed, a heavy, weary sound. "To be honest, I don't remember the very end. The last thing I saw was the blast. When I came to, Officer Jenny was there, and Fuji was... subdued. My Pokémon..." He paused, a flicker of immense pride in his eyes. "They don't take kindly to their trainer being attacked. I suspect they finished the fight for me."
+He sighed, a heavy, weary sound. "To be honest, I don't remember the very end. The last thing I saw was the blast. When I came to, Officer Jenny was there, and Fuji was... subdued. My Pokemon..." He paused, a flicker of immense pride in his eyes. "They don't take kindly to their trainer being attacked. I suspect they finished the fight for me."
 
 My heart hammered against my ribs. "And... my Ditto?" I asked, before catching myself. "His Ditto?"
 
@@ -268,6 +268,6 @@ Professor Oak simply replied, “No reason. I was just curious.”
 
 “Oh…” 
 
-My eyes darted to the TV, where a flashy commercial had replaced the Pokémon battle. A cartoon bowl of noodles danced across the screen. My panicked mind latched onto it like a life raft.
+My eyes darted to the TV, where a flashy commercial had replaced the Pokemon battle. A cartoon bowl of noodles danced across the screen. My panicked mind latched onto it like a life raft.
 
 "So then…" I blurted out, the words tasting like nonsense. "What's your favorite instant ramen?"

@@ -106,7 +106,7 @@ Weepinbell let out a pained "BEEEELL!" as it tumbled backward. Though it righted
 
 "Circle around for Wing Attack!" The challenger pressed their advantage, their Golbat's wings cutting sharp crescents through the humid greenhouse air.
 
-Erika didn't flinch. She watched, perfectly still, as the bat Pokémon banked into position. Three heartbeats passed. Then-
+Erika didn't flinch. She watched, perfectly still, as the bat Pokemon banked into position. Three heartbeats passed. Then-
 
 “Wrap, then slam!" 
 
@@ -132,7 +132,7 @@ Despite its burned wings, Golbat’s resistance to poison let it hold firm in th
 
 Two gym trainers quickly moved onto the field to carefully lift the unconscious Weepinbell onto a stretcher. I frowned slightly, wondering why Erika didn't just use a Pokeball to return it.
 
-But my attention was drawn to back to the battle as Erika published her Tangela. The challenger's Golbat was still airborne, but its wingbeats seeming labored after the hits, and its earlier exertions were starting to show. The challenger frowned as he studied their exhausted Pokémon.
+But my attention was drawn to back to the battle as Erika published her Tangela. The challenger's Golbat was still airborne, but its wingbeats seeming labored after the hits, and its earlier exertions were starting to show. The challenger frowned as he studied their exhausted Pokemon.
 
 "Final round!" the referee called, readying his flags. "Begin!"
 
@@ -150,13 +150,13 @@ But suddenly vines erupted from the floor behind Golbat, where they'd been quiet
 
 "Break free with Bite!" the challenger called desperately, but Golbat's paralyzed state made it too weak. As Tangela continued draining its energy, the bat's struggles grew weaker.
 
-"Finish with Vine Whip!" Multiple vines lashed out simultaneously, striking Golbat from several angles. With a final weak "scree...", Golbat's eyes turned to swirls. Tangela's vines gently unwound, lowering the defeated Pokémon to the arena floor.
+"Finish with Vine Whip!" Multiple vines lashed out simultaneously, striking Golbat from several angles. With a final weak "scree...", Golbat's eyes turned to swirls. Tangela's vines gently unwound, lowering the defeated Pokemon to the arena floor.
 
 "Golbat is unable to battle! The winner is Gym Trainer Erika!"
 
 ‘Wait... gym trainer?’
 
-The challenger rushed forward to check on their fallen Pokémon, cradling it gently. "You fought amazingly," they murmured as he helped to put it on the stretcher.
+The challenger rushed forward to check on their fallen Pokemon, cradling it gently. "You fought amazingly," they murmured as he helped to put it on the stretcher.
 
 Erika nodded to her Tangela with a soft smile. "Thanks for the hard work." The Tangela responded with a happy "Tang!" before being returned to its pokeball in a flash of red light.
 

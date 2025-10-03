@@ -80,7 +80,7 @@ My eyes darted around the room, landing on the purple blob dozing near the TV.
 
 I had a Ditto.
 
-A jolt, more powerful than the restlessness, shot through me. I wasn't powerless. I wasn't just waiting. I had a Pokémon. My first Pokémon. And what does a trainer do with their Pokémon?
+A jolt, more powerful than the restlessness, shot through me. I wasn't powerless. I wasn't just waiting. I had a Pokemon. My first Pokemon. And what does a trainer do with their Pokemon?
 
 They train.
 
@@ -116,19 +116,19 @@ My eyes darted to the TV, where the battle analysis had been replaced by a natur
 
 Ditto looked from my finger to the television set and back. Then, with a ripple of concentration, its purple mass flowed and solidified into a wobbly, gelatinous replica of the old, boxy television, complete with two drooping rabbit-ear antennae.
 
-I stared for a second, then burst out laughing, clutching my stomach. "No! The Pokémon *on* the screen! The Poliwrath!"
+I stared for a second, then burst out laughing, clutching my stomach. "No! The Pokemon *on* the screen! The Poliwrath!"
 
 The Ditto-TV seemed to blush before it melted back into a puddle. A moment later, it reformed. This time, it was a perfect, brawny Poliwrath. It struck a proud pose, flexing its white-gloved fists as if to say, "See? I knew that all along."
 
 "Yes! That's it!" I cheered, jumping up and down, the childish energy finally finding its proper outlet.
 
-That set the pattern for the next hour. Once the battle broadcast ended, I’d flick through channels, pointing out different Pokémon for Ditto to mimic. We practiced transforming on command, and switching between them as quickly as possible. I didn’t want to try to test out any moves inside, however.
+That set the pattern for the next hour. Once the battle broadcast ended, I’d flick through channels, pointing out different Pokemon for Ditto to mimic. We practiced transforming on command, and switching between them as quickly as possible. I didn’t want to try to test out any moves inside, however.
 
 It was chaotic, clumsy, and mostly ended in Ditto collapsing into a confused puddle. But with each attempt, I could feel a new connection forming between us-not of a girl and her guardian, but of a trainer and her partner.
 
 Finally, exhausted in a way that felt satisfying and earned, I collapsed onto the floor, spread-eagled. Ditto flowed down beside me, equally "spent," its form a relaxed puddle. Three days. Three days of watching real pokemon battles through a TV.
 
-But now, I was a Pokémon trainer.
+But now, I was a Pokemon trainer.
 
 I rolled onto my side. A plan that had been forming in my mind all morning suddenly crystallized.
 

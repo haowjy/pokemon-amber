@@ -5,59 +5,44 @@ chapter: 2
 spoilers: true
 hidden: true
 title: "Chapter 2 — Outline"
-description: "Beach-first variant: lighter tone with undercurrents; Fuji control; gift-shop clothes; airfield tickets; flight awe."
+description: "Cinnabar airfield terminal (no blimps); boats + Pokemon flights; last‑minute price; black card; waiting room + window; patrol Pokemon; Lin/Reed; Magneton; incursion; awe set‑piece."
 status: draft
 updated: 2025-09-21
 ---
 
-# Chapter 2 — Outline (Beach-first)
+# Chapter 2 — Outline
 
-Goal: Immediate cut to wonder while laying subtle control cues. Avoid heavy self-loathing; one concrete death-echo only. No nudity; start in ill-fitting gift‑shop clothes. Tickets at a beachside airfield kiosk (not the Pokémon Center). End with flight awe. Aligns with Dr. Fuji’s control arc.
+Goal: Wonder‑first with grounded infrastructure; subtle control cues; no exposition. Start in ill‑fitting gift‑shop clothes; ticket at a small Cinnabar airfield terminal (no blimps; Cinnabar mass transit is boats but not visible here; airfield is trainers + Express). End on flight awe.
 
-## Sequence A — Dawn on the Beach (Smash cut)
-1. Smash cut: salt air, cool sand, pale light. MC clocks a surreal fact: I’m in the Pokémon world.
-2. Minimal death-echo (choose one line, keep it single):
-   - “If I let go, I might not wake up here.”
-   - “The crosswalk’s red hand would still be blinking if this were a game.”
-3. Clothes: ill‑fitting tourist tee + shorts + sandals (gift‑shop). MC notes the wrongness in silhouette/fit.
-4. Fuji grumbles (quiet, to himself): “These don’t feel right… We’ll find your old dresses.”
-   - Subtext: replication impulse/control.
-5. Fuji’s micro‑behaviors: double‑checks bracelet/strap; hand at shoulder guides MC’s path (protective/herding).
+## Chapter goals
+- Worldbuilding: terminal; boats + Pokemon flights;
+- Dr. Fuji: control with dark hints (answers for MC, "family business," premium card, declines news, too‑long look aloft).
+- Captains: introduce Captain Lin (lead) and Captain Reed (wing); Ampharos safety assist.
+- Danger: brief wild Pokemon incursion on entourage; Magneton response justifies security.
 
-## Sequence B — Beach Airfield (Tickets + Lax Security)
-6. Small open‑air ticket kiosk by the dunes; mix of operators: Pokémon flyers (Pidgeot/Fearow/Noctowl) and hot‑air balloon pilots.
-   - Airport vibe, minimal bureaucracy; handwritten manifests, whistle codes.
-   - Pricing board: Pokémon flights cheaper than balloons; balloons marketed as “scenic.” (Amber continuity.)
-7. Lax security beat: clerk does a quick visual check, ignores lack of Amber’s ID; “She’s with you? You’re good.” Fuji signs.
-   - Fuji steers the conversation; declines news chatter; pays exact.
-8. Staff line seed: “Express is forming up at the east beach.” Transition back to beach.
+## Story beats (big scenes)
 
-## Sequence C — Beach Assembly (Light character color)
-9. Passengers gather: contest pair, harried exec, excited kid. One‑line sketches; light humor.
-10. Lin/Reed arrival; Ampharos does faux–flight‑attendant beats.
-11. MC’s restrained squee; focus on tactile noticing (feathers, wind, salt) over meta.
+### Story beat 1: Ticketing, Waiting Room, Window (Cinnabar terminal)
+- Fuji asks: "Express to Celadon — when and how much?" Clerk surprised; goes to check on radio (might not have space). Returns: can fit two today; last‑minute fare is ₽100,000. Fuji pays immediately with a black metal credit card.
+- Waiting area: hushed business chatter. Overheard: fire in the northwest, a rich man’s mansion, forest line lit. MC connects it to Mewtwo.
+- Control cues (dark hint): Fuji answers for MC; intercepts wandering with a gentle but firm “Where are you going?”; redirects her to sit, then escorts to the window on his timing.
 
-## Sequence D — Pidgeot Express (Awe set‑piece)
-12. Formation arrives (whistle, wing‑rush). Keep descriptive awe heavy; ~70% wonder / 30% undercurrent.
-13. Safety briefing; MC’s nerves resolve into excitement.
-14. Fuji double strap‑check; voice calm; hands perhaps a little too steady.
+### Story beat 2: Arrival Set‑Piece (awe‑first)
+- A whistle cuts the dawn—three sharp notes. Wind holds its breath; wing‑pressure in ribs. Formation breaks the bright: eight Pidgeot; Fearow on the wing; Noctowl a silent shadow. MC’s “holy shit” release.
+- Sensory anchors: salt/feather scent; crests catching light like flame; wingbeats turning air into architecture.
+- Captains: Lin leads; Reed rides wing; Ampharos present as understated safety.
+- Reed’s Fearow cry scatters sleeping Wingull; awe continues without interruption.
+- Quick sorting to birds; camera stays tight for MC’s first feather touch starting Beat 3.
 
-## Sequence E — Ascent (Release + micro‑unease)
-15. Takeoff: sky opens; ocean like glass; color and wind beats.
-16. MC dozes mid‑flight (earned calm). Fuji’s too‑long look; careful strap adjustment.
-17. Button image: “The island rotated away beneath us.”
+### Story beat 3: Curiosity vs Control (mount + shutdown)
+- Lin engages the child amid suits.
+- MC: "Why is there a Magneton here?" (curious, looking at the escort unit with the team.)
+- Fuji interrupts: answers technically in place of Lin (perimeter/approach, charge equalization), adds "Please focus on your harness"; inserts "Family business" to shut context.
+- Lin starts to get talkative (first time? Celadon home or visit? saw the smoke?)—Fuji answers for MC or redirects.
+- Control cues: gentle but firm hand on shoulder; physically steers MC; checks buckles that don’t need checking; pays without looking at the price board.
+- Harnessing begins; first strap mention here. No sleep beat.
+- Takeoff flows directly into awe established in Beat 2.
 
-## Foreshadowing Cues (subtle, deniable)
-- Clothes: “not right” → old dresses (control motif seed).
-- Physical adjustments: bracelet/straps repeated 2–3×.
-- Gated info: declines news; brisk schedule; steers forms.
-- Hand on shoulder guiding path; locked case can be a background prop later if needed.
+## Exit image
+- “The island rotated away beneath us.”
 
-## Trim/Remove From Current Draft
-- Long self‑recrimination cluster → compress to one death‑echo line.
-- Multi‑paragraph canon branching → one sentence elsewhere, or cut entirely here.
-- “Sleep is dangerous” abstraction → omit in this variant.
-
-## Notes
-- No nudity. We start clothed via gift‑shop stop between Ch1’s rescue and this dawn.
-- Ditto: optional off‑page mention here; save on‑page behavior for later chapters unless you want a one‑line cameo.

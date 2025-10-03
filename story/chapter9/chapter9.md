@@ -26,7 +26,7 @@ The Celadon Department Store had been my first digital pilgrimage in every playt
 
 The automatic doors hissed like a disapproving librarian, freezing me in the threshold. Air conditioning slapped my face, carrying the citrus tang of cleaning chemicals and something earthier beneath-crushed herbs? Burnt ozone? My nose twitched. 
 
-Through the glass, reality flickered between my memories of American malls-all sleek escalators and standardized displays-and this fever dream of retail. A Mr. Mime in pressed black slacks pantomimed a traffic director's role with Broadway flair, its invisible walls parting the human and Pokémon streams like Moses at the retail sea. A Delibird waddled past dragging a returns cart twice its size, tail-bag gaping like Santa's sack after a bender. Somewhere to my left, a child wailed about their Growlithe eating a Poké Doll.
+Through the glass, reality flickered between my memories of American malls-all sleek escalators and standardized displays-and this fever dream of retail. A Mr. Mime in pressed black slacks pantomimed a traffic director's role with Broadway flair, its invisible walls parting the human and Pokemon streams like Moses at the retail sea. A Delibird waddled past dragging a returns cart twice its size, tail-bag gaping like Santa's sack after a bender. Somewhere to my left, a child wailed about their Growlithe eating a Poké Doll.
 
 "First time?" Mary asked, catching my wide-eyed stare at... everything. “Let’s just say you’re not the first farm kid I’ve seen go cross-eyed at the size. Locals go nose-blind to this circus by week two.”
 
@@ -58,7 +58,7 @@ Clunk. Fourth floor. The Machop wrestled the cab into alignment, sweat beading o
 
 The final ascent felt lighter in both weight and existential elevator dread. Even the Machop relaxed, claws tapping a jaunty rhythm against brass. 
 
-The elevator deposited us into what my brain insisted on categorizing as 'Pokémon Nordstrom meets REI'. Racks of performance wear stretched into the distance-moisture-wicking fabrics in every shade of 'serious trainer', interspersed with displays of what looked suspiciously like designer battle accessories. A Furret in a staff vest methodically reorganized a tower of folded quick-dry shirts, its long body wrapping around the display like a living level.
+The elevator deposited us into what my brain insisted on categorizing as 'Pokemon Nordstrom meets REI'. Racks of performance wear stretched into the distance-moisture-wicking fabrics in every shade of 'serious trainer', interspersed with displays of what looked suspiciously like designer battle accessories. A Furret in a staff vest methodically reorganized a tower of folded quick-dry shirts, its long body wrapping around the display like a living level.
 
 "Battle Collection's in the back," Mary said, navigating us through the fashion maze.
 
@@ -120,7 +120,7 @@ Internally, I wrestled with the urge to explain that I wasn't actually an ten-ye
 
 I tried not to visibly react to the mention of the Game Corner. In the games, it had always been Team Rocket's not-so-secret base of operations, complete with a hidden switch behind a poster. The reality was probably less cartoonishly villainous, but my caffeine-addled brain couldn't help conjuring images of shifty-eyed grunts and convenient trap doors. "I'll be careful. Besides, Ditto's with us."
 
-Mary's frown deepened. "That's exactly what worries me. A child with a rare Pokémon walking into..." She shook her head. "Look, there are people there who might get... interested in a Ditto. I just don't want to endanger you." Her eyes darted to the minimized Pokeball in my hand, then back to me. "Even with my Bellsprout, it's not somewhere I should be taking someone your age."
+Mary's frown deepened. "That's exactly what worries me. A child with a rare Pokemon walking into..." She shook her head. "Look, there are people there who might get... interested in a Ditto. I just don't want to endanger you." Her eyes darted to the minimized Pokeball in my hand, then back to me. "Even with my Bellsprout, it's not somewhere I should be taking someone your age."
 
 The caffeine buzz in my system chose that moment to send another wave of jitters through my limbs. I tried passing it off as childish eagerness, bouncing on my toes while my thoughts raced in circles. Here I was, getting the 'you're too young' speech from someone who was younger than I'd been when I... when truck-kun had sent me here. The irony would have been hilarious if it wasn't so frustrating.
 
