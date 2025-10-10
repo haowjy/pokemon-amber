@@ -26,11 +26,9 @@ The automatic doors whispered open with blessed modernity, trading filtered sunl
 
 Ace Challenge Fee: ₽100,000
 
-League Challenge Fee: ₽10,000
+League Spectator Pass: ₽10,000
 
-League Spectator Day Pass: ₽10,000
-
-Gym Challenge Fee: ₽5,000+
+Gym Badge Challenge Fee: ₽5,000+
 
 Training Facilities Day Pass: ₽4,000
 
@@ -40,7 +38,7 @@ The coins in my bag might as well have been pocket lint. I did some quick mental
 
 The doors whispered open again as I retreated, and the ginkgo path garden stretched before me once more, though now it felt less like a cathedral and more like a very scenic route to nowhere. Clusters of late-blooming irises lined the path, their purple heads nodding in silent sympathy.
 
-I drifted away from the gym's entrance, deliberately choosing a direction that would avoid the creepy bench-dweller.  I let my feet carry me wherever they wanted along the winding garden paths, past bursts of wisteria that draped overhead like purple rain. A breeze stirred the ginkgo leaves, sending a fresh shower of golden fans spiraling down around me. One landed in my hair, and Ditto helpfully brushed it aside for me.
+I drifted away from the gym's entrance, deliberately choosing a direction that would avoid the creepy bench-dweller. I let my feet carry me wherever they wanted along the winding garden paths, past bursts of wisteria that draped overhead like purple rain. A breeze stirred the ginkgo leaves, sending a fresh shower of golden fans spiraling down around me. One landed in my hair, and Ditto helpfully brushed it aside for me.
 
 "I don't suppose you know any get-rich-quick schemes for the Pokemon world?" I murmured to my companion. The slight ripple against my neck felt like the Pokemon equivalent of a shrug. "Yeah, didn't think so."
 

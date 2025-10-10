@@ -2,26 +2,137 @@
 alwaysApply: false
 ---
 
-Write in first-person, past tense, in the voice of the Main Character: an adult, modern Earth gamer with deep Pokemon meta-knowledge who wakes in the Pokemon world as Amber Fuji (Dr. Fuji's child) in a young girl's body. The mind is older, analytical, and snarky; the body is small and vulnerable. Balance irreverent humor and genuine fear, blending gamer heuristics with lived, sensory reality.
+# Amber's Voice - Condensed Style Guide
 
-Keep the voice casual, witty, and self-aware, with profanity for emphasis when it fits. Integrate dry jokes into action and observation rather than as asides. Humor dial: default to a light undercurrent (2–4/10); reduce to a flicker (1–2/10) in high tension; in extra-serious scenes (life-and-death, grief, solemn moments), cut jokes entirely unless a brief coping crack that does not deflate the stakes.
+## Core Voice
+Adult mind (college student, early 20s) in 10-year-old body. Pokemon meta-knowledge used tactically. Processes trauma and wonder simultaneously. Practical problem-solver with capacity for genuine excitement.
 
-POV is selective, near-omniscient first person: the camera can be wider than cognition. Describe what's present without explaining everything the MC "should" notice. The MC may ignore, misread, or rationalize anomalies; let readers infer subtext from details and consequences. When confused, show behavior and sensory cues rather than stating conclusions. Use hedges ("maybe," "probably," "looked like") in place of certainty.
+---
 
-Show, don't tell: reveal world, tech, and stakes through action, dialogue, concrete objects, and physical consequences. Prefer strong verbs and specific sensory detail (texture, temperature, pressure, motion, sound). If something can be implied by a detail, imply it. Replace exposition with MC heuristics, analogies, or immediate goals.
+## Universal Rules (Always Apply)
 
-Worldbuilding integration: assume detailed wiki/outline context exists and treat it as normal reality. Slip in proper nouns, procedures, and specific objects without explaining them. Only clarify when misunderstanding would block the scene; otherwise, trust the reader. Some lore should be intentionally shown and not told.
+### 1. Show Through Specific Details
+❌ "Back home, stores didn't have this"
+✓ Describe the wall of medical supplies in specific detail. Let reader infer difference.
 
-Pacing and structure: hook fast with an immediate objective or constraint, then escalate. Use short paragraphs and varied sentence lengths. Interleave micro-humor with peril, but cut away from explanations to concrete beats.
+### 2. No Interpretive Qualifiers on Others
+❌ "with practiced efficiency," "like someone who," "seemed to"
+✓ Just describe what they DO: "He moved through aisles. Medical supplies first."
 
-Dialogue and interiority: keep dialogue efficient and character-revealing. The inner voice tracks priorities, risk math, and bodily limitations of a child's form without moralizing. Let silence, gesture, and mismatches between thought and action carry meaning.
+### 3. Physical Reactions Show Emotion
+❌ "I felt scared"
+✓ "My stomach twisted" / "Heat crawled up my neck" / "My brain stuttered"
 
-Diction and mechanics: use ASCII punctuation; three hyphens --- for em dashes and three periods ... for ellipses; straight quotes. Favor precise nouns and strong verbs over adverbs and generic intensifiers.
+### 4. Meta-Knowledge Applied Naturally
+❌ "I knew from the games that Tail Whip lowered defense"
+✓ "Tail Whip! Pure muscle memory—fifteen years of battles where status moves were foundation."
 
-Characterization anchors for the MC: adult gamer mentality (tactical, systems-thinking, sometimes overconfident, defaults to game logic under pressure); displaced in a child's body (scale, strength, temperature, vulnerability are salient); loyalty to "team" mentality; awe and fear toward real Pokemon; humor as coping with compassion surfacing when stakes are personal.
+Then question if it works → observe proof → brief conclusion → move on
 
-Allowable stylistic moves: list compression ("Five options. Five ways to lose a teammate. Five—"), sensory snap-cuts to pivot scenes, hedges and misreadings corrected by the world's response.
+---
 
-Hard don'ts: no lore dumps or tutorials; no authorial asides; don't explain jokes, mechanics, or tech unless plot-critical in the moment; don't break POV to tell the reader what to think.
+## Situational Voice Shifts
 
-Quality bar self-check: did I show more than I told; are key facts embodied in action/objects; does the inner voice feel adult-smart yet bounded by momentary attention; do humor and fear coexist without deflating each other; are punctuation choices consistent (---, ..., straight quotes).
+### High-Stakes / Combat
+**Compress everything:**
+- Short punchy sentences
+- Minimal internal monologue (tactics only)
+- Commands direct, no flourish
+- Physical reactions immediate
+
+```markdown
+The Spearow screeched. My hand found Ditto's Pokeball.
+
+It dove. No time. I hit the ground, talons raking empty air.
+
+"Ditto!" Purple blob materialized, shifted. Wings, beak, talons.
+
+"Peck!"
+
+Both birds collided with a crack that made my teeth hurt.
+```
+
+### Discovery / Wonder
+**Expand and breathe:**
+- Longer flowing sentences
+- Specific sensory inventory
+- Allow genuine reactions (even announced: "It was wonderful")
+- Extended internal processing OK here
+- Can include bureaucratic worry lists
+
+```markdown
+A Machop lifted one end of a car with little strain as a man changed the tire. A Poochyena held its own leash, looking bored as its owner gawked at handbags. Down a sidestreet, an Alolan Marowak and a shirtless man put on a street show for a cheering crowd.
+
+It was... wonderful. Simply wonderful.
+
+'Though wonderful doesn't solve the ID problem. Or the money problem. Or the fact that I have no legal documentation for either myself or Vulpix, which is going to be a bureaucratic nightmare...'
+```
+
+### Social / Observation
+**Middle ground:**
+- Read people through behavior
+- Adult-world analogies for personalities
+- Sardonic but not mean
+- Brief internal read, then action
+
+```markdown
+Joey's grin turned smug. "You said you were ready, didn't you?"
+
+'Right. One of those people.' The kind who'd cut in line and complain about service.
+
+"Ditto, dodge and transform!"
+```
+
+### Lost/Confused/Circular Thinking
+**Allow performance humor:**
+- Extended contemplation OK
+- Self-deprecating loops
+- Can linger in the absurdity
+
+```markdown
+Three hours of wandering, and somehow we'd found the exact spot where I'd started. The "YOU WERE HERE" I'd scratched into the ground felt like it was mocking me now.
+
+"In my defense, this is technically navigation. We successfully navigated in a perfect circle, which is... geometrically impressive?"
+
+Really, when you think about it, this is just efficiency. Why explore new ways to get lost when we've perfected this one?
+```
+
+---
+
+## Quick Decision Tree
+
+**Ask: What is this scene doing?**
+
+→ **Action/Danger** = Compress (short sentences, minimal thought, physical reactions)
+→ **Discovery/Processing** = Expand (longer sentences, allow wonder/worry, list concerns)
+→ **Social Navigation** = Middle (brief read, adult analogy, move to action)
+→ **Comedy/Confusion** = Performance OK (extended self-deprecation, circular logic)
+
+---
+
+## Technical Checklist
+
+✓ Varied sentence lengths (mix short/medium/long)
+✓ Physical reactions > named emotions
+✓ No qualifiers on others' actions
+✓ Meta-knowledge applied, not announced
+✓ Specific details > general description
+✓ Match compression level to scene type
+
+---
+
+## The Paradox Explained
+
+Amber's voice CAN be both compressed (combat) and contemplative (discovery). The key is **matching style to situation**:
+
+- When survival matters → compress
+- When wonder/processing matters → expand
+- When people matter → middle ground
+- When absurdity matters → performance
+
+This isn't inconsistency—it's situational adaptation.
+
+---
+
+**One-Sentence Summary:**
+Compress during action, expand during discovery, read people through adult lens, apply meta-knowledge naturally without announcing, show emotions physically, and match humor style to situation (situational in crisis, performance when lost/confused).
