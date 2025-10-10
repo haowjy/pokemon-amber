@@ -8,96 +8,65 @@ updated: 2025-09-21
 
 # [Chapter 2] All Aboard!
 
-"It doesn't look right," Dr. Fuji murmured the moment I exited the bathroom.
+The convenience store's fluorescent lights buzzed overhead, casting everything in that particular shade of artificial white that made 2 AM feel even more surreal. Dr. Fuji had spotted it a few blocks from where we'd emerged into the city---one of those 24-hour places that seemed to exist in a temporal pocket, serving tourists who'd forgotten essentials and insomniacs who'd given up on sleep.
 
-"You're the one that picked these..." I argued back as I tugged at the tag scratching my neck.
+The girl behind the counter was maybe sixteen, slouched over a magazine with her chin propped on one hand. The door chimed and she glanced up with annoyance.
 
-I shuddered as I remembered the clothes Dr. Fuji had brought me. An oversized Psyduck tee-shirt, pants dragging on the ground over flip-flops. I looked ridiculous, but weirdly appropriate for a child my size.
+Her spine straightened, magazine sagging in loose fingers as she took in Dr. Fuji's torn, bloodstained shirt and me wrapped in my lab coat disaster burrito. Her eyes went wide, mouth opening slightly.
 
-"What was that?" Dr. Fuji asked, his voice filled with surprise. He narrowed his eyes at me, then shook his head, murmuring something to himself.
+For about two seconds, her expression cycled through something that looked like concern, then confusion, then a very deliberate return to her magazine. Problem solved via strategic blindness. Honestly couldn't blame her.
 
-After a moment of awkward silence, he stretched out his hand and commanded, "Come here."
+Dr. Fuji limped past without acknowledgment, moving through the aisles directly towards the medical supply section.
 
-I paused to debate if I should take his hand but it ultimately felt too weird to me. I shook my head and said, "Let's just go."
+Dr. Fuji limped past without acknowledgment. Medical supplies first - an entire wall of them. Different grades of bandages, burn cream, antiseptic sorted by brand, painkillers arranged by strength. He grabbed what he needed for his wounds, added bottled water and pre-packaged sandwiches that looked like they'd been there since Cinnabar's last newsworthy eruption. 
 
-Dr. Fuji coldly stared at me and repeated, "Take my hand."
+Then he stopped at the clothing rack. His hand hovered over an oversized Psyduck tee, pulled back, reached for a different one. Held it up against me, frowning.
 
-I shuddered at his gaze and slowly took his hand.
+"Do you have dresses? Ideally a white dress?" he called toward the counter. "For a child?"
 
-Dr. Fuji gripped my hand tightly as he guided me just a bit too fast. I felt my feet drag behind me as he pulled me along.
+The girl's head lifted slowly from her magazine. She stared at him, then glanced around at the racks of tourist tees and cheap flip-flops. At the energy drinks. At the industrial bags of chips.
 
-We walked past the big resort hotels at the edge of town, then into the smaller tourist center where families wandered between souvenir shops and cafes.
+"Sir, this is a convenience store," she said, her voice flat.
 
-A Meowth lounged in a shop window, lazily batting at a display of postcards while its trainer arranged souvenirs. A Machop hefted boxes from a delivery truck, working alongside its trainer who was checking items off a clipboard. A family walked past, their daughter about my new size with a young Pidgey perched contentedly on her shoulder, the two of them sharing what looked like a berry-flavored ice pop.
+Dr. Fuji's jaw tightened into a frown. He turned back to the rack, pulling out the yellow Psyduck shirt with more force than necessary. "This will have to do," he muttered, measuring it against me again. Added swim trunks that might work as shorts, grabbed a plain button-down for himself.
 
-I could have that too now, couldn't I? Not the Rattata—but my own Pokemon partner, someone to grow with, to train with...
+"$28.47."
 
-This wasn't some game or show anymore—these were real, living Pokemon, going about their daily lives just like I'd always dreamed.
+Fuji produced bills from his wallet, slightly rumpled. The checkout happened in near silence besides the ring of the register.
 
-My thoughts wandered to what I could achieve in this world, especially with all this meta knowledge.
+Three blocks inland, Dr. Fuji found a small hotel. Its "vacancy" sign hung slightly crooked outside. Glass doors separated the lobby from the rest of the building, but was locked. It didn't seem to be that fancy, but clean enough.
 
-My thoughts scattered as we rounded a corner and the small terminal station came into view.
+Dr. Fuji pressed the buzzer.
 
-A sign adorned the building's entrance: "GAMMA SHUTTLE" in crisp red letters, with a stylized Pidgeot logo. Inside, a few ceiling fans spun lazily overhead wafting the scent of coffee. A handful of people scattered across rows of wooden benches, most of them in suits.
+We waited. Thirty seconds. A minute. After two minutes, Dr. Fuji pressed it again.
 
-Dr. Fuji stepped to the open counter and immediately asked, "Express to Celadon---when is the next flight?"
+A door behind the empty desk opened and a man emerged—mid-forties, hair flattened on one side from a pillow. He crossed the lobby and unlocked the door.
 
-The clerk scanned something behind her counter. "You two have a good trip in Cinnabar?" she asked, making small talk. She looked up briefly to smile at the two of us.
+"Flame Forest, right?" The man loudly mused as he turned his back to us to slowly walk back to the lobby counter. He wasn't really looking at us. "Everyone comes for the hot springs and figures they'll check out the wilderness while they're here. Maybe find a Fire Stone, catch a rare Vulpix. But those Skarmory nest in the canopy and they're very territorial. Those wings will---"
 
-Dr. Fuji grunted and nodded.
+He stopped as he turned around to get a good look at us.
 
-The clerk looked up again and frowned at Dr. Fuji's lack of response then looked back at me, her eyes lingering for a few seconds before she put her head back down to scan behind her counter again.
+"You brought a kid there?" His voice sharpened. "Sir, Flame Forest isn't a casual stroll. Those Skarmory don't care how old---"
 
-After a few more moment, the clerk shook her head. With an apologetic smile, she said, "I'm sorry, but the next flight in an hour is already fully booked. You might have to wait for the next one. That one is scheduled in..."
+"We didn't go to Flame Forest." Fuji brushed past him and pulled out his wallet. "My patience is wearing thin. Just give me a room for the night."
 
-The clerk paused for a moment to scan something behind her counter again, "tomorrow at 7 AM."
+The clerk stood there, mouth curled into a deep frown. His gaze moved from Fuji's bloodstained collar to me wrapped in the lab coat, then down to the bag in Fuji's other hand---medical supplies visible through the thin plastic.
 
-Dr. Fuji frowned. "We need to get to Celadon as soon as possible. Find a way to get us on the next flight."
+The man's shoulders sagged as he stepped back behind the counter to pull out a worn ledger. "I get it. Medical bills are insane, especially for people. I constantly see trainers overestimating themselves in these parts and I just want to make sure you are okay."
 
-The clerk sighed and pushed back her chair. "I'll go ask." She disappeared into the back leaving us to wait silently.
+"Just give me a room for the night," Dr. Fuji said as he tapped a finger against the counter.
 
-A few minutes later, the clerk returned and nodded, "We'll be able to get you a Fearow. Is that acceptable?"
+The man sighed, "$120 for a single room, $140 for a twin room."
 
-Dr. Fuji nodded. "Yes, a Fearow will do."
+Dr. Fuji thought for a moment before pulling out his money and sliding it across the counter, "Single."
 
-The clerk's gaze lingered on me for a few seconds before she looked back at Dr. Fuji. "I am obliged to warn you. This Fearow is more... aggressive than your average Pidgeot. The flight may not be pleasant, especially for children." She then glanced at Dr. Fuji. "Is that alright?"
+The man nodded in confirmation. "Name? And I'll need to see some ID."
 
-Dr. Fuji glanced down at me.
+Dr. Fuji pulled out a license and slid it across the counter.
 
-I shrugged, "I should be fine." Inwardly I was just giddy with excitement at the thought of flying any Pokemon.
+The man picked it up to examine it for a moment before nodding. "Okay. Mr. Fuji... your room is on the second floor, room 202. And here's the key. Check out at 11am."
 
-Dr. Fuji shook his head, "No, you will not be fine." He then looked at the clerk. "Any way to get a Pidgeot instead? I'll pay extra."
+Dr. Fuji snatched the key and quickly pulled me along behind him, not bothering to thank the man.
 
-The clerk shook her head, "I'm sorry, but the Pidgeot are already fully booked."
+"The Pokemon Center is Southeast of here, if you need it," the man quietly shouted after we left.
 
-Dr. Fuji frowned as he looked around. "By who?"
-
-The clerk awkwardly shook her head, "I don't think it's company policy to give you that---"
-
-Before the clerk could finish, Dr. Fuji left the counter towards one of the businessmen. After a somewhat long back and forth, and exchange of pleasantries, Dr. Fuji and the man both walked up to the counter.
-
-"I'll agree to take the Fearow," the businessman said to the clerk with all smiles. "What do I need to do?"
-
-The clerk sighed and nodded, "Okay, I think you just have to buy the ticket and then you can just swap Pokemon during the flight. The captains likely wouldn't need to know."
-
-The businessman nodded, "We'll do that." He then crouched down to my level, "You must be Amber, right?"
-
-I nodded.
-
-"It's nice to meet you, Amber." The businessman smiled warmly as he stood back up. He then looked at Dr. Fuji, "To protect the world from devestation."
-
-Dr. Fuji nodded back, "To unite all peoples within our nation."
-
-I looked between the two of them. That motto was very familiar...
-
-The businessman left, leaving the clerk and Dr. Fuji to exchange a few more words.
-
-"Okay, That'll be... ₽220,000 total, ₽110,000 each."
-
-Dr. Fuji nodded and exchanged the black metal credit card with the clipboard. After filling out the necessary information, he handed the clipboard back to the clerk.
-
-Soon after handing the clipboard back, a ticket and a receipt were printed out. The clerk handed both the credit card and the receipt back to Dr. Fuji and the tickets to Dr. Fuji.
-
-"Okay, you all should be good to go now, Mr. Fuji, enjoy your flight," the clerk said as she handed the tickets to Dr. Fuji. Then she looked at me with a bright smile, "Enjoy your flight as well, Amber."
-
-Dr. Fuji nodded and grabbed the tickets and my arm, pulling us away without even thanking the clerk.
