@@ -1,0 +1,92 @@
+---
+alwaysApply: false
+---
+
+# Battle Scenes
+
+How to write battle scenes based on the user's existing style.
+
+---
+
+## Before Writing
+
+Map out:
+1. **Choreography** - Where is everyone? How does positioning change?
+2. **Motivations** - What does each character want RIGHT NOW?
+3. **Strategy** - Why these moves? What's the counter?
+
+---
+
+## The User's Battle Style
+
+### Tactical Clarity Through Context
+
+The reader understands tactics from situation + result, not from commands explaining things.
+
+**Example from their writing (Chapter 16):**
+```markdown
+"Arcanine, Extreme Speed! Tank it if you must!" Oak's voice cut through Fuji's cries.
+
+The instant the canine's paws struck the ground, it became a blur of orange and black. A sharp crack accompanied the blur as it tore through the air.
+
+Before Magmar could fully aim its attack, Arcanine slammed into its side. The impact threw Magmar off balance, its would-be Flamethrower erupting harmlessly into the night sky, a brief, angry star against the darkness.
+```
+
+Oak's talking to Arcanine. We infer the tactic (interrupt Magmar's charge-up) from context.
+
+### Strategic Layering
+
+Professional battles have attack → counter → counter-counter sequences.
+
+**Example from their writing (Chapter 16):**
+```markdown
+Fuji, caught by surprise by Oak's sudden attacks, roared a counter-command. "Quick, Flamethrower!"
+
+But before it could flamethrower, Oak quietly smirked and countered the counter, "Exeggutor, Light Screen for Tauros!"
+
+[...] Oak did not panic. He let Tauros charge straight through the fire; its broad, muscled shoulders absorbed the searing heat, the dense hide sizzling as it pressed through the flames.
+```
+
+Tauros takes damage but completes objective. The plan accounts for taking hits.
+
+### Amber POV = Internal Commentary Continues
+
+When Amber fights, she doesn't compress her thoughts—she processes alongside action.
+
+**Example from their writing (Chapter 4):**
+```markdown
+"Tail Whip!" I called out, immediately tense about my choice. It was pure muscle memory—fifteen years of Pokemon battles where status moves were foundation. In the games, it had been simple math: lower defense, increase damage output, victory. But now, watching Ditto face down a very real Rattata with very real teeth, I found myself questioning years of virtual combat experience. Would a tail swish actually make physical attacks hurt more here?
+
+Ditto spun with a fluid grace that caught me off-guard. Joey's Rattata tracked the motion, whiskers twitching rapidly, and when it settled back into its fighting stance, its movements carried a new hesitation.
+
+'Huh,' I thought, watching the subtle shift. 'So that's what a status move looks like in real life.'
+```
+
+She questions game mechanics MID-BATTLE. Her adult analytical voice stays active.
+
+---
+
+## How to Write Combat Scenes
+
+**Sentence structure:** Use longer, clause-dense sentences when needed for clarity. Don't compress for the sake of speed.
+
+**Emotional states drive tactics:** Show why characters call moves through their mental state, not just strategy.
+
+**Environmental consequences:** Attacks affect the space—fire spreads, floors crack, houses burn.
+
+**Spatial tracking:** With multiple combatants, use clear position markers ("on the other side of the battlefield").
+
+**Differentiate skill levels:** Amateur battles = reactive, mistakes, learning. Professional = layered strategy, coordination, environmental mastery.
+
+---
+
+## What to Aim For
+
+When writing combat for this story:
+- Make choreography and positioning clear
+- Show tactical intent through context and results
+- Continue internal commentary for Amber POV
+- Use longer sentences when clarity needs it
+- Let emotion and character state drive move choices
+- Track consequences beyond just damage
+- Ground action in physical space

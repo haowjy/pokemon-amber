@@ -26,7 +26,7 @@ Stephen turned from the stove, spatula in hand, and slid the first perfectly gol
 
 Stephen raised an eyebrow. "We have a guest, Ash."
 
-"But-" Ash started, then caught his father's look and slumped in his chair. "Fine," he muttered, shooting me a quick, suspicious glance.
+"But---" Ash started, then caught his father's look and slumped in his chair. "Fine," he muttered, shooting me a quick, suspicious glance.
 
 "Yours is coming right up, bud," Stephen said, pouring more batter into the pan, "And this one's bigger."
 

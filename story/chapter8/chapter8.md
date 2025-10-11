@@ -8,7 +8,7 @@ updated: 2025-09-20
 
 # \[Chapter 8\] Start of an Unpaid Side Quest
 
-“What’s your name?” Mary-who'd introduced herself during our tense walk back to the gym with all the warmth of a Glaceon-asked.
+“What’s your name?” Mary---who'd introduced herself during our tense walk back to the gym with all the warmth of a Glaceon-asked.
 
 The question hit harder than it should have. In my past life, I would've answered without hesitation. Now? Now I was technically inhabiting a clone of Amber Fuji, but admitting that here would raise more questions than I could handle.
 

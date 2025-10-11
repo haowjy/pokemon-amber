@@ -1,107 +1,245 @@
 ---
 chapter: 2
-title: "[Chapter 2] All Aboard!"
+title: "[Chapter 2] First Pokemon"
 status: published
 hidden: false
-updated: 2025-09-21
+updated: 2025-10-11
 ---
 
-# \[Chapter 2\] All Aboard!
+# [Chapter 2] First Pokemon
 
-Sleep wasn't just elusive-it felt dangerous. Each time exhaustion started to drag me under, some part of my brain would jolt awake, terrified that closing these eyes meant losing whatever thread still connected me to myself.
+The convenience store's fluorescent lights buzzed overhead, casting everything in that particular shade of artificial white that made 2 AM feel even more surreal. Dr. Fuji had spotted it a few blocks from where we'd emerged---one of those 24-hour places that seemed to exist in a temporal pocket, serving tourists who'd forgotten essentials and insomniacs who'd given up on sleep.
 
-The hotel room's ceiling fan spun lazy circles, each rotation collecting shadows that looked too much like the fractals of psychic energy I'd seen during Mewtwo's awakening. That had been real. All of it had been real. The clone tank's fluid still burned in borrowed lungs whenever I breathed too deeply, a sharp chemical taste that belonged in sci-fi stories, not reality. Not supposed to be my reality.
+The girl behind the counter was maybe sixteen, slouched over a magazine with her chin propped on one hand. The door chimed and she glanced up with practiced annoyance that immediately collapsed into something more complicated.
 
-I caught another glimpse of mint-green hair on the dark TV screen and had to look away. Ten years old. I was ten years old again, or at least this body was. The wrongness of it sat like lead in my stomach-adult thoughts trapped in a child's form, muscle memory that belonged to someone else entirely. Even my fingerprints felt foreign when I ran them across the scratchy hotel blanket; too small, too smooth, too new.
+Her spine straightened. The magazine sagged in loose fingers as she took in Dr. Fuji's torn, bloodstained shirt and me wrapped in what could only be described as a lab coat disaster burrito. Her eyes went wide, her mouth opened slightly.
 
-Through the darkness, I could hear Dr. Fuji's steady breathing from the other bed. The sound made my chest ache. 
+For about two seconds, her expression cycled through concern, confusion, then---in a move I had to respect---a very deliberate return to her magazine. Honestly, couldn't blame her.
 
-He'd moved heaven, earth, and even created the most powerful Pokemon to bring his daughter back.
+Dr. Fuji limped past without acknowledgment.
 
-And for what? For someone stupid enough to run out in front of a truck?
+Medical supplies first---an entire wall of them. Different grades of bandages, burn cream, antiseptic sorted by brand, painkillers arranged by strength. He grabbed what he needed methodically, added bottled water and pre-packaged sandwiches that looked like they'd been sitting there since Cinnabar's last newsworthy eruption. 
 
-I was an accident of consciousness in a form that should have failed, never supposed to have lived.
+Then he stopped at the clothing rack.
 
-Each breath felt stolen. Each heartbeat was a reminder that somewhere in this world, there was a grave with Amber's name on it, marking where this body's original owner rested while I played at being alive in her place.
+His hand hovered over an oversized Psyduck tee, pulled back, reached for a different one. Held it up against me, frowning like it had personally offended him.
 
-Laughter drifted through the walls from other rooms-probably tourists enjoying their island getaway, planning tomorrow's outings to the volcano or the beach. 
+"Do you have dresses?" he called toward the counter. "Ideally a white dress. For a child."
 
-How many people visited this island, never knowing about the laboratory hidden beneath their feet? About the clone tanks and the failed experiments and the most powerful Pokemon in existence now tasting its first breath of freedom?
+The girl's head lifted slowly from her magazine. She stared at him. Glanced around at the racks of tourist tees and cheap flip-flops, at the energy drinks and industrial bags of chips---the kind of inventory that screamed "we sell sunscreen and regret," not formal children's wear.
 
-The volcano's silhouette loomed beyond the window, a darker shadow against the night sky. Somewhere out there, Mewtwo was grappling with its own existence, another consciousness that never should have been. But at least it had been made with a purpose-to be the most powerful Pokemon in existence. I was just... an accident. A consciousness that slipped through some crack in reality into a form that should have failed.
+"Sir," she said, voice impressively flat, "this is a just a convenience store, not a clothing store. I'd suggest you try the nearest mall during the day after you visit the Pokemon Center."
 
-Memories of my old life flashed before my eyes like someone else's home videos-crystal clear but impossibly distant. Mom's patient smile as I explained why this new Pokemon game was different from the last six. That lazy orange tabby who'd earned his Snorlax nickname. The thrill of finally pulling that Charizard VMAX during lockdown, when Pokemon cards became an escape from endless Zoom lectures. That last, stupid battle-Tsunami the Gyarados getting crit twice in the mansion right before...
+Dr. Fuji's jaw tightened. He turned back to the rack, pulled out the yellow Psyduck shirt with more force than necessary. "This will have to do."
 
-I pressed my palms against my eyes until stars burst behind them. Even that sensation felt wrong-the pressure, the size of my hands, the way the joints bent. Everything was off by degrees so small they shouldn't matter but somehow added up to a symphony of wrongness that made me want to crawl out of this skin.
+He measured it against me again---still frowning---then added swim trunks that might work as shorts and grabbed a plain button-down for himself. The man was bleeding through his shirt and his priority was finding me a dress. Sure. That tracked perfectly. Nothing weird about that at all.
 
-And beneath all of it, a deeper terror lurked: Team Rocket. They'd lost their prize weapon and their secret lab, but they hadn't lost their reach. 
+The girl sighed as she rung up the items, "That'll be $28.47."
 
-The future splintered in my head-competing versions of what could come next. In the anime, they'd eventually capture and control Mewtwo, bending its will to Giovanni's ambitions until it finally escaped. In the games, it would flee to Cerulean Cave, becoming a legend whispered about by trainers. The manga version seemed least likely-Blaine hadn't been involved in this creation. What did *I* mean for the plot?
+Fuji produced bills from his wallet, slightly rumpled. The checkout happened in near silence besides the ring of the register.
 
-Each version of the future felt equally possible now, equally real. How could I plan for all the different timelines? And more terrifyingly-what would Team Rocket do if they realized one of their failed experiments was walking around with a head full of meta knowledge? With an adult's understanding of their plans wrapped in a child's vulnerable form?
+Three blocks inland, Dr. Fuji found a small hotel. Its "vacancy" sign hung slightly crooked outside, the kind of place that promised clean sheets and zero questions. Glass doors separated the lobby from the street, locked against the 2 AM crowd.
 
-Through the window, Cinnabar's stars wheeled overhead, indifferent to the impossible thing breathing beneath them. Not a success, not a failure-something entirely new. Something no one, not even God… no, Arceus, himself, had planned for. And tomorrow... tomorrow I'd have to wake up and keep pretending. Keep breathing. Keep existing in a form that wasn't mine while carrying memories that didn't belong here.
+Dr. Fuji pressed the buzzer.
 
-The fan spun on, its shadows still dancing like psychic fractals, each rotation seeming to ask: who are you really? The person who died chasing a mobile game, or the experiment who stole a second chance? 
+We waited. Thirty seconds. A minute. After two minutes, he pressed it again, longer this time.
 
-\\\[v.v\]/
+A door behind the empty desk opened and a man emerged---mid-forties, hair flattened on one side from a pillow, wearing the expression of someone whose day had ended hours ago. He crossed the lobby and unlocked the door.
 
-The beach slowly filled with passengers, fifteen others in total-a couple of families clutching travel bags, a businessman in a suit that probably cost more than a starter Pokemon, and two trainers who looked like they'd stepped out of a contest poster. I stifled another yawn, wiggling my toes in shoes that still felt new. The volcanic sand was oddly warm even this early, with black crystals skating across the beach with each gust of wind.
+"Flame Forest, right?" He wasn't really looking at us, already turning back toward the counter with the practiced rhythm of a speech he'd given a hundred times. "Everyone comes for the hot springs and figures they'll check out the wilderness while they're here. Maybe find a Fire Stone, catch a rare Vulpix. But those Skarmory nest in the canopy and they're territorial as hell. Those wings will---"
 
-The businessman checked his watch for the third time in five minutes. One of the kids had fallen asleep against her mother's leg. The contest trainers had given up on looking cool and were now sitting cross-legged in the sand, sharing what looked like a breakfast pastry.
+He turned around and got a good look at us.
 
-Suddenly, the air... shifted. Like the moment before a storm breaks, when everything goes still and electric.
+"You brought a kid there?" His voice sharpened. "Sir, Flame Forest isn't a casual stroll. Those Skarmory don't care how---"
 
-Then I heard it.
+"We didn't go to Flame Forest." Fuji brushed past him, wallet already out. "My patience is wearing thin. Just give me a room."
 
-A whistle cut through the dawn-three sharp notes that made everyone freeze. The sound of wings came next, starting as a whisper and building to a rush that seemed to push the very mist aside.
+The clerk's mouth curled into a frown. His gaze tracked from Fuji's bloodstained collar to me in my lab coat cocoon, then down to the convenience store bag---medical supplies clearly visible through thin plastic.
 
-They emerged from the dawn like something out of a dream-eight massive shapes descending in perfect formation. Four Pidgeots on each side, their wingspans casting moving shadows across the beach. A Fearow cut through the morning light on one flank, all sharp edges and deadly grace, while a Noctowl glided silently on the other.
+His shoulders sagged. He stepped back behind the counter, pulling out a worn ledger. "Look, I get it. Medical bills are insane, especially for people instead of Pokemon. I see trainers overestimating themselves all the time around here. I just want to make sure you're---"
 
-Holy shit.
+"A room," Dr. Fuji repeated, tapping one finger against the counter. "For the night."
 
-Holy actual shit.
+The man sighed. "₽120 for a single, ₽140 for a twin."
 
-Those were Pidgeot. Eight real, breathing, absolutely massive Pidgeot, arranged in a perfect V with a Fearow and Noctowl flanking them like feathered fighter escorts. They descended with practiced precision, and I found myself counting pixels that weren't there because some part of my mind was still trying to process this like a game sprite or cartoon. But there was nothing pixelated about them.
+Dr. Fuji hesitated for exactly half a second. "Single."
 
-I'd had this dream before-every kid with a Gameboy or TV had. But dreams didn't come with the smell of sea salt and feathers, didn't include the way morning light caught their crests and turned them into living flame. My hands were shaking. These weren't just Pokemon-they were POKEMON. Actually real, actually here, close enough to touch if I wasn't frozen in place trying to remember how breathing worked.
+Bills slid across the counter, slightly rumpled. The clerk didn't comment on the blood.
 
-The closest Pidgeot turned its head, preening a feather back into place with the casual grace of something that could probably break the sound barrier before breakfast. When the formerly-sleeping kid stumbled forward, it tilted its head with bird-like curiosity. Just a big, well-trained flying type going about its morning routine. Completely normal. Totally ordinary. Just a Pidgeot, doing Pidgeot things, while my internal monologue alternated between incoherent screaming and 'don't cry don't cry don't cry.'
+"Name? And I'll need some ID."
 
-The trainers landed behind their Pokemon, boots crunching on volcanic sand. The woman moved with the easy grace of someone who'd learned to walk on wind, her flight jacket a patchwork of badges I didn't recognize. Her Ampharos prowled between the Pidgeot, tail held high like an airport marshal's wand. The man was all business, his weathered face creased in permanent concentration as his Magneton hovered nearby.
+Dr. Fuji's license appeared like a magic trick, already in hand before the man finished asking.
 
-"Morning folks!" The woman's voice carried easily over the sound of wings settling. "I'm Captain Lin, that's Captain Reed. We'll be your scenic tour to Celadon today." She grinned at the businessman's barely concealed wince at the word 'scenic.' "Don't worry-we'll have you there in time for your meetings. Now, let's get you all sorted."
+The clerk examined it briefly, nodded. "Okay, Mr. Fuji. Second floor, room 202. Check out's at eleven." He slid a key across the counter. "And the Pokemon Center's southeast of here, if you---"
 
-The division happened with practiced efficiency: three sets of passengers and their bags for each group of four Pidgeot, carefully distributed for balance. Lin's Noctowl watched from the side with ancient eyes that seemed to measure each soul that passed, while Reed's Fearow stalked the perimeter like a feathered drill sergeant.
+Dr. Fuji already had the key, already had his hand on my shoulder guiding me toward the stairs. No thank you. No acknowledgment.
 
-I pressed my nails into my palms, using the small pain to ground myself. This was happening. This was real. In about ten minutes, I was going to fly on an actual Pidgeot.
+"---need it," the man finished to our backs.
 
-Lin appeared beside me, her Ampharos’s static making my new hair float slightly. "First time?" she asked, grinning at whatever expression was on my face. "Don't worry-Storm here is gentle as they come." She patted the nearest Pidgeot, whose feathers rippled like silk in the morning light. "Though you might want to take a breath-you're starting to look a bit blue."
+The second floor hallway was quiet in that particular dead-of-night way where even footsteps felt like an intrusion. Room 202 had a single double bed, a small bathroom, and a window facing another building's brick wall. The AC hummed steadily, filling the silence with white noise that should have been comforting but just made everything feel more surreal.
 
-Right. Breathing. That was a thing I should probably keep doing.
+Dr. Fuji set the convenience store bag on the desk.
 
-The safety briefing washed over me in a blur of buckles and emergency procedures. Lin moved between passengers with the casual grace of someone who'd done this a thousand times, her Ampharos trailing behind like an anxious flight attendant, occasionally pushing bags up that weren't properly secured.
+"Get changed and go to sleep."
 
-"Remember," she called out, "you're riding a Pokemon, not a train. They respond to tension. Relax, and they'll relax." Her Noctowl punctuated this with a soft hoot that somehow managed to sound both wise and slightly judgy.
+It seemed more like a command than a request. He pulled out the Psyduck shirt and swim trunks, tore off the tags and tossed them onto the bed.
 
-The first step onto Storm's back felt like breaking some unspoken rule of the universe. Feathers shifted beneath my fingers, warm and alive and impossibly strong. I'd spent countless hours flying on Pidgeot in games, but nothing had prepared me for the reality of settling between wings that could split clouds.
+He grabbed the rest of the supplies and disappeared into the bathroom. The door swung mostly closed---not latched, just... mostly. Water started running. A sharp hiss of breath cut through the sound.
 
-"Knees soft," Lin advised, appearing beside me to check the straps. "And try not to grab feathers if you get nervous-Storm's understanding, but nobody likes having their hair pulled." Her Ampharos demonstrated proper handle-holding with exaggerated care, then scampered back to its special harness near Lin's position.
+I reached for the Psyduck shirt.
 
-Dr. Fuji settled behind me, his presence both steadying and strange. The businessman ended up with a lovey dovy couple on the Pidgeot next to us. The couple flirted constantly while the businessman looked like he wanted to kill himself.
+My hands stopped halfway.
 
-"Clear skies ahead!" Lin's voice carried over the morning breeze. Her Noctowl lifted off first, silent as a shadow, while Reed's Fearow took point with a cry that scattered sleeping Wingull from the nearby rocks. "Celadon Express is ready for departure!"
+Gray-black grime smudged across my fingers, dirt crusted under nails that were too small, too new. When had I gotten this filthy? I touched my face. My hand came away with a dark smear.
 
-The takeoff stole my breath, my heart, and possibly several years off my new life. One moment we were earthbound, the next-glory. Storm's wings spread like sails of light, each downbeat a thunderclap of power. The beach fell away, black sand scattering in our wake, and my stomach did something that probably violated several laws of physics.
+The lab coat felt stiff against my shoulders. Heavy in a way that cotton shouldn't be.
 
-We climbed through layers of dawn, each wingbeat carrying us higher until the ocean spread out like a mirror below. The sun painted everything in impossible colors-rose gold and amber and colors I didn't have names for. Lin's group formed up on the right, Reed's on the left, their Pidgeot moving with the kind of precision that made my gaming brain want to count frames that didn't exist.
+I looked down.
 
-Ampharos’s head-bead sparked occasionally, tiny arcs of electricity dancing between it and Magneton’s magnets. The morning air grew thin and cold, but somehow a bubble of warmth surrounded us.
+The white fabric wasn't white anymore. Dark rust-brown patches had dried into the weave, stiff and crusted in patterns that my brain tried very hard not to identify. Blood. Dr. Fuji's blood, from when he'd wrapped it around me hours ago while his back was torn open and bleeding and---
 
-Somewhere between one heartbeat and the next, exhaustion finally caught up. The steady rhythm of Storm's wings, the salt-sweet wind, the gentle rise and fall of flight-it was a lullaby written in motion. My head nodded forward, then back, then forward again.
+My stomach lurched.
 
-"Sleep if you need to," Lin called back, her voice carrying easily despite the wind. "Storm's got you."
+The smells hit me all at once. Metallic. Chemical. Something else underneath that I didn't have words for and didn't want to find them. The nausea built fast, that particular oh-shit moment where your body decides it's done negotiating.
 
-I tried to protest. Tried to explain that sleep was for people who weren't living through every childhood dream at once. But my body-this new, strange, body-had other ideas. The last thing I remember was Dr. Fuji adjusting my straps, making sure I couldn't slip. Storm's feathers were softer than any pillow, and the wind sang stories of freedom in a language I was finally learning to understand.
+I stumbled toward the bathroom. "I need---"
 
-I slept without dreams. Just the wind, the waves far below, and the steady heartbeat of a Pokemon carrying me toward whatever waited ahead.
+Through the gap in the door I could see Dr. Fuji at the sink, shirtless, examining wounds in the mirror. Angry red burns. Cuts weeping into gauze that was already turning pink.
+
+My stomach heaved.
+
+I barely made it. Dropped to my knees on cold tile as everything came up---not much, considering I hadn't eaten in however many hours this nightmare had been, but my body tried anyway. Kept trying until my throat burned and my eyes watered and there was nothing left but bile and the taste of metal.
+
+A hand touched my back. Rubbed slow circles while I retched.
+
+When the heaving finally stopped, the hand lifted. Footsteps moved away. The door opened wider and he left without a word, still shirtless, still half-bandaged, still bleeding through the gauze he'd just applied.
+
+I stayed on the floor. Forehead against cool porcelain. Throat burning. Stomach hollowed out. The bathroom tiles were cold enough against my knees that I could feel it through the thin fabric of whatever medical gown I was still wearing under the lab coat.
+
+Through the doorway I could hear him moving around the room. Fabric rustling. Medical packaging crinkling. Another sharp intake of breath.
+
+After what might have been minutes or hours---time had lost all meaning somewhere between the clone tank and the convenience store---I managed to stand. My legs shook.
+
+I turned to the sink.
+
+Too high.
+
+Of course it was too high. Everything in this world was too high now, built for adults, built for people who hadn't woken up in a ten-year-old's body a few hours ago.
+
+I turned to the shower instead and looked down at the still blood-stained lab coat.
+
+Right. The shower. I could---I needed to actually get clean. The water would be hot. The grime would wash away.
+
+I immediately tore off the blood-stained lab coat and tossed it in the corner getting into the shower.
+
+I stood under the spray until the water ran clear, watching rust-brown swirls circle the drain. Occassionally, I opened my mouth and gurled feircely, trying to wash away the taste of bile and metal.
+
+The hotel soap smelled aggressively floral---like someone had taken the concept of "garden" and condensed it into a small bar---but it cut through the grime. My fingers found tangles in mint-green hair that still didn't feel like mine, worked them out with the patience of someone who had nothing left but the present moment.
+
+The taste of bile had faded, but still clung to the back of my throat.
+
+When I finally stepped out, wrapped in a towel that was too big, the Psyduck shirt and swim trunks were waiting on the closed toilet lid. I didn't remember bringing them in. Had I? The last few hours were a blur of adrenaline and wrong sensations.
+
+The shirt hung past my knees. The Psyduck looked perpetually confused, which---honestly, same. The swim trunks fit better than expected, drawstring pulled tight enough to stay up on a child's hips.
+
+I opened the bathroom door.
+
+Dr. Fuji was gone.
+
+In his place, on the bed, sat a Ditto.
+
+A *Ditto*.
+
+For a moment---just one perfect, crystalline moment---everything else fell away. The blood-stained lab coat crumpled in the corner. The metallic taste still coating my mouth. The way my hands were still shaking. The visceral memory of waking up in a tank surrounded by breaking glass.
+
+None of it mattered.
+
+Because there was a Ditto. A real, actual, living-breathing Pokemon sitting on the hotel bed like it was the most natural thing in the world.
+
+Not a sprite. Not a 3D model rotating on a screen. Not even the animated version from movies I'd watched a dozen times. A *real* Ditto, pink and gelatinous and impossibly, wonderfully *there*.
+
+"Holy shit," I whispered.
+
+Despite everything---despite the corpse of a laboratory, despite waking up in a body that wasn't mine, despite throwing up bile onto hotel bathroom tile, despite the fact that my old life was gone and this new one made no sense---I felt a grin splitting my face.
+
+This was Pokemon.
+
+This was *real*.
+
+The Ditto sat perfectly still, watching me with those simple dot eyes. Not bouncing. Not wobbling. Not doing any of the playful, curious things I'd seen in cartoons or games. Just... sitting. Staring. Like a pink sentinel, dot-eyes fixed on me with an expression that somehow conveyed *duty*.
+
+I couldn't help it. A laugh bubbled up---small, slightly hysterical, the kind that escapes when your brain can't quite process reality anymore. Because here was this adorable blob of pink goo trying so hard to look serious. Like a marshmallow attempting to intimidate. Like a Jigglypuff auditioning for a security position.
+
+The Ditto's form shifted. Just a ripple, barely perceptible, like it heard me.
+
+But the serious expression didn't change.
+
+"Hey," I said softly, taking a step closer. My voice came out higher than I expected, still tasted like bile underneath. "It's okay. I'm not---I just want to..."
+
+What did I want? To touch it. To confirm it was real. To have one good thing in this nightmare that made sense.
+
+I moved closer. The Ditto watched, unmoving.
+
+"Can I...?"
+
+No response. Not a nod, not a bounce, not even a shift in expression. Just that unwavering stare.
+
+I reached out slowly. My hand trembled---whether from exhaustion, excitement, or the sheer unreality of reaching toward an actual Pokemon, I couldn't tell anymore. When my fingertips finally made contact...
+
+Warm.
+
+Not hot, not cold. Just... warm. Body temperature, but not quite. The texture was impossible to describe---firmer than I expected, like touching set jello, but with a slight give that suggested it could reshape at any moment. Smooth. Almost silky. The surface rippled faintly under my touch, responding to pressure with tiny waves that spread outward like dropping a stone in still water.
+
+A real Pokemon. I was touching a real Pokemon.
+
+My first Pokemon.
+
+Then the Ditto shifted backward.
+
+Not dramatically. No sudden movement, no visible distress. Just a smooth, deliberate slide away, putting distance between us. Still watching. Still on guard.
+
+I tried again, moving around the bed. The Ditto mirrored me, maintaining the gap.
+
+"Come on," I whispered, and hated how small my voice sounded. How desperate. "I just... please?"
+
+Another retreat. Another repositioning. Always keeping me in sight, like I was the threat, like I was something to be monitored rather than---
+
+Rather than what? Its trainer? Partner? Friend?
+
+The excitement that had bubbled up moments ago fizzled out like a Pokeball that failed to catch. My hand dropped to my side.
+
+"Okay," I said quietly. "I get it."
+
+And I did get it. Sort of. Pokemon weren't just cute mascots that existed to be petted—they were living creatures with their own boundaries, their own comfort zones. Like any animal. I'd watched enough nature documentaries to know you didn't just walk up and touch wild things, even if they looked soft and friendly.
+
+Maybe Ditto was just shy. Or didn't know me yet. Or had bad experiences with strangers.
+
+That made sense, right?
+
+This was the dream, wasn't it? The one every kid had. Waking up in a world where Pokemon were real, where you could reach out and touch them, where they existed as more than pixels on a screen. I'd wished for this a thousand times—on shooting stars, on birthday candles, during boring lectures when I'd stare out windows and imagine Pidgey landing on the sill.
+
+And now I was here. I'd touched a real Pokemon. Felt its warmth, its texture, the way it rippled under my fingertips like living rubber.
+
+One touch.
+
+Was that all I got?
+
+The thought came unbidden, sharp and bitter. One touch, and then... what? Back to watching from a distance? Back to being the kid who wasn't allowed to play?
+
+Exhaustion crashed over me before I could follow that thought anywhere useful. My legs went heavy. My eyes burned. The bed looked impossibly soft even with its guard-blob occupant, and I was so tired of thinking, of processing, of trying to make sense of a world that had stopped making sense the moment I woke up in a clone tank.
+
+Maybe tomorrow would be different. Maybe tomorrow I'd wake up and this would all make sense. Maybe tomorrow the Ditto would let me pet it properly and I could start figuring out what a Pokemon trainer actually did in real life.
+
+Maybe tomorrow.
+
+I climbed onto the bed. Ditto immediately shifted to the far corner, maintaining its watch position. I lay down on my side, still in the ridiculous Psyduck shirt, drawstring of the swim trunks digging slightly into my hip.
+
+My last thought before sleep claimed me wasn't profound. Wasn't about my old life or this new nightmare or what tomorrow would bring or how I was going to survive being someone's science project daughter.
+
+It was just: *I touched a Ditto.*
+
+Even in a hotel room that smelled like antiseptic and industrial soap. Even with a mouth that still tasted like bile and metal. Even under the watch of a Pokemon playing prison guard.
+
+I'd touched a real Pokemon.
+
+Sleep took me before I could decide if that was wonderful or heartbreaking.

@@ -68,7 +68,7 @@ But it hesitated.
 
 The Ditto-Dragonite stood there, fully formed, its wings giving a single, uncertain flutter.
 
-"Exeggutor! Tauros! Stop that Ditto turned Dragonite!" Oak hastily commanded as he tossed two more pokeballs into the yard. “Exeggutor, Hypnosis! Tauros, Pursuit! Don’t let it take off!”
+"Exeggutor! Tauros! Stop that Ditto!" Oak hastily commanded as he tossed two more pokeballs into the yard. “Exeggutor, Hypnosis! Tauros, Pursuit! Don’t let it take off!”
 
 A squat, pineapple-like Pokemon with three distinct, expressive heads materialized from a flash of light. It landed softly, its leafy top rustling. At the same time, a massive, three-tailed bull erupted from the other Pokeball, snorting clouds of steam as it pawed furiously at the scorched earth.
 

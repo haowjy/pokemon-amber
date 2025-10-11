@@ -8,9 +8,11 @@ updated: 2025-09-20
 
 # [Chapter 1] Truck-kun Strikes Again
 
-The world beyond my container was a blur of orange-tinted shadows. I floated, suspended in something that felt thicker than water, almost syrupy against my skin. My lungs should have been burning, demanding air, but they felt eerily still, as if my body had forgotten it needed to breathe.
+The world beyond my container was a blur of orange-tinted shadows. For what seemed like days, I floated, suspended in something that felt thicker than water, almost syrupy against my skin. My lungs should have been burning, demanding air, but they felt eerily still, as if my body had forgotten it needed to breathe.
 
 Sound reached me in waves, distorted and strange. Everything felt muffled except for the deep vibrations that traveled through the fluid itself, pressing against skin that felt too new, too small, like clothes that had shrunk in the wash.
+
+I couldn't remember how long I'd been here. Was I dead? Was I alive? I didn't know. I didn't know anything. How did I get here?
 
 -[?.?]-
 
@@ -99,7 +101,7 @@ Except the game hadn't ended.
 
 A tremor rippled through my container, and another, each one stronger than the last. Then came a sound that defied description---something between a roar and a thought-given voice, so deep it seemed to resonate in bones I wasn't sure were mine anymore.
 
-When the container finally gave way, it wasn't gradual. Hairline fractures quickly spiderwebbed across my visible world, immediately transforming the emergency lights into kaleidoscopic fragments before the final crack broke.
+The container finally gave way. Hairline fractures quickly spiderwebbed across my visible world, immediately transforming the emergency lights into kaleidoscopic fragments before the final crack broke.
 
 A pair of arms caught me while I fell---arms that seemed impossibly large. They were attached to a middle-aged man whose tear-streaked face loomed above me.
 

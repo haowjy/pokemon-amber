@@ -30,11 +30,9 @@ Ditto-me tilted its head, brow furrowing in concentration. For a moment, nothing
 
 A laugh escaped me as I watched the purple mass reform into its natural purple blob shape with a (\~\_\~) face, feeling an unexpected wave of affection for my shapeshifting companion. 
 
-I couldn't help but marvel at the difference between its current actions and just three days ago.
+I couldn't help but marvel at the difference between its current actions and just a few days ago.
 
-Three days ago, Dr. Fuji gave Ditto clear instructions: "Protect her."
-
-Back then, it had been all business-maintaining a careful distance, transforming only when commanded, watching me from corners with an unreadable expression. But yesterday, I'd caught it mimicking my movements in the mirror when it thought I wasn't looking, practicing expressions with an almost childlike curiosity before morphing back to neutrality the moment our eyes met. And now here it was, sprawled dramatically on my floor after its enthusiastically misguided attempt at cartoon fashion.
+Back then, it had been all business---maintaining a careful distance, watching me from corners with an unreadable expression. But yesterday, I'd caught it mimicking my movements in the mirror when it thought I wasn't looking, practicing expressions with an almost childlike curiosity before morphing back to neutrality the moment our eyes met. And now here it was, sprawled dramatically on my floor after its enthusiastically misguided attempt at cartoon fashion.
 
 I shook my head with a smile underneath as I focused on my only other source of entertainment. 
 
@@ -52,7 +50,7 @@ The commentators' excited chatter filled our small apartment: "...and Wright’s
 
 I leaned forward, unconsciously mimicking the tensed posture I'd held during countless gaming sessions. But this wasn't a matter of pressing the right buttons at the right time. The Sandslash's trainer shouted something lost in the crowd's roar, and her Pokemon responded with a desperate burrow into the arena floor-a move that would have taken two turns in the games but happened here in one fluid motion.
 
-"Did you ever imagine battles would be like this?" I asked Ditto, who had inched closer to the screen, its amorphous form rippling with each impact shown. "No turn-based combat, no convenient pauses to think through strategy. Just…”
+"Did you ever imagine battles would be like this?" I asked Ditto, who had inched closer to the screen, its amorphous form rippling with each impact shown. "No turn-based combat, no convenient pauses to think through strategy. Just...”
 
 I paused as Ditto tilted its head in confusion.
 

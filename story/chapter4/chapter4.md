@@ -12,13 +12,13 @@ I found myself at the edge of a sprawling park, staring at a wooden sign that po
 
 The gardens spread out before us, though they looked more like a public park than an actual garden. A patchwork of dirt and grass stretched across the grounds, with morning light catching the dew that still clung to the few spots untrampled by feet and attacks.
 
-A battle between two young trainers caught my attention-a Doduo facing off against a Bellsprout on worn dirt. The Doduo actually had a clear advantage whenever it attacked-its attacks super effective when they connected-but its heads seemed more interested in arguing with each other than listening to commands. 
+A battle between two young trainers caught my attention---a Doduo facing off against a Bellsprout on worn dirt. The Doduo actually had a clear advantage whenever it attacked---its attacks super effective when they connected---but its heads seemed more interested in arguing with each other than listening to commands. 
 
 Its trainer shouted "Focus!" which, ironically, only made both heads turn to stare at him instead of dodging the incoming Vine Whip.
 
 The Doduo trainer seemed ready to tear his hair out.
 
-I settled against a tree trunk, oddly captivated. Ditto's weight shifted, stretching slightly as if also trying to get a better view. The battle meandered on, punctuated by moments of accidental competence-the Doduo managed a super effective peck, ending the battle and knocking out the Bellsprout.
+I settled against a tree trunk, oddly captivated. Ditto's weight shifted, stretching slightly as if also trying to get a better view. The battle meandered on, punctuated by moments of accidental competence---the Doduo managed a super effective peck, ending the battle and knocking out the Bellsprout.
 
 The boy punched the air in victory while his opponent trudged over, counting out crumpled bills with the particular slowness of someone hoping the money might multiply if they took long enough.
 
@@ -32,21 +32,21 @@ The sun climbed higher and then began to fall. My stomach growled-and we briefly
 
 The voice pulled me out of my battle-watching trance. A boy who couldn't have been more than ten years old stood before me, all elbows and knees and boundless confidence. His blue cap sat crooked on his head, and a Pokeball bounced between his hands with the kind of nervous energy that suggested he hadn't quite mastered the casual spinning trick he was attempting.
 
-"Of course!" The words burst out the moment we locked eyes. It felt natural, automatic-like muscle memory from a thousand battles fought through pixels and button presses.
+"Of course!" The words burst out the moment we locked eyes. It felt natural, automatic---like muscle memory from a thousand battles fought through pixels and button presses.
 
 Ditto, who had been contentedly draped around my neck like a living scarf, perked up at my enthusiasm. Before I could second-guess myself, it had already slid down to the ground, bouncing slightly with an eagerness that made me wonder if it had been hoping for this.
 
 The boy's face lit up. He reached into his pocket and pulled out a few coins. "Cool! Three hundred pokedollars?"
 
-I flinched at the number before remembering that pokedollars were closer to yen than dollars-this was more like three bucks than three hundred. Still, I frowned as I instinctively reached for pockets where I would have had some change, but remembered I was wearing a dress when I just felt smooth fabric.
+I flinched at the number before remembering that pokedollars were closer to yen than dollars---this was more like three bucks than three hundred. Still, I frowned as I instinctively reached for pockets where I would have had some change, but remembered I was wearing a dress when I just felt smooth fabric.
 
 The boy's smile turned sharp at my hesitation. "Unless you're scaaaared?" He drew out the last word like stretching taffy, sweet with mockery. 
 
-Fifteen years of Pokemon experience bristled at his tone. I'd bred perfect IVs, chained shinies, climbed to Master rank-and now a tiny kid... well, technically I was about the same age as him now, but that wasn't the point. I looked down at Ditto, who met my gaze with unwavering confidence.
+Fifteen years of Pokemon experience bristled at his tone. I'd bred perfect IVs, chained shinies, climbed to Master rank---and now a tiny kid... well, technically I was about the same age as him now, but that wasn't the point. I looked down at Ditto, who met my gaze with unwavering confidence.
 
 This wasn't a game. I had no idea if Ditto's transformations worked the same way-if most stats and moves were copied. But, looking at its eager wobble, I felt something settle in my chest. Dr. Fuji had trusted this Ditto to guard his most precious creation, Ambertwo. If it was good enough for the scientist who created Mewtwo, it was good enough for a street battle.
 
-'I've been playing Pokemon for longer than you’ve been alive' I thought, a familiar competitive spark igniting. ‘There’s no way I can lose to a brat like you.’
+'I've been playing Pokemon for longer than you've been alive' I thought, a familiar competitive spark igniting. 'There's no way I can lose to a brat like you.'
 
 "Deal," I said, forcing steel into my voice. I only had to figure out the money situation if we lost.
 

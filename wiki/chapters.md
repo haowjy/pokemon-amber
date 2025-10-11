@@ -4,7 +4,7 @@ category: chapters
 title: Chapters Overview
 requires_citations: true
 status: draft
-updated: 2025-09-20
+updated: 2025-10-11
 ---
 
 # Chapters Overview
@@ -12,10 +12,10 @@ updated: 2025-09-20
 This page summarizes plot events per chapter. Citations link to `story/`.
 
 ## Chapter 1 - Truck-kun Strikes Again
-- Protagonist (adult from another world) dies IRL during a Shadow Mewtwo raid alert and awakens in a clone tank as Amber Fuji amid Mewtwo’s escape; rescued by Dr. Fuji; Ditto is established as guardian. ([Chapter 1](../story/chapter1/chapter1.md)) · [Author notes](../story/chapter1/_notes.md)
+- Protagonist (adult from another world) dies IRL during a Shadow Mewtwo raid alert and awakens in a clone tank as Amber Fuji amid Mewtwo's escape; rescued by Dr. Fuji. ([Chapter 1](../story/chapter1/chapter1.md)) · [Author notes](../story/chapter1/_notes.md)
 
-## Chapter 2 - All Aboard!
-- Recovery with Dr. Fuji; internal conflict about identity; first Pidgeot Express flight to Celadon evokes awe; protagonist begins accepting reality. ([Chapter 2](../story/chapter2/chapter2.md)) · [Author notes](../story/chapter2/_notes.md)
+## Chapter 2 - First Pokemon
+- Immediate aftermath in Cinnabar: convenience store, hotel room; Amber experiences trauma response (throwing up, cleaning blood off); first encounter with Ditto left to guard her; touches her first real Pokemon but Ditto maintains distance; bittersweet ending. ([Chapter 2](../story/chapter2/chapter2.md)) · [Author notes](../story/chapter2/_notes.md)
 
 ## Chapter 3 - Into the World of (Pocket) Monsters
 - Life in Celadon apartment; TV battles reveal real-time combat differences; begins training with Ditto; first exploration plan to Celadon. ([Chapter 3](../story/chapter3/chapter3.md))

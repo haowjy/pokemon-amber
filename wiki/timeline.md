@@ -4,7 +4,7 @@ category: index
 title: Overall Timeline
 requires_citations: true
 status: draft
-updated: 2025-09-20
+updated: 2025-10-11
 ---
 
 # Overall Timeline
@@ -12,8 +12,8 @@ updated: 2025-09-20
 Chronological sequence of major events with citations to chapters.
 
 - Mewtwo awakens and escapes; Amber (protagonist) awakens as clone in tank; rescued by Dr. Fuji. ([Ch.1](../story/chapter1/chapter1.md))
-- Immediate aftermath: hotel; first Pidgeot Express ride to Celadon. ([Ch.2](../story/chapter2/chapter2.md))
-- Settling in Celadon; training Ditto; first city exploration. ([Ch.3](../story/chapter3/chapter3.md))
+- Immediate aftermath in Cinnabar: hotel; first encounter with Ditto as her guardian; bittersweet first touch of a real Pokemon. ([Ch.2](../story/chapter2/chapter2.md))
+- Settling in Celadon apartment; training Ditto; first city exploration. ([Ch.3](../story/chapter3/chapter3.md))
 - First battle won (Ditto vs Rattata); draws attention. ([Ch.4](../story/chapter4/chapter4.md))
 - Celadon Gym grounds trespass; encounter with Mary. ([Ch.5](../story/chapter5/chapter5.md))
 - Team Rocket fallout; Giovanni meeting; Fuji’s forged identity dossier; Domino points Fuji to Delia. ([Ch.6](../story/chapter6/chapter6.md))
