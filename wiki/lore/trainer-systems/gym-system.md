@@ -4,21 +4,21 @@ category: lore
 title: Gym System Structure & Functions
 requires_citations: true
 status: draft
-updated: 2025-10-10
+updated: 2025-10-11
 hidden: false
 ---
 
 # Gym System Structure & Functions
 
-**Pokemon Gyms** in modern Kanto-Johto are multi-function institutions serving roles in competitive battling, area certification, entertainment, and elite training. They have evolved significantly from their [historical origins as guild-like teaching institutions](../history/gym-evolution.md).
+**Pokemon Gyms** in modern Kanto-Johto are multi-function institutions serving roles in competitive battling, training/education, community service, and elite evaluation. They have evolved significantly from their [historical origins as guild-like teaching institutions](../history/gym-evolution.md).
 
 ## Overview
 
 A modern gym typically offers four distinct services:
-1. **Badge Challenges** - Area certification for [quest system](./quest-system.md) access and [Pokemon League](./pokemon-league.md) qualification
-2. **Gym League Challenges** - Public entertainment battles with prize pools
-3. **Training Facilities** - Equipment access and educational programs
-4. **Ace Challenges** - Elite military pathway testing ([Ace Trainers](../organizations/ace-trainers.md))
+1. **Standard Challenges (Gym Badges)** - Foundational evaluation; contributes to Juniors League qualification
+2. **Elite Challenges (Elite Badges)** - Leader’s primary team; confers Ace status (≥1) and counts for Regular League
+3. **Gym League Challenges** - Public entertainment battles with prize pools
+4. **Training Facilities & Education** - Equipment access, classes, mentorship
 
 Not all gyms offer all services - smaller facilities may only provide basic badge challenges and training.
 
@@ -32,30 +32,21 @@ See: [Historical Evolution of Gyms](../history/gym-evolution.md) for detailed hi
 
 ## Services Offered
 
-### 1. Badge Challenges
+### 1. Standard Challenges (Gym Badges)
 
-The primary function of gyms: testing whether trainers can handle the local area's Pokemon threats.
-
-**Cost:** ₽5,000+ per attempt (varies by gym) ([Chapter 5](../../../story/chapter5/chapter5.md) lists "Gym Badge Challenge Fee: ₽5,000+")
+Foundational evaluations that demonstrate control, type understanding, safety, and alignment with gym philosophy.
 
 **Process:**
-1. Register at gym and pay challenge fee
-2. Battle gym leader or designated trainer(s)
-3. Win = earn gym's badge for that area
-4. Badge grants quest access in that region
+1. Register at reception (ID/license checked; scheduling may apply)
+2. Face a designated gym trainer or the leader on the standard ruleset
+3. Win → earn the gym’s badge; recorded to your trainer profile
 
-**Badge Purpose:**
-- Proves minimum competency for local threats
-- Grants permission to take quests in that area
-- Eight badges from different gyms → qualify for Pokemon League Championship
-- More badges = more areas you can work in
+**Purpose:**
+- Signals gym trust and competence
+- Contributes to Juniors League qualification (collect 8 Gym Badges)
 
-**Fixed Difficulty by Area:**
-Each gym sets test difficulty based on their local danger level:
-- **Everyone challenging the same gym faces similar difficulty**
-- Celadon test = "Can you handle Celadon-area threats?"
-- Cinnabar test = "Can you handle volcanic zone and Flame Forest?"
-- Test doesn't scale with your badge count - it's fixed for the area
+**Difficulty:**
+Each gym maintains a consistent difficulty philosophy reflecting local culture and typical threats. Challenges do not scale based on a challenger’s prior badges.
 
 **Why Difficulty Varies by Gym:**
 - Cinnabar (volcanic zone, dangerous fire-types) = very hard test
@@ -75,7 +66,18 @@ Each gym issues a unique badge representing their specialty:
 - Volcano Badge (Cinnabar Gym) - Fire-type, volcanic zones
 - [Additional badges from other gyms]
 
-### 2. Gym League Challenges
+### 2. Elite Challenges (Elite Badges)
+
+High‑stakes evaluations against the Gym Leader’s primary team. Gatekept for safety/readiness.
+
+**Outcome:**
+- Win → Elite Badge awarded; holding ≥1 confers recognized Ace Trainer status
+- Counts toward Regular League entry requirements and improves tournament seeding
+
+**Notes:**
+- Not posted on lobby boards; requested or offered via reception and leader discretion
+
+### 3. Gym League Challenges
 
 Public entertainment battles hosted regularly by gyms.
 
@@ -100,7 +102,7 @@ Public entertainment battles hosted regularly by gyms.
 **Economic Model:**
 Spectator fees + corporate sponsorships fund prize pools. Gyms profit from hosting. Popular trainers draw larger crowds.
 
-### 3. Training Facilities
+### 4. Training Facilities & Education
 
 Day pass access to gym equipment and resources.
 
@@ -123,33 +125,7 @@ Day pass access to gym equipment and resources.
 **Example from Story:**
 Celadon Gym has extensive indoor training facilities with multiple battle rings, visible when Mary leads Amber through the complex ([Chapter 8](../../../story/chapter8/chapter8.md)).
 
-### 4. Ace Challenges
-
-Elite pathway for trainers seeking [Ace Trainer](../organizations/ace-trainers.md) status and government service.
-
-**Cost:** ₽100,000 ([Chapter 5](../../../story/chapter5/chapter5.md))
-
-**Requirements:**
-- Multiple gym badges (usually 6-8, proves versatility)
-- Exceptional battle record
-- Often requires recommendation
-- Very high skill level
-
-**Testing:**
-- Extreme difficulty battles
-- Crisis simulation scenarios
-- Leadership evaluation
-- Combat readiness assessment
-- Political/ethical judgment tests
-
-**Success:**
-- Path to Ace Trainer status
-- Government employment opportunity
-- Elite Four/Champion candidacy
-- Military command roles
-
-**Rarity:**
-Very few trainers attempt Ace Challenges. Most who do already have significant achievements. Failure is common and expensive.
+Removed in favor of Elite Challenges section. Government recruitment now ties to ≥1 Elite Badge (Ace status) rather than a posted-fee “Ace Challenge.”
 
 ## Gym Tiers & Capabilities
 
@@ -165,7 +141,7 @@ Very few trainers attempt Ace Challenges. Most who do already have significant a
 
 **Staff:** 1-3 trainers, part-time gym leader
 
-**Revenue:** Primarily from badge fees and basic training
+**Revenue:** Primarily from training services and community programs
 
 ### Mid-Tier City Gyms
 
@@ -178,7 +154,7 @@ Very few trainers attempt Ace Challenges. Most who do already have significant a
 
 **Staff:** 5-15 trainers, full-time gym leader
 
-**Revenue:** Mixed from badges, facilities, some League Challenges
+**Revenue:** Mixed from facilities, League events, sponsorships
 
 ### Major City Gyms
 
@@ -192,7 +168,7 @@ Very few trainers attempt Ace Challenges. Most who do already have significant a
 
 **Staff:** 20-50+ trainers, elite gym leader, administrative staff
 
-**Revenue:** All sources - badges, League entertainment, facilities, sponsorships
+**Revenue:** All sources - League entertainment, facilities, sponsorships; challenges are subsidized public service
 
 **Example:** Celadon Gym employs multiple specialized trainers, has separate security office, extensive greenhouse operations, and hosts regular League events ([Chapters 5-8](../../../story/chapter5/chapter5.md)).
 
@@ -301,11 +277,8 @@ Originally a traditional garden-focused teaching institution, Celadon Gym has mo
 
 ### Revenue Sources
 
-**Badge Challenges (40-50% of revenue for major gyms):**
-- Steady stream of trainers seeking area certification
-- Multiple challenges (trainers target different area badges)
-- Repeat attempts (challenging test, fees per try)
-- Government subsidies for public safety function
+**Facilities & Education (core ongoing revenue):**
+- Day passes, memberships, classes, private lessons
 
 **League Challenges (25-35%):**
 - Spectator fees (₽10,000+ per event)
@@ -313,15 +286,9 @@ Originally a traditional garden-focused teaching institution, Celadon Gym has mo
 - Broadcasting rights
 - Regular events (weekly/monthly)
 
-**Training Facilities (15-25%):**
-- Day passes (₽4,000)
-- Monthly memberships
-- Educational programs
-- Private lessons with gym trainers
+Additional steady revenue; day passes (₽4,000), memberships, programs, private lessons
 
-**Ace Challenges (<5%):**
-- Rare but extremely expensive (₽100,000)
-- Prestige value more than revenue
+Elite challenge administration is not a profit center; prestige value and League/government partnerships matter more than direct fees
 
 **Other (5-10%):**
 - Merchandise
@@ -348,12 +315,14 @@ Originally a traditional garden-focused teaching institution, Celadon Gym has mo
 - Handles badge challenges (or designates senior trainers)
 - Sets gym policy
 - Often has secondary role (Erika manages greenhouse research, [Chapter 8](../../../story/chapter8/chapter8.md))
+ - Typical team capability ~50 for pillar/major city leaders (smaller/rural leaders may be lower)
 
 **Senior Trainers:**
 - Conduct badge challenges (when leader unavailable)
 - Manage departments (security, training, facilities)
 - Mentor junior trainers
 - Example: Mary (purple-ponytail gym trainer at Celadon, [Chapters 5, 7-8](../../../story/chapter5/chapter5.md))
+ - Typical capability ~45
 
 **Gym Trainers:**
 - Assist with badge challenges
@@ -380,13 +349,10 @@ Originally a traditional garden-focused teaching institution, Celadon Gym has mo
 Gyms in games and anime primarily exist for badge challenges. Gym leaders adjust their team based on challenger's progress (how many badges they have). Eight badges qualify trainers for the Pokemon League ([Bulbapedia - Gym](https://bulbapedia.bulbagarden.net/wiki/Gym)).
 
 **Pokemon Amber Changes:**
-- Gym difficulty is **fixed by area danger**, not personalized scaling
-- Badges = area certification (quest access), not power levels
-- Multi-function economic model
-- Historical evolution from guilds
-- Gym League entertainment system
-- Detailed staff hierarchies
-- Urban vs wilderness specialization distinction
+- Standard vs Elite challenge split; Elite Badges confer Ace status (≥1)
+- Challenges are subsidized public service; pricing not posted in lobbies
+- Gyms operate as training/education centers and entertainment venues
+- Fixed difficulty philosophy per gym (not personalized scaling)
 
 **Retained from Canon:**
 - Badge collection for League entry (8 required)
@@ -397,10 +363,10 @@ Gyms in games and anime primarily exist for badge challenges. Gym leaders adjust
 
 ## Related Systems
 
-- **[Badge System](./badge-system.md)** - How badges work, area certification, quest access
-- **[Pokemon League](./pokemon-league.md)** - Competitive battling path, 8 badge requirement
-- **[Quest System](./quest-system.md)** - Badges grant area access, gyms may post quests
-- **[Ace Trainers](../organizations/ace-trainers.md)** - Elite path through Ace Challenges
+ - **[Badge System](./badge-system.md)** - Standard vs Elite badges and League paths
+ - **[Pokemon League](./pokemon-league.md)** - Juniors vs Regular qualification
+ - **[Quest System](./quest-system.md)** - Job boards and contracting
+ - **[Ace Trainers](../organizations/ace-trainers.md)** - ≥1 Elite Badge recognition and roles
 - **[Gym Evolution History](../history/gym-evolution.md)** - How gyms transformed over time
 
 ## Citations

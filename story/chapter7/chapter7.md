@@ -12,9 +12,9 @@ I pressed my face against the window, counting Dr. Fuji's steps as he made his w
 
 The shiny black patent leather shoes still pinched with every step, but today I had something the previous adventure lacked: money. Three hundred pokedollars' worth of coins sat tucked deeply in my faded purple backpack along with the usual snacks, food, and spare keys.
 
-"Ready for landmark number 2?" I whispered, rolling a minified Pokeball between my fingers. The sphere gave a slight wobble that somehow managed to convey reluctance. After yesterday's battle, we'd agreed Ditto should stay hidden-well, I'd insisted and Ditto had blob-shrugged in what I chose to interpret as agreement.
+"Ready for landmark number 2?" I whispered, rolling a minified Pokeball between my fingers. The sphere gave a slight wobble that somehow managed to convey reluctance. After yesterday's battle, we'd agreed Ditto should stay hidden---well, I'd insisted and Ditto had blob-shrugged in what I chose to interpret as agreement.
 
-Nobody had really seemed to care about Ditto hanging around my shoulders yesterday-in a city where Machop worked ticket booths and Meowth handled currency, another Pokemon companion barely raised an eyebrow.
+Nobody had really seemed to care about Ditto hanging around my shoulders yesterday---in a city where Machop worked ticket booths and Meowth handled currency, another Pokemon companion barely raised an eyebrow.
 
 But the reaction to that battle changed a few things. It didn't take a Team Rocket scientist to connect the dots that the Ditto failed Mew clone theory was true. One glimpse from a Team Rocket Scientist of a Ditto with a girl who looked exactly like Amber Fuji, and we'd probably never be able to go on another adventure.
 
@@ -22,7 +22,7 @@ The same elevated train station from yesterday loomed ahead. I slipped through t
 
 I checked the price board mounted above the booths. A day pass was listed at ₽300 for children. Perfect-suspiciously exactly what I'd won from yesterday's battle.
 
-The ticket line was mercifully short-just a couple arguing over a regional rail map, and an elderly man who seemed to be paying entirely in ₽10 pieces that he kept producing from increasingly improbable pocket locations. The Machop manning the booth maintained an admirably stoic expression as it created neat stacks of copper-colored coins, each new pile adding to what looked like a miniature city of currency. "Chop, ma-chop," it muttered with each new stack.
+The ticket line was mercifully short---just a couple arguing over a regional rail map, and an elderly man who seemed to be paying entirely in ₽10 pieces that he kept producing from increasingly improbable pocket locations. The Machop manning the booth maintained an admirably stoic expression as it created neat stacks of copper-colored coins, each new pile adding to what looked like a miniature city of currency. "Chop, ma-chop," it muttered with each new stack.
 
 When my turn came, I emptied my own collection onto the metal tray-three hundred pokedollars in various denominations, all earned from yesterday's battle. The Machop looked down at me, then around, looked down at me again, and accepting my coin with a gruff "Ma."
 
@@ -32,13 +32,13 @@ The Machop's movements were musical-each coin got a quick tap against the counte
 
 Only after the final coin sang its metallic note did the Machop nod and reach for the ticket printer. The card that emerged looked like a standard transit card-thin plastic with a magnetic stripe down one side. Before I could look closer, the Machop thrust its hand out, pointing firmly at the turnstiles while holding the card under its fingers, barking out a final "Chop!"
 
-"Thank you!" I chirped, taking the card and trying not to crush it in my nervous fingers. 
+"Thank you!" I chirped, taking the card and trying not to crush it in my nervous fingers.
 
-The text along the top read "CELADON METRO" in bright blue letters, with "24-HOUR PASS" printed below in smaller type. The card itself had that peculiar well-worn flexibility of polyester, already slightly curved from being stored in stacks. Something about its mundane imperfection was oddly comforting-like finding a familiar book in a foreign library.
+The text along the top read "CELADON METRO" in bright blue letters, with "24-HOUR PASS" printed below in smaller type. The card itself had that peculiar well-worn flexibility of polyester, already slightly curved from being stored in stacks. Something about its mundane imperfection was oddly comforting---like finding a familiar book in a foreign library.
 
 The morning crowd flowed around me like water around a rock, their shoes creating a constant susurration against the worn tile floor. Commuters were swiping their cards with the kind of mindless efficiency that comes from doing something a thousand times, their movements as practiced as a choreographed dance. Many had their passes on retractable badge holders, the cards zipping back to their hips with satisfying little clicks after each swipe.
 
-I wasn't from a big city, but I had been to the Big Apple a few times, where they had exactly this kind of card. The memory felt strange now-like remembering a movie I'd watched rather than a life I'd lived.
+I wasn't from a big city, but I had been to the Big Apple a few times, where they had exactly this kind of card. The memory felt strange now---like remembering a movie I'd watched rather than a life I'd lived.
 
 When it reached my turn, I stretched on my tiptoes and gave it a swipe, the plastic warm from being clutched in my sweaty palm. The reader's display flickered to life with three angry red dots.
 
@@ -54,29 +54,29 @@ Beep-beep-click.
 
 This time, the turnstile yielded with a smooth motion that nearly sent me stumbling forward. I caught myself just in time to avoid face-planting into the stairs, though I could have sworn I heard the businessman's Meowth snicker.
 
-I made my way up the stairs, legs already protesting at the climb. The shoes-patent leather torture devices that they were-clicked against each metal step with embarrassing loudness.
+I made my way up the stairs, legs already protesting at the climb. The shoes-patent leather torture devices that they were---clicked against each metal step with embarrassing loudness.
 
 I found an empty seat by the window. The seat's patterned fabric had that particular synthetic smoothness that comes from thousands of passengers, worn down to something almost soft.
 
-The train lurched forward with a gentle whine, and I watched Celadon scroll past like a living postcard. From up here, the city looked almost like my old world-until a flock of Pidgey swooped past the window, catching the morning light on their wings. One of them carried what looked like a small package, probably some local delivery service.
+The train lurched forward with a gentle whine, and I watched Celadon scroll past like a living postcard. From up here, the city looked almost like my old world---until a flock of Pidgey swooped past the window, catching the morning light on their wings. One of them carried what looked like a small package, probably some local delivery service.
 
 Several stops later, the automated announcement system crackled to life: "Now approaching: Pokemon Center Station. Please mind the gap." The voice had that particular quality of all transit recordings-somehow both cheerful and dead inside at the same time. Some things really were universal.
 
 The train glided to a stop at an underground station far larger and more polished than the downtown platforms. The tunnels here branched out into a network of corridors, all leading toward a central atrium that rose through the heart of the Pokemon Center itself. Chansey-pink support columns stretched upward, their bases decorated with mosaics depicting various healing berries.
 
-I followed the small crowd up a series of escalators, each one carrying us closer to what sounded like a bustling lobby above. The underground passage was surprisingly pleasant-clean white tiles and soft lighting, with occasional potted plants that I strongly suspected were tended by Grass-type Pokemon.
+I followed the small crowd up a series of escalators, each one carrying us closer to what sounded like a bustling lobby above. The underground passage was surprisingly pleasant---clean white tiles and soft lighting, with occasional potted plants that I strongly suspected were tended by Grass-type Pokemon.
 
 The escalator deposited me into the Pokemon Center's main lobby. I had to stop myself from gasping audibly. The familiar game sprite had done nothing to prepare me for the sheer scale of it all. The ceiling soared overhead, its curving panels dotted with what looked like miniature Heal Balls that cast a warm, diffused light throughout the space.
 
-From where I stood, the lobby branched into three distinct areas separated by sleek glass partitions. To my right, through a set of glass doors, I could see a paved road leading to what appeared to be training fields in the distance. The morning sun caught the glass at just the right angle to reveal a faint, iridescent sheen-probably some kind of protective coating against stray Pokemon moves.
+From where I stood, the lobby branched into three distinct areas separated by sleek glass partitions. To my right, through a set of glass doors, I could see a paved road leading to what appeared to be training fields in the distance. The morning sun caught the glass at just the right angle to reveal a faint, iridescent sheen---probably some kind of protective coating against stray Pokemon moves.
 
-To my left stood what could only be the medical wing, dominated by a curved reception counter that looked like the world's most advanced help desk. A Nurse Joy-and wasn't that a trip, seeing one in person-efficiently managed the flow of trainers and Pokemon. Behind the frosted glass partitions that separated the public area from the treatment rooms, I caught glimpses of Chansey moving between stations with practiced grace. The familiar Poké Ball logo pulsed softly on wall-mounted screens above, displaying wait times and status updates in gently glowing text.
+To my left stood what could only be the medical wing, dominated by a curved reception counter that looked like the world's most advanced help desk. A Nurse Joy-and wasn't that a trip, seeing one in person---efficiently managed the flow of trainers and Pokemon. Behind the frosted glass partitions that separated the public area from the treatment rooms, I caught glimpses of Chansey moving between stations with practiced grace. The familiar Poké Ball logo pulsed softly on wall-mounted screens above, displaying wait times and status updates in gently glowing text.
 
-However, straight ahead, a separate lobby stretched out. A cluster of trainers, mostly older ones-well, older than me right now-gathered around an extensive bulletin board. I watched as they occasionally selected papers and brought them to a separate set of receptionists. I was unsure what this was.
+However, straight ahead, a separate lobby stretched out. A cluster of trainers, mostly older ones---well, older than me right now-gathered around an extensive bulletin board. I watched as they occasionally selected papers and brought them to a separate set of receptionists. I was unsure what this was.
 
 I debated between the two sides before ultimately turning toward the unfamiliar section straight ahead. In the games, Pokemon Centers were just hospitals and sometimes item shops. There was nothing like this in any of the games.
 
-The bulletin board loomed before me, a maze of paper and possibility that made my knowledge of the pokemon games suddenly feel inadequate. "A... job board?" I muttered, caught between fascination and confusion. The papers pinned to cork seemed almost archaic compared to the Center's otherwise modern aesthetic. It almost seemed like the job boards for the mystery dungeon games… but that wasn't a game with any humans in it, besides the protagonist.
+The bulletin board loomed before me, a maze of paper and possibility that made my knowledge of the pokemon games suddenly feel inadequate. "A... job board?" I muttered, caught between fascination and confusion. The papers pinned to cork seemed almost archaic compared to the Center's otherwise modern aesthetic. It almost seemed like the job boards for the mystery dungeon games... but that wasn't a game with any humans in it, besides the protagonist.
 
 I reached for one of the sheets before catching myself, suddenly aware of how out of place I must look. Around me, trainers moved with the easy confidence of people who'd done this a thousand times, scanning notices and occasionally plucking papers free with practiced motions. Meanwhile, I stood frozen like a tourist at a museum.
 
@@ -84,25 +84,25 @@ A nearby trainer brushed past, his Growlithe padding dutifully at his heels as h
 
 'Well,' I thought, forcing myself to actually focus on the papers instead of just staring like an idiot, 'no one's going to arrest me for reading.'
 
-The cork board stretched out before me, a patchwork of colored papers that seemed to tell stories of an entire region. My eyes were immediately drawn to the right side, where crimson papers demanded attention with bold lettering and stark warnings. A proper WANTED poster-and wasn't that a shock to see in a Pokemon Center-displayed a grainy photo of a Hypno. The text warned of a "mass sleep incident" in Saffron City, with a staggering ₽2,000,000 reward for capture. It was apparently class A, whatever that meant.
+The cork board stretched out before me, a patchwork of colored papers that seemed to tell stories of an entire region. My eyes were immediately drawn to the right side, where crimson papers demanded attention with bold lettering and stark warnings. A proper WANTED poster-and wasn't that a shock to see in a Pokemon Center---displayed a grainy photo of a Hypno. The text warned of a "mass sleep incident" in Saffron City, with a staggering ₽2,000,000 reward for capture. It was apparently class A, whatever that meant.
 
 "They really printed them like old Western posters," I muttered, noting the dramatic 'WANTED' header.
 
 Moving left, I found a much more varied assortment of colors. Yellow \[Rescue\] notices confused me. Why were there so many about retrieving "fainted" Pokemon left in forests? Who abandons their Pokemon like that but still wanted them back? The descriptions were vague, but the urgency in the writing was clear.
 
-Then, there were orange papers marked \[Defeat\]. Most seemed to involve removing problem Pokemon from settled areas-a group of Grimer in the sewers, aggressive Spearow near farms. One notice caught my eye: "\[Defeat\] Rogue Eevee and Eeveelutions Route 7 \- Exercise Caution. (Class C)". Something about it tickled my memory-but I couldn't quite place it.
+Then, there were orange papers marked \[Defeat\]. Most seemed to involve removing problem Pokemon from settled areas-a group of Grimer in the sewers, aggressive Spearow near farms. One notice caught my eye: "\[Defeat\] Rogue Eevee and Eeveelutions Route 7 \- Exercise Caution. (Class C)". Something about it tickled my memory---but I couldn't quite place it.
 
 Finally, on the far left, white papers marked \[Item\] offered gentler tasks. "\[Item\] Berry Collection \- Celadon Hills (Class D)" promising oddly decent pay for some wild berry picking.
 
-Movement near the board caught my eye-someone in forest green pinning up a new notice. I almost looked away before recognizing the purple ponytail: the same gym trainer from yesterday.
+Movement near the board caught my eye---someone in forest green pinning up a new notice. I almost looked away before recognizing the purple ponytail: the same gym trainer from yesterday.
 
 I curiously inched toward the new notice, reading the bolded letters at the top: "\[WANTED\] Thief that stole a Oddish from Celadon Gym Greenhouse."
 
-'Oddish? Hadn't I seen a Oddish bef-'
+'Oddish? Hadn't I seen a Oddish bef---'
 
 "Ah!" The trainer's shout cracked through the center's buzz. Her small stack of notices scattered across the floor as she jumped back, pokeball appearing in her hand with practiced speed. The morning chatter died instantly. "It's you!"
 
-My heart jumped at the shout. That wasn't the polite surprise of someone remembering a brief encounter-it was the sharp accusation of someone who'd caught a thief. Which was ridiculous, because I hadn't done anything wrong.
+My heart jumped at the shout. That wasn't the polite surprise of someone remembering a brief encounter---it was the sharp accusation of someone who'd caught a thief. Which was ridiculous, because I hadn't done anything wrong.
 
 Had I?
 
@@ -112,7 +112,7 @@ My mind raced through yesterday's events: sneaking into the greenhouse (okay, th
 
 The trainer lowered her pokeball slightly, but her stance remained ready. "You were in the greenhouse yesterday, right before the Oddish went missing." Her voice carried the tired weight of someone who'd been dealing with this situation for hours.
 
-"I mean, yes, I was there, but-"
+"I mean, yes, I was there, but---"
 
 "You have to come with me." It wasn't a request. The gym trainer's grip on her pokeball tightened, though she at least wasn't pointing it at me anymore. "I will need your statement."
 

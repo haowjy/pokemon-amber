@@ -165,7 +165,8 @@ MC's Ditto is an extreme outlier (see plot secrets for why). Most Dittos encount
 ## Aura & Human-Pokemon Bonds
 
 ### Basic Principles
-- Deep bonds with Pokemon expose humans to their aura
+- Aura is the universal life/energy medium that Pokemon instinctively wield; humans interface with it via bonds
+- Deep bonds with Pokemon expose humans to their aura (conduit effect)
 - Over time, some humans develop aura sensitivity
 - Extremely rare to develop overt "aura powers"
 - Most sensitive people just have good intuition with Pokemon
@@ -177,6 +178,7 @@ MC's Ditto is an extreme outlier (see plot secrets for why). Most Dittos encount
 - Sensing nearby Pokemon (vague)
 - Occasional empathic flashes with bonded partners
 - Enhanced reaction time in battle (reading partner intent)
+ - Improved aura conduction increases training efficiency and growth ceilings
 
 ### Extremely Rare (Named "Aura Guardians" historically)
 - Projecting aura visibly
@@ -190,6 +192,11 @@ MC's Ditto is an extreme outlier (see plot secrets for why). Most Dittos encount
 - Occasional "I knew what my Pokemon needed" intuition moments
 - Rare encounters with true aura users (treat as legendary-adjacent)
 - MC may develop minor sensitivity (Mew DNA + deep bonds) but keep subtle
+
+### Moves and Training (Author Framing)
+- Wild Pokemon use aura instinctively; humans categorize repeatable patterns as "moves"
+- Training = teaching control, modulation, and combination of aura patterns (including elemental aspects)
+- Mastery raises consistency, efficiency, and sustainable output rather than raw spikes
 
 ## Do/Don't Quick List
 
@@ -216,3 +223,36 @@ MC's Ditto is an extreme outlier (see plot secrets for why). Most Dittos encount
 - Regional variations in Pokemon behavior
 - Breeding mechanics
 - Shiny Pokemon rarity explanation
+
+## Power Scaling (Author-Only Guidance)
+
+### Intent
+Provide internal benchmarks for relative strength without exposing numeric levels in-text. Numbers below are approximate and represent typical peak combat capability under a competent trainer. Individual variance is large.
+
+### High-Level Bands (approximate)
+- Legendary/Mythical: ~75–100 (very wide spread; many are non-combatants or specialty types whose abilities don’t map cleanly to combat power)
+  - Notes: Some legendaries/mythicals are weaker or niche; power judged holistically, not by number alone
+- Champion-tier teams: ~65 (true outliers approach low‑70s; still a notable gap to apex mythicals)
+- Elite Four: ~60
+- Ace Trainer (≥1 Elite Badge): ~55
+- Gym Leader (pillar or major city): ~50 (smaller gyms may be lower)
+- Senior Gym Trainers: ~45
+- Competent Licensed Trainers: ~35–45
+- Learner/Juniors early: ~10–25
+
+### Hard Ceilings and Trainer Limits
+- Pokemon growth asymptotically approaches a ceiling set by trainer capability, bond depth, and team discipline
+- Breaking limits requires long, careful training; unethical methods (e.g., Rocket experiments) can forcibly push past safe ceilings with side effects
+
+### Class Grades (Quest Difficulty) – Rough Guidance
+- Class E: Suitable for ~10–25 teams
+- Class D: ~20–35
+- Class C: ~30–45
+- Class B: ~45–60
+- Class A: ~60–70+
+- Class S: Off‑board crises; composition varies (may require Champion/legendary‑adjacent counters)
+
+### Caveats
+- Species differences, terrain, counters, weather, and tactics cause large swings
+- Single‑fight peak ≠ sustainable campaign strength
+- Center diagnostics, move mastery, and consistency vs benchmark opponents are better public proxies than numbers

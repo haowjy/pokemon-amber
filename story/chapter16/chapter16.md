@@ -90,7 +90,7 @@ But the transformed Ditto didn't budge. It planted its feet, muscles coiling und
 
 A shimmering, invisible force slammed into the Ditto-Dragonite, trying to crush it, to force it to submit. The ground beneath its feet cracked under the combined pressure, but still, it held its ground, roaring in defiance as it fought to stand against the Tauros and Gravity.
 
-Oak's eyes widened in astonishment. "Even its strength is copied?" he murmured, his mind racing. "I thought Ditto transformations were always incomplete…"
+Oak's eyes widened in astonishment. "Even its strength is copied?" he murmured, his mind racing. "I thought Ditto transformations were always incomplete..."
 
 Fuji tore his gaze away from the stalemate in favor of the other battle. "Magmar, Smog! Then Poison Jab!"
 
@@ -136,11 +136,11 @@ He took a single, deliberate step forward, his expression unreadable as he took 
 
 Fuji's head snapped toward Oak, a wild, almost gleeful light entering his eyes.
 
-"So you do remember!" he exclaimed, a high-pitched, almost giddy laugh escaping his lips. "Dr. Fuji, yes! The one and only! The esteemed Champion Oak… you handed me my first major research grant yourself, you know. At Celadon University!"
+"So you do remember!" he exclaimed, a high-pitched, almost giddy laugh escaping his lips. "Dr. Fuji, yes! The one and only! The esteemed Champion Oak... you handed me my first major research grant yourself, you know. At Celadon University!"
 
 Oak nodded slowly, his eyes never leaving Fuji's. "I think I recall," he said, his tone carefully neutral. "A paper on the cellular structures of Pokemon. And an attempted method to clone a pokemon. Which resulted in Ditto."
 
-Oak glanced at Ditto-Dragonite. "Although I remember the Ditto transformations were always flawed…"
+Oak glanced at Ditto-Dragonite. "Although I remember the Ditto transformations were always flawed..."
 
 "Flawed?" Fuji scoffed, waving a dismissive hand as if swatting away an ancient, irrelevant theory. "Champion Oak, science always marches on. While you were retiring to catalog Pidgeys and hand out starter Pokemon to children, I was pushing the very boundaries of life itself."
 
@@ -158,7 +158,7 @@ Fuji's mouth opened to answer, but just as he was about to speak, the word "succ
 
 His head snapped up, his gaze piercing the darkness where Dragonite had vanished before his demeanor turned icy.
 
-"You…" he hissed, the word dripping with venom as he turned his furious glare back on Oak. "You're stalling for time. For your Dragonite to return."
+"You..." he hissed, the word dripping with venom as he turned his furious glare back on Oak. "You're stalling for time. For your Dragonite to return."
 
 He didn't wait for an answer. His hand shot into his coat pocket and ripped out a syringe filled with a sickly, glowing pink liquid. The needle glinted in the firelight.
 
@@ -270,7 +270,7 @@ From one side of the yard, Ditto's eyes shuddered, its form quickly dissolving b
 
 Oak's Pokemon, too, froze. Arcanine, Tauros, and Exeggutor, previously locked in their furious assault, stopped dead, their heads snapping toward the dust cloud.
 
-"Hahaha!" Fuji cackled, his voice raw with a twisted, triumphant glee. He took a staggering step forward, his eyes fixed on the settling dust. "He's gone! I won! I-"
+"Hahaha!" Fuji cackled, his voice raw with a twisted, triumphant glee. He took a staggering step forward, his eyes fixed on the settling dust. "He's gone! I won! I---"
 
 Before he could finish, a low, guttural growl tore from Arcanine's throat. Its body began to glow with a furious, golden aura.
 

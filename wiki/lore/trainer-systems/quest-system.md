@@ -4,13 +4,13 @@ category: lore
 title: Quest System & Job Boards
 requires_citations: true
 status: draft
-updated: 2025-10-10
+updated: 2025-10-11
 hidden: false
 ---
 
 # Quest System & Job Boards
 
-The **Quest System** is a coordinated network of freelance Pokemon training work, posted on job boards at Pokemon Centers throughout Kanto-Johto. It provides economic opportunities for badged trainers while supplementing the work of professional [Rangers](../organizations/ranger-union.md).
+The **Quest System** is a coordinated network of freelance Pokemon training work, posted on job boards at Pokemon Centers throughout Kanto-Johto. It provides economic opportunities for licensed trainers while supplementing the work of professional [Rangers](../organizations/ranger-union.md).
 
 ## Overview
 
@@ -87,39 +87,35 @@ Information gathering, tracking, and detective work.
 
 ## Quest Requirements
 
-### Area Badge Mandatory
+### License Mandatory
 
-Every quest requires a [gym badge](./badge-system.md) for the area where work will be performed. Trainers must present their badge card to accept a quest. Pokemon Centers verify credentials before assignment.
-
-**Example from Chapter 7:**
-> "Fine print at the bottom read: 'Quest acceptance requires valid Class Certification from authorized Gym. Present certification card at reception.'" ([Chapter 7](../../../story/chapter7/chapter7.md))
+Every quest requires a valid [trainer license](./trainer-licensing.md). Trainers present their license at reception; Pokemon Centers verify credentials before assignment.
 
 **How It Works:**
-- Quest in Celadon area → need Celadon Gym badge (or nearby area badge)
-- Quest in Pewter area → need Pewter Gym badge
-- Quest on Route 7 (Celadon territory) → Celadon badge
-- Multi-area quest → may require multiple badges or poster's discretion
+- License holder selects a quest and checks in at reception
+- Posters may specify preferred badges (reputation/insurance) or other prerequisites
+- Multi‑area quests list logistics and any special requirements
 
 **Why This Requirement:**
-- Legal liability (gyms certify you for their area)
-- Insurance purposes (contracts require area certification)
-- Safety standards (gyms know local threats)
-- Accountability (can track who's working where)
+- Legal liability and insurance (contracts require a licensed counterparty)
+- Safety standards (minimum demonstrated competence via licensing)
+- Accountability (verifiable identity and registry tie‑ins)
 
-### Difficulty Ratings (Informational)
+### Class Grades (Public Boards)
 
-Quests include difficulty ratings to help trainers self-assess:
+Quests list public class grades to help trainers self‑assess. Typical payout and expected team capability bands:
 
-**Rating Scale:**
-- **Simple** - Safe, straightforward work (₽500-2,000)
-- **Moderate** - Some danger, requires competence (₽2,000-8,000)
-- **Dangerous** - High risk, experienced trainers (₽8,000-20,000)
-- **Extreme** - Life-threatening, elite trainers only (₽20,000-100,000+)
+**Class Scale (capability ~ bands; payouts illustrative):**
+- **Class E** – ~10–25 capability; ₽5,000–20,000
+- **Class D** – ~20–35; ₽20,000–60,000
+- **Class C** – ~30–45; ₽60,000–150,000
+- **Class B** – ~45–60; ₽150,000–400,000
+- **Class A** – ~60–70+; ₽400,000–2,000,000+
+- **Class S** – Off‑board, invitation‑only via Rangers/government (e.g., ₽2,000,000 Hypno incident)
 
 **Not Enforced:**
-- Ratings are guidance, not requirements
-- Anyone with area badge can attempt any difficulty
-- Quest poster may include "Recommended: Experienced trainers"
+- Grades are guidance, not requirements
+- Posters may include "Recommended: Experienced trainers"
 - Your choice if you bite off more than you can chew
 
 **Natural Selection:**
@@ -134,7 +130,7 @@ Some quests specify:
 - Type specialists ("Grass-type experience preferred")
 - Team size ("Minimum 4 Pokemon")
 - Special equipment ("Climbing gear required")
-- Specific badges ("Boulder Badge preferred" for cave work)
+- Specific badges preferred ("Boulder Badge preferred" for cave work)
 - Experience level ("Experienced trainers only - 3+ badges")
 
 ### Elite Quests
@@ -150,16 +146,17 @@ The highest difficulty quests (for regional threats, legendary encounters) are *
 - **Paid through Pokemon Center:** Quest completion verified, payment issued
 - **No completion, no pay:** Failed quests don't earn compensation (though partial credit sometimes given)
 
-### Payment Ranges by Difficulty
+### Payment Ranges by Class
 
-Based on observed quests ([Chapter 7](../../../story/chapter7/chapter7.md)):
+Standardized target ranges (actual postings vary by region, sponsor, urgency):
 
-- **Simple:** ₽500-2,000 (berry picking, basic deliveries, safe work)
-- **Moderate:** ₽2,000-8,000 (investigations, pest control, moderate danger)
-- **Dangerous:** ₽8,000-20,000 (serious threats, complex rescues, high risk)
-- **Extreme:** ₽20,000-100,000+ (major threats, critical emergencies, life-or-death)
+- **E:** ₽5,000–20,000 (safe work, errands, basic collection)
+- **D:** ₽20,000–60,000 (moderate danger, routine investigations/pest control)
+- **C:** ₽60,000–150,000 (significant risk, complex rescues/operations)
+- **B:** ₽150,000–400,000 (high‑risk missions, specialist skills)
+- **A:** ₽400,000–2,000,000+ (major threats, critical emergencies)
 
-**Exceptional Bounties:** Major public safety threats can exceed normal ranges dramatically. The Saffron Hypno incident offered ₽2,000,000 due to its severity ([Chapter 7](../../../story/chapter7/chapter7.md)).
+**Exceptional Bounties:** S‑Class incidents can vastly exceed normal ranges (e.g., Saffron Hypno ₽2,000,000 per [Chapter 7](../../../story/chapter7/chapter7.md)).
 
 ### Additional Compensation
 
@@ -168,6 +165,12 @@ Based on observed quests ([Chapter 7](../../../story/chapter7/chapter7.md)):
 - **Item rights:** Some quests let you keep found items (Fire Stones, etc.)
 - **Experience:** Build reputation for harder quests
 - **Repeat business:** Quest posters may prefer trainers they've worked with
+
+### Medical, Insurance, and Equipment
+- Pokemon Center network offers standardized treatment rates for licensed trainers; quest payouts assume Center‑rate medical billing
+- Many institutional quests include a small insurance add‑on (2–8%) covering basic trainer medical care and emergency transport
+- Government/Ranger quests typically include equipment stipends or reimbursement for mission‑critical gear
+- Private posters may offer hazard insurance riders for A/B‑class work; advisable for independent trainers
 
 ## Quest Sources
 
@@ -243,8 +246,8 @@ Regional government posts emergency response and critical infrastructure quests.
 ## Quest Acceptance Process
 
 1. **Browse Job Board** at Pokemon Center
-2. **Select Quest** matching your area badge
-3. **Present Badge Card** at Pokemon Center reception
+2. **Select Quest** and review prerequisites
+3. **Present License** at Pokemon Center reception (badges if requested)
 4. **Quest Assigned** - receive details, contact information, supplies if provided
 5. **Complete Objective** - follow quest parameters
 6. **Report Completion** - return to Pokemon Center with proof
@@ -315,7 +318,7 @@ While the quest system is standardized, regional differences exist:
 - Environmental hazards (weather, terrain)
 
 **Safeguards:**
-- Badge requirements (area certification gates)
+- Licensing (baseline competence)
 - Difficulty rating system (clear warnings)
 - Ranger oversight (verify completions, provide backup)
 - Legal liability (trainers responsible for own safety)
@@ -342,11 +345,11 @@ Some trainers make their living primarily through quests rather than League comp
 **Rescue Specialists** - Focus on fainted Pokemon and lost trainer retrieval
 **Type Specialists** - Leverage specific type expertise (Water-type for coastal quests)
 
-**Income Potential:**
-- **Casual (1-2 quests/week):** ₽5,000-15,000/month supplemental
-- **Part-time (3-5 quests/week):** ₽20,000-50,000/month
-- **Full-time Professional (daily quests):** ₽80,000-200,000/month
-- **Elite (Many badges, dangerous quests):** ₽300,000+/month
+**Income Potential (typical, varies by mix and region):**
+- **Casual (1–2 E/D per week):** ₽100,000–300,000/month
+- **Part‑time (3–5 mixed per week):** ₽300,000–900,000/month
+- **Full‑time Professional (near‑daily mixed):** ₽1,000,000–3,000,000+/month
+- **Elite Specialists (regular B/A‑class):** ₽3,000,000+/month
 
 **Career Path:** Many [Rangers](../organizations/ranger-union.md) are recruited from successful professional quest-takers.
 
@@ -365,10 +368,11 @@ This story introduces a comprehensive quest system to explain how trainers who d
 
 ## Related Systems
 
-- **[Badge System](./badge-system.md)** - Area badges required to take quests
+- **[Trainer Licensing](./trainer-licensing.md)** - Legal contracting and safety regulations
+- **[Badge System](./badge-system.md)** - Trust marks used as preferences by posters
 - **[Ranger Union](../organizations/ranger-union.md)** - Major quest posters, maintain main routes
 - **[Gym System](./gym-system.md)** - Issues badges, posts quests
-- **Pokemon Centers** - Host job boards, verify badges, issue payments
+- **Pokemon Centers** - Host job boards, verify licenses, issue payments
 
 ## Citations
 

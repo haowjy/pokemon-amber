@@ -30,7 +30,7 @@ My stomach clenched as I watched Ditto transform. If Team Rocket somehow got the
 
 The grainy feed rolled on, documenting my inglorious exit exactly as it had happened-empty-handed and looking more like a confused tourist than a master thief. Mary's expression darkened as she watched, her earlier suspicion morphing into barely contained frustration.
 
-"Hold on…" The footage blurred as Kayla tapped through it a tiny bit. "There!"
+"Hold on..." The footage blurred as Kayla tapped through it a tiny bit. "There!"
 
 On screen was a girl who was much older than me practically sprinting through the greenhouse being chased by what looked to be half its inhabitants. A Vileplume skittered after her with surprising anger, followed by some flying Combee and a lone Parasect. A pair of Gloom brought up the rear, their movements suggesting they were none too pleased about this disturbance.
 
@@ -46,7 +46,7 @@ For a moment, all I could do was stare at her, my mouth slightly agape. The secu
 
 "I..." I started, then stopped, unsure of what to say next. 
 
-I stared at the screen instead of trying to defend myself, watching the girl's frantic dance with her pursuers. Something about her…
+I stared at the screen instead of trying to defend myself, watching the girl's frantic dance with her pursuers. Something about her...
 
 "Wait! I think I recognize her," I said, the memory suddenly crystallizing like a Pokemon evolution cutscene. The collision, the mumbled apology, the knocked-out Oddish. Watching the footage now, every detail clicked into place like the world's most suspicious jigsaw puzzle.
 
@@ -74,7 +74,7 @@ Ditto emerged with its usual cheerful burble and hung there, its blob-like form 
 
 "A Grimer?"
 
-"No, its…" I trailed off as I waited for Ditto to transform.
+"No, its..." I trailed off as I waited for Ditto to transform.
 
 "Oh!" Kayla exclaimed, "it's that transforming pokemon! You're that girl that Mary caught first!"
 
@@ -106,11 +106,11 @@ The formality melted away surprisingly fast after that. Here in the cramped secu
 
 "So this is our thief?" Erika asked, studying Ditto's transformation with the kind of analytical interest I usually reserved for shiny Pokemon encounters.
 
-"Yes, though we still need to get a photo to document it," Mary explained. "I was just going-"
+"Yes, though we still need to get a photo to document it," Mary explained. "I was just going---"
 
 "Before you fetch the camera," Erika interrupted, her casual tone suddenly sharpening, "I should share a theory I was just thinking of. The spores from Oddish are known to be a key ingredient in HP UP formula. Someone might have stolen it to try and reverse engineer our recipe."
 
-Kayla frowned, pushing her glasses up in what I was starting to recognize as her 'actually...' gesture. "But... that's not the Pokemon we use for HP UP production anymore. Oddish isn't even-"
+Kayla frowned, pushing her glasses up in what I was starting to recognize as her 'actually...' gesture. "But... that's not the Pokemon we use for HP UP production anymore. Oddish isn't even---"
 
 She caught herself mid-sentence, face flushing as she registered what she'd nearly revealed. Erika's smile remained perfectly in place, but her eyes had gone sharp as razors as she glanced briefly at me. The silence stretched just a beat too long before she spoke.
 

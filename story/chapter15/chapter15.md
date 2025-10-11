@@ -194,7 +194,7 @@ Debris crunched under his feet as he picked his way through the ruined yard. "I'
 
 "After everything I've done to bring you back?" he asked softly, his eyes finding mine through the gloom. He reached into his pocket and pulled out a single crushed dahlia petal, rubbing it between his fingers. "We can still be a family."
 
-His gaze refocused onto me… no, to Ash, collapsed against me in quiet sobs as I held him protectively in my arms. A cold smile touched Dr. Fuji's lips. "Once I've fully removed this... temporary arrangement Delia created to fill the void I left behind, we'll be a proper family again. The way we were always meant to be. Just one more step…"
+His gaze refocused onto me... no, to Ash, collapsed against me in quiet sobs as I held him protectively in my arms. A cold smile touched Dr. Fuji's lips. "Once I've fully removed this... temporary arrangement Delia created to fill the void I left behind, we'll be a proper family again. The way we were always meant to be. Just one more step..."
 
 The tiny hairs on my arms stood straight up. Time seemed to slow as I looked down at the boy in my arms-Ash Ketchum, the hero of countless anime episodes I'd watched in my previous life. The would-be Pokemon Master. The kid who was supposed to meet Pikachu, travel across regions, make lifelong friends.
 
@@ -226,7 +226,7 @@ His face contorted with rage, but I kept going, the words spilling out now.
 
 I met his eyes directly and chuckled maniacally, "All this time, you've been dressing a complete stranger in your dead daughter's clothes. Think about how fucked up that is. You've been obsessing over some random woman you pulled from who knows where, forcing me into this... this sick fantasy of yours."
 
-"You're confused," he said, but uncertainty flickered in his eyes. "The cloning process-"
+"You're confused," he said, but uncertainty flickered in his eyes. "The cloning process---"
 
 A deafening boom thundered behind Dr. Fuji, cutting through whatever his next words were going to be.
 

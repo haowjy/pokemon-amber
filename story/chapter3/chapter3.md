@@ -38,7 +38,7 @@ I shook my head with a smile underneath as I focused on my only other source of 
 
 I flopped onto the worn couch, its familiar softness reminding me of lazy weekend afternoons from another life.
 
-"Let's see…" I muttered, clicking through channels. The TV itself was ancient by my standards---all curved screen and rabbit---ear antenna---but it worked well enough to pick up local broadcasts. A few clicks through static-filled channels finally landed on what looked like a local news broadcast. The production value wasn't much better than the static-the anchor's desk looked like it was made of painted plywood, and the graphics had that distinctly late-90s PowerPoint feel.
+"Let's see..." I muttered, clicking through channels. The TV itself was ancient by my standards---all curved screen and rabbit---ear antenna---but it worked well enough to pick up local broadcasts. A few clicks through static-filled channels finally landed on what looked like a local news broadcast. The production value wasn't much better than the static-the anchor's desk looked like it was made of painted plywood, and the graphics had that distinctly late-90s PowerPoint feel.
 
 "...and in downtown Celadon, business owners are raising concerns about increasing Grimer populations in the sewage system," the anchor was saying, her heavily hairsprayed style completing the retro aesthetic. "Our field reporter is live at the scene."
 

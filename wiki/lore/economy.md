@@ -4,7 +4,7 @@ category: lore
 title: Economy & Currency (Amber Continuity)
 requires_citations: true
 status: draft
-updated: 2025-09-21
+updated: 2025-10-11
 hidden: false
 ---
 
@@ -29,22 +29,23 @@ hidden: false
 - Celadon Metro 24-Hour Pass (child): ₽300 ([Chapter 7](../../story/chapter7/chapter7.md))
 
 ### Gym Services ([Chapter 5](../../story/chapter5/chapter5.md) - Celadon Gym)
-- Badge Challenge: ₽5,000-10,000+
 - Gym League Challenge Spectator Pass: ₽10,000
 - Training Facilities Day Pass: ₽4,000
-- Ace Challenge Fee: ₽100,000
+  
+Notes:
+- Standard and Elite challenge administration is a subsidized public service; pricing is handled at reception if applicable and is not lobby‑posted.
 
 ### Quest Payments ([Chapter 7](../../story/chapter7/chapter7.md))
 
-**By Class:**
-- Class E quests: ₽500-1,500 (berry picking, basic deliveries)
-- Class D quests: ₽1,500-5,000 (Oddish investigation ₽5,000)
-- Class C quests: ₽5,000-10,000 (Rogue Eeveelutions ₽8,000)
-- Class B quests: ₽10,000-20,000 (VIP escort, complex rescues)
-- Class A quests: ₽20,000-100,000+ (Hypno incident ₽2,000,000)
-- Class S quests: ₽100,000+ (invitation only)
+**By Class (typical targets; vary by region/sponsor/urgency):**
+- Class E: ₽5,000–20,000 (safe work, errands, basic collection)
+- Class D: ₽20,000–60,000 (moderate danger, routine investigations/pest control)
+- Class C: ₽60,000–150,000 (significant risk, complex rescues/operations)
+- Class B: ₽150,000–400,000 (high‑risk missions, specialist skills)
+- Class A: ₽400,000–2,000,000+ (major threats, critical emergencies)
+- Class S: Off‑board, invitation only; can vastly exceed A‑class
 
-**Note:** Major public safety threats can dramatically exceed normal ranges.
+**Note:** Major public safety threats can dramatically exceed normal ranges (e.g., Hypno incident ₽2,000,000).
 
 ### Daily Living
 - Convenience store (medical supplies, clothing, food): ₽2,847 for emergency purchases ([Chapter 2](../../story/chapter2/_chapter2.1.md))
@@ -52,16 +53,16 @@ hidden: false
 
 ### Income Ranges
 
-**Quest-Taking as Income:**
-- Casual (1-2 quests/week): ₽5,000-15,000/month supplemental
-- Part-time (3-5 quests/week): ₽20,000-50,000/month
-- Full-time Professional (daily): ₽80,000-200,000/month
-- Elite Class A specialists: ₽300,000+/month
+**Quest-Taking as Income (typical):**
+- Casual (1–2 E/D per week): ₽100,000–300,000/month
+- Part‑time (3–5 mixed per week): ₽300,000–900,000/month
+- Full‑time Professional (near‑daily mixed): ₽1,000,000–3,000,000+/month
+- Elite A/B specialists: ₽3,000,000+/month
 
 **Other Trainer Income:**
-- Ranger salary: Government-funded, stable (estimated ₽100,000-300,000/month based on rank)
-- League Tournament prizes: Varies widely (local tournaments ₽5,000-50,000, major events ₽100,000+)
-- Gym trainer salary: Estimated ₽50,000-150,000/month depending on gym and rank
+- Ranger salary: Government-funded, stable (estimated ₽300,000-900,000/month based on rank)
+- League Tournament prizes: Varies widely (local tournaments ₽50,000-500,000, major events ₽1,000,000+)
+- Gym trainer salary: Estimated ₽150,000-400,000/month depending on gym and rank
 
 ## Notes
 - Regional differences apply; numbers are illustrative to anchor reader expectations

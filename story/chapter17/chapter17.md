@@ -16,7 +16,7 @@ I squeezed them shut.
 
 Was I safe now? Professor Oak saved us, but what happened after? Where was he? And Dr. Fuji... what happened to him? Did Professor Oak defeat him?
 
-A sharp pang of fear shot through me as I considered the worst case scenario. Dr. Fuji won, killed Professor Oak, messed up the entire Pokemon World… and then what would he do to me, who revealed I wasn't his daughter?
+A sharp pang of fear shot through me as I considered the worst case scenario. Dr. Fuji won, killed Professor Oak, messed up the entire Pokemon World... and then what would he do to me, who revealed I wasn't his daughter?
 
 And Ditto. The one that I could consider my first friend in this twisted Pokemon world. Where was it? Was it okay? Did Dr. Fuji do something to it?
 
@@ -30,7 +30,7 @@ Delia snatched it up.
 
 "Hello?" She listened, her breath catching. "Yes, this is his residence... This is Delia Ketchum speaking. Oh, school's cancelled for today? Yes, I'll let him and Gary and Ash know. He's... missing right now... Yes, the Professor Oak... No, I don't know where he is... My house... the fire was at my house. Have you maybe heard anything about Stephen Ketchum?"
 
-She listened, her face falling. "Yes… Yes… I understand. Thank you." She hung up, her knuckles white. "School's cancelled," she muttered, before her eyes immediately scanned the phonebook again.
+She listened, her face falling. "Yes... Yes... I understand. Thank you." She hung up, her knuckles white. "School's cancelled," she muttered, before her eyes immediately scanned the phonebook again.
 
 Across the living room, Gary Oak pumped his fist. "Yes! No school!" He sat opposite Ash, who was staring blankly at the Pokemon cards between them.
 
@@ -60,13 +60,13 @@ Ash just stared at me, his lip quivering, before he jumped onto the couch and bu
 
 The landline shrilled again. Delia instantly grabbed it.
 
-"Hello?" She listened, her whole body going rigid. "Yes, this is his residence... This is Delia Ketchum… What? Professor Oak's in the hospital?"
+"Hello?" She listened, her whole body going rigid. "Yes, this is his residence... This is Delia Ketchum... What? Professor Oak's in the hospital?"
 
 A breath I didn't know I was holding escaped me in a rush. He's alive.
 
 Gary and Ash snapped their heads toward Delia, their fight completely forgotten.
 
-"...He just woke up? Oh, thank Arceus… Yes, we'll be right there… Yes, I'll bring Gary too."
+"...He just woke up? Oh, thank Arceus... Yes, we'll be right there... Yes, I'll bring Gary too."
 
 Delia hung up the phone, her movements firm and decisive for the first time all morning. "Come on, children," she said, her voice steady. "Get your shoes on. We're going to see the Professor."
 
@@ -216,7 +216,7 @@ They were completely, utterly enraptured.
 
 I watched them for a moment. A part of me, the part that spent countless hours strategizing on a tiny screen, was captivated.
 
-However…
+However...
 
 I glanced at Professor Oak, who occasionally glanced at me with a mix of seriousness and curiosity. 
 
@@ -248,15 +248,15 @@ A wave of relief washed over me before I slowly continued, "So... what happens t
 
 Professor Oak was quiet for a long moment, choosing his words with care. "Legally," he began, "I don't know what you are. If you have other parents or relatives, then you'll return to your family."
 
-I shook my head, "I… don't think I would have living relatives."
+I shook my head, "I... don't think I would have living relatives."
 
 Professor Oak nodded, then, with an odd expression he continued, "If not, then I believe you would be placed in the Indigo League orphan care until you become an adult."
 
-"I see…" I said, before continuing, "Is that bad?"
+"I see..." I said, before continuing, "Is that bad?"
 
-Professor Oak let out a strange, dry chuckle, "It was overburdened in the War. They are stretched extremely thin and I don't think they have too much political support. I suppose they might be doing better after so many years after the War but… I still haven't heard good things about it, to be honest."
+Professor Oak let out a strange, dry chuckle, "It was overburdened in the War. They are stretched extremely thin and I don't think they have too much political support. I suppose they might be doing better after so many years after the War but... I still haven't heard good things about it, to be honest."
 
-"Oh…" I sighed, feigning disappointment. Internally, however, a part of my mind seized on his words. The War. That single phrase confirmed a crucial piece of lore, a dark background detail that only fanfictions covered.
+"Oh..." I sighed, feigning disappointment. Internally, however, a part of my mind seized on his words. The War. That single phrase confirmed a crucial piece of lore, a dark background detail that only fanfictions covered.
 
 Professor Oak smiled knowingly as his gaze lingered over me and he asked a seemingly simple question, "How old are you, Amber?"
 
@@ -266,8 +266,8 @@ A jolt of pure panic shot through me as I started to glance around the room for 
 
 Professor Oak simply replied, "No reason. I was just curious."
 
-"Oh…" 
+"Oh..." 
 
 My eyes darted to the TV, where a flashy commercial had replaced the Pokemon battle. A cartoon bowl of noodles danced across the screen. My panicked mind latched onto it like a life raft.
 
-"So then…" I blurted out, the words tasting like nonsense. "What's your favorite instant ramen?"
+"So then..." I blurted out, the words tasting like nonsense. "What's your favorite instant ramen?"

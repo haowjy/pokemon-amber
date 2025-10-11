@@ -1,366 +1,152 @@
 ---
 type: wiki
 category: lore
-title: Gym Badge System
+title: Gym and Elite Badges
 requires_citations: true
 status: draft
-updated: 2025-10-10
+updated: 2025-10-11
 hidden: false
 ---
 
-# Gym Badge System
+# Gym and Elite Badges
 
-The **Gym Badge System** regulates quest access and wilderness work throughout Kanto-Johto. Trainers earn badges by proving they can handle the minimum competency required for a specific area's threats. Badges represent regional trust and familiarity, not absolute power levels.
+Badges are symbols of trust and recognition issued by gyms. They originated as marks of respect from type masters and were later co‑opted by the Pokemon League for tournament qualification. Badges represent local trust and mastery, not absolute power levels.
 
 ## Overview
 
-**Core Principle:** Each gym tests whether trainers are strong enough to be helpful (not a liability) in their local area. Pass the test, earn the badge, gain permission to take quests in that region.
+**Core Principle:** A gym’s badge reflects the gym’s trust and respect for a trainer’s demonstrated competency with that gym’s specialty and values.
 
-**How It Works:**
-- Challenge a gym in the area you want to work
-- Face standardized test based on local danger level
-- Win → earn badge for that area
-- Badge grants quest access in that region
+**Two Badge Tiers:**
+- Standard **Gym Badge**: Earned by defeating a designated gym trainer or the leader on a standard challenge. Signals foundational competence and the gym’s respect.
+- **Elite Badge**: Earned by defeating the Gym Leader’s primary team on an elite challenge. Signals exceptional mastery; holding ≥1 Elite Badge confers recognized “Ace Trainer” status.
 
 **What Badges Represent:**
-- ✅ Regional trust and certification
-- ✅ Proven minimum competency for that area's threats
-- ✅ Permission to take quests in that region
-- ✅ Geographic breadth (more badges = more areas)
-- ❌ NOT a power ranking (8 badges ≠ stronger than 4 badges)
-- ❌ NOT a linear progression (badges don't "level up")
+- ✅ Regional trust and acknowledgment by that gym
+- ✅ Breadth of experience (more badges = more places and styles you’ve learned from)
+- ❌ NOT a strict power ranking or linear progression
 
 ## How Badges Work
 
-### Area-Specific Certification
+### Challenge Structure
 
-**Each Badge Unlocks One Region:**
-- Celadon Gym badge → can take quests in Celadon area
-- Pewter Gym badge → can take quests around Pewter, Mt. Moon
-- Cinnabar Gym badge → can take quests on Cinnabar Island
-- And so on...
+**Standard (Gym Badge):**
+- Register at reception (ID/license checked; scheduling as needed)
+- Face the gym’s standard challenge (designated trainer or leader)
+- Win → receive the gym’s badge; recorded to your trainer profile
 
-**Gym Difficulty is Fixed:**
-- Gyms set test difficulty based on LOCAL danger level
-- Everyone challenging Celadon Gym faces similar difficulty
-- Test asks: "Can you handle Celadon-area Pokemon threats?"
-- Different gyms have different difficulty because areas vary
+**Elite (Elite Badge):**
+- Invitation or request at reception; leaders gatekeep for safety and readiness
+- Face the leader’s primary team and elite evaluation
+- Win → receive the gym’s Elite Badge; recognized for Ace status
 
-**Strategic Badge Collection:**
-- Start with easier gyms (safer areas like Cerulean, Viridian)
-- Work up to harder gyms (dangerous areas like Cinnabar, Saffron)
-- Or challenge hard gyms early if you're already strong
-- All badges "equal" for League entry (just need 8 different ones)
+### Difficulty and Strategy
+- Difficulty is fixed per gym based on local culture, values, and typical threats
+- Trainers often start at approachable gyms and work up to harder ones
+- Strong trainers may take on hard gyms or elite challenges earlier
 
-### Gym Difficulty Tiers
+### Gym Difficulty Landscape
 
-Gyms aren't officially ranked, but trainers know which are harder based on local danger:
-
-**Easier Gyms** (Safer Areas):
-- Cerulean (calm waters, basic Water-types)
-- Celadon (urban, garden-level Grass-types)
-- Viridian (maintained routes, common Pokemon)
-
-**Moderate Gyms:**
-- Pewter (Mt. Moon proximity, Rock/Cave hazards)
-- Vermillion (port, some Water hazards)
-- Fuchsia (Safari Zone management, Poison-types)
-
-**Hard Gyms** (Dangerous Areas):
-- Saffron (urban Pokemon threats, Psychic-types, city incidents)
-- Cinnabar (volcanic zone, [Flame Forest](../../pok-locations/cinnabar-island/fanon-flame-forest.md), extreme Fire-types)
-- Viridian under Giovanni (forest + Rocket activity)
-
-**Note:** Harder badge ≠ better trainer. Just means trusted in more dangerous area. A Cinnabar badge-holder might be weaker overall than someone with 5 easy badges.
+Relative difficulty differs by gym; reputation comes from context rather than a formal tier list. A Cinnabar badge often implies surviving harsh fire‑type conditions; a Cerulean badge emphasizes water safety and control. Harder badges increase prestige, but do not strictly correlate to absolute strength.
 
 ## Earning a Badge
 
-### Challenge Process
+### Process
 
-**Step 1: Register at Gym**
-- Declare which badge you want (gym's badge for their area)
-- Pay challenge fee (varies by gym, typically ₽5,000-₽10,000)
-- Gym checks if you already have their badge (can't earn twice)
+1. Register at reception (trainer license required; minors may need guardian consent)
+2. Standard or Elite challenge scheduled
+3. Evaluation focuses on control, type knowledge, safety, and gym philosophy
+4. Pass → physical badge issued and recorded to trainer profile
 
-**Step 2: Face Standardized Test**
-- Battle gym trainer(s) or gym leader
-- Difficulty fixed based on area danger (everyone faces similar challenge)
-- Must demonstrate:
-  - Pokemon control and battle competency
-  - Type matchup understanding
-  - Ability to handle area-appropriate threats
-  - Safety awareness
+### Failure and Retakes
+- Waiting periods apply between attempts; gyms often suggest targeted training
+- Administrative fees, if any, are nominal; gyms are subsidized for public service
 
-**Step 3: Pass = Earn Badge**
-- Receive physical badge (metal/enamel, traditional)
-- Registered digitally with Pokemon Center Network
-- Quest access granted for that region
-- Can display badge on jacket/case
+## Quests (Economic Work)
 
-**Step 4: Can Challenge Other Gyms**
-- Each gym's badge is independent
-- Having Celadon badge doesn't make Pewter easier
-- Collect badges for areas you want to work in
+Quests are freelance work posted at Pokemon Centers. Legally, quests require a valid trainer license. Quest posters may prefer or require specific badges for reputation, insurance, or skill fit, but badges are not a universal legal gate.
 
-### What If You Fail?
+### Class Grades (Public Boards)
+- Boards show Class E–A prominently; S‑Class is invite‑only and not posted
+- Pay scales by class; trainers self‑select based on readiness
 
-- Can retry after waiting period (usually 1-2 weeks)
-- Pay challenge fee again
-- Gym may offer remedial training suggestions
-- Some trainers train for months before challenging hard gyms
+### Recommendations and Requirements
+- Posters can specify preferred badges (e.g., “Boulder Badge preferred”), minimum team size, or experience
+- Government and Ranger contracts commonly prefer Elite Badge holders for high‑risk work
 
-### Upgrading vs New Badges
+## Pokemon League Paths
 
-You don't "upgrade" a badge. Each badge is area-specific and fixed difficulty.
+### Juniors League (U18)
+- Qualify by earning 8 standard Gym Badges from League‑recognized gyms
+- Elite Badges improve seeding/prestige but are not required
 
-**Example:**
-- Amber earns Celadon badge (passed Celadon's test)
-- Later wants to work in Pewter area
-- Must challenge Pewter Gym separately (different test, different area)
-- Now has 2 badges = can work in 2 areas
+### Regular League (Open Age)
+- Must hold ≥1 Elite Badge (confers Ace Trainer status) and meet a tournament ranking points threshold
+- Elite Badges may grant seeding advantages and invitations to premier events
 
-## Quest Access
-
-### How Badge Requirements Work
-
-**Badge for Area = Quest Access:**
-- Quest posted in Celadon → need Celadon badge (or nearby area badge)
-- Quest posted in Pewter → need Pewter badge
-- Pokemon Centers verify digitally when you accept quest
-
-**Difficulty Ratings (Informational Only):**
-- Quests labeled: [Simple], [Moderate], [Dangerous], [Extreme], etc.
-- Payment scales with difficulty
-- NOT enforced - anyone with area badge can attempt
-- Quest poster may suggest minimum (e.g., "Recommended: Experienced trainers")
-- Your choice if you bite off more than you can chew
-
-**Natural Selection:**
-- Take quest too hard → likely fail or get hurt
-- Failure affects reputation
-- Too many failures → harder to get quest assignments
-- Death in wilderness → well, you were warned
-
-**Example from Story:**
-In [Chapter 7](../../../story/chapter7/chapter7.md), Amber sees quests requiring badges she doesn't have:
-- "[Item] Berry Collection - Celadon Hills (Moderate) ₽1,500" - needs Celadon badge
-- "[WANTED] Oddish Thief Investigation (Simple) ₽5,000" - needs Celadon badge
-- "[WANTED] Mass Sleep Incident - Saffron City (Extreme) ₽2,000,000" - needs Saffron badge
-
-She can't take ANY of them yet, not because of power level, but because gyms haven't certified her for those areas.
-
-### Multi-Area Quests
-
-Some quests span multiple regions:
-- Must have badge for primary quest location
-- Quest poster may require badges for all areas involved
-- Or accept single badge + liability waiver
-- Rangers often post cross-region quests (prefer trainers with many badges)
-
-## Pokemon League Entry
-
-### Eight Badge Requirement
-
-**Why 8 Badges:**
-- Shows you've traveled across the region
-- Proven yourself to many different gyms
-- Faced different type specialties and challenges
-- Well-rounded competitor, not just local favorite
-- Historical tradition (8 original Kanto gyms)
-
-**What It Means:**
-- ✅ Geographic breadth (worked in 8+ areas)
-- ✅ Diverse experience (8 different type specialists)
-- ✅ Trusted by multiple communities
-- ❌ NOT a power threshold (some 8-badge holders are weak)
-
-**Any 8 Badges Work:**
-- Don't have to be the "original 8" gyms
-- Can mix Kanto and Johto badges (unified region)
-- All badges count equally
-- League cares about breadth, not which specific gyms
-
-**Note on League Entry:**
-This 8-badge requirement is primarily for Junior League (under 18). Main Pokemon League Championship uses performance-based entry (Ranking Points, ELO) or 8 Ace Badges for automatic qualification.
+### Elite Four and Champion Consideration
+- Holding 8 Elite Badges (from official pillar gyms) qualifies a trainer for Elite Four candidacy (rare)
+- Defeating all four Elite Four permits a Champion challenge under League rules
 
 ### Champion Title (Separate System)
-
-**Important Distinction:**
-- **Pokemon League** = competitive tournament (sport, entertainment)
-- **Regional Champion** = government position (international representative)
-
-**You Don't Become Champion by Winning League:**
-- League winner gets title, prize money, fame
-- Champion position is government appointment (represents region internationally)
-- In Kanto-Johto: comes from [Ace Trainer](../organizations/ace-trainers.md) program
-- Separate career track (government service)
-- Current Champion may compete in League, but not required
-
-**Historical Note:**
-Pre-Pokeball, Champions led gym councils against Pokemon threats. Post-Pokeball governments transformed the role into international representation.
+- Pokemon League results determine sporting titles; the regional “Champion” is a government appointment (separate career track)
 
 ## Legal Implications
 
-### Wilderness Access
-
-**Dangerous Areas (Legal but Risky):**
-- Mt. Silver, Flame Forest, deep caves, etc.
-- NOT illegal to enter without badges
-- Maps warn about danger levels
-- "Extreme Danger - 8+ Badges Recommended"
-- Can go anyway, but probably die
-- Natural selection enforces this
-
-**Preserved Areas (Illegal):**
-- Nature reserves, research zones, protected ecosystems
-- REQUIRES permits/authorization
-- Rangers patrol and enforce
-- Fines (₽10,000-₽100,000) or arrest for trespassing
-- Different from "dangerous" (safety vs conservation)
-
-### Quest System
-
-**Mandatory Badge for Quests:**
-- Taking quest without proper badge = illegal
-- Pokemon Centers enforce digitally
-- Fines (₽5,000-₽50,000)
-- Quest system ban if repeated
-- Liability if accident occurs
-
-**Why Enforced for Quests but Not Wilderness:**
-- Quests = official contracts (liability, insurance)
-- Wild travel = personal choice (your risk)
-- Quest failure affects others (clients, bystanders)
-- Wilderness death only affects you
+### Licenses, Not Badges
+- Wilderness travel is legal but risky; preserved areas require permits
+- Quests require a valid trainer license (contracts, liability, insurance)
+- Badges are credentials that affect reputation, hiring, and seeding—not legal access
 
 ## Historical Context
 
-### Pre-Modern Era (Before Pokeball Revolution)
+### Pre‑Modern Era (Before Pokeball Revolution)
+- Badges began as personal trust and alliance between type masters and travelers
+- Noble and guild youths undertook journeys, visiting many gyms to learn techniques
+- Youth tourneys (U18) emerged to compare which disciples learned best
 
-**Original Badge Purpose:**
-- Badges = personal trust and alliance
-- "I trust you to help with local Pokemon problems"
-- No formal system, just gym leader judgment
-- Smaller population, everyone knew each other
-- Quest work was informal (local requests, favors)
-
-**The Eight Traditional Gyms:**
-- Originally one gym per major settlement
-- Eight gyms formed the regional council (de facto government)
-- Having all 8 = "trusted across entire region"
-- Qualified to challenge for Champion position (council military leader)
-- Very exclusive (few trainers earned all 8)
-
-**Gym Council System:**
-- No centralized government existed pre-Pokeball
-- Eight gym leaders coordinated regional defense against Pokemon
-- Champion led gym council in crisis
-- All energy focused on survival, not politics
-
-### Modern Era (After Pokeball Invention)
-
-**Government Formation:**
-- Pokeball made life safer from wild Pokemon
-- Gym councils evolved into formal governments
-- Inter-regional politics became possible
-- Champion role shifted: military leader → international representative
-
-**System Expansion:**
-- Population explosion (more trainers)
-- More gyms opened (not just original 8)
-- Quest system formalized through Pokemon Centers
-- New governments standardized badge requirements
-- Legal framework for quest contracts
-
-**Current System:**
-- Dozens of gyms across Kanto-Johto
-- Each gym certifies for their local area
-- Original 8 still most prestigious (gym council legacy)
-- 8 badges for Junior League (historical council tradition); Main League uses ranking/Ace Badges
-- Quest system managed by Pokemon Center Network
-- Rangers professionalized (gym councils no longer handle defense)
-
-**Why Gym-Based Testing:**
-- Gyms already train and evaluate trainers
-- Type specialists understand local threats
-- Geographic distribution (gyms everywhere)
-- Historical continuity (badges always mattered)
-- Decentralized (no single bottleneck)
+### League Co‑option and Standardization
+- As the League formed, it adopted badges as proof of worthiness for competition
+- Badge proliferation led to a conference with major gyms; “pillar” gyms were recognized and standardized
+- Modern era preserves badges as trust marks and League qualifiers (Juniors: Gym Badges; Regular: Elite Badges + ranking)
 
 ## Regional Variations
 
-### Kanto-Johto (Current)
-
-- Unified badge system after regional merger
-- Badges from either region count for League
-- ~30-40 active gyms total
-- Original 8 from each region still most prestigious
-
-### Other Regions
-
-Badge systems exist in Hoenn, Sinnoh, etc. but details vary:
-- Different number of badges required for Junior League
-- Some regions tie badges to power levels (not just area access)
-- International League has different rules
-- Main League entry requirements vary by region
-
-Trainers moving between regions may need to earn new badges for unfamiliar areas.
+- Kanto‑Johto recognizes a wide network of government‑approved gyms; League‑pillar gyms are a subset whose Elite Badges count for elite qualification
+- Other regions vary in how many pillar gyms they recognize and how Elite Badges are treated
 
 ## Related Systems
 
-- **[Gym System](./gym-system.md)** - Where badges are earned, gym structure and services
-- **[Quest System](./quest-system.md)** - Requires badges for area access, difficulty ratings
-- **[Ranger Union](../organizations/ranger-union.md)** - Requires 5-6+ badges (area familiarity)
-- **[Pokemon League](./pokemon-league.md)** - Requires 8 badges for tournament entry
+- **[Gym System](./gym-system.md)** - Standard vs Elite challenges, operations, entertainment
+- **[Trainer Licensing](./trainer-licensing.md)** - Legal ability to handle Pokemon and take quests
+- **[Quest System](./quest-system.md)** - Job boards, difficulty, and contracting
+- **[Ranger Union](../organizations/ranger-union.md)** - Government wilderness service
+- **[Ace Trainers](../organizations/ace-trainers.md)** - ≥1 Elite Badge recognition and roles
 
 ## Common Misconceptions
 
-**"More badges = stronger trainer"**
-- FALSE. Badges show geographic breadth, not power
-- A veteran with 2 badges might be incredibly strong (just stayed local)
-- A rookie with 6 badges might be weak (traveled a lot, barely passed tests)
-
-**"Gym tests get harder with more badges"**
-- FALSE. Each gym has fixed difficulty for their area
-- Your 1st badge might be from hard gym (Cinnabar)
-- Your 8th badge might be from easy gym (Cerulean)
-- Order doesn't matter
-
-**"Need 8 badges to be strong enough for wilderness"**
-- FALSE. 8 badges = Junior League requirement (tradition)
-- Wilderness is unregulated (can enter with 0 badges, just risky)
-- Strong trainer with 1 badge can handle dangerous areas
-- Weak trainer with 8 badges still in danger
-
-**"Badge from harder gym is worth more"**
-- Partially TRUE for reputation (Cinnabar badge = respect)
-- FALSE for League entry (all badges count equally)
-- FALSE for quest access (only matters if it's the right area)
+- "More badges = stronger trainer"
+  - Not necessarily. Badges show breadth of experience and recognized trust, not raw power
+- "You need badges to legally work quests"
+  - False. You need a trainer license; badges may be requested by posters
+- "Elite Badge holders must be government employees"
+  - False. ≥1 Elite Badge confers Ace status, which is often recruited for government work, but it’s not automatic employment
 
 ## Canon Divergence
 
 **Official Pokemon Canon:**
-Gym badges primarily serve as gates for Pokemon obedience and progression through the game/anime. There's no formal quest system or area-specific certification ([Bulbapedia - Gym Badge](https://bulbapedia.bulbagarden.net/wiki/Badge)).
+Badges gate progression and obedience; there’s no formal dual‑tier (Standard/Elite) badge model or universal quest system.
 
 **Pokemon Amber:**
-Badges represent area-specific trust and minimum competency, not power tiers. Gym difficulty is fixed based on local danger. Quest system requires appropriate area badges. This creates a more grounded explanation for why badges matter beyond just "unlock next area."
-
-**Key Differences:**
-- Badges = area certification (not power levels)
-- Gym difficulty = fixed by location (not personalized scaling)
-- Quest system integration (requires badges)
-- 8 badges = breadth requirement (not strength gate)
-- Champion ≠ League winner (separate systems)
+Badges remain trust marks. The League co‑opts them for qualification. A dual model distinguishes Standard (Gym) vs Elite Badges, and quests operate via licensing rather than badges.
 
 **Inspiration:**
-- Real-world professional licensing (area-specific certifications)
-- Historical guild systems (trust-based access)
-- Natural selection in dangerous professions
+- Historical guild trust marks
+- Real‑world sports qualification and seeding
+- Driver’s license vs competition credentials separation
 
 ## Citations
 
-- Badge requirements for quests: [Chapter 7](../../../story/chapter7/chapter7.md) (Pokemon Center job board)
-- Gym challenge fees: [Chapter 5](../../../story/chapter5/chapter5.md) (Celadon Gym price board)
-- Amber's lack of badges as barrier: [Chapter 8](../../../story/chapter8/chapter8.md)
+- Job board structure and difficulty/pay examples: [Chapter 7](../../../story/chapter7/chapter7.md)
+- Modern gym operations and staff: [Chapter 8](../../../story/chapter8/chapter8.md)
 - Canon comparison: [Bulbapedia - Gym Badge](https://bulbapedia.bulbagarden.net/wiki/Badge)
 

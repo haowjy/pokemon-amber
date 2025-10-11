@@ -10,11 +10,11 @@ updated: 2025-09-20
 
 Kayla had dozed off twice during our planning session, her chin dipping toward her chest in that slow-motion surrender every college student learns before their first 8 AM midterm. When Erika finally took pity and dismissed her, the girl's zombie shuffle toward the exit hit a snag halfway through the doorway \- her entire body convulsed by a yawn so apocalyptic I half-expected to see her tonsils wave a white flag.
 
-Moments after Kayla's departure, Erika's hip erupted in a sound somewhere between a distressed Magnemite and a fax machine having an existential crisis. She produced what I first thought was a Pokédex that had spent quality time in a Fearow's nest-all scratched plastic and yellowed buttons worn smooth by years of frustrated gym leader prodding.
+Moments after Kayla's departure, Erika's hip erupted in a sound somewhere between a distressed Magnemite and a fax machine having an existential crisis. She produced what I first thought was a Pokédex that had spent quality time in a Fearow's nest---all scratched plastic and yellowed buttons worn smooth by years of frustrated gym leader prodding.
 
-Out of the corner of my eye, I caught Mary's slight forward lean, the way her fingers twitched against the manila folder-a trainer's instinct to answer the call of battle. But Erika's next words froze that motion mid-twitch.
+Out of the corner of my eye, I caught Mary's slight forward lean, the way her fingers twitched against the manila folder---a trainer's instinct to answer the call of battle. But Erika's next words froze that motion mid-twitch.
 
-"Mary," Erika's voice held a gentle reminder rather than a rebuke. "You know you're still suspended until further notice." She paused, her next words carefully chosen. "Though I suspect solving our Oddish predicament might help your case with the board." She smiled a knowing smile. "Keep me updated-and Mary, make sure our young friend here doesn't get into any more restricted areas?"
+"Mary," Erika's voice held a gentle reminder rather than a rebuke. "You know you're still suspended until further notice." She paused, her next words carefully chosen. "Though I suspect solving our Oddish predicament might help your case with the board." She smiled a knowing smile. "Keep me updated---and Mary, make sure our young friend here doesn't get into any more restricted areas?"
 
 The rhythmic clack of wooden geta against polished floors faded down the hallway, leaving behind the lingering scent of greenhouse flowers and the weight of Mary's unspoken frustration. 
 
@@ -22,11 +22,11 @@ The rhythmic clack of wooden geta against polished floors faded down the hallway
 
 \\\[^.^\]/
 
-The Celadon Department Store had been my first digital pilgrimage in every playthrough. Five floors of pixelated paradise where I'd bankrupt a thousand fictional selves for TMs and evolution stones. Now, standing before its real-world counterpart-all concrete and weathered signage instead of clean pixel art-I fought the absurd urge to check my nonexistent pockets for cheat codes.
+The Celadon Department Store had been my first digital pilgrimage in every playthrough. Five floors of pixelated paradise where I'd bankrupt a thousand fictional selves for TMs and evolution stones. Now, standing before its real-world counterpart---all concrete and weathered signage instead of clean pixel art---I fought the absurd urge to check my nonexistent pockets for cheat codes.
 
-The automatic doors hissed like a disapproving librarian, freezing me in the threshold. Air conditioning slapped my face, carrying the citrus tang of cleaning chemicals and something earthier beneath-crushed herbs? Burnt ozone? My nose twitched. 
+The automatic doors hissed like a disapproving librarian, freezing me in the threshold. Air conditioning slapped my face, carrying the citrus tang of cleaning chemicals and something earthier beneath---crushed herbs? Burnt ozone? My nose twitched. 
 
-Through the glass, reality flickered between my memories of American malls-all sleek escalators and standardized displays-and this fever dream of retail. A Mr. Mime in pressed black slacks pantomimed a traffic director's role with Broadway flair, its invisible walls parting the human and Pokemon streams like Moses at the retail sea. A Delibird waddled past dragging a returns cart twice its size, tail-bag gaping like Santa's sack after a bender. Somewhere to my left, a child wailed about their Growlithe eating a Poké Doll.
+Through the glass, reality flickered between my memories of American malls---all sleek escalators and standardized displays---and this fever dream of retail. A Mr. Mime in pressed black slacks pantomimed a traffic director's role with Broadway flair, its invisible walls parting the human and Pokemon streams like Moses at the retail sea. A Delibird waddled past dragging a returns cart twice its size, tail-bag gaping like Santa's sack after a bender. Somewhere to my left, a child wailed about their Growlithe eating a Poké Doll.
 
 "First time?" Mary asked, catching my wide-eyed stare at... everything. "Let's just say you're not the first farm kid I've seen go cross-eyed at the size. Locals go nose-blind to this circus by week two."
 
@@ -34,7 +34,7 @@ Through the glass, reality flickered between my memories of American malls-all s
 
 "Bigger than *Celadon's crown jewel*?" Mary's voice dripped with mock horror.
 
-Ahead, a woman in a fur-trimmed coat that screamed 'old money' carried a Meowth in what looked to be an expensive designer bag. The Pokemon peered from its leather throne, gold coin glinting as it dragged a claw across its throat-directly at me. My stomach dropped. 'Does it know? Can it smell the dimensional stink on me, like some kind of cosmic TSA agent?'
+Ahead, a woman in a fur-trimmed coat that screamed 'old money' carried a Meowth in what looked to be an expensive designer bag. The Pokemon peered from its leather throne, gold coin glinting as it dragged a claw across its throat---directly at me. My stomach dropped. 'Does it know? Can it smell the dimensional stink on me, like some kind of cosmic TSA agent?'
 
 The Meowth swiveled and repeated the gesture to a passing couple arguing over a map. The man yelped, fumbling the paper as his partner giggled.
 
@@ -44,7 +44,7 @@ I caught Mary's eyebrow creeping upward as she watched me. 'Think rural. Think b
 
 "-It's okay," she cut in, merciful as a Chansey and twice as smug. "Not everyone can handle civilization."
 
-Relief and irritation tangled in my chest-grateful for the easy escape from further questions, annoyed at being dismissed as some backwater yokel. Though to be fair, before the whole interdimensional bus incident, my biggest retail experiences had only been during vacations.
+Relief and irritation tangled in my chest---grateful for the easy escape from further questions, annoyed at being dismissed as some backwater yokel. Though to be fair, before the whole interdimensional bus incident, my biggest retail experiences had only been during vacations.
 
 The elevator dinged, brass gates parting to reveal a Machop in pressed bellhop whites, its hands poised over an ornate lever where simple buttons should have been.
 
@@ -58,7 +58,7 @@ Clunk. Fourth floor. The Machop wrestled the cab into alignment, sweat beading o
 
 The final ascent felt lighter in both weight and existential elevator dread. Even the Machop relaxed, claws tapping a jaunty rhythm against brass. 
 
-The elevator deposited us into what my brain insisted on categorizing as 'Pokemon Nordstrom meets REI'. Racks of performance wear stretched into the distance-moisture-wicking fabrics in every shade of 'serious trainer', interspersed with displays of what looked suspiciously like designer battle accessories. A Furret in a staff vest methodically reorganized a tower of folded quick-dry shirts, its long body wrapping around the display like a living level.
+The elevator deposited us into what my brain insisted on categorizing as 'Pokemon Nordstrom meets REI'. Racks of performance wear stretched into the distance---moisture-wicking fabrics in every shade of 'serious trainer', interspersed with displays of what looked suspiciously like designer battle accessories. A Furret in a staff vest methodically reorganized a tower of folded quick-dry shirts, its long body wrapping around the display like a living level.
 
 "Battle Collection's in the back," Mary said, navigating us through the fashion maze.
 
@@ -66,11 +66,11 @@ The atmosphere shifted as we crossed some invisible retail border. The hum of br
 
 "Good morning," Mary approached the counter, her gym uniform transforming this from shopping trip to official inquiry. "Could you tell us about your current stock of vitamins?"
 
-While Mary handled the official inquiry, I drifted toward the vitamin displays like a moth to particularly expensive flames. The bottles stood in perfect formation, their certification seals catching the light-and their price tags catching my breath. ₽9,800 or $98 for a single small HP UP bottle of vitamins. The larger ones... I did some quick mental math and decided I didn't need that kind of existential crisis today.
+While Mary handled the official inquiry, I drifted toward the vitamin displays like a moth to particularly expensive flames. The bottles stood in perfect formation, their certification seals catching the light---and their price tags catching my breath. ₽9,800 or $98 for a single small HP UP bottle of vitamins. The larger ones... I did some quick mental math and decided I didn't need that kind of existential crisis today.
 
 Each HP UP bore Celadon's Rainbow Badge seal like a designer logo, their green caps marking them as distinctly as a Gucci pattern. CALCIUM and IRON shared Pewter's Boulder Badge with their orange and yellow caps, carrying similarly painful price tags. PROTEIN, ZINC, and CARBOS bore unfamiliar badges I'd never seen rendered in pixel form, but their prices suggested they came from equally prestigious gyms.
 
-It was surreal seeing them as actual products instead of menu items. No simple "+1 to stats" here-just rows of identical bottles with gym seals and colored caps, not a single ingredient list or warning label in sight. The lack of fine print was almost unsettling after a lifetime of pharmaceutical novels compressed onto tiny bottles. I caught myself wondering if they'd work on humans before my brain helpfully reminded me that drinking mystery Pokemon supplements was probably a fantastic way to discover exactly why they kept those formulations secret-assuming I survived the experiment.
+It was surreal seeing them as actual products instead of menu items. No simple "+1 to stats" here---just rows of identical bottles with gym seals and colored caps, not a single ingredient list or warning label in sight. The lack of fine print was almost unsettling after a lifetime of pharmaceutical novels compressed onto tiny bottles. I caught myself wondering if they'd work on humans before my brain helpfully reminded me that drinking mystery Pokemon supplements was probably a fantastic way to discover exactly why they kept those formulations secret---assuming I survived the experiment.
 
 "-sourced exclusively from Celadon Gym, of course," the clerk's voice filtered back into focus. "Regular shipments twice a week, fully stocked at present."
 
@@ -80,15 +80,15 @@ Mary nodded. "And you haven't noticed anything unusual about supply or demand re
 
 "Anything unusual about HP UP in particular?" Mary pressed, her voice carefully casual.
 
-The clerk adjusted her glasses, the pause stretching just long enough to be interesting. "Well... had someone asking questions last week. Young girl, kind of sickly-looking. Wanted to know if there was a cheaper option." She turned back to her ledger with the practiced disinterest of retail nobility. "I told her what everyone gets told-Celadon Gym keeps their secrets. Not my job to explain why."
+The clerk adjusted her glasses, the pause stretching just long enough to be interesting. "Well... had someone asking questions last week. Young girl, kind of sickly-looking. Wanted to know if there was a cheaper option." She turned back to her ledger with the practiced disinterest of retail nobility. "I told her what everyone gets told---Celadon Gym keeps their secrets. Not my job to explain why."
 
-"Did she mention why she was asking?" Mary's tone stayed light, but I caught the predatory focus underneath-like a Meowth pretending it wasn't stalking a Pidgey.
+"Did she mention why she was asking?" Mary's tone stayed light, but I caught the predatory focus underneath---like a Meowth pretending it wasn't stalking a Pidgey.
 
 "Didn't care enough to ask." The clerk's pen scratched against paper with quiet finality. "She wasn't exactly waving around ₽10,000 per bottle money, if you catch my meaning. Why? Something happen?"
 
 Mary shook her head. "Just following up on some inquiries. Please let the gym know if any new HP UP formulas come to market. Thank you for your time."
 
-We drifted away from the counter, past those rows of mysterious bottles with their pristine Rainbow Badge seals. Each one probably contained enough carefully guarded secrets to give a pharmaceutical chemist a lifetime of dreams-or nightmares.
+We drifted away from the counter, past those rows of mysterious bottles with their pristine Rainbow Badge seals. Each one probably contained enough carefully guarded secrets to give a pharmaceutical chemist a lifetime of dreams---or nightmares.
 
 The complete lack of ingredient lists or warning labels made me wonder if there even was a Pokemon-world FDA, or if gym leaders just sat around in secret meetings deciding which concoctions to bless with their badges. 
 
@@ -96,13 +96,13 @@ The complete lack of ingredient lists or warning labels made me wonder if there 
 
 "Strange to ask about formulas openly if they were planning something," Mary muttered, more to herself than me. "Unless that was meant to be a distraction..."
 
-"Something's not quite adding up…" I muttered under my breath.
+"Something's not quite adding up..." I muttered under my breath.
 
 Mary caught my words and nodded slowly. "Yeah... this feels off." She gestured across the floor. "There's an herbal medicine shop over there as well. If someone's trying to recreate HP UP, they might've been asking questions there too."
 
 \-\[?.?\]-
 
-The afternoon sun beat down mercilessly as we trudged out of our eighth-or was it ninth?-shop. My hands trembled slightly, and not just from exhaustion. Mary shot me another worried glance.
+The afternoon sun beat down mercilessly as we trudged out of our eighth---or was it ninth?---shop. My hands trembled slightly, and not just from exhaustion. Mary shot me another worried glance.
 
 "I told you the coffee was a bad idea," she muttered, steadying me as I practically bounced off a street sign. Earlier, she'd tried to convince me to stick with juice, but I'd insisted I could handle it. After all, I'd been a coffee addict in my past life.
 
@@ -112,7 +112,7 @@ Unfortunately, my current body seemed to have *very* different opinions about ca
 
 Four more shops in the department store and two specialty herbalists later, the coffee had finally worn off enough for coherent thought. Each stop had added another piece to our puzzle: a desperate-looking girl, red-rimmed eyes, asking questions about HP UP production. The pattern was clear, but it led nowhere.
 
-"That's most of the major item shops and herbalists in the shopping district," Mary said, studying a paper map that looked like it had survived several wars with various beverage spills. She traced a finger along a series of narrow lines, then frowned. "Same girl at all of them… There's a few more places that we should check behind the Game Corner, but..." She glanced at me with the kind of worried look adults always seemed to default to around children. "Maybe I should check those alone."
+"That's most of the major item shops and herbalists in the shopping district," Mary said, studying a paper map that looked like it had survived several wars with various beverage spills. She traced a finger along a series of narrow lines, then frowned. "Same girl at all of them... There's a few more places that we should check behind the Game Corner, but..." She glanced at me with the kind of worried look adults always seemed to default to around children. "Maybe I should check those alone."
 
 Internally, I wrestled with the urge to explain that I wasn't actually an ten-year-old who needed protecting. But explaining that would involve a story about reincarnation-via-truck that even I still had trouble believing. Instead, I just asked, "Because I look like a kid?"
 
@@ -150,11 +150,11 @@ Shop number twelve looked like it had been squeezed between its neighbors as an 
 
 "-can't believe you actually did it," the man's voice, somewhere between awe and horror. "You actually stole a pokemon from the gym?"
 
-"You said Oddish was the key ingredient," a girl's voice, followed by a sneeze and a huge sniffle, "That if I had the gym's Oddish's spores he might-"
+"You said Oddish was the key ingredient," a girl's voice, followed by a sneeze and a huge sniffle, "That if I had the gym's Oddish's spores he might---"
 
-"Yeah, it is. But its not like I know how to make HP UP. I'm not an apothecary, I'm a shopkeeper. I just sell the stuff. You know you're gonna get years in prison. And for what? You should've worked up and saved the money to buy it. Hell, even stealing HP UP directly would've-"
+"Yeah, it is. But its not like I know how to make HP UP. I'm not an apothecary, I'm a shopkeeper. I just sell the stuff. You know you're gonna get years in prison. And for what? You should've worked up and saved the money to buy it. Hell, even stealing HP UP directly would've---"
 
-Another sneeze interrupted him. "Please. My brother, he's-"
+Another sneeze interrupted him. "Please. My brother, he's---"
 
 Before I could process what was happening, Mary shouldered past me and threw open the shop door. The bell's discordant chime made both occupants jump. My heart did a caffeine-enhanced somersault as I stumbled in after her.
 

@@ -34,7 +34,7 @@ Stephen's hand briefly touched something under his shirt collar before dropping 
 
 "What happened?" The question slipped out before I could stop myself.
 
-His eyes lifted to the badge display's reflection in the kitchen window. For a moment, something raw and grief-stricken crossed his face. Then he shook his head, shoulders slumping slightly. "I wasn't a good enough trainer back then. But I think now we…"
+His eyes lifted to the badge display's reflection in the kitchen window. For a moment, something raw and grief-stricken crossed his face. Then he shook his head, shoulders slumping slightly. "I wasn't a good enough trainer back then. But I think now we..."
 
 His voice trailed off into nothing, leaving only the steady hum of the microwave to fill the kitchen's sudden silence.
 
@@ -48,7 +48,7 @@ When I finished, Stephen dried his hands and reached into a high cabinet. "Here,
 
 "Hey!" A young voice made me jump. Ash stood in the kitchen doorway, Poliwag peering around his legs. "That's not fair! Mom said I couldn't have any cookies tonight! Why does she get them!" 
 
-"Ash," Stephen started, but Ash was already moving closer, curiosity overtaking his initial protest. "Ash, that's because you and Poliwag tracked mud into-let her-"
+"Ash," Stephen started, but Ash was already moving closer, curiosity overtaking his initial protest. "Ash, that's because you and Poliwag tracked mud into... let her---"
 
 "Who are you anyway?" Ash demanded, turning to me. "Why're you eating our cookies?"
 
@@ -56,7 +56,7 @@ When I finished, Stephen dried his hands and reached into a high cabinet. "Here,
 
 I looked down at the cookie, then at Ash's frown, then back at the cookie. I carefully broke it in half-not quite even, giving him the slightly bigger piece.
 
-"Here," I said, holding out half. I internally struggled with myself, wanting to take my hand back and eat it all. Dr. Fuji didn't really have many sweets in his apartment. But I was an adult. "Want… to share?"
+"Here," I said, holding out half. I internally struggled with myself, wanting to take my hand back and eat it all. Dr. Fuji didn't really have many sweets in his apartment. But I was an adult. "Want... to share?"
 
 Ash's eyes widened, anger forgotten in the face of cookie diplomacy. He glanced at Stephen, who hesitated, eyes flickering to where Delia worked in the garden before giving a small, almost conspiratorial nod.
 
@@ -68,7 +68,7 @@ Through the window, I could see Delia's shadow growing longer across her flowerb
 
 "She's had a long day, Ash," Stephen cut in smoothly, saving me from drowning in my own thoughts. "Why don't you tell her about that new move you've been teaching Poliwag instead?"
 
-"Oh man, you should see what Poliwag can do!" Ash practically vibrated with excitement, previous cookie crimes forgotten. "We've been practicing Water Gun for weeks! Well, mostly inside 'cause of the rain, which is why we're in trouble, but-" He bounced up from his chair. "Can I show her, Dad? Please? Just a tiny demonstration?"
+"Oh man, you should see what Poliwag can do!" Ash practically vibrated with excitement, previous cookie crimes forgotten. "We've been practicing Water Gun for weeks! Well, mostly inside 'cause of the rain, which is why we're in trouble, but---" He bounced up from his chair. "Can I show her, Dad? Please? Just a tiny demonstration?"
 
 "Outside only," Stephen said firmly, though I caught the hint of a smile. "And aim away from your mother's flowers."
 
@@ -118,7 +118,7 @@ I nodded, carefully patting my face dry. The towel smelled of sunshine and fresh
 
 "Ash, shower time," Stephen said, collecting the wet towels. "And don't forget to dry Poliwag properly this time."
 
-"But Dad he's a water-"
+"But Dad he's a water---"
 
 "No buts. You know the rules about wet Pokemon in bed."
 
@@ -134,7 +134,7 @@ Stephen dried his hands on a dishtowel, then absently adjusted the chain around 
 
 Above us, Ash was belting out what sounded like the Pokemon theme song, completely off-key and completely happy. Through the window, Delia's shadow moved across the garden one last time, checking her work.
 
-"Delia had told me some things," Stephen continued carefully when I didn't answer. "About how Amber died, her previous daughter died. About how Dr. Fuji became... obsessed." He leaned against the counter, arms crossed, eyes studying the worn linoleum. "I never thought he'd actually come back. Not like this… not with a… you." His gaze flickered to me, then away, as if avoiding the word 'clone' might make the situation less surreal.
+"Delia had told me some things," Stephen continued carefully when I didn't answer. "About how Amber died, her previous daughter died. About how Dr. Fuji became... obsessed." He leaned against the counter, arms crossed, eyes studying the worn linoleum. "I never thought he'd actually come back. Not like this... not with a... you." His gaze flickered to me, then away, as if avoiding the word 'clone' might make the situation less surreal.
 
 I traced a scratch in the kitchen table's surface, following its path through the wood. How could I explain that Dr. Fuji's obsession hadn't ended with bringing back Amber? That every detail of my existence now had to match some perfect memory he carried?
 

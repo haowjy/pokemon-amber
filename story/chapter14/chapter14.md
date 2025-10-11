@@ -10,7 +10,7 @@ updated: 2025-09-20
 
 Morning came with the sound of Pidgey calls and clinking plates downstairs. The guest room was small but cozy, its yellow walls a welcome change from the stark white of Dr. Fuji's apartment.
 
-I found clothes laid out on a chair-borrowed from Ash, a simple t-shirt and shorts. They still carried a faint scent of laundry detergent. 
+I found clothes laid out on a chair---borrowed from Ash, a simple t-shirt and shorts. They still carried a faint scent of laundry detergent. 
 
 I nodded, thankful to be finally rid of the dress. I never liked dresses, especially those frilly ones.
 
@@ -54,7 +54,7 @@ Stephen slid a stack of three perfectly golden pancakes onto Ash's plate. "Here 
 
 Ash immediately grabbed the syrup bottle, tilting it with wild abandon. The sweet liquid splashed and pooled haphazardly, some hitting the pancakes, some creating sticky puddles on the plate, and a few drops landing on the table. From below, Poliwag's excited "Poli!" suggested at least a few drops had made it to the floor.
 
-"Whoa, easy there," Stephen said, reaching for the bottle. "That's way too-"
+"Whoa, easy there," Stephen said, reaching for the bottle. "That's way too---"
 
 "But she used even more!" Ash protested, jerking his chin toward me while maintaining his death grip on the syrup.
 
@@ -88,7 +88,7 @@ Electabuzz's antennae crackled with sudden interest. The resigned slump of its s
 
 "There's that fighting spirit," Stephen grinned. 
 
-Then, turning to me: "Electabuzz here, he'll keep an eye on things until Delia gets back. And anything happens…" Stephen started.
+Then, turning to me: "Electabuzz here, he'll keep an eye on things until Delia gets back. And anything happens..." Stephen started.
 
 "If Dr. Fuji shows up?" I supplied quietly.
 
@@ -96,7 +96,7 @@ Stephen glanced at Electabuzz. The electric-type bumped his fists together, spar
 
 "Buzz Electabuzz!" Electabuzz gave a loud battle cry.
 
-Stephen's grip tightened on the chair. "Yeah. That. Electabuzz wouldn't let him near you." He paused, studying my face. "Unless you wanted to stay-"
+Stephen's grip tightened on the chair. "Yeah. That. Electabuzz wouldn't let him near you." He paused, studying my face. "Unless you wanted to stay---"
 
 I shook my head. "No, not with Dr. Fuji."
 
@@ -104,7 +104,7 @@ The words came easily. That crazy scientist kinda gave me a bad feeling. But it 
 
 Stephen nodded silently, looking me over with concern.
 
-"I'll be fine," I said, glancing at Electabuzz with a smile. "We can bond-" Electabuzz snorted at the word, and I dropped a quiet "probably."
+"I'll be fine," I said, glancing at Electabuzz with a smile. "We can bond---" Electabuzz snorted at the word, and I dropped a quiet "probably."
 
 Stephen chuckled, ruffling my hair with casual affection that felt both foreign and comforting. "Don't take it personally. Buzz here isn't exactly the nurturing type."
 
@@ -112,7 +112,7 @@ Electabuzz grunted in confirmation, crossing muscled arms over his scarred chest
 
 Thundering footsteps answered as Ash careened down the stairs, backpack bouncing wildly against his shoulders while Poliwag trailed after him. He skidded to a stop at the bottom, eyes widening at the sight of Electabuzz.
 
-"Whoa! Dad, is Buzz staying home today?" His disappointment morphed instantly to excitement. "Can I stay too? Please? I want to train-"
+"Whoa! Dad, is Buzz staying home today?" His disappointment morphed instantly to excitement. "Can I stay too? Please? I want to train---"
 
 "School, Ash," Stephen said firmly, guiding him toward the door.
 
@@ -194,7 +194,7 @@ Delia appeared in the doorway moments later, her expression shifting from mild e
 
 On screen, the Blastoise executed a perfect counter-blast, sending its opponent skidding across the arena. The crowd roared.
 
-"Yeah, it's-" I started, but Delia cleared her throat.
+"Yeah, it's---" I started, but Delia cleared her throat.
 
 "Ash," she said, her voice firm but not harsh. "You can watch the match later. Homework first."
 
@@ -210,11 +210,11 @@ Ash slumped dramatically against the couch cushions. "Fine," he grumbled, but ma
 
 Delia's expression softened as she glanced at the TV, then at her son-carefully keeping me at the edge of her vision. "Maybe you could try to do your homework during the commercials."
 
-Ash's face lit up. "Really? Yes!" He bounded back to the couch, nearly tripping over his own backpack in his rush. "Did you see that counter just now? The way Blastoise-" He paused mid-gesture, suddenly self-conscious. "Um, do you like Pokemon battles?"
+Ash's face lit up. "Really? Yes!" He bounded back to the couch, nearly tripping over his own backpack in his rush. "Did you see that counter just now? The way Blastoise---" He paused mid-gesture, suddenly self-conscious. "Um, do you like Pokemon battles?"
 
 "Do I like Pokemon battles?" The question caught me off guard. After all, my only real experience was through games and-
 
-"Like Pokemon battles?" I grinned, settling more comfortably on the couch. "Of course I do! My entire life I've-"
+"Like Pokemon battles?" I grinned, settling more comfortably on the couch. "Of course I do! My entire life I've---"
 
 "Right?" Ash's face lit up even more. "Did you see that Hydro Cannon earlier?"
 
@@ -224,7 +224,7 @@ Ash's face lit up. "Really? Yes!" He bounded back to the couch, nearly tripping 
 
 "Fifteen times seven..." Ash muttered, scribbling confidently. A very wrong '3' appeared on the page.
 
-"That's not-" Delia and I started at the same time. We both stopped.
+"That's not---" Delia and I started at the same time. We both stopped.
 
 I glanced up to find her standing in the doorway. She met my eyes for a brief moment, then nodded slightly and stepped back. "Go ahead," she said softly.
 
@@ -232,9 +232,9 @@ I glanced up to find her standing in the doorway. She met my eyes for a brief mo
 
 We worked through the multiplication problems between bursts of battle and commercials. Ash's pencil would freeze mid-calculation every time a pokemon appeared on screen.
 
-"So seven times five is-"
+"So seven times five is---"
 
-"OH WATCH THIS!" Ash pointed frantically at the TV. "See how Blastoise's cannons are angled? That means-"
+"OH WATCH THIS!" Ash pointed frantically at the TV. "See how Blastoise's cannons are angled? That means---"
 
 "Rapid Spin!" the trainer-Clair?-shouted as Blastoise tucked itself into its shell and whirled into motion. The massive turtle Pokemon became a blur of brown and blue, its rotation thundering across the arena as it kicked up clouds of dirt.
 
@@ -280,7 +280,7 @@ I chuckled as a contest battle promo flashed across the screen. "Now we can just
 
 Ash's eyes lit up as he carried back down the '1' into the final answer. "So carrying numbers is like... storing up energy for a big move?"
 
-"Exactly!" I grinned, caught up in his enthusiasm. "Each step builds up to-"
+"Exactly!" I grinned, caught up in his enthusiasm. "Each step builds up to---"
 
 The TV cut through our moment: "-and with that Ice Beam, Clair has knocked out 2 of Nolan's pokemon! What will be Nolan's last!" 
 
@@ -288,7 +288,7 @@ The TV cut through our moment: "-and with that Ice Beam, Clair has knocked out 2
 
 His pencil hovered above the next math question as Nolan's final pokeball burst open. A Hitmonchan materialized, already bouncing on its feet in a fighting stance.
 
-We spent the next few hours like that-Ash bouncing between furious scribbling during commercials and complete absorption in the matches. His arithmetic was getting neater though, more methodical. Whether any of this would stick once the TV was off... Well… that was a different equation entirely.
+We spent the next few hours like that-Ash bouncing between furious scribbling during commercials and complete absorption in the matches. His arithmetic was getting neater though, more methodical. Whether any of this would stick once the TV was off... Well... that was a different equation entirely.
 
 Sometimes I caught glimpses of Delia in the doorway, watching. She'd linger longest when I was correcting Ash's work. When I looked up and tried to give her a smile, she attempted to smile back, but it was obviously strained.
 
@@ -310,11 +310,11 @@ Ash nodded seriously, "Thanks to Amber."
 
 Ash paused mid-bite and tried to look away, suddenly very interested in his glass of water.
 
-Delia sighed, setting down her barely-touched fork. "After dinner, then. And no TV this time. Your teachers say you're falling behind…" She then glanced at me, something uncertain flickering across her face before she continued, "Maybe Amber could..."
+Delia sighed, setting down her barely-touched fork. "After dinner, then. And no TV this time. Your teachers say you're falling behind..." She then glanced at me, something uncertain flickering across her face before she continued, "Maybe Amber could..."
 
 "Sure, I can help Ash," I said quickly.
 
-"I don't need help from a g-" Ash started to protest, then caught himself, looking between his mother and me. Perhaps remembering how I had helped him so much with his math homework, his shoulders slumped in defeat. "Fine. But can we at least work in the living room?"
+"I don't need help from a g---" Ash started to protest, then caught himself, looking between his mother and me. Perhaps remembering how I had helped him so much with his math homework, his shoulders slumped in defeat. "Fine. But can we at least work in the living room?"
 
 "How was school today?" Delia asked, her eyes drifting to the clock again. 7:02. "Did Ms. Martinez like your science project?"
 
@@ -348,7 +348,7 @@ Ash sprawled across the couch, flipping through channels while Electabuzz watche
 
 Suddenly, headlights filtered through the window, casting long shadows across the living room walls. Electabuzz's growl started low, barely audible, but I felt it in my chest. I switched off the TV mid-battle commentary.
 
-"Hey-" Ash started to protest, but then he saw Electabuzz's stance-muscles coiled, electricity crackling between its antennae.
+"Hey---" Ash started to protest, but then he saw Electabuzz's stance---muscles coiled, electricity crackling between its antennae.
 
 The car engine cut off. Footsteps crunched on gravel, slow and deliberate.
 

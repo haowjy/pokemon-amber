@@ -39,5 +39,5 @@ Kanto and Johto developed as distinct regions separated by the Indigo mountain r
 - Sets stakes for League authority in later arcs.
 
 ## Citations / Sources
-- Story arc context: [Arc – The Perfect Family](../../arcs/1-the-perfect-family.md)
+- Story arc context: [Arc - The Perfect Family](../../arcs/1-the-perfect-family.md)
 - World systems cross‑ref: [Air Travel](../tech/air-travel.md), [Technology Overview](../tech/index.md)

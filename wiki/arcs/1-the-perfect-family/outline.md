@@ -1,14 +1,14 @@
 ---
 type: wiki
 category: arcs
-title: Arc Outline – (Working) The Perfect Family
+title: Arc Outline -The Perfect Family
 requires_citations: true
 status: draft
 updated: 2025-09-21
 hidden: false
 ---
 
-# Arc Outline – (Working Title) The Perfect Family
+# Arc Outline - The Perfect Family
 
 Note: This outline synthesizes on-page events and hidden backstory to track the escalating conflict around Dr. Fuji's attempt to reconstruct his family. It is forward-looking but grounded in the current canon through Chapter 17.
 
@@ -87,7 +87,7 @@ Author execution tips:
 - Dragonite evac; Oak vs Fuji 3v2; serum-mutated half-Magmar; massive collateral ([Ch.16]).
 - Fuji's last gambits fail; Ditto collapses out of Dragonite form; Oak injured but standing.
 
-9) Aftermath – Arrest & Fallout
+9) Aftermath---Arrest & Fallout
 - Hospital scene; Fuji apprehended; Ditto in custody but unharmed; Delia shattered; Ash volatile; MC in legal limbo ([Ch.17]).
 - Seeds for next arcs: League orphan care, Oak as stabilizing figure, MC/Ash/Delia recovery.
 

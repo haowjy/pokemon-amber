@@ -42,11 +42,11 @@ The sound of footsteps along gravel pulled him from his spiral. Stephen was righ
 
 Stephen stopped, briefcase shifting in his grip. His expression was guarded, but not yet afraid. 
 
-"Dr. Fuji." He spoke like someone approaching a wounded Pokemon. "What you're doing with that child... Delia told me everything about Amber. About what happened. I understand what you went through, but-"
+"Dr. Fuji." He spoke like someone approaching a wounded Pokemon. "What you're doing with that child... Delia told me everything about Amber. About what happened. I understand what you went through, but---"
 
 "Understand?" The word tasted like acid. "You understand?" Dr. Fuji's hand tightened around the Pokeball. The static in his head crescendoed, drowning out whatever patronizing comfort this *lab assistant* thought he could offer. "I was reconstructing genetic sequences while you were still learning how to operate a centrifuge. I brought our daughter back while you were... what? Filing reports? Cleaning test tubes?"
 
-"Sir, please." Stephen set his briefcase down slowly, his hand moving toward his neck, but paused as he felt nothing. "You're not thinking clearly. Why don't we-"
+"Sir, please." Stephen set his briefcase down slowly, his hand moving toward his neck, but paused as he felt nothing. "You're not thinking clearly. Why don't we---"
 
 "I brought her back!" The words burst out of him. "I did what no one else could do, what they said was impossible. And now you... you dare to judge me? To stand there in what should be *my* house, with my wife, while my daughter..."
 
@@ -56,7 +56,7 @@ His hands clenched into claws at his sides, tendons bulging. For a moment, only 
 
 The pink blob erupted upward like a geyser, twisting and contorting until a massive serpentine form blocked out the afternoon sun.
 
-Stephen stumbled backward, fumbling in his pockets for a Pokéball. "Poliwag, help-"
+Stephen stumbled backward, fumbling in his pockets for a Pokéball. "Poliwag, help---"
 
 The tiny tadpole materialized, looking pitifully fragile under Ditto-Gyarados's coiled form. A tremor shook the great serpent's body-hesitation, or resistance?-but Dr. Fuji's next words cut through the air like a knife:
 
@@ -66,7 +66,7 @@ The pink-purple flames roared through the evening air. The Poliwag tried to dodg
 
 Pink-purple flames roared through the evening air, superheating the atmosphere with a thunderous crack. The Poliwag tried to dodge, its tiny legs scrambling against scorched earth, but the attack's ferocity left nowhere to go. The blast engulfed the area with a small explosion, sending debris and superheated air rolling outward in a devastating wave.
 
-When the dust cleared, Poliwag lay motionless in a scorched crater. Stephen was already running forward, reaching for his fallen Pokemon. "Poliwag! Are you-"
+When the dust cleared, Poliwag lay motionless in a scorched crater. Stephen was already running forward, reaching for his fallen Pokemon. "Poliwag! Are you---"
 
 "Hyper Beam."
 
@@ -90,7 +90,7 @@ Silence stretched between them, broken only by the soft crackle of burning grass
 
 The great serpentine form trembled, then began to shrink, refusing the command. Dr. Fuji's face twisted with rage as he raised the Pokeball.
 
-"Useless." His hand shook as he recalled the Ditto. "Mewtwo killed twenty-three of Team Rocket's best scientists the moment it awoke. But you act like you're a…"
+"Useless." His hand shook as he recalled the Ditto. "Mewtwo killed twenty-three of Team Rocket's best scientists the moment it awoke. But you act like you're a..."
 
 He stared down at Ditto's Pokeball for a long moment, something flickering behind his eyes. Then his other hand moved to a different ball, and whatever had passed across his face vanished completely.
 

@@ -14,13 +14,13 @@ The apartment air pressed down, stale with unsaid things. Ditto stood by my door
 
 "Good morning?" I tried.
 
-Silence. Just yesterday we'd celebrated my first reward, a handful of suddenly meaningless coins. Now Ditto just… watched. Back to being the proper guardian. A wall between us.
+Silence. Just yesterday we'd celebrated my first reward, a handful of suddenly meaningless coins. Now Ditto just... watched. Back to being the proper guardian. A wall between us.
 
 In the kitchen, wrongness piled up. Cold tea in a forgotten mug. An empty chair where Dr. Fuji should be. And there, the empty space by the kettle where Ditto's Pokeball used to sit, a glaring absence.
 
 Would anyone notice I was gone? Mary, Kaede, Erika-our whirlwind adventure felt like a lifetime ago, but it had only been a day. We hadn't made concrete plans, but surely they'd wonder where I'd disappeared to. Wouldn't they?
 
-I poked at soggy cereal, too aware of Ditto watching from the doorway. "So... about yesterday-"
+I poked at soggy cereal, too aware of Ditto watching from the doorway. "So... about yesterday---"
 
 Nothing. Not a ripple. Just that steady, neutral gaze that made my skin prickle. I forced down another sand-dry bite. Some reward. Trapped with a friend who couldn't be one anymore.
 
@@ -66,7 +66,7 @@ The southern road wound through rolling countryside, each hill revealing more of
 
 With its proximity to Viridian City and the iconic windmills of Professor Oak's lab seemingly pulled from the cartoons, this was clearly Pallet Town.
 
-My hands twisted in my lap as questions I'd been avoiding crashed through my mind: Why Pallet Town? Was this even the same timeline as the games? Or was it the anime? …Manga? Did Ash exist here? Red? Both? Neither?
+My hands twisted in my lap as questions I'd been avoiding crashed through my mind: Why Pallet Town? Was this even the same timeline as the games? Or was it the anime? ...Manga? Did Ash exist here? Red? Both? Neither?
 
  The reality of this world kept diverging further from everything I thought I knew, and each difference felt like another crack in whatever remained of my certainty.
 
@@ -88,11 +88,11 @@ I watched the woman at the garden freeze, trowel suspended mid-motion. This was 
 
 Even the boy and his Poliwag had gone quiet, sensing the shift in atmosphere.
 
-"I brought-" He pushed me forward like a prize specimen. "I brought her back. I did it, Delia. I brought our daughter back."
+"I brought---" He pushed me forward like a prize specimen. "I brought her back. I did it, Delia. I brought our daughter back."
 
 The garden tools lay forgotten among the flowers, their shadows stretching long across the carefully tended earth. In the dying light, I watched Delia's face go completely still, as if she'd forgotten how to breathe. Her eyes fixed on me with an expression I couldn't read-something between disbelief and dawning horror.
 
-"You actually did it," she whispered, and there was something terrible in her voice, like she was seeing every fear she'd ever had come true at once. "After all these years, you actually-"
+"You actually did it," she whispered, and there was something terrible in her voice, like she was seeing every fear she'd ever had come true at once. "After all these years, you actually---"
 
 The sound of running water cut off abruptly inside. A chair scraped against wood, followed by the bang of a screen door. A man burst onto the porch, sleeves rolled up and hands still dripping soap suds.
 
@@ -104,7 +104,7 @@ Twenty years of anime episodes where he simply didn't exist, and here he was was
 
 The Poliwag splashed in a puddle, oblivious to the growing storm. Delia's voice cut through the evening air, quiet but firm: "Ash, take Poliwag inside."
 
-"But Mom-"
+"But Mom---"
 
 "Now, please."
 
@@ -112,21 +112,21 @@ I watched him hesitate, caught in that peculiar childhood moment of sensing adul
 
 "Who are you?" Ash's father moved to stand beside his wife, positioning himself between us and the house. Water dripped steadily from his rolled sleeves onto the freshly turned earth.
 
-Dr. Fuji's fingers dug deeper into my shoulder. "This doesn't concern you." His voice had taken on a strange, dreamy quality that made my skin crawl. "You've played your part, offering comfort while I was away. But now I've succeeded. Our daughter-" he pushed me forward again, "-is back. We can be a proper family again. A brilliant family. Not this..." he gestured at the modest blue house, the neat rows of flowers, "...pastoral mediocrity."
+Dr. Fuji's fingers dug deeper into my shoulder. "This doesn't concern you." His voice had taken on a strange, dreamy quality that made my skin crawl. "You've played your part, offering comfort while I was away. But now I've succeeded. Our daughter---" he pushed me forward again, "---is back. We can be a proper family again. A brilliant family. Not this..." he gestured at the modest blue house, the neat rows of flowers, "...pastoral mediocrity."
 
 The garden tools lay scattered where Delia had dropped them, their metal surfaces catching the last rays of sunlight. She stood very still, and I wondered if this was how she'd looked when Dr. Fuji first told her about his plans to clone their daughter-that perfect balance between fury and heartbreak.
 
-"Pastoral mediocrity?" Her voice trembled with the weight of years. "While you were hiding in your lab trying to play god, I built something real. Something whole." She swept her arm toward the cheerful blue house behind her, the carefully tended garden beds, the wooden swing hanging from the old oak tree. "But you wouldn't understand that, would you? Some of us chose to live instead of-"
+"Pastoral mediocrity?" Her voice trembled with the weight of years. "While you were hiding in your lab trying to play god, I built something real. Something whole." She swept her arm toward the cheerful blue house behind her, the carefully tended garden beds, the wooden swing hanging from the old oak tree. "But you wouldn't understand that, would you? Some of us chose to live instead of---"
 
-"I brought her back!" Dr. Fuji's grip tightened until I had to bite back a wince. "She's alive, Delia. Our daughter is alive again. Look at her face, her eyes-it's her, it has to be her-"
+"I brought her back!" Dr. Fuji's grip tightened until I had to bite back a wince. "She's alive, Delia. Our daughter is alive again. Look at her face, her eyes---it's her, it has to be her---"
 
-"That's not-that's not Amber." Delia's words fell like broken glass. "Whatever you've done, whatever you've created..." She forced herself to look at me, really look, like someone pressing on a bruise to prove it hurts. When she finally spoke again, her voice cracked. "Our daughter is gone, and this-" her hand trembled as she gestured at me, "this is just another experiment. Another way to avoid facing what happened. The cancer-"
+"That's not---that's not Amber." Delia's words fell like broken glass. "Whatever you've done, whatever you've created..." She forced herself to look at me, really look, like someone pressing on a bruise to prove it hurts. When she finally spoke again, her voice cracked. "Our daughter is gone, and this---" her hand trembled as she gestured at me, "this is just another experiment. Another way to avoid facing what happened. The cancer---"
 
 That word-cancer-carried the weight of years of grief. The setting sun caught in her hair, painting her in shades of gold that made the whole scene feel like some twisted memorial photo.
 
 A breeze stirred the flowers, carrying the scent of freshly turned earth and something that might have been dinner cooking inside that cheerful blue house. Some other version of this evening existed where they'd all be sitting down to eat right now, if we hadn't shown up to shatter their peace.
 
-Dr. Fuji's fingers dug so deep into my shoulder that I could feel each individual digit trembling. Not with grief or shame, but with that particular kind of desperate anger that comes when someone's carefully constructed reality starts to crack. "You don't understand," he said, his voice rising to match the wind. "I did it. I actually did it! While you were here playing house with-" he published my shoulder to jab a finger at Ash's father, "-with some *lab assistant*," he spat the words like they tasted foul, "I brought our daughter back! I did what everyone said was impossible! This is what I promised you, what you never believed I could-"
+Dr. Fuji's fingers dug so deep into my shoulder that I could feel each individual digit trembling. Not with grief or shame, but with that particular kind of desperate anger that comes when someone's carefully constructed reality starts to crack. "You don't understand," he said, his voice rising to match the wind. "I did it. I actually did it! While you were here playing house with---" he published my shoulder to jab a finger at Ash's father, "---with some *lab assistant*," he spat the words like they tasted foul, "I brought our daughter back! I did what everyone said was impossible! This is what I promised you, what you never believed I could---"
 
 "Get off my property." Delia's voice cut through his rant like a knife. Her shadow stretched long across her garden, merging with the darkness gathering at the edges of this broken family tableau. "Before I call Officer Jenny."
 

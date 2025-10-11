@@ -12,7 +12,7 @@ The girl on the ground continued to sob, each heaving breath sending fresh waves
 
 "Your brother?" Mary's voice remained steady, though her grip on my shoulder tightened slightly. "Tell us about him."
 
-"He's-" Another sneeze interrupted her explanation, and I watched as Mary instinctively moved to help her sit up. "He's only six, and the hospital said-" She broke off, wiping her nose with her sleeve. "They said they couldn't do anything without proper registration, but we don't have-we can't-"
+"He's---" Another sneeze interrupted her explanation, and I watched as Mary instinctively moved to help her sit up. "He's only six, and the hospital said---" She broke off, wiping her nose with her sleeve. "They said they couldn't do anything without proper registration, but we don't have---we can't---"
 
 Healthcare. Right. In all my hours of playing Pokemon, healing had just been a cheerful jingle at a Pokemon Center. I'd never thought about human hospitals here, or if they were as nightmarish about insurance as back in my world.
 
@@ -206,9 +206,9 @@ She hadn't moved an inch from her brother's side, despite whatever was affecting
 
 Mary's voice was gentle, but her question cut through the room like a knife: "Is this why you stole Oddish?"
 
-Kaede sniffed up a thick glob of snot before looking down guiltily. With a soft whisper, she responded, "Yes… I thought I could make HP UP to extend his life…"
+Kaede sniffed up a thick glob of snot before looking down guiltily. With a soft whisper, she responded, "Yes... I thought I could make HP UP to extend his life..."
 
-Mary's eyes widened. "That's not-" She caught herself, softening her tone. "HP UP doesn't work like that at all. It doesn't really extend life. It's a supplement that helps Pokemon develop their natural durability over time. Using it on humans could be dangerous-our bodies aren't made to handle those kinds of compounds. It could make him even sicker. You have to buy proper human medicines."
+Mary's eyes widened. "That's not---" She caught herself, softening her tone. "HP UP doesn't work like that at all. It doesn't really extend life. It's a supplement that helps Pokemon develop their natural durability over time. Using it on humans could be dangerous---our bodies aren't made to handle those kinds of compounds. It could make him even sicker. You have to buy proper human medicines."
 
 Kaede's eyes widened in horror. She looked at the Oddish, then back at her brother. "I... I almost..."
 

@@ -36,6 +36,6 @@ Amber interprets this through a Pokemon fan lens: "It's shy like a real animal w
 
 ## Wiki references
 
-- [Arc Outline – The Perfect Family](../../wiki/arcs/1-the-perfect-family/outline.md)
+- [Arc Outline-The Perfect Family](../../wiki/arcs/1-the-perfect-family/outline.md)
 - [Dr. Fuji Character Page](../../wiki/characters/dr-fuji.md)
 - [Hidden Lore & Story Mechanics](../../wiki/lore/_world-mechanics.md)

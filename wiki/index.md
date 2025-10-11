@@ -16,7 +16,7 @@ This wiki summarizes the plot of Pokemon Amber for quick reference as we write. 
 - **Per-Chapter Summaries**: See [Chapters Overview](./chapters.md)
 - **Timeline**: See [Overall Timeline](./timeline.md)
 - **Arcs**:
-  - (Working) The Perfect Family – Fuji arc outline: [link](./arcs/1-the-perfect-family.md)
+  - (Working) The Perfect Family - Fuji arc outline: [link](./arcs/1-the-perfect-family.md)
 
 ## Characters
 

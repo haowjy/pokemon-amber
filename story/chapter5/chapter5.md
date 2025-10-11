@@ -76,7 +76,7 @@ A sudden shout broke the peacefulness and scared Gloom into hiding behind a shad
 
 I whipped my head around, Amber's shoulder-length hair swinging with the motion. A girl stood in the doorway, her silhouette sharp against the amber light of sunset. Her purple hair was pulled back in a neat ponytail, accentuating the clean lines of her Celadon Gym uniform-a forest green kimono-style top with darker trim that caught the dying light. The asymmetrical closure and embroidered rainbow badge on her chest marked her as part of the Celadon gym. A Bellsprout swayed beside her, its vine-like neck moving with an alien grace.
 
-"What are you doing in here?" She couldn't have been more than fifteen, but her voice carried the weight of practiced authority. The kind that came from memorizing rules and desperately wanting to prove you could enforce them. The Bellsprout's head bobbed in a rhythmic counterpoint to her words.
+"What are you doing in here?" She couldn't have been more than fifteen, but her voice carried the weight of practiced authority. The Bellsprout's head bobbed in a rhythmic counterpoint to her words.
 
 "I..." The explanation died somewhere between my brain and my mouth. The humid air felt heavier suddenly, pressing down with the weight of being caught for... caught for what exactly? Watching two Pokemon play? The absurdity of it almost made me laugh, but something in her stance suggested that might not be the wisest response.
 
@@ -94,15 +94,15 @@ The girl's expression shifted, authority melting into something closer to concer
 
 'Parents.' The word hit like a punch to the gut. In my head, I was old enough that the question felt absurd, but the reflection in the greenhouse glass told a different story. A small girl with shoulder-length hair, looking very much like she should, in fact, have a parent nearby.
 
-"My father's..." I started, then stopped. What could I say? 'My father's a genetics researcher who thinks I'm his resurrected daughter because technically I am, just with a bonus hitchhiking consciousness from another dimension, and left me in an apartment alone with instructions not to leave but I left anyway because I wanted to explore this brand new world'? Even in a world with Pokemon, that felt like a stretch.
+"My father is..." I started, then stopped. What could I say? 'My father's a genetics researcher who thinks I'm his resurrected daughter because technically I am, just with a bonus hitchhiking consciousness from another dimension, and left me in an apartment alone with instructions not to leave but I left anyway because I wanted to explore this brand new world'? Even in a world with Pokemon, that felt like a stretch.
 
 The girl sighed, absently adjusting her purple ponytail. "Listen," she said, "I didn't mean to scare you. Just... if you see a sign that says 'Do Not Enter,' please don't enter, okay? This is a restricted area. These Pokemon aren't used to visitors."
 
 I nodded slowly while backing away, motioning for Ditto to follow. Internally, I was screaming at myself. How could I have just walked into a restricted area?
 
-The greenhouse door felt miles away, my short legs taking what seemed like an eternity to cross the distance. The handle itself posed a regular challenge-too high for comfortable reach. I managed to push it open with a grunt, cool evening air rushing in to break the greenhouse's humid spell.
+The greenhouse door felt miles away, my short legs taking what seemed like an eternity to cross the distance. The handle itself posed a regular challenge---too high for comfortable reach. I managed to push it open with a grunt, cool evening air rushing in to break the greenhouse's humid spell.
 
-It wasn't until we were several steps away that I finally looked up and saw it – the 'RESTRICTED \- DO NOT ENTER' sign, mounted well above child-height on the greenhouse wall. I groaned internally. Of course, it was there. Of course, I'd managed to miss it.
+It wasn't until we were several steps away that I finally looked up and saw it---the 'RESTRICTED: DO NOT ENTER' sign, mounted well above child-height on the greenhouse wall. I groaned internally. Of course, it was there. Of course, I'd managed to miss it.
 
 The trees cast longer shadows now, their leaves turning from gold to deep amber in the setting sun. I shuffled away from the greenhouse, trying to maintain some dignity while essentially fleeing the scene of my latest misadventure. Ditto kept pace beside me, its amorphous form somehow managing to convey both sympathy and mild judgment.
 

@@ -177,7 +177,7 @@ The hallway held a handful of scientists in various states of panic, their lab c
 
 "...containment field's down in Enhancement Lab Three..."
 
-"...Fuji's legendary clone…"
+"...Fuji's legendary clone..."
 
 "...the evolution acceleration chamber is overloading..."
 

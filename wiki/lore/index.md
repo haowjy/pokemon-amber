@@ -4,7 +4,7 @@ category: lore
 title: Lore Index
 requires_citations: true
 status: draft
-updated: 2025-10-10
+updated: 2025-10-11
 hidden: false
 ---
 
@@ -12,16 +12,16 @@ hidden: false
 
 ## Trainer Systems
 - [Trainer Systems Overview](./trainer-systems/index.md)
-- [Badge System](./trainer-systems/badge-system.md) - Area-specific certification for quest access
-- [Gym System Structure](./trainer-systems/gym-system.md) - Multi-function institutions
-- [Quest System & Job Boards](./trainer-systems/quest-system.md) - Freelance trainer work
+- [Badge System](./trainer-systems/badge-system.md) - Standard vs Elite badges; League qualification
+- [Gym System Structure](./trainer-systems/gym-system.md) - Challenges, training, entertainment
+- [Quest System & Job Boards](./trainer-systems/quest-system.md) - Freelance trainer work (license required)
 - [Pokemon League](./trainer-systems/pokemon-league.md) - Competitive battling path (coming soon)
 - [Aura & Bonding](./trainer-systems/aura-and-bonding.md) - Trainer-Pokemon connection mechanics (coming soon)
 
 ## Organizations
 - [Ranger Union](./organizations/ranger-union.md) - Wilderness emergency services
 - [Police Force](./organizations/police-force.md) - Law enforcement (coming soon)
-- [Ace Trainers](./organizations/ace-trainers.md) - Elite government military (coming soon)
+- [Ace Trainers](./organizations/ace-trainers.md) - ≥1 Elite Badge recognition; government partnerships
 - [Elite Four & Champion](./organizations/elite-four-and-champion.md) - Regional leadership (coming soon)
 
 ## Technology

@@ -4,44 +4,35 @@ category: lore
 title: Trainer Systems Overview
 requires_citations: true
 status: draft
-updated: 2025-10-10
+updated: 2025-10-11
 hidden: false
 ---
 
 # Trainer Systems Overview
 
-The modern Pokemon training landscape in Kanto-Johto features multiple interconnected systems that serve different purposes: area certification for wilderness work, competitive battling achievement, and elite government service.
+The modern Pokemon training landscape in Kanto-Johto features multiple interconnected systems that serve different purposes: legal licensing for handling Pokemon, competitive battling achievement, and elite recognition.
 
 ## Overview
 
-**Three Primary Systems:**
-1. **[Badge System](./badge-system.md)** - Gym badges prove area competency, grant quest access
-2. **[Pokemon League](./pokemon-league.md)** - Competitive battling achievement and championship qualification  
-3. **[Ace Trainer Program](../organizations/ace-trainers.md)** - Elite government service and military pathway
+**Core Systems:**
+1. **[Trainer Licensing](./trainer-licensing.md)** - Legal ability to handle Pokemon and take quests
+2. **[Badge System](./badge-system.md)** - Standard (Gym) and Elite badges; trust and League qualification
+3. **[Pokemon League](./pokemon-league.md)** - Juniors (badges) and Regular (≥1 Elite Badge + ranking)
+4. **[Ace Recognition](../organizations/ace-trainers.md)** - ≥1 Elite Badge; often recruited for government work
 
 These systems are distinct but often overlap in practice. A skilled trainer might pursue one, two, or all three paths depending on their goals.
 
 ## Key Distinctions
 
-### Badge System vs Pokemon League
+### Licensing vs Badges vs League
 
-- **Badge System**: Gym badges earned through area-specific challenges
-  - Each badge certifies you for one geographic area
-  - Fixed difficulty based on local danger level (Cinnabar harder than Cerulean)
-  - Required for: Quest access in that area, working in that region
-  - Obtained through: Passing gym's battle test for their area
-  - Represents: Geographic breadth and regional trust, NOT power level
-  - More badges = more areas you can work in
+- **Licensing**: Legal framework for handling Pokemon and contracting quests (safety, accountability)
+- **Badges**: Gym trust marks; Standard vs Elite; used by the League for qualification and seeding
+- **League**: Competitive pathway with two tracks
+  - Juniors (U18): Earn 8 Standard Gym Badges from League‑recognized gyms (or recommendations)
+  - Regular (Open Age): Hold ≥1 Elite Badge (Ace status) and meet ranking points threshold
 
-- **Pokemon League Requirements**: Competitive championship pathway
-  - **Junior League** (Under 18): 8 badges from different gyms OR academy/gym recommendation
-  - **Main League**: Ranking Points + ELO threshold OR 8 Ace Badges (automatic entry)
-  - Used for: Championship tournaments, competitive battling circuit
-  - 8 badges shows you're well-traveled, not necessarily stronger
-
-**Integration**: The same gym badges serve both purposes - they grant area-based quest access AND count toward League qualification. A trainer with 6 badges from different gyms can work in 6 different areas and is approaching League eligibility.
-
-**Important**: Badges represent geography and travel, not strength. A rookie with 5 badges (traveled a lot) might be weaker than a veteran with 2 badges (stayed local).
+**Integration**: Licenses gate legal work; badges influence hiring, reputation, and League entry/seeding. Badges reflect breadth and recognized trust, not raw power.
 
 ### Competitive League vs Regional Champion
 
@@ -63,44 +54,35 @@ Pre-Pokeball, Champions led gym councils against Pokemon. Post-Pokeball governme
 
 ## Supporting Systems
 
-- **[Quest System](./quest-system.md)** - Freelance work coordinated through Pokemon Centers, requires area badges
-- **[Gym System](./gym-system.md)** - Multi-function facilities offering badges, training, and entertainment
+- **[Quest System](./quest-system.md)** - Freelance work via Pokemon Centers; license required; badges optional by poster
+- **[Gym System](./gym-system.md)** - Standard and Elite challenges, training, entertainment
 - **[Aura & Bonding](./aura-and-bonding.md)** - Advanced trainer-Pokemon connection mechanics
 
 ## How the Systems Work Together
 
 **Typical Trainer Path:**
-1. Start in home area, challenge local gym for first badge
-2. Travel to new area, challenge that gym for second badge
-3. Use badges to take quests in certified areas (earn money)
-4. Collect more badges to work in more areas
-5. If Junior League-focused: Collect 8 different badges for entry
-6. If Main League-focused: Compete in tournaments for Ranking Points/ELO OR earn 8 Ace Badges
-7. If Quest-focused: Collect badges for profitable areas, become professional quester
-8. If Elite-focused: Challenge gym leaders for Ace Badges, register as Ace Trainer
+1. Obtain learner’s or standard trainer license
+2. Challenge gyms for badges as desired (trust, reputation, Juniors path)
+3. Take quests with a valid license; posters may prefer certain badges
+4. If Juniors path: Collect 8 Gym Badges to qualify
+5. If Regular path: Earn ≥1 Elite Badge (Ace) and accumulate ranking points
+6. Specialization: Gym employment, Ranger track, elite invitations
 
 **Badge Collection Strategy:**
-- **Easier gyms first** (Cerulean, Viridian) - safer areas, easier tests
-- **Harder gyms later** (Cinnabar, Saffron) - dangerous areas, harder tests
-- **Or strong trainers challenge hard gyms early** if confident
-- **Strategic targeting** - collect badges for areas you want to work in
+- **Approachable gyms first** (e.g., Cerulean) for foundation; harder gyms later (e.g., Cinnabar)
+- Strong trainers may attempt elite challenges early
 
-**Quest Access:**
-- Have Celadon badge → can take Celadon-area quests
-- Have Pewter badge → can take Pewter/Mt. Moon quests
-- Have 8 badges → can work almost anywhere in region
-- Quest difficulty ratings are informational (not enforced)
+**Quests:**
+- License required; badges optional preferences set by posters
+- Difficulty ratings are informational (not enforced)
 
 **League Qualification:**
 
 **Junior League (Under 18):**
-- 8 standard badges from different gyms (proves well-traveled)
-- OR Pokemon Academy graduation with recommendation
-- OR Gym leader recommendation
+- 8 Standard Gym Badges from League‑recognized gyms (or recommendations)
 
-**Main League (Open Age):**
-- Ranking Points from sanctioned tournaments + minimum ELO
-- OR 8 Ace Badges (automatic qualification, skip ranking grind)
+**Regular League (Open Age):**
+- Hold ≥1 Elite Badge (Ace status) and meet tournament ranking threshold
 
 ## Historical Context
 
