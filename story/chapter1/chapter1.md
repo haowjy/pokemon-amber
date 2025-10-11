@@ -68,12 +68,12 @@ RaidenMain2: @everyone LETS GOOOOO
 
 BigDKarp: TEN MINS LEFT
 
-ProfOaksFavStudent: @AlexaTheGreat where u at? we need ur Darkrai  
+ProfOaksFavStudent: @AlexTheGreat where u at? we need ur Darkrai  
 ```
 
 I briefly swiped back to the emulator, hesitating over my next move before quickly tapping the menu and saving my state.
 
-'I’ll deal with this later,' I decided. Shadow Mewtwo just sounded too cool and the battle wasn’t going anywhere. The early spring air bit at my face as I burst from the dorm building, nearly colliding with a cluster of freshmen who hadn't learned that campus sidewalks have their own unwritten rules of navigation.
+'I'll deal with this later,' I decided. Shadow Mewtwo just sounded too cool and the battle wasn't going anywhere. The early spring air bit at my face as I burst from the dorm building, nearly colliding with a cluster of freshmen who hadn't learned that campus sidewalks have their own unwritten rules of navigation.
 
 The library stood sentinel across University Avenue. The crosswalk's red hand blinked its warning---a traffic signal I'd normally respect. But the street stretched empty in both directions.
 
@@ -81,7 +81,7 @@ My phone buzzed again.
 
 ```
 
-RaidenMain2: @AlexaTheGreat where u at??
+RaidenMain2: @AlexTheGreat where u at??
 
 BigDKarp: 2 min until the raid @everyone HURRY IF YOU WANT SHADOW MEWTWO
 
@@ -101,7 +101,7 @@ Except the game hadn't ended.
 
 A tremor rippled through my container, and another, each one stronger than the last. Then came a sound that defied description---something between a roar and a thought-given voice, so deep it seemed to resonate in bones I wasn't sure were mine anymore.
 
-The container finally gave way. Hairline fractures quickly spiderwebbed across my visible world, immediately transforming the emergency lights into kaleidoscopic fragments before the final crack broke.
+The container finally gave way. Fractures quickly spiderwebbed across my visible world, immediately transforming the emergency lights into kaleidoscopic fragments before the final crack broke.
 
 A pair of arms caught me while I fell---arms that seemed impossibly large. They were attached to a middle-aged man whose tear-streaked face loomed above me.
 

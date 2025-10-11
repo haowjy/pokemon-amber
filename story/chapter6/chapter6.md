@@ -30,19 +30,19 @@ While she changed, he placed the dishes in the sink and set up the VCR player, a
 
 When she stepped out in the blue dress, Fuji averted his gaze from the way she tugged at the collar, her fingers clawing at the trim as if it were choking her. Amber loved this dress-he reminded himself of that, clinging to the memory of her delight in every stitch of these resurrected gifts.
 
-“Stop that!” The words erupted from him, sharp and unbidden.
+"Stop that!" The words erupted from him, sharp and unbidden.
 
 Amber froze, her hands hesitating at the collar before drifting warily to her sides.
 
-“Just a rebellious phase,” Fuji muttered under his breath, turning toward his room to gather his things-folders swollen with data, security cards, and a single photograph slipped into his breast pocket. Not the one from this morning-that would return to the album-but another, its image so etched in his mind he didn’t need to glance at it.
+"Just a rebellious phase," Fuji muttered under his breath, turning toward his room to gather his things-folders swollen with data, security cards, and a single photograph slipped into his breast pocket. Not the one from this morning-that would return to the album-but another, its image so etched in his mind he didn't need to glance at it.
 
-“I’ll likely be late tonight… again,” he said, the phrase worn smooth by repetition. “Ditto will-”
+"I'll likely be late tonight… again," he said, the phrase worn smooth by repetition. "Ditto will-"
 
-“Ditto will watch me. I know,” she cut in, her voice edged with a sigh as her eyes rolled upward.
+"Ditto will watch me. I know," she cut in, her voice edged with a sigh as her eyes rolled upward.
 
-Fuji’s arm snapped up, a coiled spring of frustration, hovering midair. Amber flinched, her arms rising instinctively to shield herself, a reflex that struck him like a cold gust.
+Fuji's arm snapped up, a coiled spring of frustration, hovering midair. Amber flinched, her arms rising instinctively to shield herself, a reflex that struck him like a cold gust.
 
-Fuji forced his hand back down slowly and took a few deep breaths. “Mind your tone, young lady.”
+Fuji forced his hand back down slowly and took a few deep breaths. "Mind your tone, young lady."
 
 Another discrepancy. Another flaw to note and mend later.
 
@@ -62,7 +62,7 @@ The stairwell beyond was everything the Game Corner wasn't-sterile, silent, seri
 
 Fuji accepted the folder without breaking stride, Gideon falling into step beside him. The younger scientist's nervousness manifested in a constant stream of words.
 
-"I backdated everything through the hospital records-birth certificate, vaccination records, doctor’s notes, check-ups, everything. Anyone who looks will find a perfectly ordinary ten-year-old girl who’s lived here all her life." Gideon paused, glancing sideways, a slight blush coloring his cheeks. "Oh, and Agent Domino was asking about you last night. Said she has something you'll find interesting. She's at the Rose Heights Apartments, Unit 742."
+"I backdated everything through the hospital records-birth certificate, vaccination records, doctor's notes, check-ups, everything. Anyone who looks will find a perfectly ordinary ten-year-old girl who's lived here all her life." Gideon paused, glancing sideways, a slight blush coloring his cheeks. "Oh, and Agent Domino was asking about you last night. Said she has something you'll find interesting. She's at the Rose Heights Apartments, Unit 742."
 
 The conference room door loomed ahead, voices already leaking through. Fuji's hand tightened on the folder, creasing its edge. "Thank you, Dr. Gideon. That will be all."
 
@@ -70,9 +70,9 @@ The conference room door loomed ahead, voices already leaking through. Fuji's ha
 
 The conference room hummed with barely contained chaos. Screens covered every wall-damage reports on the left, casualty lists straight ahead, power readings to the right. Junior scientists clustered in the back corners like anxious Rattata, while admins claimed the chairs closest to the vacant seat at the head of the table.
 
-Fuji took his seat at the table's midpoint-likely no longer the head of his own research division-and opened Gideon’s folder of forged records. He didn’t need the position now anyway.
+Fuji took his seat at the table's midpoint-likely no longer the head of his own research division-and opened Gideon's folder of forged records. He didn't need the position now anyway.
 
-"Twenty-three dead," Admin Archer began without preamble. "Forty-five support staff. Billions in equipment." He stood at the room's front, hands clasped behind his back, reflection fractured across the wall of screens. "And a weapon of unprecedented power loose in the world, when it should’ve been under our control." His eyes were fixed on Fuji. "Would you care to explain how this happened, Doctor?"
+"Twenty-three dead," Admin Archer began without preamble. "Forty-five support staff. Billions in equipment." He stood at the room's front, hands clasped behind his back, reflection fractured across the wall of screens. "And a weapon of unprecedented power loose in the world, when it should've been under our control." His eyes were fixed on Fuji. "Would you care to explain how this happened, Doctor?"
 
 "I've already explained in the previous meetings." Fuji's voice sagged with fatigue. Even still, he opened his folder, beginning a methodical review of Gideon's forged documents, each page a lifeline to a daughter he was trying to hold together.
 
@@ -92,13 +92,13 @@ Fuji took his seat at the table's midpoint-likely no longer the head of his own 
 
 "Replicate?" Dr. Namba's laugh held no humor. "Half of our other research was destroyed. Most of it… gone. The legendary capture systems, the fusion experiments..." He finally glanced at the photographs of the ruins behind her. "The Evolution Acceleration lab is a crater. Twenty years of strength augmentation research, gone."
 
-“Your strength augmentation machine barely worked anyway," Dr. Sebastian said with a dismissive wave. “The serum developed by Silph Co. is better.”
+"Your strength augmentation machine barely worked anyway," Dr. Sebastian said with a dismissive wave. "The serum developed by Silph Co. is better."
 
-“That serum is unstable and unpredictable. My strength augmentation machine-”
+"That serum is unstable and unpredictable. My strength augmentation machine-"
 
 The room erupted into overlapping arguments. A junior researcher waved printouts of energy readings. Two admins argued about cover stories while Dr. Sebastian and Dr. Namba's debate about the efficacies of the strength augmentation system devolved into a shouting match about research priorities.
 
-Through it all, Fuji continued reading his documents, marking errors that didn’t make sense. Each forged page helping to build the foundation of his daughter's new existence. Only occasionally did his eyes flick to the photographs of the ruined facility, lingering on the massive hole torn through three sublevels-the path of Mewtwo's destruction.
+Through it all, Fuji continued reading his documents, marking errors that didn't make sense. Each forged page helping to build the foundation of his daughter's new existence. Only occasionally did his eyes flick to the photographs of the ruined facility, lingering on the massive hole torn through three sublevels-the path of Mewtwo's destruction.
 
 The door opened.
 
@@ -110,9 +110,9 @@ Giovanni entered like he was taking a casual stroll through one of his gardens. 
 
 His eyes found Fuji, who had finally looked up from his papers. The two men regarded each other for a long moment-the crime lord and the scientist, each seeing something in the other that the rest of the room couldn't quite grasp.
 
-“My investment?” Giovanni asked, staring at Fuji.
+"My investment?" Giovanni asked, staring at Fuji.
 
-"Your investment," Fuji echoed, meeting Giovanni's gaze with the same detached interest he'd shown in his papers, "exceeded all parameters. The enhanced clone demonstrated power levels beyond anything in recorded history.”
+"Your investment," Fuji echoed, meeting Giovanni's gaze with the same detached interest he'd shown in his papers, "exceeded all parameters. The enhanced clone demonstrated power levels beyond anything in recorded history."
 
 "What about its personality? You mixed some human DNA, correct?" Giovanni's question carried a weight that seemed to thicken the air.
 
@@ -126,7 +126,7 @@ Dr. Sebastian cleared his throat, clicking through his presentation. "The forced
 
 "The successful specimens were killed in the collapse," A scientist said, her voice tight. "Though frankly, given their condition, perhaps that was a mercy."
 
-“And the legendary capture projects?”
+"And the legendary capture projects?"
 
 Dr. Zager pulled up a new set of files. "Most of our legendary capture research data was recovered. The theoretical frameworks for containing Mew, the legendary birds, even Celebi-"
 
@@ -134,7 +134,7 @@ Dr. Zager pulled up a new set of files. "Most of our legendary capture research 
 
 "The equipment was lost," Zager continued, ignoring the comment. "But considering we haven't actually located any of these Pokemon besides Mew, rebuilding the containment units isn't our highest priority."
 
-“Before we discuss future legendary projects," Archer cut in, "what about the immediate threat? Can we capture Mewtwo, the clone of a legendary?" He turned to Fuji. "Doctor, exactly how strong is this thing?"
+"Before we discuss future legendary projects," Archer cut in, "what about the immediate threat? Can we capture Mewtwo, the clone of a legendary?" He turned to Fuji. "Doctor, exactly how strong is this thing?"
 
 Fuji looked up from his papers, something flickering behind his eyes-a flash of annoyance at yet another interruption of his reading. But after a moment's consideration, he set the documents aside with exaggerated care.
 
@@ -168,7 +168,7 @@ The afternoon dragged on all the way into night. Status updates from field opera
 
 "Did you see what it did to the psychic dampeners? They melted-"
 
-“Our supporters wouldn’t have the funds-”
+"Our supporters wouldn't have the funds-"
 
 The sun had set by the time Giovanni stood, silencing the room once more. "I expect daily updates," he said simply. He stood to leave, his Persian following like a shadow.
 
@@ -182,7 +182,7 @@ He had another meeting to attend.
 
 Rose Heights Apartments loomed over the northern edge of Celadon City, its modern glass facade reflecting the soft glow of the moon. Fuji took the elevator to the seventh floor, his reflection in the mirrored walls looking more worn than he remembered. The fluorescent lights made the shadows under his eyes deeper and turned his lab coat a sickly shade of yellow.
 
-Domino opened the door in exercise clothes, a gym towel around her neck. Sweat gleamed on her skin, but her smile was perfectly composed. "Dr. Fuji. You’re very late."
+Domino opened the door in exercise clothes, a gym towel around her neck. Sweat gleamed on her skin, but her smile was perfectly composed. "Dr. Fuji. You're very late."
 
 He followed her into an apartment that was notably sparse-a few pieces of furniture, no personal items visible. Exercise equipment dominated one corner, news with captions playing silently on the TV.
 

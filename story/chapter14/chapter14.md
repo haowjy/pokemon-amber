@@ -82,15 +82,15 @@ When Electabuzz materialized, the kitchen felt suddenly smaller. Battle scars cr
 
 "Buzz, buzz," Electabuzz sighed, crossing its arms with weary patience. The gesture pulled at the old scar running across its chest, a pale line visible even through the yellow fur.
 
-"Come on, just for today," Stephen coaxed. "I said I’ll make it up to you tomorrow. Maybe see if Professor Oak will let us borrow Dragonite for a proper spar?"
+"Come on, just for today," Stephen coaxed. "I said I'll make it up to you tomorrow. Maybe see if Professor Oak will let us borrow Dragonite for a proper spar?"
 
 Electabuzz's antennae crackled with sudden interest. The resigned slump of its shoulders straightened, competitive fire flickering in its eyes.
 
 "There's that fighting spirit," Stephen grinned. 
 
-Then, turning to me: "Electabuzz here, he’ll keep an eye on things until Delia gets back. And anything happens…" Stephen started.
+Then, turning to me: "Electabuzz here, he'll keep an eye on things until Delia gets back. And anything happens…" Stephen started.
 
-“If Dr. Fuji shows up?” I supplied quietly.
+"If Dr. Fuji shows up?" I supplied quietly.
 
 Stephen glanced at Electabuzz. The electric-type bumped his fists together, sparks dancing between them.
 
@@ -106,7 +106,7 @@ Stephen nodded silently, looking me over with concern.
 
 "I'll be fine," I said, glancing at Electabuzz with a smile. "We can bond-" Electabuzz snorted at the word, and I dropped a quiet "probably."
 
-Stephen chuckled, ruffling my hair with casual affection that felt both foreign and comforting. "Don't take it personally. Buzz here isn't exactly the nurturing type.”
+Stephen chuckled, ruffling my hair with casual affection that felt both foreign and comforting. "Don't take it personally. Buzz here isn't exactly the nurturing type."
 
 Electabuzz grunted in confirmation, crossing muscled arms over his scarred chest.
 
@@ -118,13 +118,13 @@ Thundering footsteps answered as Ash careened down the stairs, backpack bouncing
 
 Ash dug his heels in suddenly, turning to look at me with narrowed eyes. "Wait! What about her?"
 
-Stephen's hand froze on Ash's shoulder as he paused before slowly continuing, “She just arrived. She’ll go to school like you once she settles in.”
+Stephen's hand froze on Ash's shoulder as he paused before slowly continuing, "She just arrived. She'll go to school like you once she settles in."
 
 Ash's face darkened as he shot me a resentful glare, "Not fair," he grumbled, shoulders slumping as he allowed himself to be guided toward the door.
 
 "There's leftover curry in the fridge for lunch! Just ask Electabuzz if you can't reach it!" Stephen said, then paused to return Poliwag to its ball. 
 
-“Buzz,” Electabuzz snorted, shaking his head with a slight smirk.
+"Buzz," Electabuzz snorted, shaking his head with a slight smirk.
 
 I watched through the window as father and son raced down the path, their laughter carrying on the morning breeze. Just another ordinary morning in Pallet Town.
 
@@ -132,7 +132,7 @@ Except nothing about this felt ordinary for me.
 
 I turned to find Electabuzz watching me, arms crossed, sparks casually dancing between his antennae.
 
-Time to figure out how to spend a morning with my new bodyguard. Maybe he’ll be like Ditto?
+Time to figure out how to spend a morning with my new bodyguard. Maybe he'll be like Ditto?
 
 \-\[^.^\]-
 
@@ -146,7 +146,7 @@ I soon gave up and began to explore the house. Electabuzz followed me wherever I
 
 Crayon drawings covered the fridge-earlier ones showing wobbly Weedle, Oddish, Rattata, and Butterfree and Caterpie, newer ones proudly featuring a round blue Poliwag. Near the kitchen doorway, pencil marks tracked Ash's height through the years, each line dated in either a neat or messy script.
 
-I wandered upstairs and paused at Ash’s room. Curiosity overcame any sense of boundary-this was THE Ash Ketchum's house, after all.
+I wandered upstairs and paused at Ash's room. Curiosity overcame any sense of boundary-this was THE Ash Ketchum's house, after all.
 
 His room was exactly what you'd expect of a kid: clothes scattered everywhere, half-read Pokemon magazines sprawled open on the floor. I didn't linger long, just enough to spot a well-worn guidebook to Kanto Pokemon buried under some laundry.
 
@@ -184,7 +184,7 @@ Electabuzz silently stood next to the couch and watched the broadcast with a gli
 
 The front door slammed open with enough force to make Electabuzz flinch. Ash burst into the living room like a miniature hurricane, backpack half-unzipped and hanging precariously from one shoulder.
 
-"Whoaaa! Is that Clair’s Blastoise?" He vaulted over the back of the couch and landed beside me with a bounce that nearly sent me airborne. "Hydro Cannon is so powerful!"
+"Whoaaa! Is that Clair's Blastoise?" He vaulted over the back of the couch and landed beside me with a bounce that nearly sent me airborne. "Hydro Cannon is so powerful!"
 
 I blinked, startled by the sudden invasion of my quiet afternoon. Electabuzz made a sound somewhere between a grunt and a sigh.
 
@@ -198,15 +198,15 @@ On screen, the Blastoise executed a perfect counter-blast, sending its opponent 
 
 "Ash," she said, her voice firm but not harsh. "You can watch the match later. Homework first."
 
-"But Mo-om," Ash dragged out the word. "It’s Clair's Blastoise!"
+"But Mo-om," Ash dragged out the word. "It's Clair's Blastoise!"
 
-"Homework," Delia repeated, finally stepping fully into the room. Her eyes flicked briefly to me, then away. “There will probably be reruns later.”
+"Homework," Delia repeated, finally stepping fully into the room. Her eyes flicked briefly to me, then away. "There will probably be reruns later."
 
-Ash slumped dramatically against the couch cushions. "Fine," he grumbled, but made no move to get up. "Who’s your favorite trainer?" he asked me, lowering his voice as if Delia might not hear him from six feet away.
+Ash slumped dramatically against the couch cushions. "Fine," he grumbled, but made no move to get up. "Who's your favorite trainer?" he asked me, lowering his voice as if Delia might not hear him from six feet away.
 
 "Ash." Just his name this time, but with a warning tone that made him sigh loudly.
 
-"Okay, okay." He hauled himself up, dragging his backpack behind him. At the foot of the stairs, he turned back. "Can I watch now and then do homework after dinner? Pleeeease? It’s a Blastoise!"
+"Okay, okay." He hauled himself up, dragging his backpack behind him. At the foot of the stairs, he turned back. "Can I watch now and then do homework after dinner? Pleeeease? It's a Blastoise!"
 
 Delia's expression softened as she glanced at the TV, then at her son-carefully keeping me at the edge of her vision. "Maybe you could try to do your homework during the commercials."
 
@@ -214,7 +214,7 @@ Ash's face lit up. "Really? Yes!" He bounded back to the couch, nearly tripping 
 
 "Do I like Pokemon battles?" The question caught me off guard. After all, my only real experience was through games and-
 
-"Like Pokemon battles?" I grinned, settling more comfortably on the couch. "Of course I do! My entire life I’ve-”
+"Like Pokemon battles?" I grinned, settling more comfortably on the couch. "Of course I do! My entire life I've-"
 
 "Right?" Ash's face lit up even more. "Did you see that Hydro Cannon earlier?"
 
@@ -250,17 +250,17 @@ Then, they cut to the announcer. "And Clair returns her Blastoise! What will be 
 
 "35!" Ash was practically bouncing in his seat, pencil already scribbling in the 5 after the 3 and trying to move onto the next problem.
 
-“Wait!” I called out, my eyes darting to the commercial about some of the latest Silph Co. battle gear, then back to the paper to tap the ‘1’ in ‘15’, “You did the one’s, now what about the ten’s? The one in front of 15?”
+"Wait!" I called out, my eyes darting to the commercial about some of the latest Silph Co. battle gear, then back to the paper to tap the '1' in '15', "You did the one's, now what about the ten's? The one in front of 15?"
 
-“Oh right!” Ash said as he wrote a 7 in front of his ‘35.’
+"Oh right!" Ash said as he wrote a 7 in front of his '35.'
 
-“Slow down. What are we supposed to do with the 3?”
+"Slow down. What are we supposed to do with the 3?"
 
 Before Ash could answer, both our heads snapped up to the TV screen just as a Dragonair materialized in a flash of red light, its blue scales gleaming under the arena lights.
 
 Skarmory launched into the air with a metallic screech, unleashing Air Slash after Air Slash. But Dragonair simply waited, dodging and weaving through the air. When Skarmory finally overextended, Dragonair struck-one precise Ice Beam that caught its opponent's wing mid-flap, freezing it solid.
 
-"AND THAT’S ROUND THREE!" The announcer's voice rose over the crowd's cheers as Skarmory collapsed into the ground with swirls in its eyes. "We'll be right back after these messages from our sponsors!"
+"AND THAT'S ROUND THREE!" The announcer's voice rose over the crowd's cheers as Skarmory collapsed into the ground with swirls in its eyes. "We'll be right back after these messages from our sponsors!"
 
 Ash picked up his pencil again, then glanced at me expectantly.
 
@@ -278,13 +278,13 @@ Ash nodded slowly, erasing the '3' and putting it above the '1'. He looked back 
 
 I chuckled as a contest battle promo flashed across the screen. "Now we can just write that 1 down. It's like a battle strategy-you don't throw everything at once. You position your moves carefully," I gestured at the carried numbers, "saving some power for when you need it most."
 
-Ash's eyes lit up as he carried back down the ‘1’ into the final answer. "So carrying numbers is like... storing up energy for a big move?"
+Ash's eyes lit up as he carried back down the '1' into the final answer. "So carrying numbers is like... storing up energy for a big move?"
 
 "Exactly!" I grinned, caught up in his enthusiasm. "Each step builds up to-"
 
-The TV cut through our moment: "-and with that Ice Beam, Clair has knocked out 2 of Nolan’s pokemon! What will be Nolan’s last!" 
+The TV cut through our moment: "-and with that Ice Beam, Clair has knocked out 2 of Nolan's pokemon! What will be Nolan's last!" 
 
-“-Build to the final answer to win the problem!” I say, but Ash was already paying more attention to the real pokemon battle.
+"-Build to the final answer to win the problem!" I say, but Ash was already paying more attention to the real pokemon battle.
 
 His pencil hovered above the next math question as Nolan's final pokeball burst open. A Hitmonchan materialized, already bouncing on its feet in a fighting stance.
 
@@ -292,25 +292,25 @@ We spent the next few hours like that-Ash bouncing between furious scribbling du
 
 Sometimes I caught glimpses of Delia in the doorway, watching. She'd linger longest when I was correcting Ash's work. When I looked up and tried to give her a smile, she attempted to smile back, but it was obviously strained.
 
-“Dinner’s ready!” Delia called out from the kitchen.
+"Dinner's ready!" Delia called out from the kitchen.
 
 Ash immediately dropped his pencil mid-equation, practically bouncing toward the smell of tomato sauce. I followed more slowly, my new body's stomach growling despite my mind's hesitation.
 
 Dinner was pasta with a rich tomato sauce that made my mouth water-comfort food. Electabuzz continued to eat his berries. But something felt off about the meal.
 
-“Did you finish your homework?” Delia asked as she glanced at the wall clock. 6:53.
+"Did you finish your homework?" Delia asked as she glanced at the wall clock. 6:53.
 
 "Yeah, I finished my math homework thanks to..." Ash trailed off, realizing he didn't even know my name.
 
 "Amb... Amber," Delia supplied, her voice catching slightly.
 
-Ash nodded seriously, “Thanks to Amber.”
+Ash nodded seriously, "Thanks to Amber."
 
 "What about your other homework?" Delia asked.
 
 Ash paused mid-bite and tried to look away, suddenly very interested in his glass of water.
 
-Delia sighed, setting down her barely-touched fork. "After dinner, then. And no TV this time. Your teachers say you’re falling behind…" She then glanced at me, something uncertain flickering across her face before she continued, "Maybe Amber could..."
+Delia sighed, setting down her barely-touched fork. "After dinner, then. And no TV this time. Your teachers say you're falling behind…" She then glanced at me, something uncertain flickering across her face before she continued, "Maybe Amber could..."
 
 "Sure, I can help Ash," I said quickly.
 
@@ -318,7 +318,7 @@ Delia sighed, setting down her barely-touched fork. "After dinner, then. And no 
 
 "How was school today?" Delia asked, her eyes drifting to the clock again. 7:02. "Did Ms. Martinez like your science project?"
 
-Ash's face darkened. "Gary and his friends kept saying my presentation was stupid.” After a short pause, he continued, "Mom, when's Dad and Poliwag coming back?"
+Ash's face darkened. "Gary and his friends kept saying my presentation was stupid." After a short pause, he continued, "Mom, when's Dad and Poliwag coming back?"
 
 "Soon, honey." Delia's fork clinked against her plate as she set it down. 7:03. "He's probably just..."
 
@@ -366,4 +366,4 @@ The night lit up red. The door exploded inward in a burst of flames and splinter
 
 His white suit was immaculate, not a wrinkle or scorch mark. Pink and yellow petals scattered at his feet as a Magmar's flames illuminated his face from below, casting strange shadows across his empty smile.
 
-“Delia?”
+"Delia?"

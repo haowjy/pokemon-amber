@@ -14,7 +14,7 @@ updated: 2025-09-21
 
 # Chapter 13 - Summary
 
-Amber bonds with Delia, Stephen, and Ash; domestic life unfolds; Ash trains Poliwag; Stephen’s trainer past is hinted as family warmth grows.
+Amber bonds with Delia, Stephen, and Ash; domestic life unfolds; Ash trains Poliwag; Stephen's trainer past is hinted as family warmth grows.
 
 - Story: [Chapter 13](./chapter13.md)
 

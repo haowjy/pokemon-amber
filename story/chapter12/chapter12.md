@@ -8,23 +8,23 @@ updated: 2025-09-20
 
 # \[Chapter 12\] A Very Reasonable Man
 
-A winding path cut through the trees on Pallet Town's outskirts. Dr. Fuji fidgeted on a fallen log, where he’d spent the afternoon, a manila folder gripped tightly in his lap.
+A winding path cut through the trees on Pallet Town's outskirts. Dr. Fuji fidgeted on a fallen log, where he'd spent the afternoon, a manila folder gripped tightly in his lap.
 
 Through the branches, Oak's lab silhouetted against the afternoon sky. Champion Oak. Professor Oak now. The grant ceremony seemed a lifetime ago-Oak's firm handshake, flashing cameras, admiring looks. 
 
 Yet here Dr. Fuji sat, overshadowed while Oak transitioned from victory to victory, as if remaking a life were as simple as a title change.
 
-He spread the folder’s contents across the damp bark: surveillance reports from Domino mixed with photos old and new. The older ones, soft-edged from years of handling, showed happier times-their wedding day, beach trips with little Amber building sandcastles, family picnics in the summer sun.
+He spread the folder's contents across the damp bark: surveillance reports from Domino mixed with photos old and new. The older ones, soft-edged from years of handling, showed happier times-their wedding day, beach trips with little Amber building sandcastles, family picnics in the summer sun.
 
 The newer photos captured Delia around her restaurant, in her garden, and walking through town. His fingers trembled slightly as he sifted through them. He found a few that stood out: Delia laughing at her garden gate, Stephen's arm draped her shoulders.
 
-"Just a reasonable discussion," he muttered, taking out his pen. The ink moved methodically across Stephen's face. "Man to man. You must understand that Delia and I..." His hand pressed harder, the pen tip catching on the glossy surface. “We kind of have a history.”
+"Just a reasonable discussion," he muttered, taking out his pen. The ink moved methodically across Stephen's face. "Man to man. You must understand that Delia and I..." His hand pressed harder, the pen tip catching on the glossy surface. "We kind of have a history."
 
 Another photo. Stephen and Delia at some local festival together. His pen dug into the paper, scratching violently until it tore through. "I'm not being unreasonable." The next one-their garden. His fingers seized the edge of Stephen's figure and ripped, the sound sharp in the quiet afternoon. "I just need you to understand..." He was tearing them now, hands shaking as pieces fell around his feet like strange confetti. "...that you're in the way of something bigger than yourself."
 
 A young trainer passed by with her Rattata, giving him an uncertain glance before hurrying on. The sound of footsteps pulled Dr. Fuji from his frenzy, and he quickly gathered the scattered pieces, stuffing them back into the folder. 
 
-His hands steadied as he checked his watch. Soon. Stephen took this path to the lab, so he’ll probably take the same path back. Just two reasonable men, having a discussion about Delia's future.
+His hands steadied as he checked his watch. Soon. Stephen took this path to the lab, so he'll probably take the same path back. Just two reasonable men, having a discussion about Delia's future.
 
 The shadows had shifted since dawn, when he'd first noticed Stephen walking this path. Dr. Fuji's legs had gone numb hours ago, but he barely registered the discomfort. 
 
@@ -38,7 +38,7 @@ That cheerful blue house of hers, with its wooden swing and carefully tended gar
 
 The sound of footsteps along gravel pulled him from his spiral. Stephen was right on schedule, probably heading home to make dinner in that cozy kitchen. The sight of him sent a wave of static through Dr. Fuji's mind, drowning out the words he'd rehearsed all day. His hand found a Pokeball in his pocket, fingers trembling slightly.
 
-"Hey." Dr. Fuji’s voice broke as he stepped onto the path. "We need to talk about Delia."
+"Hey." Dr. Fuji's voice broke as he stepped onto the path. "We need to talk about Delia."
 
 Stephen stopped, briefcase shifting in his grip. His expression was guarded, but not yet afraid. 
 
@@ -90,7 +90,7 @@ Silence stretched between them, broken only by the soft crackle of burning grass
 
 The great serpentine form trembled, then began to shrink, refusing the command. Dr. Fuji's face twisted with rage as he raised the Pokeball.
 
-"Useless." His hand shook as he recalled the Ditto. "Mewtwo killed twenty-three of Team Rocket’s best scientists the moment it awoke. But you act like you're a…”
+"Useless." His hand shook as he recalled the Ditto. "Mewtwo killed twenty-three of Team Rocket's best scientists the moment it awoke. But you act like you're a…"
 
 He stared down at Ditto's Pokeball for a long moment, something flickering behind his eyes. Then his other hand moved to a different ball, and whatever had passed across his face vanished completely.
 

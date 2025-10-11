@@ -13,7 +13,7 @@ hidden: false
 ## Broadcast and Networks
 - Local Broadcast: City/municipal towers cover population centers.
 - Cross‑Region TV: Limited; no robust underground trunk lines; dependence on local relays.
-- Satellite: Early adoption during this arc; becomes common by MC’s later journey era.
+- Satellite: Early adoption during this arc; becomes common by MC's later journey era.
 
 ## Messaging and Data
 - Postal + Courier Pokemon: Reliable within regions; cross‑region routes sparse.

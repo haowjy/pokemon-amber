@@ -16,15 +16,15 @@ The park grounds unfolded in carefully planned waves of green and color. Grass a
 
 A lone figure caught my eye, breaking the perfect symmetry of the scene. An elderly man sat on a bench between two trees, his eyes nearly closed but somehow still managing to track my movement. As our gazes met, his face split into a grin that belonged in a different kind of game entirely, the kind that little girls should avoid at all costs.
 
-Ditto tightened slightly around my neck, a silent agreement that perhaps we should speed up our stately progression down Ginkgo Tree Ave. The trees’ shadows suddenly felt less majestic and more like convenient hiding spots for things that smiled too widely.
+Ditto tightened slightly around my neck, a silent agreement that perhaps we should speed up our stately progression down Ginkgo Tree Ave. The trees' shadows suddenly felt less majestic and more like convenient hiding spots for things that smiled too widely.
 
-‘Oookay then,' I thought, picking up my pace while trying to look like I absolutely belonged here and was not at all creeped out by the local bench cryptid. 'Time to see what's behind door number one.'
+'Oookay then,' I thought, picking up my pace while trying to look like I absolutely belonged here and was not at all creeped out by the local bench cryptid. 'Time to see what's behind door number one.'
 
 The automatic doors whispered open with blessed modernity, trading filtered sunlight for fluorescent clarity and the weight of ancient trees for climate-controlled certainty. My relief lasted exactly as long as it took to read the price board mounted on the sleek reception desk.
 
 \`\`\`
 
-Ace Challenge Fee: ₽100,000
+Ace Challenge
 
 League Spectator Pass: ₽10,000
 
@@ -62,15 +62,15 @@ Except no battle music began. No options appeared. The Gloom just... blinked at 
 
 The Gloom considered this for a moment, then made a sound somewhere between a sigh and a gurgle. It was probably the most accurate representation of its name I'd ever heard. Before I could decide if this was a good sign or not, I felt Ditto begin to slide down my arm.
 
-"Wait, what are you-" I started, but Ditto had already pooled on the ground and was beginning to reshape itself. I watched, fascinated despite my nerves, as it quickly twisted and grew until a second Gloom stood before me, matching the first down to the slightly droopy flower on its head.
+"Wait, what are you---" I started, but Ditto had already pooled on the ground and was beginning to reshape itself. I watched, fascinated despite my nerves, as it quickly twisted and grew until a second Gloom stood before me, matching the first down to the slightly droopy flower on its head.
 
 The original Gloom perked up immediately, its perpetually sad expression lifting into something approaching delight. It tottered forward, circling Ditto-Gloom with obvious interest. Ditto, for its part, seemed equally fascinated, mimicking the other Pokemon's movements in a sort of impromptu dance.
 
-I quickly glanced around the greenhouse, searching for any witnesses to Ditto's transformation. Nothing but plants and condensation-streaked glass. A relieved sigh escaped me-the last thing I needed was more attention drawn to me.
+I quickly glanced around the greenhouse, searching for any witnesses to Ditto's transformation. Nothing but plants and condensation-streaked glass. A relieved sigh escaped me---the last thing I needed was more attention drawn to me.
 
 A beam of late sunlight cut through the glass above, catching the moisture in the air and creating a rainbow that seemed to dance between the leaves. Gloom and Ditto Gloom happily danced together in the sun, the warm rays of light invigorating them both.
 
-“Hey!”
+"Hey!"
 
 A sudden shout broke the peacefulness and scared Gloom into hiding behind a shadow.
 
@@ -110,8 +110,8 @@ The trees cast longer shadows now, their leaves turning from gold to deep amber 
 
 The sound barely registered before something slammed into me from behind. The world tilted, and suddenly I was studying the leaves from ground level, my back pressed against the cold stone path. Through watering eyes, I caught a glimpse of someone scrambling to collect a fallen Pokemon-an Oddish, its leafy sprouts drooping and wilted, round body curled defensively, and its red eyes swirling from the fall.
 
-"S-sorry!" came a strangled voice, followed by another explosive sneeze. The girl-maybe fourteen or fifteen-only glanced at me for a moment before she hurriedly gathered up her unconscious Pokemon. Her face was flushed, eyes red and running, and she vanished around a corner before I could even push myself to a sitting position.
+"S-sorry!" came a strangled voice, followed by another explosive sneeze. The girl---maybe fourteen or fifteen---only glanced at me for a moment before she hurriedly gathered up her unconscious Pokemon. Her face was flushed, eyes red and running, and she vanished around a corner before I could even push myself to a sitting position.
 
 Ditto oozed closer, helping me up with a concerned ripple through its body. I brushed dirt from my dress, wincing at the brown stains that would definitely require an explanation later.
 
-"Time to go home," I sighed to Ditto, though 'home' still felt like the wrong word for Dr. Fuji's apartment. “Today’s been a fruitfully long day of adventure.”
+"Time to go home," I sighed to Ditto, though 'home' still felt like the wrong word for Dr. Fuji's apartment. "Today's been a fruitfully long day of adventure."

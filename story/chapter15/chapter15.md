@@ -20,7 +20,7 @@ Electabuzz's response was a thunderous roar as electricity surged through its bo
 
 "Flamethrower," Dr. Fuji commanded.
 
-As flames erupted from Magmar’s mouth, Electabuzz unleashed a crackling thunderbolt that cut through the flamethrower. The collision sent sparks flying in all directions as ozone filled the air, dispersing the flames.
+As flames erupted from Magmar's mouth, Electabuzz unleashed a crackling thunderbolt that cut through the flamethrower. The collision sent sparks flying in all directions as ozone filled the air, dispersing the flames.
 
 Without hesitation, Electabuzz lunged through the gap, attempting to close the distance before Magmar could breathe more fire. Electricity coursed around his fists as he whirled them like a windmill.
 
@@ -30,11 +30,11 @@ Magmar matched its trainer's retreat while unleashing a continuous stream of fla
 
 The heat behind the couch became unbearable as fire licked up the walls. Smoke was already starting to fill the room. I grabbed Ash's arm, keeping low. We needed to move now, while Electabuzz still had Magmar's attention.
 
-“Is there another way out?” I whispered.
+"Is there another way out?" I whispered.
 
-Ash nodded and coughed back, “Kitchen.”
+Ash nodded and coughed back, "Kitchen."
 
-I covered my mouth with my shirt and started to crawl towards the kitchen, “Stay low to avoid the smoke.”
+I covered my mouth with my shirt and started to crawl towards the kitchen, "Stay low to avoid the smoke."
 
 As we moved, I saw movement beyond the thickening flames-Dr. Fuji and Magmar backing toward the yard through what remained of the front door, the wall around it now largely consumed by flames. Magmar's beak remained open, exhaling a continuous stream of flames that fed the burning vortex around Electabuzz.
 
@@ -52,9 +52,9 @@ Flames and ozone choked the air as the Fire Spin began to collapse, the yard now
 
 Dr. Fuji stepped back to the battle's edge, one hand slipping into his pocket. His voice cut through the chaos, cold and clear. "Guard with Fire Punch."
 
-Magmar's fists ignited as Electabuzz charged in, arms whirling faster and faster. Electricity snapped between the electric type’s spinning limbs, growing, building. The very air crackled with charge.
+Magmar's fists ignited as Electabuzz charged in, arms whirling faster and faster. Electricity snapped between the electric type's spinning limbs, growing, building. The very air crackled with charge.
 
-“Smokescreen!” Dr. Fuji called as smoke already began to rise from Magmar’s body, where it suddenly burst into a cloud of dust and smoke.
+"Smokescreen!" Dr. Fuji called as smoke already began to rise from Magmar's body, where it suddenly burst into a cloud of dust and smoke.
 
 Before the cloud of smoke, Electabuzz planted his feet, and in a single blinding motion, drove an uppercut. Magmar reared back, the attack just grazing its chin-but the near-miss still unleashed a burst of pent-up electricity. 
 
@@ -62,7 +62,7 @@ Lightning sparked across Magmar's face, drawing a pained hiss.
 
 Dr. Fuji frowned as Magmar staggered, flames sputtering, shaking its head to clear the static. In that heartbeat of distraction, Electabuzz lunged while arcs of barely-restrained power trailed behind whirling fists. Stray bolts earthed themselves harmlessly into the scorched ground with each spinning step.
 
-“Back up and Smog!”
+"Back up and Smog!"
 
 Smog belched from Magmar's beak, quickly smothering the yard in noxious fumes. Electabuzz charged into the haze, whirling arms leaving fading arcs in the smoke.
 
@@ -72,21 +72,21 @@ Magmar sidestepped, flames sheathing its claws. Fire Punch met Thunder Punch in 
 
 Shimmering heat rippled the air around Magmar, obscuring its form as it pressed the attack. Dr. Fuji's voice knifed through the night. "Poison Jab!"
 
-“Buzz Electa!”
+"Buzz Electa!"
 
-Venomous claws dug into Electabuzz’s side, drawing a howl from Electabuzz as toxins seeped into the wound.
+Venomous claws dug into Electabuzz's side, drawing a howl from Electabuzz as toxins seeped into the wound.
 
 In turn, however, static electricity crackled across Magmar's body at the contact, stiffening its muscles.
 
 Electabuzz drove through the poison, fists crackling with electricity as his fist exploded against Magmar's chest in a burst of voltage.
 
-The Fire Pokemon flew backwards, crashing into Dr. Fuji’s rented car. Metal crumpled and hissed as Magmar's searing body melted into the frame.
+The Fire Pokemon flew backwards, crashing into Dr. Fuji's rented car. Metal crumpled and hissed as Magmar's searing body melted into the frame.
 
 Electabuzz was already lunging forward, fists crackling as its arms whirled to life once again.
 
 "Now, Fire Blast!" Dr. Fuji shouted.
 
-Magmar’s eyes glinted with a fiery spirit as it opened its maw and a five-pronged inferno blasted Electabuzz at point blank range.
+Magmar's eyes glinted with a fiery spirit as it opened its maw and a five-pronged inferno blasted Electabuzz at point blank range.
 
 Wreathed in flames, Electabuzz smashed into the house in a rain of flaming debris.
 
@@ -94,23 +94,23 @@ Ash and I ducked for cover into the kitchen as a burning rafter collapsed overhe
 
 In the sudden stillness, I strained to hear any sound from the battlefield, any indication of Electabuzz's fate. Smoke stung my eyes and caught in my throat. 
 
-“Buzz?” Ash coughed, face pale in the dim light of fire filtering through the haze.
+"Buzz?" Ash coughed, face pale in the dim light of fire filtering through the haze.
 
 The only sounds were the distant crackling of flames and the shifting of debris settling around us. I hardly dared to breathe, my heart pounding in my ears as I waited for something, anything to break the eerie calm.
 
 Ash clutched at my arm, fingers digging into my skin. I could feel him trembling.
 
-“Electabuzz?”
+"Electabuzz?"
 
-“Electabuzz!” A roar split the air, raw and primal and full of fury, responding to Ash’s whisper. My head snapped up, hardly daring to hope. I scrambled to my knees, ignoring the broken glass that bit into my palms, and peered out through a gap in the wreckage of the kitchen wall.
+"Electabuzz!" A roar split the air, raw and primal and full of fury, responding to Ash's whisper. My head snapped up, hardly daring to hope. I scrambled to my knees, ignoring the broken glass that bit into my palms, and peered out through a gap in the wreckage of the kitchen wall.
 
 There, rising from the rubble like a vengeful spirit, was Electabuzz. Its fur was charred and smoking, angry reddish welts standing out starkly against blackened yellow. But its eyes blazed with determination as it threw its head back and roared again, the sound echoing across the ruined house.
 
 Energy crackled around Electabuzz's body, arcing between its antennae and earthing in the rubble at its feet as it spun its arms once again.
 
-With renewed hope, I pushed myself from the hole and grabbed Ash’s arm toward the kitchen door.
+With renewed hope, I pushed myself from the hole and grabbed Ash's arm toward the kitchen door.
 
-“Flamethrower!” Dr. Fuji desperately shouted as a stream of flames erupted behind us. Then, another shout, “Protocol 3!”
+"Flamethrower!" Dr. Fuji desperately shouted as a stream of flames erupted behind us. Then, another shout, "Protocol 3!"
 
 We quickly opened the kitchen back door and ran towards the forest.
 
@@ -130,17 +130,17 @@ And there, in the middle of it all, sat Dr. Fuji. He was in a crater of his own 
 
 Several paces away, Magmar stood heaving, wisps of smoke still curling from its beak-like mouth. I could feel the heat radiating off it even from here.
 
-‘Is this really Pokemon?’
+'Is this really Pokemon?'
 
-“Electabuzz!” Ash cried as he started to rush straight on the battlefield-toward the collapsed electric type, crushed between two layers of dirt, fainted with swirls in its eyes.
+"Electabuzz!" Ash cried as he started to rush straight on the battlefield-toward the collapsed electric type, crushed between two layers of dirt, fainted with swirls in its eyes.
 
-“No! Wait!” I shouted and lunged forward, tackling Ash to the ground.
+"No! Wait!" I shouted and lunged forward, tackling Ash to the ground.
 
 "Get-Get off me!" Ash shouted as he attempted to push me off him.
 
 Dr. Fuji looked down at his once-pristine suit, now caked with dirt and ash. The bouquet of flowers he'd brought-variously colored dahlias-laid crushed and scattered around him, petals torn and stems broken.
 
-"The night’s ruined!" he screamed, slamming what remained of the bouquet into the ground. His shoulders heaved with each ragged breath as he stared at the destroyed flowers.
+"The night's ruined!" he screamed, slamming what remained of the bouquet into the ground. His shoulders heaved with each ragged breath as he stared at the destroyed flowers.
 
 Then, slowly, the wild fury in his eyes cooled as he glanced toward Electabuzz, still pinned between layers of displaced earth.
 
@@ -152,7 +152,7 @@ He stood, brushing futilely at the stains on his suit before looking briefly at 
 
 The Fire Pokemon nodded, flames flickering brighter as it lumbered toward the helpless Electabuzz. Each step left smoking footprints in the grass.
 
-"No! Don’t! That’s Dad’s partner!" Ash's scream was raw with desperation as he thrashed in my arms, trying to break free. "Electabuzz! Get up! Please! Dad said you'd be his Champion Pokemon! Get up!"
+"No! Don't! That's Dad's partner!" Ash's scream was raw with desperation as he thrashed in my arms, trying to break free. "Electabuzz! Get up! Please! Dad said you'd be his Champion Pokemon! Get up!"
 
 I held him tighter, my own heart pounding as Magmar drew closer to its target. Ash's tears soaked into my shirt as he collapsed against me, his struggles weakening into sobs.
 
@@ -168,13 +168,13 @@ Dr. Fuji didn't even grant her a full turn. He glanced over his shoulder, his ex
 
 He turned back to the pinned Electabuzz. "Now, Magmar."
 
-Electabuzz, his eyes no longer swirling, met Magmar’s gaze with defiance. A weak spark crawled across its body-one last desperate attempt to summon electricity that wouldn't come. Its muscles tensed, trying to move, to fight, to protect-but the earth held it fast.
+Electabuzz, his eyes no longer swirling, met Magmar's gaze with defiance. A weak spark crawled across its body-one last desperate attempt to summon electricity that wouldn't come. Its muscles tensed, trying to move, to fight, to protect-but the earth held it fast.
 
 The flames burst without mercy or hesitation. Magmar drove its burning claw down, pressing it against Electabuzz's chest. The fire spread hungrily across the Electric Pokemon's fur, a terrible crackling sound filling the air as flesh and fur surrendered to flame.
 
 The horrific sight burned itself into my memory-Magmar's vindictive expression, the way Electabuzz's defiant gaze gradually dimmed, the swift, brutal dismissal of a police Pokemon, the terrible silence broken only by the roar of fire and Ash's muffled sobs against my shoulder.
 
-Officer Jenny’s face, illuminated by the horrific pyre, was a mask of disbelief that quickly hardened into fury. "You monster!" she screamed. "Growlithe, Ember!"
+Officer Jenny's face, illuminated by the horrific pyre, was a mask of disbelief that quickly hardened into fury. "You monster!" she screamed. "Growlithe, Ember!"
 
 The brave puppy Pokemon barked and charged, a stream of glowing embers spitting from its mouth. They pattered harmlessly against Magmar's thick, fiery hide.
 
@@ -182,7 +182,7 @@ Magmar met the charge with a single, contemptuous Fire Punch. The sound was a si
 
 I turned away, unable to watch any longer. Out of the corner of my eye, I noticed Ditto turn away as well, its amorphous body trembling slightly-whether from exhaustion or revulsion, I couldn't tell.
 
-When Magmar finally stepped back, all that remained was a blackened shape that had once been Ash's dad’s pokemon.
+When Magmar finally stepped back, all that remained was a blackened shape that had once been Ash's dad's pokemon.
 
 "And you," Dr. Fuji finally turned towards me, voice filled with malice. 
 
@@ -216,13 +216,13 @@ I lifted my gaze to meet Dr. Fuji's, no longer trying to hide my disgust.
 
 "What are you talking about?" he asked, his voice tightening as he took a step closer. Confusion flickered across his face.
 
-"Delia was right," I continued, pulling Ash tighter against me. "I’m not Amber. Your ‘experiment’ was a failure."
+"Delia was right," I continued, pulling Ash tighter against me. "I'm not Amber. Your 'experiment' was a failure."
 
-I paused, letting the words sink in before I added with a chuckle, “You’re a failure. A failure of a scientist, a husband, a father.”
+I paused, letting the words sink in before I added with a chuckle, "You're a failure. A failure of a scientist, a husband, a father."
 
 His face contorted with rage, but I kept going, the words spilling out now.
 
-"When you tried to clone Amber, you somehow pulled me into her body instead-a twenty-year-old woman from another world entirely. I died, and then I woke up in your lab." I gave a bitter laugh. "I've been wearing her dresses, living in her house, pretending to be your daughter. But I'm not her. I never was. I never will be.”
+"When you tried to clone Amber, you somehow pulled me into her body instead-a twenty-year-old woman from another world entirely. I died, and then I woke up in your lab." I gave a bitter laugh. "I've been wearing her dresses, living in her house, pretending to be your daughter. But I'm not her. I never was. I never will be."
 
 I met his eyes directly and chuckled maniacally, "All this time, you've been dressing a complete stranger in your dead daughter's clothes. Think about how fucked up that is. You've been obsessing over some random woman you pulled from who knows where, forcing me into this... this sick fantasy of yours."
 
@@ -230,4 +230,4 @@ I met his eyes directly and chuckled maniacally, "All this time, you've been dre
 
 A deafening boom thundered behind Dr. Fuji, cutting through whatever his next words were going to be.
 
-He snapped around, his entire body pivoting sharply toward the sound-and in that split second while his back was turned, a massive orange shape smashed into the ground in front of me and Ash, an old man in a white lab coat clutching the orange shape’s neck.
+He snapped around, his entire body pivoting sharply toward the sound-and in that split second while his back was turned, a massive orange shape smashed into the ground in front of me and Ash, an old man in a white lab coat clutching the orange shape's neck.

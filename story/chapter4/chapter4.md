@@ -26,7 +26,7 @@ I stood and found myself drifting between battles after that, unable to just gla
 
 A Pidgey and Spearow whose battle climbed into the air. Two trainers coached their Pokemon through a practice match, stopping occasionally to discuss technique. An intense face-off between a Muk and a Poliwhirl that drew a small crowd.
 
-The sun climbed higher and then began to fall. My stomach growled-and we briefly stopped for lunch. Ditto stayed quiet through it all, but I felt its subtle reactions-a slight tightening when attacks came too close, a gentle relaxation during the lulls between matches.
+The sun climbed higher and then began to fall. My stomach growled so we briefly stopped for lunch. Ditto stayed quiet through it all, but I felt its subtle reactions---a slight tightening when attacks came too close, a gentle relaxation during the lulls between matches.
 
 "Looking for a battle?"
 
@@ -44,7 +44,7 @@ The boy's smile turned sharp at my hesitation. "Unless you're scaaaared?" He dre
 
 Fifteen years of Pokemon experience bristled at his tone. I'd bred perfect IVs, chained shinies, climbed to Master rank---and now a tiny kid... well, technically I was about the same age as him now, but that wasn't the point. I looked down at Ditto, who met my gaze with unwavering confidence.
 
-This wasn't a game. I had no idea if Ditto's transformations worked the same way-if most stats and moves were copied. But, looking at its eager wobble, I felt something settle in my chest. Dr. Fuji had trusted this Ditto to guard his most precious creation, Ambertwo. If it was good enough for the scientist who created Mewtwo, it was good enough for a street battle.
+This wasn't a game. I had no idea if Ditto's transformations worked the same way---if most stats and moves were copied. But, looking at its eager wobble, I felt something settle in my chest. Dr. Fuji had trusted this Ditto to guard his most precious creation, Ambertwo. If it was good enough for the scientist who created Mewtwo, it was good enough for a street battle.
 
 'I've been playing Pokemon for longer than you've been alive' I thought, a familiar competitive spark igniting. 'There's no way I can lose to a brat like you.'
 
@@ -58,11 +58,11 @@ The ball flew up, a flash of red light materializing into a Rattata. "Rat-TAT!" 
 
 I squared my shoulders, channeling confidence I didn't quite feel in a Ditto. "I could say the same to you."
 
-Joey’s grin widened. Without warning, he thrust his arm forward. "Go! Rattata! Tackle!"
+Joey's grin widened. Without warning, he thrust his arm forward. "Go! Rattata! Tackle!"
 
-"What the-Hey! When did we start?" I shouted, watching Ditto barely slide to the side as Rattata barreled past. My heart hammered against my ribs-not from fear, but from indignation. No countdown, no proper start, just straight into attacks.
+"What the-Hey! When did we start?" I shouted, watching Ditto barely slide to the side as Rattata barreled past. My heart hammered against my ribs---not from fear, but from indignation. No countdown, no proper start, just straight into attacks.
 
-Joey’s grin turned smug. "You said you were ready, didn't you? Rattata! Keep going! Keep up the pressure!"
+Joey's grin turned smug. "You said you were ready, didn't you? Rattata! Keep going! Keep up the pressure!"
 
 'Right,' I thought, watching Rattata wheel around for another pass. 'One of those people.' The kind who thought rules were for other people and basic courtesy was optional. The kind who'd cut in line at a coffee shop and then complain about the service. The kind who desperately needed someone to knock them down a peg or two, preferably in front of an audience.
 
@@ -80,7 +80,7 @@ And then-like that moment when you finally explain something the right way to so
 
 Joey's mouth fell open, his previous bravado vanishing in an instant. "What the-What did-?" The words tumbled out in a shocked stutter. Even his Rattata took a step back, whiskers twitching in confusion.
 
-I caught fragments of whispers from our impromptu audience: "Did you see-" "What kind of-" “I think I read about it in-”
+I caught fragments of whispers from our impromptu audience: "Did you see" "What kind of---" "I think I read about it in---"
 
 I paused, the sudden attention prickling against my skin. A half-remembered theory floated through my mind-something about Ditto being failed clones of Mew-and I had to physically stop myself from slapping my forehead. Here I was, Clone-Amber, technically-daughter of the man who created Mewtwo, casually revealing what might be another of his classified experiments in a public park. If there was a guidebook for "How to Not Draw Attention to Your Secret Identity," I was probably breaking every chapter.
 
@@ -88,11 +88,11 @@ I paused, the sudden attention prickling against my skin. A half-remembered theo
 
 "Tail Whip!" I called out, immediately tense about my choice. It was pure muscle memory-fifteen years of Pokemon battles where status moves were the foundation of any decent strategy. In the games, it had been simple math: lower defense, increase damage output throughout the battle, victory. But now, watching Ditto face down a very real Rattata with very real teeth, I found myself questioning years of virtual combat experience. Would a tail swish actually make physical attacks hurt more here? Or had I just commanded my shapeshifting Pokemon to perform the equivalent of an intimidating dance move?
 
-Ditto spun with a fluid grace that caught me off-guard. Joey’s Rattata tracked the motion, whiskers twitching rapidly, and when it settled back into its fighting stance, its movements carried a new hesitation.
+Ditto spun with a fluid grace that caught me off-guard. Joey's Rattata tracked the motion, whiskers twitching rapidly, and when it settled back into its fighting stance, its movements carried a new hesitation.
 
 'Huh,' I thought, watching the subtle shift in the Rattata's body language. 'So that's what a status move looks like in real life.'
 
-"Ha!" Joey's voice cracked with false bravado. "Wasting time with fancy twirls? Rattata! Keep tackling! Full force! You can’t lose to a copy!"
+"Ha!" Joey's voice cracked with false bravado. "Wasting time with fancy twirls? Rattata! Keep tackling! Full force! You can't lose to a copy!"
 
 "Perfect! Ditto, dodge and counter with Tackle!"
 
@@ -100,7 +100,7 @@ Ditto sidestepped the charging Rattata with the same fluid grace it had shown in
 
 The original Rattata overextended, its eagerness working against it, and Ditto's counter-attack landed with precise timing. The impact sent Joey's Pokemon tumbling back, its previous confidence visibly shaken.
 
-I felt my confidence growing. This wasn't just button inputs and damage calculations-Ditto wasn't just copying Rattata's form, it was moving with a precision that spoke of experience. Each dodge was efficient, each attack perfectly timed.
+I felt my confidence growing. This wasn't just button inputs and damage calculations---Ditto wasn't just copying Rattata's form, it was moving with a precision that spoke of experience. Each dodge was efficient, each attack perfectly timed.
 
 "Stop running away!" Joey's voice cracked. "Quick Attack! Don't let it dodge!"
 
@@ -116,7 +116,7 @@ His Rattata launched into a frenzy of attacks, each wilder than the last. But Di
 
 I watched the rhythm of their desperation, waiting. One particularly aggressive tackle left Joey's Rattata off-balance, its tail swinging wide to compensate. "Now, Ditto! Quick Attack!"
 
-The counter was devastating in its simplicity-a clean strike that sent Joey's Rattata tumbling across the grass. When it struggled up, its legs trembled with exhaustion.
+The counter was devastating in its simplicity---a clean strike that sent Joey's Rattata tumbling across the grass. When it struggled up, its legs trembled with exhaustion.
 
 "Come on!" Joey's voice cracked. "You can't lose to some-some weird copy!"
 
@@ -124,7 +124,7 @@ I almost felt bad for them. Almost. "One more time, Ditto!"
 
 The final Quick Attack landed with surgical precision. "Rat...ta..." Joey's Rattata slid to a stop at his feet, managed one defiant attempt to stand, and then collapsed with the classic swirls in its eyes that I'd only ever seen in the anime.
 
-The scattered applause from our audience felt wrong somehow-too much attention for what was supposed to be a simple amateur battle. Probably because of Ditto.
+The scattered applause from our audience felt wrong somehow---too much attention for what was supposed to be a simple amateur battle. Probably because of Ditto.
 
 Joey stared at his fallen Rattata for a long moment, his earlier swagger evaporating like morning dew. For a second, he looked exactly like what he was-a kid. Then his face scrunched up, bottom lip quivering dangerously.
 
@@ -134,12 +134,12 @@ But Joey surprised me. He took a deep breath, squared his shoulders, and stepped
 
 "Fair's fair," he mumbled, gaze fixed somewhere around my left shoulder. "You won."
 
-I stared at the coins, my earlier triumph mixing with an unexpected twinge of guilt. This wasn't some NPC handing over programmed currency-this was probably the kid's entire allowance. But... I was broke too.
+I stared at the coins, my earlier triumph mixing with an unexpected twinge of guilt. This wasn't some NPC handing over programmed currency---this was probably the kid's entire allowance. But... I was broke too.
 
 "Thanks," I said quietly, accepting the money. "It was a good battle." The words felt a bit inadequate, but they were true enough.
 
-I tucked the coins deep into my backpack, trying not to think too hard about winning my first real Pokemon currency through what basically amounted to hustling a kid. Joey had already trudged back to his rattata, nursing it with a potion. 
+I tucked the coins deep into my backpack, trying not to think too hard about winning my first real Pokemon currency through what basically amounted to hustling a kid. Joey had already trudged back to his Rattata, nursing it with a potion. 
 
-‘A good kid at heart,’ I thought as I watched him care for his fainted pokemon.
+'A good kid at heart,' I thought as I watched him care for his fainted Pokemon.
 
 Ditto slithered back up to my neck, humming with what felt like both satisfaction and concern. "Nice work," I whispered, giving it a quick pat while scanning the dispersing crowd. Most had already turned away, but a few were still muttering among themselves, shooting curious glances in our direction.

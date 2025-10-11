@@ -22,7 +22,7 @@ Without a proper response from me, he shuffled to the fridge to pull two contain
 
 Steam still fogged the lids, suggesting dinner had only recently ended. As he assembled the plate, rich spices filled the air with the kind of homemade comfort that Dr. Fuji's apartment had never known.
 
-"It might need reheating, It’s been in the fridge for a bit," Stephen said, studying my face with genuine concern. "Delia says the curry needs to be properly hot to bring out the flavors. Unless you prefer it this way?"
+"It might need reheating, It's been in the fridge for a bit," Stephen said, studying my face with genuine concern. "Delia says the curry needs to be properly hot to bring out the flavors. Unless you prefer it this way?"
 
 I shrugged, watching as he placed the plate in the microwave.
 
@@ -48,15 +48,15 @@ When I finished, Stephen dried his hands and reached into a high cabinet. "Here,
 
 "Hey!" A young voice made me jump. Ash stood in the kitchen doorway, Poliwag peering around his legs. "That's not fair! Mom said I couldn't have any cookies tonight! Why does she get them!" 
 
-"Ash," Stephen started, but Ash was already moving closer, curiosity overtaking his initial protest. "Ash, that’s because you and Poliwag tracked mud into-let her-"
+"Ash," Stephen started, but Ash was already moving closer, curiosity overtaking his initial protest. "Ash, that's because you and Poliwag tracked mud into-let her-"
 
-"Who are you anyway?" Ash demanded, turning to me. "Why're you eating our cookies?”
+"Who are you anyway?" Ash demanded, turning to me. "Why're you eating our cookies?"
 
 "Poli pol!" Poliwag added, waddling over to investigate the cookie crumbs.
 
 I looked down at the cookie, then at Ash's frown, then back at the cookie. I carefully broke it in half-not quite even, giving him the slightly bigger piece.
 
-"Here," I said, holding out half. I internally struggled with myself, wanting to take my hand back and eat it all. Dr. Fuji didn’t really have many sweets in his apartment. But I was an adult. "Want… to share?"
+"Here," I said, holding out half. I internally struggled with myself, wanting to take my hand back and eat it all. Dr. Fuji didn't really have many sweets in his apartment. But I was an adult. "Want… to share?"
 
 Ash's eyes widened, anger forgotten in the face of cookie diplomacy. He glanced at Stephen, who hesitated, eyes flickering to where Delia worked in the garden before giving a small, almost conspiratorial nod.
 
@@ -74,7 +74,7 @@ Through the window, I could see Delia's shadow growing longer across her flowerb
 
 "Yes! Come on!" Ash was already heading for the door, Poliwag bouncing excitedly at his heels. He turned back when he reached the door, practically vibrating with eagerness. "You coming?"
 
-“Sure,” I said as I followed them out, cookie crumbs still sticking to my fingers like tiny breadcrumbs marking my path.
+"Sure," I said as I followed them out, cookie crumbs still sticking to my fingers like tiny breadcrumbs marking my path.
 
 Delia straightened from her flower beds as we passed, her hands stilling on her shears. The metal caught the dying light, flashing orange-red like a warning. Her eyes followed us, carrying the weight of questions I couldn't answer.
 
@@ -94,7 +94,7 @@ Poliwag was already bouncing forward, too excited to wait for actual commands. T
 
 "Three whole months!" He dropped down beside Poliwag, scratching under its chin. "Since the river incident. Poliwag tried to save me, and Dad caught him after." His voice held that peculiar pride kids get when telling stories about their own near-disasters. "Now we train here where it's safe. Plus, Dad says it's good practice-Poliwag's gonna be my official starter once I'm old enough!"
 
-"I'm gonna be the greatest Pokemon Master ever!" Ash declared between Water Gun attempts, fist pumped toward the orange sky. "Once I'm old enough, me and Poliwag will travel everywhere and I’ll catch 'em all!"
+"I'm gonna be the greatest Pokemon Master ever!" Ash declared between Water Gun attempts, fist pumped toward the orange sky. "Once I'm old enough, me and Poliwag will travel everywhere and I'll catch 'em all!"
 
 "Poli pol!" Poliwag bounced proudly, agreeing with Ash.
 
@@ -118,7 +118,7 @@ I nodded, carefully patting my face dry. The towel smelled of sunshine and fresh
 
 "Ash, shower time," Stephen said, collecting the wet towels. "And don't forget to dry Poliwag properly this time."
 
-"But Dad he’s a water-"
+"But Dad he's a water-"
 
 "No buts. You know the rules about wet Pokemon in bed."
 
@@ -130,7 +130,7 @@ Stephen dried his hands on a dishtowel, then absently adjusted the chain around 
 
 "So," he said finally. His voice carried the careful tone of someone who'd spent years helping raise a child, knowing when to push and when to wait. "Do you... remember anything? About before?"
 
-‘What a loaded question.’
+'What a loaded question.'
 
 Above us, Ash was belting out what sounded like the Pokemon theme song, completely off-key and completely happy. Through the window, Delia's shadow moved across the garden one last time, checking her work.
 

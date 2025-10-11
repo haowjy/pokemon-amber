@@ -28,13 +28,13 @@ His hand hovered over an oversized Psyduck tee, pulled back, reached for a diffe
 
 The girl's head lifted slowly from her magazine. She stared at him. Glanced around at the racks of tourist tees and cheap flip-flops, at the energy drinks and industrial bags of chips---the kind of inventory that screamed "we sell sunscreen and regret," not formal children's wear.
 
-"Sir," she said, voice impressively flat, "this is a just a convenience store, not a clothing store. I'd suggest you try the nearest mall during the day after you visit the Pokemon Center."
+"Sir," she said, voice impressively flat, "this is just a convenience store, not a clothing store. I'd suggest you try the nearest mall during the day after you visit the Pokemon Center."
 
 Dr. Fuji's jaw tightened. He turned back to the rack, pulled out the yellow Psyduck shirt with more force than necessary. "This will have to do."
 
 He measured it against me again---still frowning---then added swim trunks that might work as shorts and grabbed a plain button-down for himself. The man was bleeding through his shirt and his priority was finding me a dress. Sure. That tracked perfectly. Nothing weird about that at all.
 
-The girl sighed as she rung up the items, "That'll be $28.47."
+The girl sighed as she rung up the items, "That'll be ₽2847."
 
 Fuji produced bills from his wallet, slightly rumpled. The checkout happened in near silence besides the ring of the register.
 
@@ -56,11 +56,11 @@ He turned around and got a good look at us.
 
 The clerk's mouth curled into a frown. His gaze tracked from Fuji's bloodstained collar to me in my lab coat cocoon, then down to the convenience store bag---medical supplies clearly visible through thin plastic.
 
-His shoulders sagged. He stepped back behind the counter, pulling out a worn ledger. "Look, I get it. Medical bills are insane, especially for people instead of Pokemon. I see trainers overestimating themselves all the time around here. I just want to make sure you're---"
+His shoulders sagged. He stepped back behind the counter, pulling out a worn ledger. "Look, I get it. Medical bills are pretty insane if you don't have insurance, and even more so if you are injured rather than your Pokemon. I see trainers overestimating themselves all the time around here. I just want to make sure you're---"
 
 "A room," Dr. Fuji repeated, tapping one finger against the counter. "For the night."
 
-The man sighed. "₽120 for a single, ₽140 for a twin."
+The man sighed. "₽12000 for a single, ₽14000 for a twin."
 
 Dr. Fuji hesitated for exactly half a second. "Single."
 
@@ -108,7 +108,7 @@ Through the gap in the door I could see Dr. Fuji at the sink, shirtless, examini
 
 My stomach heaved.
 
-I barely made it. Dropped to my knees on cold tile as everything came up---not much, considering I hadn't eaten in however many hours this nightmare had been, but my body tried anyway. Kept trying until my throat burned and my eyes watered and there was nothing left but bile and the taste of metal.
+I barely made it. Dropped to my knees on cold tile as everything came up---not much, considering I don't know how I had been eating while in that test tube tank, but my body tried anyway. Kept trying until my throat burned and my eyes watered and there was nothing left but bile and the taste of metal.
 
 A hand touched my back. Rubbed slow circles while I retched.
 
@@ -128,11 +128,11 @@ Of course it was too high. Everything in this world was too high now, built for 
 
 I turned to the shower instead and looked down at the still blood-stained lab coat.
 
-Right. The shower. I could---I needed to actually get clean. The water would be hot. The grime would wash away.
+Right. The shower. I could---I needed to actually get clean. The grime would wash away and I could rinse the taste of bile easier.
 
 I immediately tore off the blood-stained lab coat and tossed it in the corner getting into the shower.
 
-I stood under the spray until the water ran clear, watching rust-brown swirls circle the drain. Occassionally, I opened my mouth and gurled feircely, trying to wash away the taste of bile and metal.
+I stood under the spray until the water ran clear, watching rust-brown swirls circle the drain. Occassionally, I opened my mouth and gurled feircely.
 
 The hotel soap smelled aggressively floral---like someone had taken the concept of "garden" and condensed it into a small bar---but it cut through the grime. My fingers found tangles in mint-green hair that still didn't feel like mine, worked them out with the patience of someone who had nothing left but the present moment.
 
@@ -146,7 +146,7 @@ I opened the bathroom door.
 
 Dr. Fuji was gone.
 
-In his place, on the bed, sat a Ditto.
+In his place, near the door, sat a Ditto.
 
 A *Ditto*.
 
@@ -154,13 +154,13 @@ For a moment---just one perfect, crystalline moment---everything else fell away.
 
 None of it mattered.
 
-Because there was a Ditto. A real, actual, living-breathing Pokemon sitting on the hotel bed like it was the most natural thing in the world.
+Because there was a Ditto. A real, actual, living-breathing Pokemon like it was the most natural thing in the world.
 
 Not a sprite. Not a 3D model rotating on a screen. Not even the animated version from movies I'd watched a dozen times. A *real* Ditto, pink and gelatinous and impossibly, wonderfully *there*.
 
 "Holy shit," I whispered.
 
-Despite everything---despite the corpse of a laboratory, despite waking up in a body that wasn't mine, despite throwing up bile onto hotel bathroom tile, despite the fact that my old life was gone and this new one made no sense---I felt a grin splitting my face.
+Despite everything---despite the corpse of a laboratory, despite waking up in a body that wasn't mine, despite throwing up bile onto hotel bathroom tile, despite the fact that my old life was gone---I felt a grin splitting my face.
 
 This was Pokemon.
 
@@ -168,7 +168,7 @@ This was *real*.
 
 The Ditto sat perfectly still, watching me with those simple dot eyes. Not bouncing. Not wobbling. Not doing any of the playful, curious things I'd seen in cartoons or games. Just... sitting. Staring. Like a pink sentinel, dot-eyes fixed on me with an expression that somehow conveyed *duty*.
 
-I couldn't help it. A laugh bubbled up---small, slightly hysterical, the kind that escapes when your brain can't quite process reality anymore. Because here was this adorable blob of pink goo trying so hard to look serious. Like a marshmallow attempting to intimidate. Like a Jigglypuff auditioning for a security position.
+I couldn't help it. A laugh bubbled up---small, slightly hysterical, the kind that escapes when your brain can't quite process reality anymore. Because here was this adorable blob of pink goo trying so hard to look serious. Like a marshmallow attempting to intimidate.
 
 The Ditto's form shifted. Just a ripple, barely perceptible, like it heard me.
 
@@ -176,7 +176,7 @@ But the serious expression didn't change.
 
 "Hey," I said softly, taking a step closer. My voice came out higher than I expected, still tasted like bile underneath. "It's okay. I'm not---I just want to..."
 
-What did I want? To touch it. To confirm it was real. To have one good thing in this nightmare that made sense.
+What did I want? To touch it. To confirm it was real. To finally realize a dream I'd had a thousand times.
 
 I moved closer. The Ditto watched, unmoving.
 
@@ -210,7 +210,7 @@ The excitement that had bubbled up moments ago fizzled out like a Pokeball that 
 
 "Okay," I said quietly. "I get it."
 
-And I did get it. Sort of. Pokemon weren't just cute mascots that existed to be petted—they were living creatures with their own boundaries, their own comfort zones. Like any animal. I'd watched enough nature documentaries to know you didn't just walk up and touch wild things, even if they looked soft and friendly.
+And I did get it. Sort of. Pokemon weren't just cute mascots that existed to be petted—they were living creatures with their own boundaries, their own comfort zones. Like... an animal. I'd watched enough nature documentaries to know you didn't just walk up and touch wild things, even if they looked soft and friendly.
 
 Maybe Ditto was just shy. Or didn't know me yet. Or had bad experiences with strangers.
 
@@ -232,7 +232,7 @@ Maybe tomorrow would be different. Maybe tomorrow I'd wake up and this would all
 
 Maybe tomorrow.
 
-I climbed onto the bed. Ditto immediately shifted to the far corner, maintaining its watch position. I lay down on my side, still in the ridiculous Psyduck shirt, drawstring of the swim trunks digging slightly into my hip.
+I climbed onto the bed. Ditto immediately shifted to the far corner, maintaining its watchful gaze. I lay down on my side, still in the ridiculous Psyduck shirt, drawstring of the swim trunks digging slightly into my hip.
 
 My last thought before sleep claimed me wasn't profound. Wasn't about my old life or this new nightmare or what tomorrow would bring or how I was going to survive being someone's science project daughter.
 

@@ -8,7 +8,7 @@ updated: 2025-09-20
 
 # \[Chapter 8\] Start of an Unpaid Side Quest
 
-“What’s your name?” Mary---who'd introduced herself during our tense walk back to the gym with all the warmth of a Glaceon-asked.
+"What's your name?" Mary---who'd introduced herself during our tense walk back to the gym with all the warmth of a Glaceon-asked.
 
 The question hit harder than it should have. In my past life, I would've answered without hesitation. Now? Now I was technically inhabiting a clone of Amber Fuji, but admitting that here would raise more questions than I could handle.
 
@@ -56,7 +56,7 @@ Everyone in the tiny room leaned forward slightly, even the diligent Tangela.
 
 Mary's shoulders slumped, disappointment evident. Then she squared them again, her expression hardening into something more official. "If you don't tell us who she is, you'll be in very big trouble."
 
-I waved my hands frantically. "No, no. I really don't know her. It’s all just a coincidence."
+I waved my hands frantically. "No, no. I really don't know her. It's all just a coincidence."
 
 We stared at each other for what felt like hours, though the timestamps clicking by on the screens said it was closer to ten seconds. 
 
@@ -72,9 +72,9 @@ Ditto emerged with its usual cheerful burble, and for a moment I saw puzzlement 
 
 Ditto emerged with its usual cheerful burble and hung there, its blob-like form wobbling slightly. Kayla did a double-take as she adjusted her glasses.
 
-“A Grimer?”
+"A Grimer?"
 
-“No, its…” I trailed off as I waited for Ditto to transform.
+"No, its…" I trailed off as I waited for Ditto to transform.
 
 "Oh!" Kayla exclaimed, "it's that transforming pokemon! You're that girl that Mary caught first!"
 
@@ -86,7 +86,7 @@ Mary leaned forward, professional curiosity temporarily overtaking her suspicion
 
 "Haha, guess not," Marry chuckled.
 
-"We should get a picture of this," Kayla said, watching Ditto maintain its eerily accurate physical imitation. "Though..." She glanced around the security room. "We don’t really have a camera here."
+"We should get a picture of this," Kayla said, watching Ditto maintain its eerily accurate physical imitation. "Though..." She glanced around the security room. "We don't really have a camera here."
 
 "The public relations office might have a camera," Mary offered, already rising from her chair. 
 

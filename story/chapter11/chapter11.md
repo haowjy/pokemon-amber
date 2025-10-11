@@ -54,7 +54,7 @@ The question chased me long after we landed. Dr. Fuji hustled me through Viridia
 
 Cars were a rarity in Celadon, and I'd barely spared them a glance, too caught up in the thrill of real Pokemon. But now, faced with the rusted husks slouching in this forgotten lot, I couldn't look away. They seemed to belong to another era entirely, all boxy frames and chrome grills as if from the 1950s.
 
-After Dr. Fuji paid for a day’s rental, he yanked open the passenger door and ordered, “Get in.”
+After Dr. Fuji paid for a day's rental, he yanked open the passenger door and ordered, "Get in."
 
 I eyed the cracked leather seats and the dust-filmed dashboard, wondering if this was some kind of elaborate prank. But Dr. Fuji's expression held no hint of humor as he drummed his fingers against the roof, his whole body coiled with barely suppressed agitation.
 
@@ -64,13 +64,13 @@ As the city gave way to rolling hills and dense forests, I couldn't shake the fe
 
 The southern road wound through rolling countryside, each hill revealing more of the landscape ahead. A laboratory complex appeared long before the town itself-a sprawling collection of windmills and research buildings perched atop the highest hill like something from a Studio Ghibli film. The setting sun painted the spinning blades in shades of amber and gold, their long shadows sweeping across the valley below like the hands of some giant clock counting down to... Pallet Town?
 
-With its proximity to Viridian City and the iconic windmills of Professor Oak’s lab seemingly pulled from the cartoons, this was clearly Pallet Town.
+With its proximity to Viridian City and the iconic windmills of Professor Oak's lab seemingly pulled from the cartoons, this was clearly Pallet Town.
 
 My hands twisted in my lap as questions I'd been avoiding crashed through my mind: Why Pallet Town? Was this even the same timeline as the games? Or was it the anime? …Manga? Did Ash exist here? Red? Both? Neither?
 
  The reality of this world kept diverging further from everything I thought I knew, and each difference felt like another crack in whatever remained of my certainty.
 
-The Town emerged gradually: first scattered farms, then clusters of houses, and finally the town proper. It was smaller than I'd imagined, barely more than a collection of homes wrapped around the base of Oak's lab’s hill.
+The Town emerged gradually: first scattered farms, then clusters of houses, and finally the town proper. It was smaller than I'd imagined, barely more than a collection of homes wrapped around the base of Oak's lab's hill.
 
 We turned onto a narrow lane lined with neat gardens. A woman worked among the flower beds, and for a moment I didn't recognize her. But her auburn hair, pink dress and dirt-stained apron, along with being in pallet town-this was obviously Delia Ketchum.
 
@@ -120,7 +120,7 @@ The garden tools lay scattered where Delia had dropped them, their metal surface
 
 "I brought her back!" Dr. Fuji's grip tightened until I had to bite back a wince. "She's alive, Delia. Our daughter is alive again. Look at her face, her eyes-it's her, it has to be her-"
 
-"That's not-that’s not Amber." Delia's words fell like broken glass. "Whatever you've done, whatever you've created..." She forced herself to look at me, really look, like someone pressing on a bruise to prove it hurts. When she finally spoke again, her voice cracked. "Our daughter is gone, and this-" her hand trembled as she gestured at me, "this is just another experiment. Another way to avoid facing what happened. The cancer-"
+"That's not-that's not Amber." Delia's words fell like broken glass. "Whatever you've done, whatever you've created..." She forced herself to look at me, really look, like someone pressing on a bruise to prove it hurts. When she finally spoke again, her voice cracked. "Our daughter is gone, and this-" her hand trembled as she gestured at me, "this is just another experiment. Another way to avoid facing what happened. The cancer-"
 
 That word-cancer-carried the weight of years of grief. The setting sun caught in her hair, painting her in shades of gold that made the whole scene feel like some twisted memorial photo.
 

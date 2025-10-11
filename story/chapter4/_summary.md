@@ -14,7 +14,7 @@ updated: 2025-09-21
 
 # Chapter 4 - Summary
 
-After observing park battles, Amber accepts a street match; Ditto learns to transform mid-fight, defeats Joey’s Rattata, and draws public attention.
+After observing park battles, Amber accepts a street match; Ditto learns to transform mid-fight, defeats Joey's Rattata, and draws public attention.
 
 - Story: [Chapter 4](./chapter4.md)
 

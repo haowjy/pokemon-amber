@@ -30,7 +30,7 @@ As we followed Kaede deeper into the district, the electronic pulse of the Game 
 
 The mechanical drone of industrial fans began to fill the air, along with other sounds I couldn't quite identify. A cry echoed from somewhere above-maybe a Pokemon, maybe just the wind through the increasingly decrepit buildings.
 
-Either way, it made me walk a little closer to Mary, my fingers absently finding Ditto's pokeball and settling over the release button. I was grateful for Mary’s steady presence and the watchful Bellsprout that moved silently alongside us.
+Either way, it made me walk a little closer to Mary, my fingers absently finding Ditto's pokeball and settling over the release button. I was grateful for Mary's steady presence and the watchful Bellsprout that moved silently alongside us.
 
 The neon grew sicker the deeper we went, bleeding into puddles of color that reflected off grimy windows and collected in the corners of weathered concrete. Signs that had promised "MIRACLE CURES!" and "INSTANT HEALING!" gave way to bare wires and empty frames, their desperate promises fading into the growing shadows of late afternoon.
 
@@ -56,13 +56,13 @@ Kaede's shoulders sagged with relief, though another sneeze quickly followed. "S
 
 Mary glanced at the grass Pokemon, who had paused in its spore production to fix her with a surprisingly stern look. For a moment, they seemed to have a silent conversation-gym trainer and Pokemon, each weighing obligations against necessities. Finally, Mary sighed.
 
-"Oddish," Mary said, "let’s return to the gym. Everyone’s been worried sick."
+"Oddish," Mary said, "let's return to the gym. Everyone's been worried sick."
 
 Kaede's shoulders slumped in helpless defeat, her previous desperation giving way to resignation. The faint wheezing from her brother Hiro seemed to echo in the tiny apartment.
 
-“Od-Oddish!”, Oddish, however, shook its head, leaves swaying with determined refusal. It pointed one stubby foot at Hiro, then resumed its gentle spore release.
+"Od-Oddish!", Oddish, however, shook its head, leaves swaying with determined refusal. It pointed one stubby foot at Hiro, then resumed its gentle spore release.
 
-I watched Mary's face cycle through frustration, resignation, and finally determination. "Right," she said, pushing herself up. "Let’s go get Erika. She'll know what to do." 
+I watched Mary's face cycle through frustration, resignation, and finally determination. "Right," she said, pushing herself up. "Let's go get Erika. She'll know what to do." 
 
 She then turned to Kaede. "Stay here. Keep him comfortable. We'll be back as quick as we can."
 
@@ -108,11 +108,11 @@ Weepinbell let out a pained "BEEEELL!" as it tumbled backward. Though it righted
 
 Erika didn't flinch. She watched, perfectly still, as the bat Pokemon banked into position. Three heartbeats passed. Then-
 
-“Wrap, then slam!" 
+"Wrap, then slam!" 
 
 Weepinbell's vines shot out like striking Ekans, snaring Golbat mid-dive. The poison-type didn't resist \- instead, it used the bat's own momentum, redirecting that speed into a whiplashing arc that ended with a thunderous crash against the arena floor. Golbat's pained "SCREE!" echoed off the glass walls.
 
-"Break free with Bite!" Golbat's fangs clamped onto the vine, causing Weepinbell to release its grip with a sharp “WEE!”. The bat launched skyward again, wobbling slightly.
+"Break free with Bite!" Golbat's fangs clamped onto the vine, causing Weepinbell to release its grip with a sharp "WEE!". The bat launched skyward again, wobbling slightly.
 
 "Sleep Powder, straight up!" A dense cloud bloomed directly in Golbat's path.
 
@@ -122,11 +122,11 @@ Erika's eyes flashed. "Vine trap and Acid!" Two vines shot out, crossing to form
 
 But the challenger had been waiting for Weepinbell to commit. "Endure and supersonic!"
 
-Despite its burned wings, Golbat’s resistance to poison let it hold firm in the vine trap and unleashed waves of disorienting energy at point-blank range. Weepinbell swayed, its vines going slack as confusion set in.
+Despite its burned wings, Golbat's resistance to poison let it hold firm in the vine trap and unleashed waves of disorienting energy at point-blank range. Weepinbell swayed, its vines going slack as confusion set in.
 
 "Shake it off! Get back!" Erika called, but Weepinbell's vines whipped wildly, striking itself in its confused state.
 
-"Now, Wing Attack!" As Weepinbell reeled from its self-inflicted hit, Golbat powered through its pain for one final strike. The impact sent Weepinbell spinning across the floor. This time, it didn't get back up, it’s eyes swirling.
+"Now, Wing Attack!" As Weepinbell reeled from its self-inflicted hit, Golbat powered through its pain for one final strike. The impact sent Weepinbell spinning across the floor. This time, it didn't get back up, it's eyes swirling.
 
 "Weepinbell is unable to battle!" the referee announced.
 
@@ -154,7 +154,7 @@ But suddenly vines erupted from the floor behind Golbat, where they'd been quiet
 
 "Golbat is unable to battle! The winner is Gym Trainer Erika!"
 
-‘Wait... gym trainer?’
+'Wait... gym trainer?'
 
 The challenger rushed forward to check on their fallen Pokemon, cradling it gently. "You fought amazingly," they murmured as he helped to put it on the stretcher.
 
@@ -172,7 +172,7 @@ I didn't get the chance to follow up before we joined Erika in the Staff hallway
 
 "Tell me everything," Erika commanded as we walked, her battle-worn demeanor bleeding into her words. "That should be my last challenger for today, so we have time."
 
-Mary quickly outlined what we'd found: Kaede's theft wasn't corporate espionage, but a desperate attempt to help her brother Hiro in the ‘Factory Ward.’ "The kid's really sick-fever or something. Our Oddish won't leave him."
+Mary quickly outlined what we'd found: Kaede's theft wasn't corporate espionage, but a desperate attempt to help her brother Hiro in the 'Factory Ward.' "The kid's really sick-fever or something. Our Oddish won't leave him."
 
 Erika's stern expression shifted as Mary spoke. When she heard the symptoms, her eyes sharpened with recognition. "Sludge Fever," she said, her voice taking on a clinical tone. "It's been spreading through the Factory Ward again." She quickened her pace. "We need to move fast. The longer we wait with Sludge Fever..." She didn't finish the sentence.
 
@@ -182,7 +182,7 @@ Erika paused as we passed the main arena again, watching a maintenance crew prep
 
 Mary nodded, understanding clear in her expression.
 
-‘Ah, this was before Erika became gym leader. That made sense.’
+'Ah, this was before Erika became gym leader. That made sense.'
 
 Before we left the whole gym grounds, Erika made a brief detour to one of the smaller greenhouses, not the grand one I'd trespassed in earlier. She moved with practiced efficiency, stuffing various herbs and berries into a simple leather pouch. The scents mixed together-sharp, sweet, medicinal-creating something that reminded me of a traditional pharmacy. Even in her haste, she handled each plant with precise care.
 
@@ -206,9 +206,9 @@ She hadn't moved an inch from her brother's side, despite whatever was affecting
 
 Mary's voice was gentle, but her question cut through the room like a knife: "Is this why you stole Oddish?"
 
-Kaede sniffed up a thick glob of snot before looking down guiltily. With a soft whisper, she responded, “Yes… I thought I could make HP UP to extend his life…”
+Kaede sniffed up a thick glob of snot before looking down guiltily. With a soft whisper, she responded, "Yes… I thought I could make HP UP to extend his life…"
 
-Mary's eyes widened. "That's not-" She caught herself, softening her tone. "HP UP doesn't work like that at all. It doesn’t really extend life. It's a supplement that helps Pokemon develop their natural durability over time. Using it on humans could be dangerous-our bodies aren't made to handle those kinds of compounds. It could make him even sicker. You have to buy proper human medicines."
+Mary's eyes widened. "That's not-" She caught herself, softening her tone. "HP UP doesn't work like that at all. It doesn't really extend life. It's a supplement that helps Pokemon develop their natural durability over time. Using it on humans could be dangerous-our bodies aren't made to handle those kinds of compounds. It could make him even sicker. You have to buy proper human medicines."
 
 Kaede's eyes widened in horror. She looked at the Oddish, then back at her brother. "I... I almost..."
 
@@ -232,7 +232,7 @@ Mary began packing up the supplies, a small smile playing at her lips. I noticed
 
 The evening train rattled through Celadon's entertainment district, neon signs flashing past the windows.
 
-I let myself smile, the handful of coins from Mary-mostly spent on another day pass-warm in my palm. First quest reward earned in this world. First real adventure too and mostly finished with Celadon’s main places of interest.
+I let myself smile, the handful of coins from Mary-mostly spent on another day pass-warm in my palm. First quest reward earned in this world. First real adventure too and mostly finished with Celadon's main places of interest.
 
 My backpack sat heavy in my lap as the train rumbled beneath us, so different from just pressing buttons on a game console, but maybe better in its own way-
 
@@ -244,9 +244,9 @@ My smile froze.
 
 He stepped into the car of the train with careful, measured movements, his deep frown a stark contrast to the cheerful advertisements plastered on the walls.
 
-He reached out a palm, “Ditto?”I hesitated, glancing around the train, noting only a single person sleeping to the side.
+He reached out a palm, "Ditto?"I hesitated, glancing around the train, noting only a single person sleeping to the side.
 
-“Give me back Ditto,” Dr. Fuji repeated icily.
+"Give me back Ditto," Dr. Fuji repeated icily.
 
 I hesitantly placed the minimized pokeball into his palm.
 
@@ -254,6 +254,6 @@ The moment the pokeball was placed into his hand, he pulled back and a stinging 
 
 Neither of us spoke as he sat in the empty seat next to me.
 
-The train lurched forward, carrying us away from my brief taste of freedom. Away from the friends I’d just made in this new world.
+The train lurched forward, carrying us away from my brief taste of freedom. Away from the friends I'd just made in this new world.
 
-I held the right side of my face as I looked through the window, watching the last traces of neon fade into industrial darkness as we entered a tunnel, flickering lights casting strange shadows across Dr. Fuji’s frown.
+I held the right side of my face as I looked through the window, watching the last traces of neon fade into industrial darkness as we entered a tunnel, flickering lights casting strange shadows across Dr. Fuji's frown.

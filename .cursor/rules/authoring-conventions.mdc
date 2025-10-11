@@ -84,7 +84,7 @@ updated: 2025-09-20
 ```
 
 ## Hidden content
-- Use `hidden: true` on any file we don’t want surfaced or exported.
+- Use `hidden: true` on any file we don't want surfaced or exported.
 - Notes default to `hidden: true`. Story/wiki defaults to `hidden: false` unless intentionally withheld.
 
 ## Notes

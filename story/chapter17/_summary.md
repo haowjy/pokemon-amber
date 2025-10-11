@@ -14,7 +14,7 @@ updated: 2025-09-21
 
 # Chapter 17 - Summary
 
-Hospital aftermath: Oak survives, Fuji is apprehended, Ditto is safe; Delia is shattered, Ash and Gary cope, and Oak discusses Amber’s legal limbo and potential League orphan care.
+Hospital aftermath: Oak survives, Fuji is apprehended, Ditto is safe; Delia is shattered, Ash and Gary cope, and Oak discusses Amber's legal limbo and potential League orphan care.
 
 - Story: [Chapter 17](./chapter17.md)
 

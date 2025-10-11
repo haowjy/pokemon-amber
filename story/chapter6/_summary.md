@@ -14,7 +14,7 @@ updated: 2025-09-21
 
 # Chapter 6 - Summary
 
-Fuji forges Amber’s identity, Team Rocket leadership assesses the fallout from Mewtwo’s escape, Domino points Fuji toward Delia, and Fuji’s fixation on a “perfect Amber” deepens.
+Fuji forges Amber's identity, Team Rocket leadership assesses the fallout from Mewtwo's escape, Domino points Fuji toward Delia, and Fuji's fixation on a "perfect Amber" deepens.
 
 - Story: [Chapter 6](./chapter6.md)
 

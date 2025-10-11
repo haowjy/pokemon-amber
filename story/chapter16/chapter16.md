@@ -46,15 +46,15 @@ He glanced at Officer Jenny and waved her away. Understanding immediately, Offic
 
 Fuji glared at the old man standing defiantly amidst the rubble, gnashing his teeth in anger, before snapping back toward the sky and pointing a trembling finger.
 
-“What are you waiting for, Magmar?! Blast them!”
+"What are you waiting for, Magmar?! Blast them!"
 
 At the same time, Oak tossed a great ball toward the Magmar. As Magmar sucked air to fuel his flames, the great ball burst with a flash of light and a huge dog materialized.
 
-“Arcanine, Extreme Speed! Tank it if you must!” Oak’s voice cut through Fuji’s cries.
+"Arcanine, Extreme Speed! Tank it if you must!" Oak's voice cut through Fuji's cries.
 
-The instant the canine’s paws struck the ground, it became a blur of orange and black. A sharp crack accompanied the blur as it tore through the air.
+The instant the canine's paws struck the ground, it became a blur of orange and black. A sharp crack accompanied the blur as it tore through the air.
 
-“Arf!”
+"Arf!"
 
 Before Magmar could fully aim its attack, Arcanine slammed into its side. The impact threw Magmar off balance, its would-be Flamethrower erupting harmlessly into the night sky, a brief, angry star against the darkness.
 
@@ -68,53 +68,53 @@ But it hesitated.
 
 The Ditto-Dragonite stood there, fully formed, its wings giving a single, uncertain flutter.
 
-"Exeggutor! Tauros! Stop that Ditto!" Oak hastily commanded as he tossed two more pokeballs into the yard. “Exeggutor, Hypnosis! Tauros, Pursuit! Don’t let it take off!”
+"Exeggutor! Tauros! Stop that Ditto!" Oak hastily commanded as he tossed two more pokeballs into the yard. "Exeggutor, Hypnosis! Tauros, Pursuit! Don't let it take off!"
 
 A squat, pineapple-like Pokemon with three distinct, expressive heads materialized from a flash of light. It landed softly, its leafy top rustling. At the same time, a massive, three-tailed bull erupted from the other Pokeball, snorting clouds of steam as it pawed furiously at the scorched earth.
 
-The Exeggutor’s three heads swayed in an unnatural, rhythmic motion, their eyes glowing with a faint, pulsating light. The Ditto-Dragonite’s reptilian eyes glazed over for a fraction of a second, its powerful form going slack.
+The Exeggutor's three heads swayed in an unnatural, rhythmic motion, their eyes glowing with a faint, pulsating light. The Ditto-Dragonite's reptilian eyes glazed over for a fraction of a second, its powerful form going slack.
 
-“Get going! Now!” Fuji’s shriek cut through the hypnotic wave.
+"Get going! Now!" Fuji's shriek cut through the hypnotic wave.
 
-The Ditto-Dragonite’s eyes snapped back into focus. It spread its magnificent wings, preparing to launch itself into the sky.
+The Ditto-Dragonite's eyes snapped back into focus. It spread its magnificent wings, preparing to launch itself into the sky.
 
 But Tauros was in hot pursuit.
 
-It burst forward, its body wreathed in a fleeting, shadowy aura. It didn’t just tackle; it hooked its powerful horns around the Ditto-Dragonite’s neck and twisted, attempting to wrench the dragon off its feet in a brutal death roll.
+It burst forward, its body wreathed in a fleeting, shadowy aura. It didn't just tackle; it hooked its powerful horns around the Ditto-Dragonite's neck and twisted, attempting to wrench the dragon off its feet in a brutal death roll.
 
-But the transformed Ditto didn’t budge. It planted its feet, muscles coiling under the sunset-colored scales, fighting the immense torque with a strength that seemed impossible.
+But the transformed Ditto didn't budge. It planted its feet, muscles coiling under the sunset-colored scales, fighting the immense torque with a strength that seemed impossible.
 
-“Exeggutor, support Tauros with Gravity!” Oak commanded.
+"Exeggutor, support Tauros with Gravity!" Oak commanded.
 
-“Exeeeeg... Tor!”
+"Exeeeeg... Tor!"
 
 A shimmering, invisible force slammed into the Ditto-Dragonite, trying to crush it, to force it to submit. The ground beneath its feet cracked under the combined pressure, but still, it held its ground, roaring in defiance as it fought to stand against the Tauros and Gravity.
 
-Oak’s eyes widened in astonishment. “Even its strength is copied?” he murmured, his mind racing. “I thought Ditto transformations were always incomplete…”
+Oak's eyes widened in astonishment. "Even its strength is copied?" he murmured, his mind racing. "I thought Ditto transformations were always incomplete…"
 
-Fuji tore his gaze away from the stalemate in favor of the other battle. “Magmar, Smog! Then Poison Jab!”
+Fuji tore his gaze away from the stalemate in favor of the other battle. "Magmar, Smog! Then Poison Jab!"
 
-A thick, noxious cloud belched from Magmar’s beak, momentarily obscuring Arcanine.
+A thick, noxious cloud belched from Magmar's beak, momentarily obscuring Arcanine.
 
-“Arcanine, disengage!” Oak called out.
+"Arcanine, disengage!" Oak called out.
 
-“Arc!”
+"Arc!"
 
-The great dog, with a final, powerful shove, leaped backward out of the smog cloud just as it billowed out. A venomous purple light coated Magmar’s claws as it lunged through the haze, but it swiped only at empty air where Arcanine had been moments before.
+The great dog, with a final, powerful shove, leaped backward out of the smog cloud just as it billowed out. A venomous purple light coated Magmar's claws as it lunged through the haze, but it swiped only at empty air where Arcanine had been moments before.
 
-“Magmar, back to me!” Fuji barked as Magmar backed to Fuji’s side.
+"Magmar, back to me!" Fuji barked as Magmar backed to Fuji's side.
 
 Now, all eyes were back on the struggle between the false dragon and the bull and tree.
 
-“Ditto! Hyper Beam!” Fuji shouted.
+"Ditto! Hyper Beam!" Fuji shouted.
 
-“Tauros, disengage as well!” Oak shouted as he raised his pokeball. A bead of sweat rolled down his forehead as he glanced at the evacuating crowd.
+"Tauros, disengage as well!" Oak shouted as he raised his pokeball. A bead of sweat rolled down his forehead as he glanced at the evacuating crowd.
 
 Tauros attempted to break free, but its horns, meant to trap the Ditto-Dragonite, had ironically trapped itself.
 
-A blinding, white-hot torrent of pure energy erupted from Ditto-Dragonite’s maw straight down, just as a red beam of the pokeball hit Tauros, whisking it back into its pokeball.
+A blinding, white-hot torrent of pure energy erupted from Ditto-Dragonite's maw straight down, just as a red beam of the pokeball hit Tauros, whisking it back into its pokeball.
 
-Ditto-Dragonite’s massive chest heaved, its form flickering for a split second, threatening to dissolve back into its amorphous state before stabilizing. Wisps of smoke curled from its maw, the physical toll of the attack made manifest.
+Ditto-Dragonite's massive chest heaved, its form flickering for a split second, threatening to dissolve back into its amorphous state before stabilizing. Wisps of smoke curled from its maw, the physical toll of the attack made manifest.
 
 Across the ruined yard, Oak republished Tauros.
 
@@ -124,53 +124,53 @@ A tense, heavy silence fell over the battlefield, broken only by the roar of the
 
 Arcanine stood its ground, a low growl rumbling in its chest, its eyes locked on Magmar.
 
-Exeggutor’s heads swayed slowly, a silent, psychic pressure aimed at the vulnerable Ditto-Dragonite, a promise of retribution should it dare to move.
+Exeggutor's heads swayed slowly, a silent, psychic pressure aimed at the vulnerable Ditto-Dragonite, a promise of retribution should it dare to move.
 
 It was Fuji who broke the silence, his voice a venomous hiss that cut through the night.
 
 "Recalling a Pokemon in the middle of a battle," he let out a short, incredulous laugh, a sound devoid of any humor. "Is this the honor of a former Champion?"
 
-"It’s harder than it looks," Oak stated simply. "Besides, I’m no longer the Champion."
+"It's harder than it looks," Oak stated simply. "Besides, I'm no longer the Champion."
 
 He took a single, deliberate step forward, his expression unreadable as he took control of the confrontation and continued, "Are you Dr. Fuji?"
 
-Fuji’s head snapped toward Oak, a wild, almost gleeful light entering his eyes.
+Fuji's head snapped toward Oak, a wild, almost gleeful light entering his eyes.
 
-“So you do remember!” he exclaimed, a high-pitched, almost giddy laugh escaping his lips. “Dr. Fuji, yes! The one and only! The esteemed Champion Oak… you handed me my first major research grant yourself, you know. At Celadon University!”
+"So you do remember!" he exclaimed, a high-pitched, almost giddy laugh escaping his lips. "Dr. Fuji, yes! The one and only! The esteemed Champion Oak… you handed me my first major research grant yourself, you know. At Celadon University!"
 
-Oak nodded slowly, his eyes never leaving Fuji’s. “I think I recall,” he said, his tone carefully neutral. “A paper on the cellular structures of Pokemon. And an attempted method to clone a pokemon. Which resulted in Ditto.”
+Oak nodded slowly, his eyes never leaving Fuji's. "I think I recall," he said, his tone carefully neutral. "A paper on the cellular structures of Pokemon. And an attempted method to clone a pokemon. Which resulted in Ditto."
 
-Oak glanced at Ditto-Dragonite. “Although I remember the Ditto transformations were always flawed…”
+Oak glanced at Ditto-Dragonite. "Although I remember the Ditto transformations were always flawed…"
 
-“Flawed?” Fuji scoffed, waving a dismissive hand as if swatting away an ancient, irrelevant theory. “Champion Oak, science always marches on. While you were retiring to catalog Pidgeys and hand out starter Pokemon to children, I was pushing the very boundaries of life itself.”
+"Flawed?" Fuji scoffed, waving a dismissive hand as if swatting away an ancient, irrelevant theory. "Champion Oak, science always marches on. While you were retiring to catalog Pidgeys and hand out starter Pokemon to children, I was pushing the very boundaries of life itself."
 
-A faint, almost nostalgic smile touched Professor Oak’s lips. “Ah, but there is so much to learn from Pidgey,” he said, his tone turning scholarly. “Even a Pidgey, if trained, can become a mighty Pidgeot.”
+A faint, almost nostalgic smile touched Professor Oak's lips. "Ah, but there is so much to learn from Pidgey," he said, his tone turning scholarly. "Even a Pidgey, if trained, can become a mighty Pidgeot."
 
-Fuji let out another short, sharp laugh, this one filled with genuine contempt. “Training?” he sneered. “Who needs training when you can just *create* the strongest Pokemon?”
+Fuji let out another short, sharp laugh, this one filled with genuine contempt. "Training?" he sneered. "Who needs training when you can just *create* the strongest Pokemon?"
 
-“Like your Ditto?” Oak asked, his gaze shifting to the panting Dragonite-form.
+"Like your Ditto?" Oak asked, his gaze shifting to the panting Dragonite-form.
 
-Fuji's eyes also flickered to the Ditto-Dragonite, a flash of disgust crossing his features. "That thing?" he scoffed. “A successful proof of concept, perhaps, but a failure in the end. It can mimic the form, but it could never hope to replicate the power of its original source material or the final success..."
+Fuji's eyes also flickered to the Ditto-Dragonite, a flash of disgust crossing his features. "That thing?" he scoffed. "A successful proof of concept, perhaps, but a failure in the end. It can mimic the form, but it could never hope to replicate the power of its original source material or the final success..."
 
-“And what was that original source material?” Oak pressed, the smile no longer present, “What was your final success?”
+"And what was that original source material?" Oak pressed, the smile no longer present, "What was your final success?"
 
-Fuji’s mouth opened to answer, but just as he was about to speak, the word "success" echoed in his mind. A little girl in a white sundress. His daughter. Amber.
+Fuji's mouth opened to answer, but just as he was about to speak, the word "success" echoed in his mind. A little girl in a white sundress. His daughter. Amber.
 
 His head snapped up, his gaze piercing the darkness where Dragonite had vanished before his demeanor turned icy.
 
-“You…” he hissed, the word dripping with venom as he turned his furious glare back on Oak. “You’re stalling for time. For your Dragonite to return.”
+"You…" he hissed, the word dripping with venom as he turned his furious glare back on Oak. "You're stalling for time. For your Dragonite to return."
 
-He didn’t wait for an answer. His hand shot into his coat pocket and ripped out a syringe filled with a sickly, glowing pink liquid. The needle glinted in the firelight.
+He didn't wait for an answer. His hand shot into his coat pocket and ripped out a syringe filled with a sickly, glowing pink liquid. The needle glinted in the firelight.
 
-“No more talk,” Fuji snarled, his voice a low, dangerous growl. “No more of your clever mind games.”
+"No more talk," Fuji snarled, his voice a low, dangerous growl. "No more of your clever mind games."
 
-“Exeggutor! Psychic! Stop him!” Oak commanded. He quickly surveyed the surroundings again, and luckily, didn’t seem to see anyone nearby.
+"Exeggutor! Psychic! Stop him!" Oak commanded. He quickly surveyed the surroundings again, and luckily, didn't seem to see anyone nearby.
 
-The Coconut Pokemon, however, was a step too late. The syringe had already pierced Magmar’s skin.
+The Coconut Pokemon, however, was a step too late. The syringe had already pierced Magmar's skin.
 
-A shimmering, invisible force erupted from Exeggutor, slamming into Fuji just as he depressed the plunger. The psychic energy threw him backward, but the deed was done. The glowing pink fluid was already coursing through Magmar’s system.
+A shimmering, invisible force erupted from Exeggutor, slamming into Fuji just as he depressed the plunger. The psychic energy threw him backward, but the deed was done. The glowing pink fluid was already coursing through Magmar's system.
 
-Magmar’s roar was not one of power, but of pure, unadulterated agony. A guttural scream tore from its beak as its body began to contort violently. Its right forearm bulged grotesquely, the skin stretching and tearing as a massive, cannon-like appendage ripped its way through flesh, hissing with steam. Its left arm remained a clawed hand, now looking rather frail and useless by comparison.
+Magmar's roar was not one of power, but of pure, unadulterated agony. A guttural scream tore from its beak as its body began to contort violently. Its right forearm bulged grotesquely, the skin stretching and tearing as a massive, cannon-like appendage ripped its way through flesh, hissing with steam. Its left arm remained a clawed hand, now looking rather frail and useless by comparison.
 
 The flames erupting from its head and tail sputtered, then reignited with an unnatural, pinkish-white intensity that gave off a sickeningly sweet smell.
 
@@ -178,35 +178,35 @@ Fuji scrambled to his feet, a wild, triumphant grin plastered on his face as he 
 
 "Arcanine, Agility!" Oak commanded, his voice cutting through the rising heat. "Tauros, Horn Attack Magmar!"
 
-Arcanine’s powerful muscles tensed, its body seeming to hum with suppressed energy as it howled, “A-ROOOOOO!”
+Arcanine's powerful muscles tensed, its body seeming to hum with suppressed energy as it howled, "A-ROOOOOO!"
 
-At the same time, Tauros, the three-tailed bull, erupted forward at Oak’s command, snorting clouds of steam as it pawed furiously at the scorched earth. Its horns lowered, and it thundered across the ruined yard, its charge aimed directly at the grotesque, cannon-armed half-Magmar.
+At the same time, Tauros, the three-tailed bull, erupted forward at Oak's command, snorting clouds of steam as it pawed furiously at the scorched earth. Its horns lowered, and it thundered across the ruined yard, its charge aimed directly at the grotesque, cannon-armed half-Magmar.
 
-Fuji, caught by surprise by Oak’s sudden attacks, roared a counter-command. "Quick, Flamethrower!"
+Fuji, caught by surprise by Oak's sudden attacks, roared a counter-command. "Quick, Flamethrower!"
 
 The cannon-armed half-Magmar raised its cannon arm toward the charging bull.
 
-But before it could flamethrower, Oak quietly smirked and countered the counter, “Exeggutor, Light Screen for Tauros!”
+But before it could flamethrower, Oak quietly smirked and countered the counter, "Exeggutor, Light Screen for Tauros!"
 
 A soft, translucent glow erupted, rapidly forming a shimmering, purple-hued wall in front of Tauros as it charged.
 
-Half-Magmar’s cannon arm unleashed a torrent of a thick, continuous torrent of pinkish-white fire, but the purple-hued wall shimmered violently as it absorbed the brunt of the flames. Nevertheless, some of the inferno still seared through the light screen, engulfing the charging bull.
+Half-Magmar's cannon arm unleashed a torrent of a thick, continuous torrent of pinkish-white fire, but the purple-hued wall shimmered violently as it absorbed the brunt of the flames. Nevertheless, some of the inferno still seared through the light screen, engulfing the charging bull.
 
 Oak did not panic. He let Tauros charge straight through the fire; its broad, muscled shoulders absorbed the searing heat, the dense hide sizzling as it pressed through the flames. With a defiant snort, it exploded out of the blaze, its horns still lowered and glowing with aura.
 
 Half-Magmar braced for the impact, its single cannon arm swinging around to meet the charge, but it was too slow. Tauros slammed into its chest with a sickening crunch. The Horn Attack drove half-Magmar backward into the street, slamming into a street-parked car.
 
-The car blared its alarm, but was quickly melted by half-Magmar’s fiery body.
+The car blared its alarm, but was quickly melted by half-Magmar's fiery body.
 
 Tauros continued its wild charge with reckless abandon, even while half-Magmar was down.
 
-“Magmar, smog!” Fuji shrieked. He then turned his attention to the support, “Ditto! What are you doing? Attack Exeggutor! Fly! Extreme Speed! Wing Attack! Do something!”
+"Magmar, smog!" Fuji shrieked. He then turned his attention to the support, "Ditto! What are you doing? Attack Exeggutor! Fly! Extreme Speed! Wing Attack! Do something!"
 
-A thick, noxious cloud belched from half-Magmar’s mouth, engulfing its surroundings.
+A thick, noxious cloud belched from half-Magmar's mouth, engulfing its surroundings.
 
 At the same time, Ditto-Dragonite was shaken from its inaction and it narrowed its eyes, focusing on Exeggutor.
 
-"Arcanine, Extreme Speed too! Block Ditto!" Oak’s voice cut through the chaos. "Exeggutor, 2 on Gravity! Prevent it from flying! Tauros, continue your assault on Magmar!"
+"Arcanine, Extreme Speed too! Block Ditto!" Oak's voice cut through the chaos. "Exeggutor, 2 on Gravity! Prevent it from flying! Tauros, continue your assault on Magmar!"
 
 Arcanine, now a fluid, orange-black streak that left a faint, shimmering heat haze in its wake, launched itself with impossible speed directly at the Ditto-Dragonite, slamming its body into the transformed Ditto just as its head began to dip, poised for an attack on the Exeggutor.
 
@@ -214,31 +214,31 @@ Simultaneously, Exeggutor focused two of its heads onto Ditto-Dragonite while on
 
 Meanwhile, Tauros, without fear, surged into the Smog with its glowing horns. It slammed into the half-buried half-Magmar with an ear-splitting crunch, driving the Fire-type further into the asphalt street.
 
-“Arcanine! Extreme Speed and Thunder Fang! Exeggutor, all 3 on Gravity!”
+"Arcanine! Extreme Speed and Thunder Fang! Exeggutor, all 3 on Gravity!"
 
-“Magmar! Poison Jab!”
+"Magmar! Poison Jab!"
 
-The two commands from each trainer were shouted simultaneously. After a moment, Fuji added, “Ditto, don’t let up!”
+The two commands from each trainer were shouted simultaneously. After a moment, Fuji added, "Ditto, don't let up!"
 
-Ditto-Dragonite and Arcanine, under the effects of all 3 head’s Gravity, both moved much slower than normal, although Arcanine seemed to be a lot more used to suddenly moving slower. It weaved and bobbed, dodging any attacks that Ditto-Dragonite threw it at and at every opportune moment, it blurred into a streak of white before biting with an electric coated fang.
+Ditto-Dragonite and Arcanine, under the effects of all 3 head's Gravity, both moved much slower than normal, although Arcanine seemed to be a lot more used to suddenly moving slower. It weaved and bobbed, dodging any attacks that Ditto-Dragonite threw it at and at every opportune moment, it blurred into a streak of white before biting with an electric coated fang.
 
-On the other side of the battlefield, in the midst of the cloud of smog, the half-Magmar raised its left arm and jabbed its clawed hand into Tauros’s hide, coated in venomous purple light.
+On the other side of the battlefield, in the midst of the cloud of smog, the half-Magmar raised its left arm and jabbed its clawed hand into Tauros's hide, coated in venomous purple light.
 
 "TAU!" the bull bellowed, its tough hide absorbing the jab, but a faint, sickly purple aura now clung to its wound.
 
-“Tauros! Facade!” Oak countered.
+"Tauros! Facade!" Oak countered.
 
 Tauros, now glowing with a desperate, self-sacrificing aura from the Facade, drove its shoulder and horns into half-Magmar, continuously slamming it deeper and deeper into the ground.
 
 "Fire Blast! Point-blank!" Fuji screamed.
 
-“Tauros! Dodge!”
+"Tauros! Dodge!"
 
-Tauros attempted to roll clear upon hearing the command. A blinding, five-pronged inferno erupted from half-Magmar’s cannon, searing the air where Tauros had been an instant before. The bull felt the searing heat scorch its back as the enormous Fire Blast grazed its flank, but it was just enough.
+Tauros attempted to roll clear upon hearing the command. A blinding, five-pronged inferno erupted from half-Magmar's cannon, searing the air where Tauros had been an instant before. The bull felt the searing heat scorch its back as the enormous Fire Blast grazed its flank, but it was just enough.
 
 The blast, however, slammed into the neighboring house, which was now fully engulfed in the expanding destruction.
 
-The half-Magmar instinctively threw a fire-coated punch, smashing the Tauros away, knocking it back into Delia’s yard.
+The half-Magmar instinctively threw a fire-coated punch, smashing the Tauros away, knocking it back into Delia's yard.
 
 Oak's hand instinctively slipped into his pocket, his fingers taking out a small, orange stone and another pokeball. However, he shook his head. *Not yet.*
 
@@ -248,31 +248,31 @@ Tauros snorts as it quickly stands, before slamming its front hooves into the sc
 
 The earth twisted violently, swallowing the fire-type up to its chest. Half-Magmar bellowed, struggling to free itself.
 
-The tremors spread further, reaching the still-struggling Ditto-Dragonite. Its massive form lurched, losing its battle with balance, while Arcanine, followed by Exeggutor, leaped effortlessly, dodging most of the effects of their teammate’s Earthquake.
+The tremors spread further, reaching the still-struggling Ditto-Dragonite. Its massive form lurched, losing its battle with balance, while Arcanine, followed by Exeggutor, leaped effortlessly, dodging most of the effects of their teammate's Earthquake.
 
 With Ditto-Dragonite momentarily off balance, Oak pressed his advantage on that side of the battle. "Arcanine, Wild Charge! Exeggutor, Egg Bomb! Tauros, continue assault on Magmar!"
 
-In that moment, with Gravity gone, Arcanine surrounded itself with electric aura before it burst forward with frightening speed, wildly slamming into Ditto-Dragonite, while Exeggutor tossed an egg that seemed to appear out of nowhere, landing it directly onto Ditto-Dragonite’s head.
+In that moment, with Gravity gone, Arcanine surrounded itself with electric aura before it burst forward with frightening speed, wildly slamming into Ditto-Dragonite, while Exeggutor tossed an egg that seemed to appear out of nowhere, landing it directly onto Ditto-Dragonite's head.
 
-Fuji gnashed his teeth as the battlefield increasingly shifted away from his favor. “Magmar! Ignore the bull, Overheat! Blast away that stupid Champion!”
+Fuji gnashed his teeth as the battlefield increasingly shifted away from his favor. "Magmar! Ignore the bull, Overheat! Blast away that stupid Champion!"
 
-Oak’s expression shifted, his eyes widening in alarm as he heard the command. He hurriedly ran Exeggutor, his pace surprisingly quick for his age, shouting, "Exeggutor! Protect!"
+Oak's expression shifted, his eyes widening in alarm as he heard the command. He hurriedly ran Exeggutor, his pace surprisingly quick for his age, shouting, "Exeggutor! Protect!"
 
-An overbearing torrent of pinkish-white flames shot out from half-Magmar as it was rammed by Tauros, sent flying again by the bull’s continuous assault.
+An overbearing torrent of pinkish-white flames shot out from half-Magmar as it was rammed by Tauros, sent flying again by the bull's continuous assault.
 
-*I'm too old for this*, was the only thing on Professor Oak's mind as the Overheat tore across the yard, reaching Oak before he could stand behind Exeggutor’s protect. Oak braced himself before the move exploded into a fiery cloud of debris and smoke erupted.
+*I'm too old for this*, was the only thing on Professor Oak's mind as the Overheat tore across the yard, reaching Oak before he could stand behind Exeggutor's protect. Oak braced himself before the move exploded into a fiery cloud of debris and smoke erupted.
 
 Silence fell, broken only by the distant wail of sirens and the hungry crackle of the flames still devouring the several houses. The scent of ozone, burnt wood, and something metallic hung thick in the air.
 
 The colossal cloud slowly began to settle around where Oak had been, although its lingering haze continued to obscure the scene.
 
-From one side of the yard, Ditto’s eyes shuddered, its form quickly dissolving back down to a small, quivering pink blob.
+From one side of the yard, Ditto's eyes shuddered, its form quickly dissolving back down to a small, quivering pink blob.
 
 Oak's Pokemon, too, froze. Arcanine, Tauros, and Exeggutor, previously locked in their furious assault, stopped dead, their heads snapping toward the dust cloud.
 
 "Hahaha!" Fuji cackled, his voice raw with a twisted, triumphant glee. He took a staggering step forward, his eyes fixed on the settling dust. "He's gone! I won! I-"
 
-Before he could finish, a low, guttural growl tore from Arcanine’s throat. Its body began to glow with a furious, golden aura.
+Before he could finish, a low, guttural growl tore from Arcanine's throat. Its body began to glow with a furious, golden aura.
 
 Tauros pawed the ground, its snorts turning into heavy, rumbling breaths of pure, unadulterated fury, its eyes blazing with an unholy light.
 
@@ -284,9 +284,9 @@ Then, they moved.
 
 Tauros slammed its front hooves into the scorched lawn. The ground instantly buckled and convulsed once again, fissures racing toward the half-Magmar. The earth twisted violently, swallowing the fire-type up to its chest. Half-Magmar bellowed, struggling to free itself.
 
-Exeggutor launched an Egg Bomb before it, too, was swallowed by its own teammate’s Earthquake. The Egg Bomb landed directly where the half-Magmar laid, blasting away some of the Earth that kept it trapped.
+Exeggutor launched an Egg Bomb before it, too, was swallowed by its own teammate's Earthquake. The Egg Bomb landed directly where the half-Magmar laid, blasting away some of the Earth that kept it trapped.
 
-Arcanine didn’t fare much better. The earth underneath Arcanine also parted. Arcanine, seeing the fissure forming, tried to jump, but it just wasn’t as easily timed as with Oak there with them to guide them, and it didn’t make it across that chasm.
+Arcanine didn't fare much better. The earth underneath Arcanine also parted. Arcanine, seeing the fissure forming, tried to jump, but it just wasn't as easily timed as with Oak there with them to guide them, and it didn't make it across that chasm.
 
 However, in the next moment, the ground buckled and Arcanine burst through the ground, before resuming its charge.
 

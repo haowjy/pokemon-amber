@@ -28,17 +28,17 @@ The automatic doors hissed like a disapproving librarian, freezing me in the thr
 
 Through the glass, reality flickered between my memories of American malls-all sleek escalators and standardized displays-and this fever dream of retail. A Mr. Mime in pressed black slacks pantomimed a traffic director's role with Broadway flair, its invisible walls parting the human and Pokemon streams like Moses at the retail sea. A Delibird waddled past dragging a returns cart twice its size, tail-bag gaping like Santa's sack after a bender. Somewhere to my left, a child wailed about their Growlithe eating a Poké Doll.
 
-"First time?" Mary asked, catching my wide-eyed stare at... everything. “Let’s just say you’re not the first farm kid I’ve seen go cross-eyed at the size. Locals go nose-blind to this circus by week two.”
+"First time?" Mary asked, catching my wide-eyed stare at... everything. "Let's just say you're not the first farm kid I've seen go cross-eyed at the size. Locals go nose-blind to this circus by week two."
 
 "I've seen bigger," I muttered, immediately regretting the reflex comparison as we joined the elevator queue. 
 
-“Bigger than *Celadon’s crown jewel*?” Mary’s voice dripped with mock horror.
+"Bigger than *Celadon's crown jewel*?" Mary's voice dripped with mock horror.
 
 Ahead, a woman in a fur-trimmed coat that screamed 'old money' carried a Meowth in what looked to be an expensive designer bag. The Pokemon peered from its leather throne, gold coin glinting as it dragged a claw across its throat-directly at me. My stomach dropped. 'Does it know? Can it smell the dimensional stink on me, like some kind of cosmic TSA agent?'
 
 The Meowth swiveled and repeated the gesture to a passing couple arguing over a map. The man yelped, fumbling the paper as his partner giggled.
 
-Oh. It’s just an asshole.’ Relief flooded my veins like a cheap potion antidote.
+Oh. It's just an asshole.' Relief flooded my veins like a cheap potion antidote.
 
 I caught Mary's eyebrow creeping upward as she watched me. 'Think rural. Think boring. Think-'
 
@@ -96,7 +96,7 @@ The complete lack of ingredient lists or warning labels made me wonder if there 
 
 "Strange to ask about formulas openly if they were planning something," Mary muttered, more to herself than me. "Unless that was meant to be a distraction..."
 
-“Something’s not quite adding up…” I muttered under my breath.
+"Something's not quite adding up…" I muttered under my breath.
 
 Mary caught my words and nodded slowly. "Yeah... this feels off." She gestured across the floor. "There's an herbal medicine shop over there as well. If someone's trying to recreate HP UP, they might've been asking questions there too."
 
@@ -130,7 +130,7 @@ Mary stared at me for a long moment, the kind of stare that made me wonder if sh
 
 I tried to look innocent, which was probably undermined by another caffeine-induced bounce.
 
-"Fine," she said, in the tone of someone already regretting their decision. "But you stay next to me the entire time. No wandering off, no talking to strangers.”
+"Fine," she said, in the tone of someone already regretting their decision. "But you stay next to me the entire time. No wandering off, no talking to strangers."
 
 I nodded with what I hoped was appropriate childlike solemnity, though the next coffee-fueled bounce probably ruined the effect. Mary's rules were reasonable, very reasonable; something I would've done regardless.
 
@@ -150,9 +150,9 @@ Shop number twelve looked like it had been squeezed between its neighbors as an 
 
 "-can't believe you actually did it," the man's voice, somewhere between awe and horror. "You actually stole a pokemon from the gym?"
 
-"You said Oddish was the key ingredient," a girl's voice, followed by a sneeze and a huge sniffle, "That if I had the gym’s Oddish’s spores he might-"
+"You said Oddish was the key ingredient," a girl's voice, followed by a sneeze and a huge sniffle, "That if I had the gym's Oddish's spores he might-"
 
-"Yeah, it is. But its not like I know how to make HP UP. I’m not an apothecary, I’m a shopkeeper. I just sell the stuff. You know you're gonna get years in prison. And for what? You should’ve worked up and saved the money to buy it. Hell, even stealing HP UP directly would’ve-"
+"Yeah, it is. But its not like I know how to make HP UP. I'm not an apothecary, I'm a shopkeeper. I just sell the stuff. You know you're gonna get years in prison. And for what? You should've worked up and saved the money to buy it. Hell, even stealing HP UP directly would've-"
 
 Another sneeze interrupted him. "Please. My brother, he's-"
 
@@ -176,7 +176,7 @@ Then Ditto bounced forward in what I generously assumed was meant to be a Tackle
 
 Then Mary's voice rang out behind me. "Bellsprout, trip her up!"
 
-“Bell!” A flash of green shot past me as Bellsprout's vine coiled around the girl's ankle with elegant precision. She went down in a tangle of limbs and sneezes, the cloth bag tumbling from her grasp. Golden spores drifted through the air like pixelated status effects come to life.
+"Bell!" A flash of green shot past me as Bellsprout's vine coiled around the girl's ankle with elegant precision. She went down in a tangle of limbs and sneezes, the cloth bag tumbling from her grasp. Golden spores drifted through the air like pixelated status effects come to life.
 
 "No!" she cried, face pressed against the cobblestones.
 

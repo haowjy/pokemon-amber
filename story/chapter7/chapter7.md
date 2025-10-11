@@ -10,13 +10,13 @@ updated: 2025-09-20
 
 I pressed my face against the window, counting Dr. Fuji's steps as he made his way down the street. His white lab coat caught the morning sun until he disappeared around the corner. I waited another ten minutes, watching the numbers tick by on the ancient digital clock above the stove.
 
-The shiny black patent leather shoes still pinched with every step, but today I had something the previous adventure lacked: money. Three hundred pokedollars’ worth of coins sat tucked deeply in my faded purple backpack along with the usual snacks, food, and spare keys.
+The shiny black patent leather shoes still pinched with every step, but today I had something the previous adventure lacked: money. Three hundred pokedollars' worth of coins sat tucked deeply in my faded purple backpack along with the usual snacks, food, and spare keys.
 
 "Ready for landmark number 2?" I whispered, rolling a minified Pokeball between my fingers. The sphere gave a slight wobble that somehow managed to convey reluctance. After yesterday's battle, we'd agreed Ditto should stay hidden-well, I'd insisted and Ditto had blob-shrugged in what I chose to interpret as agreement.
 
 Nobody had really seemed to care about Ditto hanging around my shoulders yesterday-in a city where Machop worked ticket booths and Meowth handled currency, another Pokemon companion barely raised an eyebrow.
 
-But the reaction to that battle changed a few things. It didn't take a Team Rocket scientist to connect the dots that the Ditto failed Mew clone theory was true. One glimpse from a Team Rocket Scientist of a Ditto with a girl who looked exactly like Amber Fuji, and we’d probably never be able to go on another adventure.
+But the reaction to that battle changed a few things. It didn't take a Team Rocket scientist to connect the dots that the Ditto failed Mew clone theory was true. One glimpse from a Team Rocket Scientist of a Ditto with a girl who looked exactly like Amber Fuji, and we'd probably never be able to go on another adventure.
 
 The same elevated train station from yesterday loomed ahead. I slipped through the morning crowd toward the row of booths, ignoring how Mr. Mime's exaggerated gestures made invisible walls to guide everyone else into orderly lines. Watching him work was fascinating, but I had a mission.
 
@@ -76,13 +76,13 @@ However, straight ahead, a separate lobby stretched out. A cluster of trainers, 
 
 I debated between the two sides before ultimately turning toward the unfamiliar section straight ahead. In the games, Pokemon Centers were just hospitals and sometimes item shops. There was nothing like this in any of the games.
 
-The bulletin board loomed before me, a maze of paper and possibility that made my knowledge of the pokemon games suddenly feel inadequate. "A... job board?" I muttered, caught between fascination and confusion. The papers pinned to cork seemed almost archaic compared to the Center's otherwise modern aesthetic. It almost seemed like the job boards for the mystery dungeon games… but that wasn’t a game with any humans in it, besides the protagonist.
+The bulletin board loomed before me, a maze of paper and possibility that made my knowledge of the pokemon games suddenly feel inadequate. "A... job board?" I muttered, caught between fascination and confusion. The papers pinned to cork seemed almost archaic compared to the Center's otherwise modern aesthetic. It almost seemed like the job boards for the mystery dungeon games… but that wasn't a game with any humans in it, besides the protagonist.
 
 I reached for one of the sheets before catching myself, suddenly aware of how out of place I must look. Around me, trainers moved with the easy confidence of people who'd done this a thousand times, scanning notices and occasionally plucking papers free with practiced motions. Meanwhile, I stood frozen like a tourist at a museum.
 
 A nearby trainer brushed past, his Growlithe padding dutifully at his heels as he yanked a piece green-tinted paper from the board. Neither spared me a glance, too focused on whatever job had caught their attention. I found myself envying their certainty, their obvious belonging in this space that still felt more like a game map than reality.
 
-'Well,' I thought, forcing myself to actually focus on the papers instead of just staring like an idiot, ‘no one's going to arrest me for reading.'
+'Well,' I thought, forcing myself to actually focus on the papers instead of just staring like an idiot, 'no one's going to arrest me for reading.'
 
 The cork board stretched out before me, a patchwork of colored papers that seemed to tell stories of an entire region. My eyes were immediately drawn to the right side, where crimson papers demanded attention with bold lettering and stark warnings. A proper WANTED poster-and wasn't that a shock to see in a Pokemon Center-displayed a grainy photo of a Hypno. The text warned of a "mass sleep incident" in Saffron City, with a staggering ₽2,000,000 reward for capture. It was apparently class A, whatever that meant.
 
@@ -90,7 +90,7 @@ The cork board stretched out before me, a patchwork of colored papers that seeme
 
 Moving left, I found a much more varied assortment of colors. Yellow \[Rescue\] notices confused me. Why were there so many about retrieving "fainted" Pokemon left in forests? Who abandons their Pokemon like that but still wanted them back? The descriptions were vague, but the urgency in the writing was clear.
 
-Then, there were orange papers marked \[Defeat\]. Most seemed to involve removing problem Pokemon from settled areas-a group of Grimer in the sewers, aggressive Spearow near farms. One notice caught my eye: "\[Defeat\] Rogue Eevee and Eeveelutions Route 7 \- Exercise Caution. (Class C)”. Something about it tickled my memory-but I couldn’t quite place it.
+Then, there were orange papers marked \[Defeat\]. Most seemed to involve removing problem Pokemon from settled areas-a group of Grimer in the sewers, aggressive Spearow near farms. One notice caught my eye: "\[Defeat\] Rogue Eevee and Eeveelutions Route 7 \- Exercise Caution. (Class C)". Something about it tickled my memory-but I couldn't quite place it.
 
 Finally, on the far left, white papers marked \[Item\] offered gentler tasks. "\[Item\] Berry Collection \- Celadon Hills (Class D)" promising oddly decent pay for some wild berry picking.
 
@@ -98,7 +98,7 @@ Movement near the board caught my eye-someone in forest green pinning up a new n
 
 I curiously inched toward the new notice, reading the bolded letters at the top: "\[WANTED\] Thief that stole a Oddish from Celadon Gym Greenhouse."
 
-‘Oddish? Hadn’t I seen a Oddish bef-’
+'Oddish? Hadn't I seen a Oddish bef-'
 
 "Ah!" The trainer's shout cracked through the center's buzz. Her small stack of notices scattered across the floor as she jumped back, pokeball appearing in her hand with practiced speed. The morning chatter died instantly. "It's you!"
 
@@ -114,11 +114,11 @@ The trainer lowered her pokeball slightly, but her stance remained ready. "You w
 
 "I mean, yes, I was there, but-"
 
-"You have to come with me." It wasn't a request. The gym trainer’s grip on her pokeball tightened, though she at least wasn't pointing it at me anymore. "I will need your statement."
+"You have to come with me." It wasn't a request. The gym trainer's grip on her pokeball tightened, though she at least wasn't pointing it at me anymore. "I will need your statement."
 
 I glanced around the Center. The morning crowd had mostly gone silent, their attention locked on our little drama. Even the healing station's chime felt judgmental now.
 
-I nodded, making sure to keep Ditto’s pokeball small. It felt impossibly heavy between my fingertips. 
+I nodded, making sure to keep Ditto's pokeball small. It felt impossibly heavy between my fingertips. 
 
 The gym trainer gestured toward the door, not bothering to pick up the fallen notices, "After you."
 

@@ -16,7 +16,7 @@ I squeezed them shut.
 
 Was I safe now? Professor Oak saved us, but what happened after? Where was he? And Dr. Fuji... what happened to him? Did Professor Oak defeat him?
 
-A sharp pang of fear shot through me as I considered the worst case scenario. Dr. Fuji won, killed Professor Oak, messed up the entire Pokemon World… and then what would he do to me, who revealed I wasn’t his daughter?
+A sharp pang of fear shot through me as I considered the worst case scenario. Dr. Fuji won, killed Professor Oak, messed up the entire Pokemon World… and then what would he do to me, who revealed I wasn't his daughter?
 
 And Ditto. The one that I could consider my first friend in this twisted Pokemon world. Where was it? Was it okay? Did Dr. Fuji do something to it?
 
@@ -28,7 +28,7 @@ While she navigated the big yellow phone book for another number, scribbling fra
 
 Delia snatched it up.
 
-"Hello?" She listened, her breath catching. "Yes, this is his residence... This is Delia Ketchum speaking. Oh, school's cancelled for today? Yes, I'll let him and Gary and Ash know. He's... missing right now... Yes, the Professor Oak... No, I don't know where he is... My house... the fire was at my house. Have you maybe heard anything about Stephen Ketchum?”
+"Hello?" She listened, her breath catching. "Yes, this is his residence... This is Delia Ketchum speaking. Oh, school's cancelled for today? Yes, I'll let him and Gary and Ash know. He's... missing right now... Yes, the Professor Oak... No, I don't know where he is... My house... the fire was at my house. Have you maybe heard anything about Stephen Ketchum?"
 
 She listened, her face falling. "Yes… Yes… I understand. Thank you." She hung up, her knuckles white. "School's cancelled," she muttered, before her eyes immediately scanned the phonebook again.
 
@@ -36,9 +36,9 @@ Across the living room, Gary Oak pumped his fist. "Yes! No school!" He sat oppos
 
 "Whatever," Ash muttered, his voice flat. "Your turn."
 
-Gary drew a card, a cruel grin spreading across his face. “Perfect. I use Boss’s Orders. Bring your Elekid to the front.”
+Gary drew a card, a cruel grin spreading across his face. "Perfect. I use Boss's Orders. Bring your Elekid to the front."
 
-Ash’s hands trembled. He stared at the small, yellow Pokemon on the card, his face pale.
+Ash's hands trembled. He stared at the small, yellow Pokemon on the card, his face pale.
 
 "What's wrong, Ashy-boy?" Gary taunted, his voice sharp. "Too scared to fight? My Arcanine will knock it out. Easy prize."
 
@@ -50,11 +50,11 @@ My gaze darted to Delia, but she was lost in her own world, her finger tracing a
 
 A sigh escaped my small chest. I guess I had to be the adult of the room. I stepped forward. "Stop it! Break it up, you two!"
 
-I reached for Ash’s arm, but a flailing fist connected squarely with my cheek. The sting was sharp, but the sudden, dead silence from the boys was sharper.
+I reached for Ash's arm, but a flailing fist connected squarely with my cheek. The sting was sharp, but the sudden, dead silence from the boys was sharper.
 
 They froze, their childish rage evaporating, replaced by wide-eyed shock and guilt.
 
-"Wow, Ash," Gary breathed, scrambling back as he cautiously glanced toward Delia. "You hit a girl. You’re in so much T-R-O-U-B-L-E!"
+"Wow, Ash," Gary breathed, scrambling back as he cautiously glanced toward Delia. "You hit a girl. You're in so much T-R-O-U-B-L-E!"
 
 Ash just stared at me, his lip quivering, before he jumped onto the couch and buried his face in a cushion.
 
@@ -66,9 +66,9 @@ A breath I didn't know I was holding escaped me in a rush. He's alive.
 
 Gary and Ash snapped their heads toward Delia, their fight completely forgotten.
 
-"...He just woke up? Oh, thank Arceus… Yes, we'll be right there… Yes, I’ll bring Gary too."
+"...He just woke up? Oh, thank Arceus… Yes, we'll be right there… Yes, I'll bring Gary too."
 
-Delia hung up the phone, her movements firm and decisive for the first time all morning. "Come on, children," she said, her voice steady. "Get your shoes on. We're going to see the Professor.”
+Delia hung up the phone, her movements firm and decisive for the first time all morning. "Come on, children," she said, her voice steady. "Get your shoes on. We're going to see the Professor."
 
 /\[^\_^\]\\
 
@@ -78,7 +78,7 @@ We were just approaching the automatic glass doors when a shadow fell over us. A
 
 Dragonite descended with an almost impossible grace for a creature its size, landing softly on the lawn a few yards away. Its large, dark eyes were filled with a deep, weary concern. It let out a low, cooing sound, a rumbling in its massive chest.
 
-"Hey! Where were you all night?" Gary yelled, his voice cracking with a childish bravado. “Why’d you let gramps get injured?"
+"Hey! Where were you all night?" Gary yelled, his voice cracking with a childish bravado. "Why'd you let gramps get injured?"
 
 Before Dragonite could react, its head tilting in confusion at the boy's accusation, a tired voice cut in. "He was patrolling the sky all night, Gary."
 
@@ -86,11 +86,11 @@ Officer Jenny walked over from the hospital entrance, her uniform crisp but her 
 
 "Making sure there were no other threats," she finished, her voice flat with fatigue. She gave Gary a look that was not unkind, but left no room for argument, and he shuffled back, his anger deflating.
 
-Jenny then turned her attention to Delia. "I'm so sorry we didn't notify his house sooner," she said, her professionalism warring with her weariness. "The professor's files listed only Gary as the only other resident. We didn't want to wake a child in the middle of the night with this kind of news. We had no idea there were other people there.”
+Jenny then turned her attention to Delia. "I'm so sorry we didn't notify his house sooner," she said, her professionalism warring with her weariness. "The professor's files listed only Gary as the only other resident. We didn't want to wake a child in the middle of the night with this kind of news. We had no idea there were other people there."
 
 Delia just nodded, a numb acceptance on her face. "It's alright. I was... I was out looking for my husband, Stephen. We saw the fire... Professor Oak went to help..." Her voice trailed off, the narrative thread lost. Then, a spark of desperate hope reignited in her eyes as she looked at the officer. "Have you... have you seen my husband? Stephen Ketchum?"
 
-Officer Jenny's expression, already weary, tightens with a flicker of professional sympathy. She shakes her head slowly. "I'm sorry, I haven’t."
+Officer Jenny's expression, already weary, tightens with a flicker of professional sympathy. She shakes her head slowly. "I'm sorry, I haven't."
 
 Delia's face crumpled slightly. "He went missing, before the fire, I think..." she trailed off. 
 
@@ -132,7 +132,7 @@ Ash, blinded by tears and rage, swung his fists wildly as he careened down the c
 
 "Boys, please!" the poor Nurse Joy pleaded, scurrying after them, her sensible shoes squeaking on the polished floor. "Stop this instant! This is a hospital!"
 
-They rounded a corner at the end of the hall, their shouts and the nurse's frantic pleas disappearing from view. I heard a muffled thud, a final, sharp yelp from Gary, and then Nurse Joy’s stern voice, "That is quite enough!"
+They rounded a corner at the end of the hall, their shouts and the nurse's frantic pleas disappearing from view. I heard a muffled thud, a final, sharp yelp from Gary, and then Nurse Joy's stern voice, "That is quite enough!"
 
 A moment later, the three returned. 
 
@@ -152,7 +152,7 @@ Gary, on the other end, tried to look nonchalant, examining his fingernails, but
 
 I found myself counting the sterile white tiles on the floor, then the acoustic panels in the ceiling. My mind drifted from the childish drama beside me to the other one possibly unfolding behind the closed door. 
 
-To Dr. Fuji, who, from the brief conversation, had been apprehended. And to Ditto, who stood next to Dr. Fuji that night. I wondered if I’d ever get to see it again.
+To Dr. Fuji, who, from the brief conversation, had been apprehended. And to Ditto, who stood next to Dr. Fuji that night. I wondered if I'd ever get to see it again.
 
 The rhythmic beep of a distant monitor and the occasional squeak of a cart's wheels were the only sounds that marked the slow, agonizing crawl of time.
 
@@ -184,7 +184,7 @@ Officer Jenny stood, her brief moment of gentleness vanished completely as she t
 
 They froze, startled into obedience. Just then, Delia exited the room, her face a grim, hollow mask. She looked at Ash, and for a second, I saw a flicker of a mother's instinct to scold, but it was instantly swallowed by the vast emptiness in her eyes.
 
-We shuffled back into the room, the boys’ brief flare of anger extinguished by the sheer weight of the adults’ sorrow.
+We shuffled back into the room, the boys' brief flare of anger extinguished by the sheer weight of the adults' sorrow.
 
 Delia drifted to a chair in the far corner and sank into it, her gaze vacant, her body looking as if all the bones had been removed. She never once met my eyes, keeping her gaze fixed on either the boys, or the sterile white wall opposite us.
 
@@ -226,7 +226,7 @@ He turned his head, his eyes shifting from his grandson to me.
 
 "Professor?" I began, my voice low, barely audible over the commentator's excited shouts.
 
-He turned his head fully, his kind eyes meeting mine. The fond smile he'd had for the boys softened into something more serious, more attentive. In his gaze, I felt a strange sense of calm settle over me, a feeling of safety I hadn't realized I'd been missing. "Yes?”
+He turned his head fully, his kind eyes meeting mine. The fond smile he'd had for the boys softened into something more serious, more attentive. In his gaze, I felt a strange sense of calm settle over me, a feeling of safety I hadn't realized I'd been missing. "Yes?"
 
 I took a deep breath, the question tasting like ash in my mouth. "What happened to... Dr. Fuji?"
 
@@ -242,31 +242,31 @@ Professor Oak didn't answer immediately. His gaze held mine for a long moment.
 
 When he finally spoke, the scholarly curiosity in his eyes had been replaced by a gentle reassurance.
 
-"Safe," he said, his voice softening to match his expression. "It's currently being held for questioning, but it's unharmed. A curious Ditto," he mused. "It transformed into my Dragonite, with seemingly equal strength. Thankfully, it didn’t seem to want to fight-a rather gentle Pokemon."
+"Safe," he said, his voice softening to match his expression. "It's currently being held for questioning, but it's unharmed. A curious Ditto," he mused. "It transformed into my Dragonite, with seemingly equal strength. Thankfully, it didn't seem to want to fight-a rather gentle Pokemon."
 
 A wave of relief washed over me before I slowly continued, "So... what happens to me then?"
 
-Professor Oak was quiet for a long moment, choosing his words with care. "Legally," he began, "I don’t know what you are. If you have other parents or relatives, then you’ll return to your family.”
+Professor Oak was quiet for a long moment, choosing his words with care. "Legally," he began, "I don't know what you are. If you have other parents or relatives, then you'll return to your family."
 
-I shook my head, “I… don’t think I would have living relatives.”
+I shook my head, "I… don't think I would have living relatives."
 
-Professor Oak nodded, then, with an odd expression he continued, “If not, then I believe you would be placed in the Indigo League orphan care until you become an adult.”
+Professor Oak nodded, then, with an odd expression he continued, "If not, then I believe you would be placed in the Indigo League orphan care until you become an adult."
 
-“I see…” I said, before continuing, “Is that bad?”
+"I see…" I said, before continuing, "Is that bad?"
 
-Professor Oak let out a strange, dry chuckle, “It was overburdened in the War. They are stretched extremely thin and I don’t think they have too much political support. I suppose they might be doing better after so many years after the War but… I still haven't heard good things about it, to be honest.”
+Professor Oak let out a strange, dry chuckle, "It was overburdened in the War. They are stretched extremely thin and I don't think they have too much political support. I suppose they might be doing better after so many years after the War but… I still haven't heard good things about it, to be honest."
 
-“Oh…” I sighed, feigning disappointment. Internally, however, a part of my mind seized on his words. The War. That single phrase confirmed a crucial piece of lore, a dark background detail that only fanfictions covered.
+"Oh…" I sighed, feigning disappointment. Internally, however, a part of my mind seized on his words. The War. That single phrase confirmed a crucial piece of lore, a dark background detail that only fanfictions covered.
 
-Professor Oak smiled knowingly as his gaze lingered over me and he asked a seemingly simple question, “How old are you, Amber?”
+Professor Oak smiled knowingly as his gaze lingered over me and he asked a seemingly simple question, "How old are you, Amber?"
 
-A bead of sweat dripped from my forehead as I hesitantly answered, “I don’t know... Why do you ask, Professor?”
+A bead of sweat dripped from my forehead as I hesitantly answered, "I don't know... Why do you ask, Professor?"
 
 A jolt of pure panic shot through me as I started to glance around the room for anything else to change the conversation to.
 
-Professor Oak simply replied, “No reason. I was just curious.”
+Professor Oak simply replied, "No reason. I was just curious."
 
-“Oh…” 
+"Oh…" 
 
 My eyes darted to the TV, where a flashy commercial had replaced the Pokemon battle. A cartoon bowl of noodles danced across the screen. My panicked mind latched onto it like a life raft.
 

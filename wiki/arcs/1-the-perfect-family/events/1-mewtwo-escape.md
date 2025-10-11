@@ -18,4 +18,4 @@ Mewtwo awakens and escapes the underground facility on Cinnabar, triggering cata
 - Team Rocket convenes post-incident; Giovanni, Archer, and scientists assess losses and discuss replication/containment. ([Ch.6](../../story/chapter6/chapter6.md))
 
 ## Aftermath
-- Fuji forges Amber’s identity; Domino tips him toward Delia; seeds of future conflict planted. ([Ch.6](../../story/chapter6/chapter6.md))
+- Fuji forges Amber's identity; Domino tips him toward Delia; seeds of future conflict planted. ([Ch.6](../../story/chapter6/chapter6.md))

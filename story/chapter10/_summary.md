@@ -14,7 +14,7 @@ updated: 2025-09-21
 
 # Chapter 10 - Summary
 
-Erika treats Hiro’s Sludge Fever and authorizes Oddish to stay; on the return train, Fuji intercepts Amber, reclaims Ditto, and slaps her.
+Erika treats Hiro's Sludge Fever and authorizes Oddish to stay; on the return train, Fuji intercepts Amber, reclaims Ditto, and slaps her.
 
 - Story: [Chapter 10](./chapter10.md)
 

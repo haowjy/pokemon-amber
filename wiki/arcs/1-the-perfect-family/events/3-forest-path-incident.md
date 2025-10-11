@@ -17,4 +17,4 @@ Dr. Fuji ambushes Stephen Ketchum on a forest path near Pallet Town and, using D
 - Orders Ditto-Gyarados: Dragon Rage; orders Hyper Beam; Magmar finishes; bodies burned. ([Ch.12](../../story/chapter12/chapter12.md))
 
 ## Aftermath
-- Fuji plans “reunion” with Delia; heads to acquire flowers, wine, better clothes. ([Ch.12](../../story/chapter12/chapter12.md))
+- Fuji plans "reunion" with Delia; heads to acquire flowers, wine, better clothes. ([Ch.12](../../story/chapter12/chapter12.md))
