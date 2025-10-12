@@ -29,5 +29,5 @@ hidden: false
 - Medium term: Satellite relays, inter‑region roads, and League registries tighten systems; formal airports emerge near cities as demand matures.
 
 ## Citations / Sources
-- Story: [Chapter 2](../../../story/chapter2/chapter2.md), [Ch.6](../../../story/chapter6/chapter6.md)
+- Story: [Chapter 2](../../../story/chapter2/2chapter.md), [Ch.6](../../../story/chapter6/chapter6.md)
 - World context: [Kanto–Johto Unification](../kanto-johto-unification-war.md)

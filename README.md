@@ -37,7 +37,7 @@ The `.cursor/rules/` directory contains custom prompts and style guides that hel
 pokemon-amber/
 ├── story/           # Chapter files (markdown)
 │   ├── chapter1/
-│   │   ├── chapter1.md      # Published chapter
+│   │   ├── 1chapter.md      # Published chapter
 │   │   ├── _1notes.md       # Author notes (hidden)
 │   │   └── _1summary.md     # Chapter summary
 │   └── ...
@@ -59,6 +59,8 @@ pokemon-amber/
 - **Author notes/drafts:** Leading underscore. Chapter-local files are numbered to match the folder:
   - `_Xnotes.md`, `_Xsummary.md` (e.g., `_10notes.md`, `_10summary.md`)
   - Rationale: improves clarity and sorting when many chapter folders are open.
+  
+- **Chapter files:** Inside each `story/chapterX/` folder, the chapter file is named `Xchapter.md` (e.g., `story/chapter5/5chapter.md`).
 
 All authoring files include YAML front matter with metadata (title, status, dates, etc.).
 

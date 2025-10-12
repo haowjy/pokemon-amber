@@ -32,5 +32,5 @@ hidden: false
 - Rail/Subway: Electric for systems; Rock/Steel for maintenance as needed.
 
 ## Citations / Sources
-- In‑story: [Chapter 2](../../../story/chapter2/chapter2.md)
+- In‑story: [Chapter 2](../../../story/chapter2/2chapter.md)
 - Context: [Technology Overview](./index.md)

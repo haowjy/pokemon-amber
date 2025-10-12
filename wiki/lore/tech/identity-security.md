@@ -24,5 +24,5 @@ hidden: false
 - Sets expectations for increasing formality by later arcs (registries, licensing, custody systems).
 
 ## Citations / Sources
-- Story: [Chapter 2](../../../story/chapter2/chapter2.md)
+- Story: [Chapter 2](../../../story/chapter2/2chapter.md)
 - Tech context: [Technology Overview](./index.md)
