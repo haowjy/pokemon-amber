@@ -14,7 +14,7 @@ updated: 2025-10-11
 - Show Amber's poverty/money issues
 - Introduce gym facilities and structure
 - Create humorous/tense moments (creepy old man, restricted greenhouse, collision)
-- Demonstrate Ditto's social behavior with other Pokemon
+- Demonstrate Ditto's social behavior with other Pokémon
 
 ## Beats
 - Amber approaches Celadon Gym through beautiful ginkgo tree garden
@@ -28,7 +28,7 @@ updated: 2025-10-11
   - Explains: Need trainer ID, parents help with junior permit, must pass test
   - **Assumes Amber already has junior permit** (seeing Ditto-scarf, thinks it's legal)
   - Suggests upgrading to trainer ID
-  - Can take test at gym or Pokemon Center
+  - Can take test at gym or Pokémon Center
 - Amber realizes she's broke (₽300 not enough)
 - Leaves gym, wanders gardens feeling defeated
 - Talks to "Ditto" (still scarf form) about get-rich-quick schemes
@@ -39,7 +39,7 @@ updated: 2025-10-11
 - Two Glooms dance in rainbow sunlight (peaceful moment)
 - Purple-haired gym trainer (15) interrupts, sees Ditto-Gloom
 - Ditto's form wavers, reveals pink
-- Trainer confused: "What kind of Pokemon is that?"
+- Trainer confused: "What kind of Pokémon is that?"
 - Realizes Amber is just a kid, softens
 - "Where are your parents?"
 - Lets Amber go with warning about "DO NOT ENTER" signs
@@ -52,18 +52,18 @@ updated: 2025-10-11
 - **Entire chapter:** Draped around neck like scarf (pink blob, from Ch4)
   - NOTE: Not transformed into fabric - just positioned scarf-like as pink blob
   - Looks like oddly purple scarf from distance
-- **Gym lobby:** Receptionist doesn't notice it's a Pokemon (successful camouflage)
-  - She sees "girl with purple scarf" not "girl with Pokemon"
+- **Gym lobby:** Receptionist doesn't notice it's a Pokémon (successful camouflage)
+  - She sees "girl with purple scarf" not "girl with Pokémon"
   - Assumes Amber has junior permit based on age/context, not seeing Ditto
 - **Greenhouse:** Slides down, transforms to Gloom to socialize
 - **After incident:** Presumably drapes around neck again (implied)
 
 ### Licensing System Established
-- **Junior Permit:** For kids, allows 1 Pokemon, needs parent to register
+- **Junior Permit:** For kids, allows 1 Pokémon, needs parent to register
 - **Trainer ID:** Full license, needs test, allows gym challenges
 - **Process:** Parent registers junior permit → kid takes test → gets trainer ID → can challenge gym
-- **Assumption:** Receptionist thinks Amber has junior permit (normal for kid with Pokemon)
-- Test available at gym or Pokemon Center
+- **Assumption:** Receptionist thinks Amber has junior permit (normal for kid with Pokémon)
+- Test available at gym or Pokémon Center
 - Cost not mentioned for registration/test, only facility passes
 
 ### Money Problems
@@ -78,12 +78,12 @@ updated: 2025-10-11
 - Reception desk with price board
 - Training facilities (seen on board, not visited)
 - League spectator area (for watching official matches)
-- Greenhouses (restricted areas for gym Pokemon)
+- Greenhouses (restricted areas for gym Pokémon)
 - Staff includes young trainers (15-year-old with Bellsprout)
 
 ## Foreshadowing
 - Ditto's social nature (wants to play with Gloom)
-- Gym trainer notices unusual Pokemon but doesn't pursue
+- Gym trainer notices unusual Pokémon but doesn't pursue
 - "Restricted areas" exist (Amber will break more rules?)
 - License system will become important plot point
 - Amber's child-sized perspective causes problems (can't see signs)
@@ -96,7 +96,7 @@ Based on Cooltrainer Mary from Celadon Gym ([Bulbapedia](https://bulbapedia.bulb
 - Has Bellsprout partner (doesn't have Ivysaur yet)
 - In canon, she's Erika's "ace trainer" with team: Bellsprout♀ Lv.22, Oddish♀ Lv.22, Weepinbell♀ Lv.22, Gloom♀ Lv.22, Ivysaur♂ Lv.22
 - Authoritative but kind to kids
-- Curious about unusual Pokemon
+- Curious about unusual Pokémon
 - Doesn't report Amber for trespassing
 
 ### Kaede (Sneezing Girl)
@@ -105,14 +105,14 @@ Based on Kaede from the manga "How I Became a Pokémon Card" (https://bulbapedia
 - Has stolen Oddish from gym (wilted, drooping, unconscious from fall)
 - Severely allergic to pollen, flowers, and Grass-type Pokémon (constant sneezing, flushed, red running eyes)
 - In a hurry after stealing, apologizes briefly
-- Shows caring for Pokemon despite her allergies
+- Shows caring for Pokémon despite her allergies
 - Childhood friends with Erika (revealed in later chapters)
 - In original manga, she's a Team Rocket member with an Oddish that evolved into Gloom
 
 ## Open Questions
 - Will Amber get a junior permit or go straight for trainer ID?
 - How will she afford anything?
-- Will gym trainer remember the weird transforming Pokemon?
+- Will gym trainer remember the weird transforming Pokémon?
 - What's wrong with the sneezing girl's Oddish?
 
 ## To-Do

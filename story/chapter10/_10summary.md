@@ -32,15 +32,15 @@ Erika treats Hiro's Sludge Fever and authorizes Oddish to stay; on the return tr
 
 ### 3. Return to Celadon and Fuji's Interception:
 *   Amber and Mary return to Celadon by train, Amber exhausted and reflecting on her first real adventure.
-*   At the Game Corner station, Dr. Fuji intercepts Amber on the train. He confronts her, reclaims Ditto's Pokeball, and slaps her, conveying his severe displeasure.
+*   At the Game Corner station, Dr. Fuji intercepts Amber on the train. He confronts her, reclaims Ditto's Poké Ball, and slaps her, conveying his severe displeasure.
 *   Fuji sits next to Amber, and they continue their journey in silence, leaving Amber isolated and her brief taste of freedom abruptly ended.
 
 ## Potential speculation:
 *   **Sludge Fever's Origin:** The recurring presence of Sludge Fever in the Factory Ward suggests an ongoing environmental or industrial problem, potentially linked to Team Rocket's operations or the city's ecological health, which could become a larger plot point.
 *   **Erika's Compassion vs. Ambition:** Erika's decision to offer free medical care, despite her earlier remark about seeking "publicity for her future gym leader claim," highlights her complex character, balancing personal ambition with genuine compassion for those in need.
-*   **The Power of Natural Medicine:** Erika's use of natural herbs and berries to treat Sludge Fever, rather than conventional medicine, hints at a more holistic approach to healing in the Pokemon world, suggesting an alternative to the expensive and regulated medical system.
+*   **The Power of Natural Medicine:** Erika's use of natural herbs and berries to treat Sludge Fever, rather than conventional medicine, hints at a more holistic approach to healing in the Pokémon world, suggesting an alternative to the expensive and regulated medical system.
 *   **Fuji's Control and Abuse:** Dr. Fuji's act of slapping Amber and reclaiming Ditto underscores his controlling and potentially abusive nature, revealing the severe restrictions he intends to place on Amber's freedom and her personal connections.
 *   **Amber's Loss of Agency:** Amber's forced return to Dr. Fuji and the loss of Ditto symbolize a significant setback in her journey toward independence, emphasizing her continued vulnerability and dependence on Fuji, despite her internal adult consciousness.
-*   **The Factory Ward's Significance:** The decrepit Factory Ward, with its industrial pollution and impoverished residents, could become a recurring setting or a focal point for future conflicts, representing the darker societal impacts of industrialization in the Pokemon world.
+*   **The Factory Ward's Significance:** The decrepit Factory Ward, with its industrial pollution and impoverished residents, could become a recurring setting or a focal point for future conflicts, representing the darker societal impacts of industrialization in the Pokémon world.
 
 

@@ -10,7 +10,7 @@ updated: 2025-10-11
 - Story: ../chapter4.md
 
 ## Intent
-- Amber's first real Pokemon battle
+- Amber's first real Pokémon battle
 - Show Ditto's transformation abilities publicly
 - Introduce consequences: crowd attention and licensing concerns
 - Establish battle mechanics (real-time, no turns, status moves work differently)
@@ -26,7 +26,7 @@ updated: 2025-10-11
 - **Ditto transforms into Rattata → CROWD REACTS IMMEDIATELY**
   - Woman stops, stares, whispers to companion
   - Teenage trainers drift closer
-  - Murmurs: "What kind of Pokemon?" "Never seen anything like..."
+  - Murmurs: "What kind of Pokémon?" "Never seen anything like..."
 - Amber realizes she's revealing potentially classified experiment (Ditto = failed Mew clone?)
 - Battle continues: Tail Whip (status moves work!), Tackle exchanges, Quick Attack
 - Ditto wins with superior technique/training
@@ -54,7 +54,7 @@ updated: 2025-10-11
 ### Battle Mechanics Established
 - Real-time combat, no turn-based system
 - Status moves work (Tail Whip affects Rattata's confidence)
-- Pokemon respond to trainers but have autonomy
+- Pokémon respond to trainers but have autonomy
 - Experience matters (Ditto's training shows)
 
 ### Public Attention
@@ -70,7 +70,7 @@ updated: 2025-10-11
 - Battle knowledge translates but isn't perfect (had to learn real-time combat)
 
 ## Open Questions
-- Will anyone report the unusual Pokemon?
+- Will anyone report the unusual Pokémon?
 - How common/rare are Dittos in this world?
 - When will licensing become a real problem?
 

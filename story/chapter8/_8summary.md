@@ -25,7 +25,7 @@ Amber clears a security review, Erika joins the effort, and the plan forms to in
 *   Kayla eventually retrieves grainy security footage showing Amber entering the greenhouse. Amber observes her past self with detachment, worrying about the footage falling into Dr. Fuji's hands.
 
 ### 2. Identifying the Real Thief:
-*   The security footage also reveals a much older girl frantically fleeing the greenhouse, pursued by various plant-type Pokemon, clutching something to her chest, and suffering from what appears to be violent sneezes.
+*   The security footage also reveals a much older girl frantically fleeing the greenhouse, pursued by various plant-type Pokémon, clutching something to her chest, and suffering from what appears to be violent sneezes.
 *   Amber recognizes this girl as the one who accidentally collided with her outside the greenhouse in Chapter 5.
 *   Mary initially suspects Amber of being an accomplice, but Amber offers to use Ditto to identify the thief more clearly.
 *   Ditto, upon being released, initially causes confusion but then transforms into a helium-voiced replica of the sneezing girl, confirming its ability to mimic humans.
@@ -48,6 +48,6 @@ Amber clears a security review, Erika joins the effort, and the plan forms to in
 *   **Erika's Strategic Acumen:** Erika's calm and calculated response to the theft, her quick formulation of the HP UP theory, and her subtle manipulation of the situation (e.g., covering Kayla's near-revelation, seeing an "opportunity to advance her claim") reveal her as a shrewd and politically astute Gym Leader with her own ambitions.
 *   **Corporate Espionage within Celadon:** The theft of the Oddish and Erika's HP UP theory introduce a layer of corporate espionage and scientific competition within Celadon City, suggesting that the seemingly peaceful Pokemon world has a darker underbelly of industrial secrets and rivalries.
 *   **Amber's Entanglement:** Amber's reluctant agreement to help investigate the Oddish theft further entwines her with the Celadon Gym and its internal politics, potentially leading her into conflicts or alliances she didn't seek, and blurring the lines between her personal journey and larger regional events.
-*   **The Sneezing Thief:** The distinctive sneezing fits of the thief could be a unique character trait or a clue, possibly indicating an allergy to certain Pokemon or environmental factors, which could be used to track her down later.
+*   **The Sneezing Thief:** The distinctive sneezing fits of the thief could be a unique character trait or a clue, possibly indicating an allergy to certain Pokémon or environmental factors, which could be used to track her down later.
 
 

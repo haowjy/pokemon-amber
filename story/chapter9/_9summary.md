@@ -28,10 +28,10 @@ Department Store sweeps lead to clues about a sickly girl, Kaede, asking about H
 *   Amber and Mary visit the Celadon Department Store, an overwhelming experience for Amber who is accustomed to the pixelated version.
 *   They navigate the bustling store, encountering a traffic-directing Mr. Mime and a thieving Meowth, while Amber internally battles her caffeine jitters.
 *   On the fifth floor, dedicated to vitamins, Mary inquires about HP UP stock. The clerk confirms normal supply but mentions a sickly-looking young girl who recently inquired about cheaper HP UP options.
-*   Amber notes the high price of official HP UP (₽9,800 per bottle) and the absence of ingredient lists, leading her to question the regulatory standards of the Pokemon world.
+*   Amber notes the high price of official HP UP (₽9,800 per bottle) and the absence of ingredient lists, leading her to question the regulatory standards of the Pokémon world.
 
 ### 3. The Game Corner District and a Crucial Lead:
-*   After visiting several more shops, Amber, still caffeinated and restless, insists on accompanying Mary to the less-safe Game Corner district despite Mary's concerns about a child with a rare Pokemon.
+*   After visiting several more shops, Amber, still caffeinated and restless, insists on accompanying Mary to the less-safe Game Corner district despite Mary's concerns about a child with a rare Pokémon.
 *   They navigate the chaotic, neon-lit casino district, filled with promoters, gamblers, and a Grimer blocking the street.
 *   At shop number twelve, they overhear a conversation between a man and a sneezing girl, confirming the girl stole an Oddish, believing its spores were for HP UP, and expressing concern for her brother.
 
@@ -45,7 +45,7 @@ Department Store sweeps lead to clues about a sickly girl, Kaede, asking about H
 ## Potential speculation:
 *   **Mary's Redemption Arc:** Mary's determination to solve the Oddish theft, despite her suspension, and her concern for Amber, suggest she is a character driven by a strong sense of justice and responsibility, potentially leading to her redemption and reinstatement.
 *   **HP UP Controversy:** Kayla's near-revelation about Oddish no longer being used for HP UP, combined with Erika's immediate cover-up and the thief's belief in Oddish's importance, hints at a hidden secret or scandal surrounding the Celadon Gym's HP UP production and its ingredients.
-*   **Economic Disparity:** The high price of HP UP and the thief's desperate act for her brother's sake highlight a significant economic disparity in the Pokemon world, suggesting that access to vital resources like medicine may be limited to the wealthy, driving some to desperate measures.
+*   **Economic Disparity:** The high price of HP UP and the thief's desperate act for her brother's sake highlight a significant economic disparity in the Pokémon world, suggesting that access to vital resources like medicine may be limited to the wealthy, driving some to desperate measures.
 *   **The Thief's Motivation:** The girl's desperate plea about her dying brother provides a strong sympathetic motive for her actions, complicating the moral implications of her theft and potentially leading to a more nuanced resolution than simple punishment.
 *   **Ditto's Combat Limitations:** Ditto's ineffective "Tackle" highlights a current limitation in its combat abilities, emphasizing that while it can mimic, it still requires training and strategy to be truly effective in battle, especially with a novice trainer like Amber.
 *   **Amber's Developing Empathy:** Amber's observation of the thief's desperation and her internal conflict over the situation suggest her growing empathy and a deepening understanding of the complex realities of this new world, moving beyond her initial gamer's perspective.

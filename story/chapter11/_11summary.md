@@ -22,10 +22,10 @@ Fuji transports Amber to Pallet, confronts Delia with their past, and leaves Amb
 ### 1. The Weight of Control:
 *   Amber feels trapped by Dr. Fuji's increasingly obsessive control, symbolized by the plain white dress he makes her wear and Ditto's return to a distant guardian role.
 *   She reflects on her lost friendships from her past life and the sudden end to her brief adventure with Ditto and the Celadon Gym.
-*   Dr. Fuji abruptly announces they are leaving, reclaims Ditto's Pokeball, and forcefully takes Amber away.
+*   Dr. Fuji abruptly announces they are leaving, reclaims Ditto's Poké Ball, and forcefully takes Amber away.
 
 ### 2. Journey to Pallet Town:
-*   Amber is transported by Pidgeot Express, observing Kanto from above with a new, fearful perspective on the potential dangers of the Pokemon world.
+*   Amber is transported by Pidgeot Express, observing Kanto from above with a new, fearful perspective on the potential dangers of the Pokémon world.
 *   They arrive in Viridian City, where Dr. Fuji rents an old car, a stark contrast to the modern transport of Celadon.
 *   As they drive south, Amber recognizes the landscape leading to Pallet Town, complete with Professor Oak's windmills, sparking questions about the timeline and the presence of characters like Ash or Red.
 
@@ -44,9 +44,9 @@ Fuji transports Amber to Pallet, confronts Delia with their past, and leaves Amb
 ## Potential speculation:
 *   **Fuji's Psychological Breakdown:** Dr. Fuji's increasingly erratic behavior, his desperate need to recreate the past, and his emotional outburst at Delia highlight his deepening psychological instability, suggesting he is losing touch with reality and becoming a greater threat to Amber.
 *   **Delia's Hidden Past:** Delia's strong reaction to Dr. Fuji and the revelation of their past connection (and the mention of Amber's cancer) indicates a tragic and complex history that she has clearly tried to move on from, which will likely be explored further.
-*   **Ash's Father's Role:** The unexpected introduction of Ash's father, a character absent from the main *Pokemon* narratives, suggests a significant divergence in this world's timeline or lore, and his protective stance hints at a deeper, potentially adversarial relationship with Dr. Fuji.
+*   **Ash's Father's Role:** The unexpected introduction of Ash's father, a character absent from the main *Pokémon* narratives, suggests a significant divergence in this world's timeline or lore, and his protective stance hints at a deeper, potentially adversarial relationship with Dr. Fuji.
 *   **Amber's True Identity and Trauma:** The direct confrontation with Delia about the original Amber's death from cancer further complicates Amber's sense of self and underscores the profound trauma of her existence, as she is both a clone and a vessel for a lost child.
 *   **Loss of Agency and Isolation:** Amber's forced journey, the loss of Ditto, and her abandonment by Dr. Fuji emphasize her powerlessness and isolation, suggesting she will now have to find her own way in a world that is far more complex and dangerous than she initially perceived.
-*   **Pallet Town's Divergent Timeline:** The presence of both Ash and a father figure for him, along with the historical connection between Delia and Dr. Fuji, strongly indicates a distinct and potentially darker timeline of the Pokemon world, where familiar elements have been twisted or altered.
+*   **Pallet Town's Divergent Timeline:** The presence of both Ash and a father figure for him, along with the historical connection between Delia and Dr. Fuji, strongly indicates a distinct and potentially darker timeline of the Pokémon world, where familiar elements have been twisted or altered.
 
 

@@ -10,23 +10,23 @@ updated: 2025-09-20
 
 Today's dress hung on my closet door like a ghost. Plain white cotton instead of the usual frills and lace, with just a simple red ribbon at the neck. The sight of it made my stomach turn. After weeks of Dr. Fuji's obsession with making me wear elaborate dresses, this simple white one felt deliberate. Wrong. Like he was dressing me for a specific role, though I couldn't quite remember where I'd seen it before.
 
-The apartment air pressed down, stale with unsaid things. Ditto stood by my door, a perfect mirror of that first day-before the mini-adventures, the battle, the taste of friendship in this world.
+The apartment air pressed down, stale with unsaid things. Ditto stood by my door, a perfect mirror of that first day---before the mini-adventures, the battle, the taste of friendship in this world.
 
 "Good morning?" I tried.
 
 Silence. Just yesterday we'd celebrated my first reward, a handful of suddenly meaningless coins. Now Ditto just... watched. Back to being the proper guardian. A wall between us.
 
-In the kitchen, wrongness piled up. Cold tea in a forgotten mug. An empty chair where Dr. Fuji should be. And there, the empty space by the kettle where Ditto's Pokeball used to sit, a glaring absence.
+In the kitchen, wrongness piled up. Cold tea in a forgotten mug. An empty chair where Dr. Fuji should be. And there, the empty space by the kettle where Ditto's Poké Ball used to sit, a glaring absence.
 
-Would anyone notice I was gone? Mary, Kaede, Erika-our whirlwind adventure felt like a lifetime ago, but it had only been a day. We hadn't made concrete plans, but surely they'd wonder where I'd disappeared to. Wouldn't they?
+Would anyone notice I was gone? Mary, Kaede, Erika---our whirlwind adventure felt like a lifetime ago, but it had only been a day. We hadn't made concrete plans, but surely they'd wonder where I'd disappeared to. Wouldn't they?
 
 I poked at soggy cereal, too aware of Ditto watching from the doorway. "So... about yesterday---"
 
 Nothing. Not a ripple. Just that steady, neutral gaze that made my skin prickle. I forced down another sand-dry bite. Some reward. Trapped with a friend who couldn't be one anymore.
 
-Watching Ditto's cold distance reminded me of another set of lost friends-the ones from my old life. 
+Watching Ditto's cold distance reminded me of another set of lost friends---the ones from my old life. 
 
-My college friends were probably still reeling. No dramatic farewell, not even a proper game over screen-just me, a semi-truck, and that last desperate message about Shadow Mewtwo. Their final memory of me would be an empty dorm room and a string of "where are you?" texts that would never get answers.
+My college friends were probably still reeling. No dramatic farewell, not even a proper game over screen---just me, a semi-truck, and that last desperate message about Shadow Mewtwo. Their final memory of me would be an empty dorm room and a string of "where are you?" texts that would never get answers.
 
 The morning dragged on, an endless stretch of mindless channel surfing. Battle tournaments, contest highlights, documentaries on the migratory patterns of Beautifly... None of it could hold my interest. 
 
@@ -34,15 +34,15 @@ How could it, after the heart-pounding reality of my own battles? The rush of wo
 
 And through it all, Ditto watched me, still as a statue. No excited trills at the battles, no curious head tilts at the contests. Just that wary, too-knowing gaze. A silent reminder of how much had changed overnight.
 
-The knock, when it finally came, shattered the suffocating silence. Dr. Fuji burst through the door, not waiting for a response. He'd shed his usual lab coat for a crisp brown vest over a neatly pressed button-down shirt. Despite the formal attire, there was something strange in his manner-a taut energy that made his usual composed demeanor feel like a mask about to slip.
+The knock, when it finally came, shattered the suffocating silence. Dr. Fuji burst through the door, not waiting for a response. He'd shed his usual lab coat for a crisp brown vest over a neatly pressed button-down shirt. Despite the formal attire, there was something strange in his manner---a taut energy that made his usual composed demeanor feel like a mask about to slip.
 
 "We're leaving." His voice had a strange, stretched quality I'd never heard before. Taut and thin, like a wire about to snap. "Flight leaves soon."
 
 Without ceremony, he recalled Ditto. The Pokeball vanished into his pocket. Then his hand clamped around my wrist, hauling me out into the sudden bustle of the streets.
 
-The Pidgeot Express field sprawled across what would have been prime Celadon real estate. No neat rows of houses here-just an expanse of trampled grass and wooden platforms where massive birds perched like living aircraft. 
+The Pidgeot Express field sprawled across what would have been prime Celadon real estate. No neat rows of houses here---just an expanse of trampled grass and wooden platforms where massive birds perched like living aircraft. 
 
-The morning formation swooped overhead-seven Pidgeots cutting through dawn in perfect V-formation, each wingbeat sending visible ripples through the morning mist. A week ago, that sight had nearly brought me to tears. Now all I could think about was how each of those wings could generate hurricane-force winds with a single flap, how its razor-sharp beak could tear through flesh, and how the games never mentioned what happened to passengers who fell from the height of their flight.
+The morning formation swooped overhead---seven Pidgeots cutting through dawn in perfect V-formation, each wingbeat sending visible ripples through the morning mist. A week ago, that sight had nearly brought me to tears. Now all I could think about was how each of those wings could generate hurricane-force winds with a single flap, how its razor-sharp beak could tear through flesh, and how the games never mentioned what happened to passengers who fell from the height of their flight.
 
 Dr. Fuji pulled me through the barely-contained bedlam, his grip never loosening. "Looks like good weather at least," he remarked, but the lightness rang hollow. Forced. "Clear skies to Viridian."
 
@@ -52,7 +52,7 @@ I'd always imagined this-skimming through clouds, marveling at the bird's-eye vi
 
 The question chased me long after we landed. Dr. Fuji hustled me through Viridian's winding streets, backtracking twice with a muttered curse. When he finally veered into a narrow alley, the car lot waiting at the end sent a fresh jolt of surprise through me.
 
-Cars were a rarity in Celadon, and I'd barely spared them a glance, too caught up in the thrill of real Pokemon. But now, faced with the rusted husks slouching in this forgotten lot, I couldn't look away. They seemed to belong to another era entirely, all boxy frames and chrome grills as if from the 1950s.
+Cars were a rarity in Celadon, and I'd barely spared them a glance, too caught up in the thrill of real Pokémon. But now, faced with the rusted husks slouching in this forgotten lot, I couldn't look away. They seemed to belong to another era entirely, all boxy frames and chrome grilles as if from the 1950s.
 
 After Dr. Fuji paid for a day's rental, he yanked open the passenger door and ordered, "Get in."
 
@@ -72,19 +72,19 @@ My hands twisted in my lap as questions I'd been avoiding crashed through my min
 
 The Town emerged gradually: first scattered farms, then clusters of houses, and finally the town proper. It was smaller than I'd imagined, barely more than a collection of homes wrapped around the base of Oak's lab's hill.
 
-We turned onto a narrow lane lined with neat gardens. A woman worked among the flower beds, and for a moment I didn't recognize her. But her auburn hair, pink dress and dirt-stained apron, along with being in pallet town-this was obviously Delia Ketchum.
+We turned onto a narrow lane lined with neat gardens. A woman worked among the flower beds, and for a moment I didn't recognize her. But her auburn hair, pink dress, and dirt-stained apron, along with being in Pallet Town---this was obviously Delia Ketchum.
 
 The car's brakes squealed. Before I could process the scene, Dr. Fuji's hand found my arm, pulling me from the car. Gravel crunched under my feet as I stumbled.
 
-In the yard, a dark-haired boy played with a Poliwag, his laughter carrying in the evening air. I froze-I knew that face from countless episodes, but seeing Ash Ketchum as a young child felt wrong.
+In the yard, a dark-haired boy played with a Poliwag, his laughter carrying in the evening air. I froze---I knew that face from countless episodes, but seeing Ash Ketchum as a young child felt wrong.
 
-Or... was this Red? The Poliwag made me doubt everything I thought I knew. The manga version had a Poliwag, didn't he? But that was definitely Delia in the garden, so this had to be Ash. Unless this was some weird timeline where-
+Or... was this Red? The Poliwag made me doubt everything I thought I knew. The manga version had a Poliwag, didn't he? But that was definitely Delia in the garden, so this had to be Ash. Unless this was some weird timeline where---
 
 A twig snapped under Dr. Fuji's shoe. The woman turned, brushing hair from her face with soil-stained fingers. For a moment, her expression was simply curious. Then her eyes found Dr. Fuji, and recognition crawled across her face like an advancing shadow.
 
 "Delia." Dr. Fuji's voice cracked on the name like thin ice. "It's... it's been a while."
 
-I watched the woman at the garden freeze, trowel suspended mid-motion. This was Delia-Ash Ketchum's mother-but something was wrong. In all my hours of Pokemon games and shows, I'd never heard of any connection between her and Dr. Fuji. The garden tool trembled in her grip, dark soil falling like black snow.
+I watched the woman at the garden freeze, trowel suspended mid-motion. This was Delia—Ash Ketchum's mother—but something was wrong. In all my hours of Pokémon games and shows, I'd never heard of any connection between her and Dr. Fuji. The garden tool trembled in her grip, dark soil falling like black snow.
 
 Even the boy and his Poliwag had gone quiet, sensing the shift in atmosphere.
 
@@ -122,7 +122,7 @@ The garden tools lay scattered where Delia had dropped them, their metal surface
 
 "That's not---that's not Amber." Delia's words fell like broken glass. "Whatever you've done, whatever you've created..." She forced herself to look at me, really look, like someone pressing on a bruise to prove it hurts. When she finally spoke again, her voice cracked. "Our daughter is gone, and this---" her hand trembled as she gestured at me, "this is just another experiment. Another way to avoid facing what happened. The cancer---"
 
-That word-cancer-carried the weight of years of grief. The setting sun caught in her hair, painting her in shades of gold that made the whole scene feel like some twisted memorial photo.
+That word---cancer---carried the weight of years of grief. The setting sun caught in her hair, painting her in shades of gold that made the whole scene feel like some twisted memorial photo.
 
 A breeze stirred the flowers, carrying the scent of freshly turned earth and something that might have been dinner cooking inside that cheerful blue house. Some other version of this evening existed where they'd all be sitting down to eat right now, if we hadn't shown up to shatter their peace.
 

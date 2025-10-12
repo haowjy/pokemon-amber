@@ -20,9 +20,9 @@ Amber buys a metro day pass, finds the Pokemon Center job board, and is confront
 
 ## What happens:
 ### 1. Newfound Freedom and Financial Constraints:
-*   Amber, equipped with her previously won Pokedollars, secures a 24-hour metro pass at the elevated train station, noting the presence of a Mr. Mime directing crowds and a Machop handling ticket sales.
-*   She consciously keeps Ditto in its Pokeball, acknowledging the need for discretion regarding its unique abilities after the public battle in Chapter 4, especially given her (and Ditto's) origins.
-*   After some initial difficulty with the turnstile, Amber boards the train, observing the city's integrated Pokemon services from above.
+*   Amber, equipped with her previously won Pokédollars, secures a 24-hour metro pass at the elevated train station, noting the presence of a Mr. Mime directing crowds and a Machop handling ticket sales.
+*   She consciously keeps Ditto in its Poké Ball, acknowledging the need for discretion regarding its unique abilities after the public battle in Chapter 4, especially given her (and Ditto's) origins.
+*   After some initial difficulty with the turnstile, Amber boards the train, observing the city's integrated Pokémon services from above.
 
 ### 2. The Pokemon Center and Job Board Discovery:
 *   Amber arrives at the Celadon Pokemon Center, a grand facility far exceeding her expectations from the games.
@@ -39,10 +39,10 @@ Amber buys a metro day pass, finds the Pokemon Center job board, and is confront
 
 ## Potential speculation:
 *   **Amber's Emerging Independence:** Amber's decision to leave the apartment independently and explore Celadon, using her earned money, marks a significant step in her development towards self-reliance and establishing her own agency in this new world, separate from Dr. Fuji.
-*   **Ditto's Concealed Identity:** Amber's choice to keep Ditto in its Pokeball in public emphasizes the unique and potentially dangerous nature of its abilities, suggesting that its full power or origin could have serious implications if widely known, especially to organizations like Team Rocket.
-*   **Expanded Pokemon World Mechanics:** The detailed description of the Celadon Metro, specialized Pokemon workers, and the Pokemon Center's job board reveal a more complex and integrated Pokemon society than depicted in the games, suggesting that Amber's journey will involve navigating a world with intricate social and economic systems beyond just battling.
+*   **Ditto's Concealed Identity:** Amber's choice to keep Ditto in its Poké Ball in public emphasizes the unique and potentially dangerous nature of its abilities, suggesting that its full power or origin could have serious implications if widely known, especially to organizations like Team Rocket.
+*   **Expanded Pokémon World Mechanics:** The detailed description of the Celadon Metro, specialized Pokémon workers, and the Pokémon Center's job board reveal a more complex and integrated Pokémon society than depicted in the games, suggesting that Amber's journey will involve navigating a world with intricate social and economic systems beyond just battling.
 *   **The Oddish Theft Mystery:** Mary's accusation introduces a new plotline, implying that Amber is now entangled in a local mystery or crime. Her prior presence in the greenhouse, combined with the missing Oddish, makes her a prime suspect, which could lead to further interactions with Mary and other authorities.
-*   **Consequences of Unintended Actions:** Amber's earlier "misadventure" in the restricted greenhouse (Chapter 5) now has direct consequences, highlighting that her actions, even if innocent in intent, can have unforeseen and serious repercussions in this real Pokemon world.
+*   **Consequences of Unintended Actions:** Amber's earlier "misadventure" in the restricted greenhouse (Chapter 5) now has direct consequences, highlighting that her actions, even if innocent in intent, can have unforeseen and serious repercussions in this real Pokémon world.
 *   **Future Side Quests:** The job board presents a variety of tasks (rescue, defeat, item collection), foreshadowing potential future "side quests" that Amber might undertake to earn money, gain experience, or help others, offering a glimpse into the everyday challenges and opportunities for trainers.
 
 

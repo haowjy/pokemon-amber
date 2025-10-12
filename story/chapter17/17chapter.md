@@ -242,7 +242,7 @@ Professor Oak didn't answer immediately. His gaze held mine for a long moment.
 
 When he finally spoke, the scholarly curiosity in his eyes had been replaced by a gentle reassurance.
 
-"Safe," he said, his voice softening to match his expression. "It's currently being held for questioning, but it's unharmed. A curious Ditto," he mused. "It transformed into my Dragonite, with seemingly equal strength. Thankfully, it didn't seem to want to fight-a rather gentle Pokemon."
+"Safe," he said, his voice softening to match his expression. "It's currently being held for questioning, but it's unharmed. A curious Ditto," he mused. "It transformed into my Dragonite, with seemingly equal strength. Thankfully, it didn't seem to want to fight---a rather gentle Pokémon."
 
 A wave of relief washed over me before I slowly continued, "So... what happens to me then?"
 

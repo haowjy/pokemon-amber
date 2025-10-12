@@ -1,157 +1,115 @@
 ---
 chapter: 13
-title: "[Chapter 13] Sweet Home"
+title: "[Chapter 13] A Very Reasonable Man"
 status: published
 hidden: false
 updated: 2025-09-20
 ---
 
-# \[Chapter 13\] Sweet Home
+# \[Chapter 13\] A Very Reasonable Man
 
-As the sound of tires on dirt faded into the distance, Stephen placed a gentle but firm hand on my shoulder. He guided me into the house, past a worn lab coat hanging like a ghost on the wall. The house smelled of curry and clean laundry-so different from the artificial sterility of Dr. Fuji's apartment that my steps faltered.
+A winding path cut through the trees on Pallet Town's outskirts. Dr. Fuji fidgeted on a fallen log, where he'd spent the afternoon, a manila folder gripped tightly in his lap.
 
-A display case mounted above the fireplace caught my eye: eight badges gleaming under glass, arranged with care. Below them, Ash had spread cards-Pokemon Cards?-across the coffee table in a matching pattern, Poliwag waddling between the neat rows with surprising care.
+Through the branches, Oak's lab silhouetted against the afternoon sky. Champion Oak. Professor Oak now. The grant ceremony seemed a lifetime ago---Oak's firm handshake, flashing cameras, admiring looks. 
 
-"Sit," Stephen said from the kitchen doorway. I could hear Delia continue her work outside, the soft snip of shears punctuating the evening quiet. "Are you hungry? We have leftover curry."
+Yet here Dr. Fuji sat, overshadowed while Oak transitioned from victory to victory, as if remaking a life were as simple as a title change.
 
-My first instinct was to refuse politely. But my stomach had other ideas, reminding me that my last meal had been that sad bowl of soggy cereal this morning. Dr. Fuji hadn't exactly prioritized lunch during his dramatic family reunion planning.
+He spread the folder's contents across the damp bark: surveillance reports from Domino mixed with photos old and new. The older ones, soft-edged from years of handling, showed happier times---their wedding day, beach trips with little Amber building sandcastles, family picnics in the summer sun.
 
-Stephen chuckled as he heard my stomach growl.
+The newer photos captured Delia around her restaurant, in her garden, and walking through town. His fingers trembled slightly as he sifted through them. He found a few that stood out: Delia laughing at her garden gate, Stephen's arm draped her shoulders.
 
-Without a proper response from me, he shuffled to the fridge to pull two containers from the fridge-curry in one, perfectly packed rice in the other. As he leaned in, a Pokeball swung free from his shirt collar, hanging from a worn chain around his neck.
+"Just a reasonable discussion," he muttered, taking out his pen. The ink moved methodically across Stephen's face. "Man to man. You must understand that Delia and I..." His hand pressed harder, the pen tip catching on the glossy surface. "We kind of have a history."
 
-Steam still fogged the lids, suggesting dinner had only recently ended. As he assembled the plate, rich spices filled the air with the kind of homemade comfort that Dr. Fuji's apartment had never known.
+Another photo. Stephen and Delia at some local festival together. His pen dug into the paper, scratching violently until it tore through. "I'm not being unreasonable." The next one---their garden. His fingers seized the edge of Stephen's figure and ripped, the sound sharp in the quiet afternoon. "I just need you to understand..." He was tearing them now, hands shaking as pieces fell around his feet like strange confetti. "...that you're in the way of something bigger than yourself."
 
-"It might need reheating, It's been in the fridge for a bit," Stephen said, studying my face with genuine concern. "Delia says the curry needs to be properly hot to bring out the flavors. Unless you prefer it this way?"
+A young trainer passed by with her Rattata, giving him an uncertain glance before hurrying on. The sound of footsteps pulled Dr. Fuji from his frenzy, and he quickly gathered the scattered pieces, stuffing them back into the folder. 
 
-I shrugged, watching as he placed the plate in the microwave.
+His hands steadied as he checked his watch. Soon. Stephen took this path to the lab, so he'll probably take the same path back. Just two reasonable men, having a discussion about Delia's future.
 
-Through the kitchen window, I could see Delia's shadow stretching across her garden beds, growing longer as the sun sank lower.
+The shadows had shifted since dawn, when he'd first noticed Stephen walking this path. Dr. Fuji's legs had gone numb hours ago, but he barely registered the discomfort. 
 
-As the plate rotated slowly behind the glass, my eyes drifted to those badges gleaming above the fireplace. The question slipped out before I could stop it: "Were you a trainer?"
+Last night's confrontation in Delia's garden replayed incessantly, each memory morphing into something more twisted. Her accusations of "trying to play god," her dismissal of his life's work as just "another experiment," the disdain she'd looked at Amber like she was a mere *thing* instead of their daughter---it all twisted into something darker with each echo. And that final command to leave their property? As if he were just some stranger disrupting her perfect little life with her *lab assistant*.
 
-Stephen's hand briefly touched something under his shirt collar before dropping away. "A lifetime ago," he said quietly, something haunted crossing his face.
+He'd been tenured at Celadon University while Stephen was probably still fumbling with undergraduate chemistry sets, pioneering genetic research while this... this *lab assistant* was likely still trying to memorize the basic type chart.
 
-"What happened?" The question slipped out before I could stop myself.
+He'd spent the day here, watching Oak's lab through the trees, watching the path, shuffling through his photos until the edges went soft.
 
-His eyes lifted to the badge display's reflection in the kitchen window. For a moment, something raw and grief-stricken crossed his face. Then he shook his head, shoulders slumping slightly. "I wasn't a good enough trainer back then. But I think now we..."
+That cheerful blue house of hers, with its wooden swing and carefully tended garden beds, kept swimming before his eyes. Such *pastoral mediocrity*. Yet she'd chosen that---chosen Stephen---over everything he'd accomplished, everything he'd promised her he'd do.
 
-His voice trailed off into nothing, leaving only the steady hum of the microwave to fill the kitchen's sudden silence.
+The sound of footsteps along gravel pulled him from his spiral. Stephen was right on schedule, probably heading home to make dinner in that cozy kitchen. The sight of him sent a wave of static through Dr. Fuji's mind, drowning out the words he'd rehearsed all day. His hand found a Pokeball in his pocket, fingers trembling slightly.
 
-The microwave dinged. Stephen set the steaming plate in front of me, then rolled his sleeves back up, returning to the sink where soap suds climbed toward his elbows as he tackled what looked like a particularly stubborn pot.
+"Hey." Dr. Fuji's voice broke as he stepped onto the path. "We need to talk about Delia."
 
-The curry was surprisingly good-far better than I'd expected. Something about restaurants in Pallet Town tugged at my memory, but the thought dissolved before I could grasp it. 
+Stephen stopped, briefcase shifting in his grip. His expression was guarded, but not yet afraid. 
 
-What remained was simply this: each bite carried layers of flavor that spoke of careful preparation, of someone taking the time to toast spices and slow-cook onions until they practically melted.
+"Dr. Fuji." He spoke like someone approaching a wounded Pokémon. "What you're doing with that child... Delia told me everything about Amber. About what happened. I understand what you went through, but---"
 
-When I finished, Stephen dried his hands and reached into a high cabinet. "Here," he said, offering me the cookie with a gentle smile. "You look like you could use something sweet."
+"Understand?" The word tasted like acid. "You understand?" Dr. Fuji's hand tightened around the Pokeball. The static in his head crescendoed, drowning out whatever patronizing comfort this *lab assistant* thought he could offer. "I was reconstructing genetic sequences while you were still learning how to operate a centrifuge. I brought our daughter back while you were... what? Filing reports? Cleaning test tubes?"
 
-"Hey!" A young voice made me jump. Ash stood in the kitchen doorway, Poliwag peering around his legs. "That's not fair! Mom said I couldn't have any cookies tonight! Why does she get them!" 
+"Sir, please." Stephen set his briefcase down slowly, his hand moving toward his neck, but paused as he felt nothing. "You're not thinking clearly. Why don't we---"
 
-"Ash," Stephen started, but Ash was already moving closer, curiosity overtaking his initial protest. "Ash, that's because you and Poliwag tracked mud into... let her---"
+"I brought her back!" The words burst out of him. "I did what no one else could do, what they said was impossible. And now you... you dare to judge me? To stand there in what should be *my* house, with my wife, while my daughter..."
 
-"Who are you anyway?" Ash demanded, turning to me. "Why're you eating our cookies?"
+His hands clenched into claws at his sides, tendons bulging. For a moment, only his ragged breathing filled the air. When he spoke again, his voice stripped bare of any pretense.
 
-"Poli pol!" Poliwag added, waddling over to investigate the cookie crumbs.
+"Ditto!" The Pokéball arced through the air, exploding with red light, and releasing a small pink blob. "Protocol Five."
 
-I looked down at the cookie, then at Ash's frown, then back at the cookie. I carefully broke it in half-not quite even, giving him the slightly bigger piece.
+The pink blob erupted upward like a geyser, twisting and contorting until a massive serpentine form blocked out the afternoon sun.
 
-"Here," I said, holding out half. I internally struggled with myself, wanting to take my hand back and eat it all. Dr. Fuji didn't really have many sweets in his apartment. But I was an adult. "Want... to share?"
+Stephen stumbled backward, fumbling in his pockets for a Pokéball. "Poliwag, help---"
 
-Ash's eyes widened, anger forgotten in the face of cookie diplomacy. He glanced at Stephen, who hesitated, eyes flickering to where Delia worked in the garden before giving a small, almost conspiratorial nod.
+The tiny tadpole materialized, looking pitifully fragile under Ditto-Gyarados's coiled form. A tremor shook the great serpent's body---hesitation, or resistance?---but Dr. Fuji's next words cut through the air like a knife:
 
-"Thanks!" Ash dropped into the chair next to me, cookie already halfway to his mouth. "I'm Ash, and that's Poliwag. He's not officially mine yet 'cause I'm not old enough, but he will be. What's your name?"
+"Dragon Rage."
 
-The cookie turned to dust in my mouth. Such a simple question-the kind you're supposed to answer without thinking. But my name... was it the one from college? From my previous life? The identity Dr. Fuji had tried to force on me? Or something new entirely?
+The pink-purple flames roared through the evening air. The Poliwag tried to dodge, but the attack's ferocity left nowhere to go. The blast engulfed the area, kicking up dust and debris.
 
-Through the window, I could see Delia's shadow growing longer across her flowerbeds. The evening light caught her garden shears, making them flash like warning signals as she worked.
+Pink-purple flames roared through the evening air, superheating the atmosphere with a thunderous crack. The Poliwag tried to dodge, its tiny legs scrambling against scorched earth, but the attack's ferocity left nowhere to go. The blast engulfed the area with a small explosion, sending debris and superheated air rolling outward in a devastating wave.
 
-"She's had a long day, Ash," Stephen cut in smoothly, saving me from drowning in my own thoughts. "Why don't you tell her about that new move you've been teaching Poliwag instead?"
+When the dust cleared, Poliwag lay motionless in a scorched crater. Stephen was already running forward, reaching for his fallen Pokémon. "Poliwag! Are you---"
 
-"Oh man, you should see what Poliwag can do!" Ash practically vibrated with excitement, previous cookie crimes forgotten. "We've been practicing Water Gun for weeks! Well, mostly inside 'cause of the rain, which is why we're in trouble, but---" He bounced up from his chair. "Can I show her, Dad? Please? Just a tiny demonstration?"
+"Hyper Beam."
 
-"Outside only," Stephen said firmly, though I caught the hint of a smile. "And aim away from your mother's flowers."
+Ditto-Gyarados's massive form shuddered. For a heartbeat, its eyes met Stephen's-and in them was something almost human. The great serpentine body coiled backward, resisting.
 
-"Yes! Come on!" Ash was already heading for the door, Poliwag bouncing excitedly at his heels. He turned back when he reached the door, practically vibrating with eagerness. "You coming?"
+"I said Hyper Beam!" Dr. Fuji's voice cracked with hysteria as he pointed towards the only obstacle remaining. "NOW!"
 
-"Sure," I said as I followed them out, cookie crumbs still sticking to my fingers like tiny breadcrumbs marking my path.
+Another heartbeat of resistance-scales trembling, eyes squeezed shut-then a white-hot beam erupted from its maw.
 
-Delia straightened from her flower beds as we passed, her hands stilling on her shears. The metal caught the dying light, flashing orange-red like a warning. Her eyes followed us, carrying the weight of questions I couldn't answer.
+The blinding light of Hyper Beam carved a trench through the earth. As the devastating attack subsided, the forest path transformed into a scorched corridor shrouded in darkness. Steam wafted from the charred ground, and the acrid tang of ozone pervaded the air.
 
-Ash charged ahead to a worn patch of grass beyond the garden, Poliwag bouncing at his heels. Behind us, Stephen paused beside Delia, their voices dropping too low to hear.
+Ditto-Gyarados wavered, its massive form beginning to lose cohesion as patches of pink showed through the blue scales. Dr. Fuji walked forward through the devastation, shoes crunching on scorched earth. He stopped at the edge of the impact zone, where Stephen's body lay crumpled beside Poliwag.
 
-The worn patch of grass beyond the flower beds told its own story: muddy spots and small pools marking endless attempts at mastering Water Gun, still visible even in the failing light.
+His foot nudged the man and the small tadpole Pokémon. He briefly glanced back at the giant serpentine monster behind him, annoyance clearly visible on his face. "Ditto. Why did you hold back? Finish them. Bite."
 
-"Okay, Poliwag!" Ash threw his arms wide with childish drama. 
+The great serpentine form shuddered, scales rippling as Ditto fought against the command. Its eyes, still holding that terrible awareness, squeezed shut.
 
-Poliwag was already bouncing forward, too excited to wait for actual commands. The Water Gun burst out in an enthusiastic but uncontrolled spray, sending both of us scrambling backward, laughing.
+Silence stretched between them, broken only by the soft crackle of burning grass.
 
-"See? I told you he was strong!" Ash bounced in place, rain-soaked but grinning. "Dad's been helping us practice aim, but Poliwag gets too excited sometimes. Right, buddy?"
+"I... created... you." Dr. Fuji whispered dangerously. Ditto's form wavered further, pink seeping through the scales as its transformation began to collapse. "You exist because of me. How dare you defy me now?"
 
-"Poli!" The Pokemon nodded enthusiastically, sending water droplets flying.
+The great serpentine form trembled, then began to shrink, refusing the command. Dr. Fuji's face twisted with rage as he raised the Pokeball.
 
-"How long have you been training together?" I asked while chuckling. Strange to think this was the same Ash who would someday face down legendary Pokemon without flinching.
+"Useless." His hand shook as he recalled the Ditto. "Mewtwo killed twenty-three of Team Rocket's best scientists the moment it awoke. But you act like you're a..."
 
-"Three whole months!" He dropped down beside Poliwag, scratching under its chin. "Since the river incident. Poliwag tried to save me, and Dad caught him after." His voice held that peculiar pride kids get when telling stories about their own near-disasters. "Now we train here where it's safe. Plus, Dad says it's good practice-Poliwag's gonna be my official starter once I'm old enough!"
+He stared down at Ditto's Pokeball for a long moment, something flickering behind his eyes. Then his other hand moved to a different ball, and whatever had passed across his face vanished completely.
 
-"I'm gonna be the greatest Pokemon Master ever!" Ash declared between Water Gun attempts, fist pumped toward the orange sky. "Once I'm old enough, me and Poliwag will travel everywhere and I'll catch 'em all!"
+"Magmar." His voice was steady now, almost serene. The fire Pokémon materialized in a flash of red light, its flame-wreathed form casting dancing shadows across the scorched earth. "Incinerate the bodies. Leave nothing."
 
-"Poli pol!" Poliwag bounced proudly, agreeing with Ash.
+The Magmar's flames ignited instantly, no hesitation, no flicker of doubt---just pure mechanical obedience. Its maw opened, and blue-white fire roared forth with devastating intensity.
 
-Behind us, I heard Stephen and Delia talking in low voices. Their words were lost to the evening breeze, probably discussing me. 
+Dr. Fuji watched dispassionately, hands clasped behind his back, as Magmar's flames devoured the fallen Stephen and Poliwag.
 
-I focused instead on Ash's increasingly chaotic "special moves" demonstration, each attempt ending in more splashing and laughter.
+He brushed some ash from his sleeve. "Unfortunate, but necessary." He spoke softly to himself as he turned away. "I'll need to console Delia. She'll understand. She has to."
 
-"I'm gonna be the greatest Pokemon Master ever!" Ash declared between Water Gun attempts, fist pumped toward the orange sky. "Once I'm old enough, me and Poliwag will travel everywhere and catch 'em all!"
+The late afternoon sun cast long shadows as he drove through Pallet Town's dirt paths. Nearing Delia's house, he caught a glimpse of her through the hedgerow-kneeling in the garden, meticulously tending her flower beds.
 
-The sunset painted everything in deepening shades of orange, turning water droplets into tiny prisms as they caught the light. Looking at this soaking wet kid with impossible dreams, I couldn't help but smile. 
+Dr. Fuji's hands tightened on the steering wheel, then deliberately relaxed. No, this wasn't right. Not like this, still smelling of smoke. Delia deserved better. This was, after all, a reunion.
 
-Someday he really would become the Pokemon Master and inspire countless trainers. And his journey would go on to inspire hundreds of millions of fans. But right now, he was just Ash, practicing in his backyard with his future starter-Poliwag?-completely unaware of his own destiny.
+As he watched her tend the garden, memories of their university days flooded back. He'd spent months in the greenhouse, painstakingly cross-breeding varieties until he created the perfect hybrid dahlia-a delicate pink bloom with golden-tipped petals spiraling inward like a mathematical dream, made just for her. When he proposed, the entire conservatory was filled with them.
 
-"Time to come in!" Stephen's voice cut through the twilight. "Before you both catch colds."
+He'd failed her then, somehow. Been too absorbed in his work, perhaps. Not presented himself properly. But now... now he could do things right.
 
-Ash made a token protest, but Poliwag was already waddling toward the house, leaving tiny wet footprints on the stepping stones. I followed, suddenly aware of how my dress clung damply to my skin.
+He drove past without slowing. First, he needed better clothes. Maybe some of the best wine. And dahlias. Were there any in Pallet Town? If not, surely the florists in Viridian City would have something suitable. He could return later, properly dressed and prepared. Do things right this time. Do things right again.
 
-Inside, the kitchen lights cast warm pools across water-spotted floors. Stephen appeared with an armful of towels, tossing one to Ash before holding another out to me. "Did you have fun?"
-
-I nodded, carefully patting my face dry. The towel smelled of sunshine and fresh air-so different from the artificial lavender Dr. Fuji insisted on.
-
-"Ash, shower time," Stephen said, collecting the wet towels. "And don't forget to dry Poliwag properly this time."
-
-"But Dad he's a water---"
-
-"No buts. You know the rules about wet Pokemon in bed."
-
-Ash thundered up the stairs, Poliwag bouncing after him with surprising grace for something shaped like a beach ball with legs. Their footsteps echoed through the ceiling, followed by the familiar sounds of a shower starting up.
-
-I sank into one of the kitchen chairs while Stephen rinsed my curry plate. Everything about this kitchen spoke of a life well-lived-worn wooden table, mismatched dishes in the drying rack, a calendar covered in Ash's messy handwriting tracking Poliwag's training progress. The kind of collected history Dr. Fuji's hastily set up apartment tried to manufacture.
-
-Stephen dried his hands on a dishtowel, then absently adjusted the chain around his neck. Silence stretched between us, punctuated by Ash's muffled singing from upstairs and the soft clink of Delia putting away her garden tools outside.
-
-"So," he said finally. His voice carried the careful tone of someone who'd spent years helping raise a child, knowing when to push and when to wait. "Do you... remember anything? About before?"
-
-'What a loaded question.'
-
-Above us, Ash was belting out what sounded like the Pokemon theme song, completely off-key and completely happy. Through the window, Delia's shadow moved across the garden one last time, checking her work.
-
-"Delia had told me some things," Stephen continued carefully when I didn't answer. "About how Amber died, her previous daughter died. About how Dr. Fuji became... obsessed." He leaned against the counter, arms crossed, eyes studying the worn linoleum. "I never thought he'd actually come back. Not like this... not with a... you." His gaze flickered to me, then away, as if avoiding the word 'clone' might make the situation less surreal.
-
-I traced a scratch in the kitchen table's surface, following its path through the wood. How could I explain that Dr. Fuji's obsession hadn't ended with bringing back Amber? That every detail of my existence now had to match some perfect memory he carried?
-
-"Is there anything you need?" Stephen asked quietly. "To feel more comfortable here?"
-
-The question caught me off guard. I stared at the scratch on the table, finger frozen, about to turn a corner along its path. 
-
-A couple weeks ago, in my dorm room, I would've just said time-more time to play Pokemon games. But now that I was in one... I wasn't sure what I needed anymore.
-
-"I don't know," I muttered.
-
-Stephen just nodded, as if uncertainty was the most natural response in the world. Above us, Ash's muffled voice had switched from singing to what sounded like a passionate discussion with Poliwag about proper towel usage.
-
-He pushed away from the counter. "You'll stay in the guest room tonight. It's small, but..." He opened a cabinet, a smile warming his voice. "And since Ash isn't here to claim his share-want another cookie?"
-
-I nodded, surprised by how much I wanted that simple comfort after tasting just a bit of it.
-
-He handed the cookie to me, then glanced at my mud-spattered dress with amusement. "You should probably wash up once Ash is done. Don't want to go to bed like a Mudkip, right?" He chuckled at his own joke. "Just... let us know if you need anything, okay?"
-
-I nodded, slowly nibbling on the satisfyingly sweet sweet.
+Behind him, in the distance, a column of smoke still rose from the forest path near Oak's laboratory.

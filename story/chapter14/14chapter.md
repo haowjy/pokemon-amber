@@ -8,13 +8,13 @@ updated: 2025-09-20
 
 # \[Chapter 14\] Flowers for Delia
 
-Morning came with the sound of Pidgey calls and clinking plates downstairs. The guest room was small but cozy, its yellow walls a welcome change from the stark white of Dr. Fuji's apartment.
+Earlier that morning, the house had woken to Pidgey calls and clinking plates downstairs. The guest room was small but cozy, its yellow walls a welcome change from the stark white of Dr. Fuji's apartment.
 
-I found clothes laid out on a chair---borrowed from Ash, a simple t-shirt and shorts. They still carried a faint scent of laundry detergent. 
+I found clothes laid out on a chair---borrowed from Ash, a simple T-shirt and shorts. They still carried a faint scent of laundry detergent. 
 
 I nodded, thankful to be finally rid of the dress. I never liked dresses, especially those frilly ones.
 
-Downstairs, the kitchen smelled of coffee and maple syrup. Stephen stood at the stove, flipping pancakes while Ash set the table, occasionally shooting me curious glances. Under the table, Poliwag sat with its bowl of mixed berries-Oran, Pecha, and what looked like Sitrus-alternating between delicately picking at its breakfast and hopefully watching for dropped pancake bits.
+Downstairs, the kitchen smelled of coffee and maple syrup. Stephen stood at the stove, flipping pancakes while Ash set the table, occasionally shooting me curious glances. Under the table, Poliwag sat with its bowl of mixed berries---Oran, Pecha, and what looked like Sitrus---alternating between delicately picking at its breakfast and hopefully watching for dropped pancake bits.
 
 "Morning," Stephen said without turning. "Sleep okay?"
 
@@ -36,13 +36,13 @@ Stephen set a bottle of maple syrup down in front of me. "Dig in. They're best w
 
 Ash tracked the bottle's movement with the intensity of a Fearow watching prey, his eyes narrowing as I picked it up.
 
-I drizzled a modest amount over my pancake at first-the responsible adult portion my brain suggested was appropriate. 
+I drizzled a modest amount over my pancake at first---the responsible adult portion my brain suggested was appropriate. 
 
 But something about the warm, golden scent rising from the plate stirred a craving I couldn't ignore. Before I knew it, I was tipping the bottle again, watching amber liquid pool in the divots of the pancake.
 
 "Whoa, you like syrup even more than me!" Ash exclaimed, his jealousy momentarily overcome by wide-eyed admiration.
 
-I blinked at my creation-a sugar swamp that my college-self would have dismissed as disgusting. 
+I blinked at my creation---a sugar swamp that my college-self would have dismissed as disgusting. 
 
 But when I took that first bite, the sweetness hit my taste buds like a revelation. My adult mind registered it as overwhelmingly saccharine, but my body responded with pure delight.
 
@@ -70,7 +70,7 @@ Ash nodded solemnly, as if they were negotiating state secrets rather than break
 
 We finished our pancakes in companionable silence, interrupted only by Ash's occasional appreciative "Mmm!" and the clinking of forks against plates. As Stephen collected our empty dishes, he glanced at the clock on the wall.
 
-"Almost time for school, Ash. Go grab your backpack-we leave in five minutes."
+"Almost time for school, Ash. Go grab your backpack---we leave in five minutes."
 
 "Okay!" Ash bolted up the stairs with thundering footsteps that seemed excessive for someone so small. Poliwag waddled after him with the same excitement.
 
@@ -148,7 +148,7 @@ Crayon drawings covered the fridge-earlier ones showing wobbly Weedle, Oddish, R
 
 I wandered upstairs and paused at Ash's room. Curiosity overcame any sense of boundary-this was THE Ash Ketchum's house, after all.
 
-His room was exactly what you'd expect of a kid: clothes scattered everywhere, half-read Pokemon magazines sprawled open on the floor. I didn't linger long, just enough to spot a well-worn guidebook to Kanto Pokemon buried under some laundry.
+His room was exactly what you'd expect of a kid: clothes scattered everywhere, half-read Pokémon magazines sprawled open on the floor. I didn't linger long, just enough to spot a well-worn guidebook to Kanto Pokémon buried under some laundry.
 
 The morning dragged on. Between sets of push-ups and squats, I watched some random battle broadcast and studied Stephen's badge case mounted above the fireplace-eight badges gleaming under glass, arranged with pride.
 
@@ -178,7 +178,7 @@ We ate in silence, the only sounds being my spoon against the bowl and the soft 
 
 After lunch, Electabuzz just tossed the dishes into the sink with a clatter that made me wince, apparently considering his caretaking duties complete for now.
 
-I jumped onto the couch and continued watching the next pokemon battle broadcast. I settled in, trying to follow along with the announcers' rapid-fire commentary about type advantages and counter-strategies, focusing more on the commentary now that my energy had been partially exhausted.
+I jumped onto the couch and continued watching the next Pokémon battle broadcast. I settled in, trying to follow along with the announcers' rapid-fire commentary about type advantages and counter-strategies, focusing more on the commentary now that my energy had been partially exhausted.
 
 Electabuzz silently stood next to the couch and watched the broadcast with a glint in his eyes-Nostalgia?
 
@@ -210,11 +210,11 @@ Ash slumped dramatically against the couch cushions. "Fine," he grumbled, but ma
 
 Delia's expression softened as she glanced at the TV, then at her son-carefully keeping me at the edge of her vision. "Maybe you could try to do your homework during the commercials."
 
-Ash's face lit up. "Really? Yes!" He bounded back to the couch, nearly tripping over his own backpack in his rush. "Did you see that counter just now? The way Blastoise---" He paused mid-gesture, suddenly self-conscious. "Um, do you like Pokemon battles?"
+Ash's face lit up. "Really? Yes!" He bounded back to the couch, nearly tripping over his own backpack in his rush. "Did you see that counter just now? The way Blastoise---" He paused mid-gesture, suddenly self-conscious. "Um, do you like Pokémon battles?"
 
-"Do I like Pokemon battles?" The question caught me off guard. After all, my only real experience was through games and-
+"Do I like Pokémon battles?" The question caught me off guard. After all, my only real experience was through games and---
 
-"Like Pokemon battles?" I grinned, settling more comfortably on the couch. "Of course I do! My entire life I've---"
+"Like Pokémon battles?" I grinned, settling more comfortably on the couch. "Of course I do! My entire life I've---"
 
 "Right?" Ash's face lit up even more. "Did you see that Hydro Cannon earlier?"
 
@@ -230,23 +230,23 @@ I glanced up to find her standing in the doorway. She met my eyes for a brief mo
 
 "Okay, let's try this step by step," I said, turning toward Ash. "First rule-always start with the ones..."
 
-We worked through the multiplication problems between bursts of battle and commercials. Ash's pencil would freeze mid-calculation every time a pokemon appeared on screen.
+We worked through the multiplication problems between bursts of battle and commercials. Ash's pencil would freeze mid-calculation every time a Pokémon appeared on screen.
 
 "So seven times five is---"
 
 "OH WATCH THIS!" Ash pointed frantically at the TV. "See how Blastoise's cannons are angled? That means---"
 
-"Rapid Spin!" the trainer-Clair?-shouted as Blastoise tucked itself into its shell and whirled into motion. The massive turtle Pokemon became a blur of brown and blue, its rotation thundering across the arena as it kicked up clouds of dirt.
+"Rapid Spin!" the trainer-Clair?-shouted as Blastoise tucked itself into its shell and whirled into motion. The massive turtle Pokémon became a blur of brown and blue, its rotation thundering across the arena as it kicked up clouds of dirt.
 
 "Swift! Break its rotation!" The opposing trainer called. His Skarmory's wings flashed as it launched a barrage of star-shaped energy.
 
-The energy stars scattered in brilliant flashes against Blastoise's spinning shell, but the massive Pokemon plowed through, clearing the scattered spikes from the field in its wake, until Clair held out her pokeball and returned it.
+The energy stars scattered in brilliant flashes against Blastoise's spinning shell, but the massive Pokémon plowed through, clearing the scattered spikes from the field in its wake, until Clair held out her Poké Ball and returned it.
 
 As the dust settled, the camera panned across the battlefield. Skarmory landed with a metallic rustle, both trainers steady as they considered their next moves.
 
-Then, they cut to the announcer. "And Clair returns her Blastoise! What will be her next pokemon? Find out after a quick word from our sponsors."
+Then, they cut to the announcer. "And Clair returns her Blastoise! What will be her next Pokémon? Find out after a quick word from our sponsors."
 
-"15 times 7," I read aloud, looking at his half-completed attempt. The "3" sat alone, abandoned mid-calculation. I drummed my fingers quickly on the page, aware the commercials wouldn't last long. "Okay, the first rule-always start with the ones. 7 times 5 is...?"
+"15 times 7," I read aloud, looking at his half-completed attempt. The "3" sat alone, abandoned mid-calculation. I drummed my fingers quickly on the page, aware the commercials wouldn't last long. "Okay, the first rule---always start with the ones. 7 times 5 is...?"
 
 "35!" Ash was practically bouncing in his seat, pencil already scribbling in the 5 after the 3 and trying to move onto the next problem.
 
@@ -264,7 +264,7 @@ Skarmory launched into the air with a metallic screech, unleashing Air Slash aft
 
 Ash picked up his pencil again, then glanced at me expectantly.
 
-"You have to be patient," I said, my eyes catching a TV ad that felt just like back home-smiling stock footage while an announcer speed-read terrifying side effects. 
+"You have to be patient," I said, my eyes catching a TV ad that felt just like back home---smiling stock footage while an announcer speed-read terrifying side effects. 
 
 "Like Clair back there. See how she didn't rush? Step by step, that's how battling works. And that's how we should do this homework."
 
@@ -282,9 +282,9 @@ Ash's eyes lit up as he carried back down the '1' into the final answer. "So car
 
 "Exactly!" I grinned, caught up in his enthusiasm. "Each step builds up to---"
 
-The TV cut through our moment: "-and with that Ice Beam, Clair has knocked out 2 of Nolan's pokemon! What will be Nolan's last!" 
+The TV cut through our moment: "---and with that Ice Beam, Clair has knocked out 2 of Nolan's Pokémon! What will be Nolan's last!" 
 
-"-Build to the final answer to win the problem!" I say, but Ash was already paying more attention to the real pokemon battle.
+"---Build to the final answer to win the problem!" I say, but Ash was already paying more attention to the real Pokémon battle.
 
 His pencil hovered above the next math question as Nolan's final pokeball burst open. A Hitmonchan materialized, already bouncing on its feet in a fighting stance.
 
@@ -326,15 +326,15 @@ I focused on finishing my pasta, trying not to think too deeply into it. My new 
 
 The wall clock ticked on as Delia glanced at it yet again, lines of worry etched in her face.
 
-"Ms. Martinez said my project on water Pokemon was 'overly simplistic'," Ash grumbled, stabbing a meatball with his fork. "No wonder Gary and his friends laughed at me."
+"Ms. Martinez said my project on water Pokémon was 'overly simplistic'," Ash grumbled, stabbing a meatball with his fork. "No wonder Gary and his friends laughed at me."
 
-"I'm sure it was a wonderful project, sweetie," Delia said distractedly, eyes flicking to the clock. "Everyone starts somewhere with their Pokemon knowledge."
+"I'm sure it was a wonderful project, sweetie," Delia said distractedly, eyes flicking to the clock. "Everyone starts somewhere with their Pokémon knowledge."
 
 When we finished, Delia soaked the plates in the sink, her movements quick and distracted. Ash spread his English workbook across the living room floor, grumbling about vocabulary words.
 
 "I need to go check on something," Delia said, grabbing her coat. She paused at the door, looking at Electabuzz. Some silent understanding passed between them. "Keep guard?"
 
-The electric Pokemon nodded, stance shifting subtly to something more alert.
+The electric Pokémon nodded, stance shifting subtly to something more alert.
 
 I watched her hurry down the path, knowing exactly where she was going-to look for Stephen. To see if Dr. Fuji had done to him what he'd done to those other failed experiments.
 
