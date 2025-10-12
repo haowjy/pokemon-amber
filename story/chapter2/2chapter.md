@@ -120,17 +120,11 @@ Through the doorway I could hear him moving around the room. Fabric rustling. Me
 
 After what might have been minutes or hours---time had lost all meaning somewhere between the clone tank and the convenience store---I managed to stand. My legs shook.
 
-I turned to the sink.
+I turned to the sink and went on tiptoes to twist the faucet on, cupping water toward my mouth. The angle was awkward, water splashing more on my hands and chin than actually helping.
 
-Too high.
+And I still had dried blood all over the coat and grime everywhere else.
 
-Of course it was too high. Everything in this world was too high now, built for adults, built for people who hadn't woken up in a ten-year-old's body a few hours ago.
-
-I turned to the shower instead and looked down at the still blood-stained lab coat.
-
-Right. The shower. I could---I needed to actually get clean. The grime would wash away and I could rinse the taste of bile easier.
-
-I immediately tore off the blood-stained lab coat and tossed it in the corner getting into the shower.
+I pulled the lab coat off and tossed it in the corner, then turned to the shower.
 
 I stood under the spray until the water ran clear, watching rust-brown swirls circle the drain. Occassionally, I opened my mouth and gurled feircely.
 
@@ -140,7 +134,7 @@ The taste of bile had faded, but still clung to the back of my throat.
 
 When I finally stepped out, wrapped in a towel that was too big, the Psyduck shirt and swim trunks were waiting on the closed toilet lid. I didn't remember bringing them in. Had I? The last few hours were a blur of adrenaline and wrong sensations.
 
-The shirt hung past my knees. The Psyduck looked perpetually confused, which---honestly, same. The swim trunks fit better than expected, drawstring pulled tight enough to stay up on a child's hips.
+The shirt hung to my knees. The Psyduck looked perpetually confused, which---honestly, same. The swim trunks fit better than expected, drawstring pulled tight enough to stay up on a child's hips.
 
 I opened the bathroom door.
 

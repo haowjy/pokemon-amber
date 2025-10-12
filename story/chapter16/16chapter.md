@@ -36,7 +36,7 @@ Mid-flight, Dragonite spun. A shimmering, emerald shield materialized around its
 
 The shield quickly flickered and died. Oak glanced at the crowd that had formed across the street, and the additional policemen that had pulled up. With a grim face, Oak made a split-second decision.
 
-"Dragonite, get them far to safety! Send them to the house, now!" he ordered.
+"Dragonite, get them far to safety! Send them back to my house, now!" he ordered.
 
 Before the Pokémon could fully protest, Oak pushed off its back, leaping into the open air several feet above the ground. Dragonite let out a sorrowful cry, a rumbling protest that was lost in the roar of the fire, before banking sharply and slowly flying away from the battle, carrying the children toward the distant lights of the professor's lab.
 
@@ -270,7 +270,7 @@ From one side of the yard, Ditto's eyes shuddered, its form quickly dissolving b
 
 Oak's Pokémon, too, froze. Arcanine, Tauros, and Exeggutor, previously locked in their furious assault, stopped dead, their heads snapping toward the dust cloud.
 
-"Hahaha!" Fuji cackled, his voice raw with a twisted, triumphant glee. He took a staggering step forward, his eyes fixed on the settling dust. "He's gone! I won! I---"
+"Hahaha!" Fuji cackled, his voice raw with a twisted, triumphant glee. He took a staggering step forward, his eyes fixed on the settling dust. "He's gone! I won! I beat the Cha---"
 
 Before he could finish, a low, guttural growl tore from Arcanine's throat. Its body began to glow with a furious, golden aura.
 

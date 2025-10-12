@@ -3,7 +3,7 @@ chapter: 11
 title: "[Chapter 11] Pallet Town"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2025-10-12
 ---
 
 # \[Chapter 11\] Pallet Town
@@ -40,9 +40,9 @@ The knock, when it finally came, shattered the suffocating silence. Dr. Fuji bur
 
 Without ceremony, he recalled Ditto. The Pokeball vanished into his pocket. Then his hand clamped around my wrist, hauling me out into the sudden bustle of the streets.
 
-The Pidgeot Express field sprawled across what would have been prime Celadon real estate. No neat rows of houses here---just an expanse of trampled grass and wooden platforms where massive birds perched like living aircraft. 
+The Pidgeot Express airfield sprawled across the outskirts of Celadon, but would likely have been prime real estate. No neat rows of houses here---just an expanse of trampled grass and wooden platforms where massive birds perched like living aircraft. 
 
-The morning formation swooped overhead---seven Pidgeots cutting through dawn in perfect V-formation, each wingbeat sending visible ripples through the morning mist. A week ago, that sight had nearly brought me to tears. Now all I could think about was how each of those wings could generate hurricane-force winds with a single flap, how its razor-sharp beak could tear through flesh, and how the games never mentioned what happened to passengers who fell from the height of their flight.
+The morning formation swooped overhead---seven Pidgeots cutting through dawn in perfect V-formation, each wingbeat sending visible ripples through the morning mist. In another life, that sight would have brought me to tears of joy. Now all I could think about was how each of those wings could generate hurricane-force winds with a single flap, how its razor-sharp beak could tear through flesh, and how the games never mentioned what happened to passengers who fell from the height of their flight.
 
 Dr. Fuji pulled me through the barely-contained bedlam, his grip never loosening. "Looks like good weather at least," he remarked, but the lightness rang hollow. Forced. "Clear skies to Viridian."
 

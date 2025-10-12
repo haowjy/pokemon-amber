@@ -246,15 +246,15 @@ When he finally spoke, the scholarly curiosity in his eyes had been replaced by 
 
 A wave of relief washed over me before I slowly continued, "So... what happens to me then?"
 
-Professor Oak was quiet for a long moment, choosing his words with care. "Legally," he began, "I don't know what you are. If you have other parents or relatives, then you'll return to your family."
+Professor Oak was quiet for a long moment, choosing his words with care. "Legally---" he began, "I'm not sure. Do you have parents or other relatives?"
 
-I shook my head, "I... don't think I would have living relatives."
+I shook my head, "I... don't think I would have living relatives besides... Dr. Fuji?"
 
-Professor Oak nodded, then, with an odd expression he continued, "If not, then I believe you would be placed in the Indigo League orphan care until you become an adult."
+Professor Oak nodded, then, with an odd expression he continued, "If not, then I believe you would be placed in an Indigo League orphanage until you become an adult." 
 
-"I see..." I said, before continuing, "Is that bad?"
+"I see..." I said, not liking the way he said 'orphanage', before continuing, "Is that bad?"
 
-Professor Oak let out a strange, dry chuckle, "It was overburdened in the War. They are stretched extremely thin and I don't think they have too much political support. I suppose they might be doing better after so many years after the War but... I still haven't heard good things about it, to be honest."
+Professor Oak let out a strange, dry chuckle, "It was overburdened in the War. They are stretched extremely thin and I don't think they have too much support. I suppose they might be doing better after so many years after the War but... I still haven't heard good things about it, to be honest."
 
 "Oh..." I sighed, feigning disappointment. Internally, however, a part of my mind seized on his words. The War. That single phrase confirmed a crucial piece of lore, a dark background detail that only fanfictions covered.
 

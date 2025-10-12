@@ -3,10 +3,12 @@ chapter: 3
 title: "[Chapter 3] Into the World of (Pocket) Monsters"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2025-10-12
 ---
 
 # \[Chapter 3\] Into the World of (Pocket) Monsters
+
+A few days ago, the Pidgeot Express set us down at Celadon's airfield. By breakfast I was in a small rental that smelled like old tea and new dust, and Dr. Fuji was already back to barked instructions and dress codes.
 
 "What do you mean you don't want to wear a dress? You love dresses," Dr. Fuji had said three mornings ago, his voice gentle but brooking no argument as he'd laid out the powder-blue monstrosity. The words hung between us like a wall, trapping the truth behind teeth that didn't feel like mine. How could I explain that his daughter's preferences hadn't transferred along with her DNA?
 
@@ -18,7 +20,7 @@ The transformation caught me off-guard-pink substance flowing, reshaping, solidi
 
 "Oh," I breathed, turning to face my duplicate. Ditto's version of me stood with perfect posture, making my own awkward stance feel even more obvious. Every detail was uncomfortably accurate, from the mint-green hair color to the power-blue dress.
 
-"You know," I said, glancing between us, "If we're going to be stuck here, you could at least transform into me with something more practical. Even the girls in these kid's cartoons Dr. Fuji left for us are wearing pants!"
+"You know," I said, glancing between us, "If we're going to be stuck here, you could at least transform into me with something more practical. Even the girls in these cartoons that Dr. Fuji left for us are wearing pants!"
 
 The copied version of me tilted its head in confusion.
 
@@ -142,9 +144,9 @@ The ancient backpack---a relic of Amber's past life---sat awkwardly on my should
 
 "Wait," I murmured to Ditto, holding out its Pokeball. "I don't even know the rules about Pokemon in the city. Better stay in the ball until we're clear, okay?" It dissolved into red light without protest, though I could have sworn it rolled its eyes first. For all I knew, there could be restrictions about unleashed Pokemon, or licenses needed, or who knows what else.
 
-The apartment door seemed impossibly loud as I eased it open, each creak a thunderous betrayal of my escape attempt. Down four flights of stairs on tiptoes, my shoes barely touching each step. At the building's entrance, I paused, heart thundering against my ribs like a trapped Pidgey.
+The apartment door seemed impossibly loud as I eased it open, each creak a thunderous betrayal of my escape attempt. Down four flights of stairs on tiptoes, my shoes barely touching each step, trying to stay silent. At the building's entrance, I paused, heart thundering against my ribs like a trapped Pidgey.
 
-I reached up on my tiptoes and opened the door to my real first steps into Celadon City.
+I pulled the door open and stepped through to my real first steps into Celadon City.
 
 The morning streets made my earlier caution feel absurd. Pokemon were everywhere, woven into the fabric of city life as naturally as pigeons in my old world---a Meowth sprawled across a windowsill like a furry king surveying its domain, a Pidgey squabbled over something shiny in the gutters, and even a Growlithe padding importantly beside a police officer, its badge-shaped collar catching the sun.
 

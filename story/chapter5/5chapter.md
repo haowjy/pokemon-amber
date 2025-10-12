@@ -30,7 +30,7 @@ Training Facilities Day Pass: ₽4,000
 
 ```
 
-I hesitated, then edged up to the counter. The polished surface rose higher than felt fair; I had to rise onto my toes just to rest my fingers on it.
+I hesitated, then edged up to the counter. The polished surface sat at that annoying height where resting my arms on it felt slightly awkward, not quite comfortable.
 
 "Hi," I said, aiming for casual and landing somewhere closer to small and earnest. "How do you... challenge the gym for a badge?"
 
@@ -60,9 +60,7 @@ My path meandered away from the gym and its pristine gardens back to the regular
 
 Out of the corner of my eye, I spotted a neat little greenhouse, its glass panels catching the sunset in ways that made it look almost molten. Azaleas clustered around its base, their fading blooms still adding splashes of color to the approaching evening. I didn't know where I was, but something about its warm glow drew me closer.
 
-The greenhouse door handle was too high for comfortable reach, requiring an awkward stretch that reminded me yet again of this body's limitations. 
-
-It scraped open with a sound that felt too loud in the quiet evening air, releasing a wave of warm, humid air that carried the rich scent of earth and growing things. I hesitated for a moment, one foot over the threshold, caught between the fading daylight behind and the green-tinted shadows ahead, but ultimately stepped inside.
+The greenhouse door handle resisted when I pulled, stiff from humidity or disuse. I had to brace myself and yank harder to get it open. It scraped with a sound that felt too loud in the quiet evening air, releasing a wave of warm, humid air that carried the rich scent of earth and growing things. I hesitated for a moment, one foot over the threshold, caught between the fading daylight behind and the green-tinted shadows ahead, but ultimately stepped inside.
 
 A path wound between beds of ferns and clusters of what looked suspiciously like the berries I'd spent countless hours farming in various games. The reality was messier, less orderly than their pixel versions. Leaves overlapped and intertwined, creating patches of shadow that seemed to shift and move in ways that...
 
@@ -114,9 +112,11 @@ The girl sighed, absently adjusting her purple ponytail. "Listen," she said, "I 
 
 I nodded slowly while backing away, motioning for Ditto to follow. Internally, I was screaming at myself. How could I have just walked into a restricted area?
 
-The greenhouse door felt miles away, my short legs taking what seemed like an eternity to cross the distance. The handle itself posed a regular challenge---too high for comfortable reach. I managed to push it open with a grunt, cool evening air rushing in to break the greenhouse's humid spell.
+The greenhouse door felt miles away, each step weighted with embarrassment. I grabbed the handle and shoved it open, cool evening air rushing in to break the greenhouse's humid spell.
 
-It wasn't until we were several steps away that I finally looked up and saw it---the 'RESTRICTED: DO NOT ENTER' sign, mounted well above child-height on the greenhouse wall. I groaned internally. Of course, it was there. Of course, I'd managed to miss it.
+It wasn't until we were several steps away that I finally looked back and saw it---the 'RESTRICTED: DO NOT ENTER' sign, half-hidden behind overgrown wisteria vines on the greenhouse's side wall.
+
+Not my fault if they let their signage get eaten by plants.
 
 The trees cast longer shadows now, their leaves turning from gold to deep amber in the setting sun. I shuffled away from the greenhouse, trying to maintain some dignity while essentially fleeing the scene of my latest misadventure. Ditto kept pace beside me, its amorphous form somehow managing to convey both sympathy and mild judgment.
 

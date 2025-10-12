@@ -40,7 +40,7 @@ The morning crowd flowed around me like water around a rock, their shoes creatin
 
 I wasn't from a big city, but I had been to the Big Apple a few times, where they had exactly this kind of card. The memory felt strange now---like remembering a movie I'd watched rather than a life I'd lived.
 
-When it reached my turn, I stretched on my tiptoes and gave it a swipe, the plastic warm from being clutched in my sweaty palm. The reader's display flickered to life with three angry red dots.
+When it reached my turn, I swiped the card, the plastic warm from being clutched in my sweaty palm. The reader's display flickered to life with three angry red dots.
 
 Beep-beep-beep.
 
