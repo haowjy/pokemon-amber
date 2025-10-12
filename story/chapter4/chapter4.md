@@ -3,12 +3,12 @@ chapter: 4
 title: "[Chapter 4] Achievement Unlocked! First Battle!"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2025-10-11
 ---
 
-# \[Chapter 4\] Achievement Unlocked! First Battle!
+# [Chapter 4] Achievement Unlocked! First Battle!
 
-I found myself at the edge of a sprawling park, staring at a wooden sign that pointed toward "Celadon Gym Outer Gardens." Ditto shifted against my neck, its weight familiar now after our morning's city walk.
+I found myself at the edge of a sprawling park, staring at a wooden sign that pointed toward "Celadon Gym Outer Gardens." Ditto shifted against my neck, its scarf-form weight familiar and comforting after our morning's city walk.
 
 The gardens spread out before us, though they looked more like a public park than an actual garden. A patchwork of dirt and grass stretched across the grounds, with morning light catching the dew that still clung to the few spots untrampled by feet and attacks.
 
@@ -30,11 +30,11 @@ The sun climbed higher and then began to fall. My stomach growled so we briefly 
 
 "Looking for a battle?"
 
-The voice pulled me out of my battle-watching trance. A boy who couldn't have been more than ten years old stood before me, all elbows and knees and boundless confidence. His blue cap sat crooked on his head, and a Pokeball bounced between his hands with the kind of nervous energy that suggested he hadn't quite mastered the casual spinning trick he was attempting.
+The voice pulled me out of my battle-watching trance. A boy who couldn't have been more than ten years old stood before me, all elbows and knees and boundless confidence. His blue cap sat crooked on his head, and a Pokeball bounced between my hands with the kind of nervous energy that suggested he hadn't quite mastered the casual spinning trick he was attempting.
 
 "Of course!" The words burst out the moment we locked eyes. It felt natural, automatic---like muscle memory from a thousand battles fought through pixels and button presses.
 
-Ditto, who had been contentedly draped around my neck like a living scarf, perked up at my enthusiasm. Before I could second-guess myself, it had already slid down to the ground, bouncing slightly with an eagerness that made me wonder if it had been hoping for this.
+Ditto perked up at my enthusiasm, already sliding down from my neck. Before I could second-guess myself, it had pooled on the ground, bouncing slightly with an eagerness that made me wonder if it had been hoping for this.
 
 The boy's face lit up. He reached into his pocket and pulled out a few coins. "Cool! Three hundred pokedollars?"
 
@@ -57,6 +57,8 @@ This wasn't a game. I had no idea if Ditto's transformations worked the same way
 The ball flew up, a flash of red light materializing into a Rattata. "Rat-TAT!" It hissed with quiet ferocity.
 
 I squared my shoulders, channeling confidence I didn't quite feel in a Ditto. "I could say the same to you."
+
+Ditto bounced beside me, still in its pink blob form, already focused on the opponent with what I could only describe as battle-ready intensity.
 
 Joey's grin widened. Without warning, he thrust his arm forward. "Go! Rattata! Tackle!"
 
@@ -124,7 +126,7 @@ I almost felt bad for them. Almost. "One more time, Ditto!"
 
 The final Quick Attack landed with surgical precision. "Rat...ta..." Joey's Rattata slid to a stop at his feet, managed one defiant attempt to stand, and then collapsed with the classic swirls in its eyes that I'd only ever seen in the anime.
 
-The scattered applause from our audience felt wrong somehow---too much attention for what was supposed to be a simple amateur battle. Probably because of Ditto.
+Scattered applause broke out from the small crowd that had gathered. Too many eyes, too much attention for what was supposed to be a simple amateur battle.
 
 Joey stared at his fallen Rattata for a long moment, his earlier swagger evaporating like morning dew. For a second, he looked exactly like what he was-a kid. Then his face scrunched up, bottom lip quivering dangerously.
 
@@ -142,4 +144,4 @@ I tucked the coins deep into my backpack, trying not to think too hard about win
 
 'A good kid at heart,' I thought as I watched him care for his fainted Pokemon.
 
-Ditto slithered back up to my neck, humming with what felt like both satisfaction and concern. "Nice work," I whispered, giving it a quick pat while scanning the dispersing crowd. Most had already turned away, but a few were still muttering among themselves, shooting curious glances in our direction.
+Ditto oozed back over to me, its pink form rippling with satisfaction. Without prompting, it flowed up my arm and draped itself back around my neck.

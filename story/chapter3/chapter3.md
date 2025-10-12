@@ -120,9 +120,9 @@ The Ditto-TV seemed to blush before it melted back into a puddle. A moment later
 
 "Yes! That's it!" I cheered, jumping up and down, the childish energy finally finding its proper outlet.
 
-That set the pattern for the next hour. Once the battle broadcast ended, I'd flick through channels, pointing out different Pokemon for Ditto to mimic. We practiced transforming on command, and switching between them as quickly as possible. I didn't want to try to test out any moves inside, however.
+That set the pattern for the next hour. Once the battle broadcast ended, I'd flick through channels, pointing out different Pokemon and items for Ditto to mimic. We practiced transforming into various pokemon and items shown in the commercials. I didn't want to try to test out any moves inside, however.
 
-It was chaotic, clumsy, and mostly ended in Ditto collapsing into a confused puddle. But with each attempt, I could feel a new connection forming between us-not of a girl and her guardian, but of a trainer and her partner.
+It was chaotic, clumsy, and mostly ended in Ditto collapsing into a confused puddle. But with each attempt, I could feel a new connection forming between us---not of a girl and her guardian, but of a trainer and her partner.
 
 Finally, exhausted in a way that felt satisfying and earned, I collapsed onto the floor, spread-eagled. Ditto flowed down beside me, equally "spent," its form a relaxed puddle. Three days. Three days of watching real pokemon battles through a TV.
 
@@ -148,7 +148,7 @@ I reached up on my tiptoes and opened the door to my real first steps into Celad
 
 The morning streets made my earlier caution feel absurd. Pokemon were everywhere, woven into the fabric of city life as naturally as pigeons in my old world---a Meowth sprawled across a windowsill like a furry king surveying its domain, a Pidgey squabbled over something shiny in the gutters, and even a Growlithe padding importantly beside a police officer, its badge-shaped collar catching the sun.
 
-My fingers relaxed around Ditto's minimized ball, feeling sheepish. Red light flashed as I published it, and Ditto materialized with what I swore was an expression of mild amusement. Without prompting, it flowed up my arm and settled across my shoulders like a living scarf, its weight oddly comforting against my neck.
+My fingers relaxed around Ditto's minimized ball, feeling sheepish. Red light flashed as I let it out, and Ditto materialized with what I swore was an expression of mild amusement. Without prompting, it flowed up my arm and settled across my shoulders like a living scarf, its weight oddly comforting against my neck.
 
 A real Pokemon city sprawled before me. Where my mind expected neat gridlines of pixels and predictable paths, Real Celadon flowed with organic chaos. Streets twisted between buildings that defied the simple up-down geography of the games, their shadows painting patterns that no sprite artist could have conceived.
 
