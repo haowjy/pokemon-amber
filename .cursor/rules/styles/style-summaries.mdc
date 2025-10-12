@@ -1,0 +1,76 @@
+---
+type: style-guide
+scope: summaries
+title: "Chapter Summaries Style Guide"
+description: "Guidelines for creating structured chapter summaries with story beats and potential speculation."
+status: published
+created: 2025-10-12
+updated: 2025-10-12
+---
+
+# Chapter Summaries Style Guide
+
+This guide outlines the recommended structure and conventions for creating `_summary.md` files for each chapter. The goal is to provide concise yet detailed summaries that highlight key narrative events and potential future implications, while explicitly separating factual events from speculation. Authorial intent should be reserved for `_notes.md` files.
+
+## Structure:
+
+Each `_summary.md` file should adhere to the following markdown structure:
+
+```markdown
+---
+type: note
+scope: chapter
+chapter: [CHAPTER_NUMBER]
+story_file: ./chapter[CHAPTER_NUMBER].md
+spoilers: [true/false]
+hidden: true
+title: "Chapter [CHAPTER_NUMBER] Summary"
+description: "Brief plot summary for Chapter [CHAPTER_NUMBER]."
+status: draft
+created: [YYYY-MM-DD]
+updated: [YYYY-MM-DD]
+---
+
+# Chapter [CHAPTER_NUMBER] - Summary
+
+[A single-sentence overall summary of the chapter's main events.]
+
+- Story: [Chapter [CHAPTER_NUMBER]](./chapter[CHAPTER_NUMBER].md)
+
+## What happens:
+### [NUMBER]. [Story Beat Title]:
+*   [Detailed bullet point describing a key event.]
+*   [Detailed bullet point describing another key event.]
+
+### [NUMBER]. [Next Story Beat Title]:
+*   [Detailed bullet point describing a key event.]
+
+## Potential speculation:
+*   **[Speculation Category/Theme]:** [Speculation focused on in-universe implications.]
+*   **[Another Speculation]:** [Avoid authorial intent; keep reader-oriented.]
+```
+
+## Key Guidelines:
+
+1.  **YAML Front Matter:**
+    *   Always include the standard YAML front matter as shown above.
+    *   Ensure `chapter`, `story_file`, `title`, `created`, and `updated` fields are accurately filled.
+    *   `hidden` should be `true` for summaries; `spoilers` usually `true`.
+
+2.  **Overall Chapter Summary:**
+    *   Provide a single, concise sentence that encapsulates the chapter's core narrative for a reader skimming for context.
+
+3.  **Reader-first "What happens" Section:**
+    *   Summarize in neutral, third-person, spoiler-aware language focused on what a reader would want to know.
+    *   Break events into 3–5 titled story beats; keep bullets scannable and concrete (no process notes).
+    *   Avoid meta commentary, drafting rationale, or authorial intent.
+
+4.  **"Potential speculation" Section:**
+    *   Use bullets with a bolded short label, framing in-universe implications or questions.
+    *   Keep it optional; omit if nothing meaningful yet. Never state writer goals.
+
+5.  **Language and Tone:**
+    *   Clear, objective, and concise. Prefer present tense; avoid internal monologue or analysis.
+    *   Write for readers catching up, not for authors planning scenes.
+
+By following this style guide, we ensure summaries are consistent, reader-friendly, and useful for quick orientation.

@@ -38,8 +38,8 @@ pokemon-amber/
 ├── story/           # Chapter files (markdown)
 │   ├── chapter1/
 │   │   ├── chapter1.md      # Published chapter
-│   │   ├── _notes.md        # Author notes (hidden)
-│   │   └── _summary.md      # Chapter summary
+│   │   ├── _1notes.md       # Author notes (hidden)
+│   │   └── _1summary.md     # Chapter summary
 │   └── ...
 ├── wiki/            # World-building & reference docs
 │   ├── index.md             # Wiki home
@@ -56,7 +56,9 @@ pokemon-amber/
 ### File Naming Conventions
 
 - **Official content:** No leading underscore (e.g., `chapter1.md`, `amber-mc.md`)
-- **Author notes/drafts:** Leading underscore (e.g., `_notes.md`, `_plot-secrets.md`)
+- **Author notes/drafts:** Leading underscore. Chapter-local files are numbered to match the folder:
+  - `_Xnotes.md`, `_Xsummary.md` (e.g., `_10notes.md`, `_10summary.md`)
+  - Rationale: improves clarity and sorting when many chapter folders are open.
 
 All authoring files include YAML front matter with metadata (title, status, dates, etc.).
 
