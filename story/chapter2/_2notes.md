@@ -7,7 +7,7 @@ updated: 2025-10-11
 
 # Chapter 2 - Notes
 
-- Story: ./chapter2.md (current location)
+- Story: ./2chapter.md (current location)
 
 ## Authorial Intent
 

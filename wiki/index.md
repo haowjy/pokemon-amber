@@ -5,6 +5,7 @@ title: Pokemon Ambertwo - Plot Wiki
 requires_citations: true
 status: draft
 updated: 2025-09-20
+canon: false
 ---
 
 # Pokemon Ambertwo - Plot Wiki
@@ -49,7 +50,7 @@ This wiki summarizes the plot of Pokemon Amber for quick reference as we write. 
 ### Cinnabar Island
 - [Cinnabar Island](./pok-locations/cinnabar-island/cinnabar-island.md)
 - [Cinnabar Gym](./pok-locations/cinnabar-island/cinnabar-gym.md)
-- [Flame Forest (Fanon)](./pok-locations/cinnabar-island/fanon-flame-forest.md)
+- [Flame Forest](./pok-locations/cinnabar-island/flame-forest.md)
 
 Notes
 - Citations link directly to source files under `story/`.

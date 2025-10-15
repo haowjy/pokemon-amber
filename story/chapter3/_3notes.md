@@ -7,7 +7,7 @@ updated: 2025-10-11
 
 # Chapter 3 - Notes
 
-- Story: ../chapter3.md
+- Story: ./3chapter.md
 
 ## Intent
 - Establish Amber's restlessness and desire for adventure
@@ -52,5 +52,3 @@ updated: 2025-10-11
 - Will anyone recognize Ditto's unusual abilities?
 - How long until Dr. Fuji notices she's gone?
 
-## To-Do
-- None

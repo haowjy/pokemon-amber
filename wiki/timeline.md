@@ -4,7 +4,8 @@ category: index
 title: Overall Timeline
 requires_citations: true
 status: draft
-updated: 2025-10-12
+updated: 2025-10-13
+canon: false
 ---
 
 # Overall Timeline
@@ -101,4 +102,4 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 - Hospital morning: school canceled; Ash and Gary scuffle; Officer Jenny coordinates statements.
 - Oak lives (heavily bandaged); Dragonite accounted for; Stephen is missing; Delia is shattered.
 - Ditto is safe in custody; Oak explains Amber may fall under League orphan care; a past War is obliquely referenced.
-
+- Oak returns Ditto to Amber at the hospital, noting its strength and refusal to continue fighting.

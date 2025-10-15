@@ -1,3 +1,14 @@
+---
+type: wiki
+category: pok-locations
+title: Cinnabar Island
+requires_citations: true
+status: draft
+updated: 2025-10-14
+hidden: false
+canon: true
+---
+
 # Cinnibar Island
 
 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cinnabar_Island)
@@ -90,9 +101,9 @@ The Pokémon Mansion is a decrepit, burned-down mansion on Cinnabar Island. It g
 
 It has been destroyed as a result of a volcanic eruption by the time of Generation II and Generation IV.
 
-## Flame Forest (Fanon)
+## Flame Forest (Non‑canon)
 
-[Flame Forest (full article)](./fanon-flame-forest.md)
+[Flame Forest (full article)](./flame-forest.md)
 
 Flame Forest is a wilderness area on Cinnabar Island characterized by mixed terrain including dense forest, geothermal vents, natural hot springs, and cave systems. The area's fertile volcanic soil and regular rainfall support a diverse ecosystem of Fire, Water, and Grass-type Pokémon.
 

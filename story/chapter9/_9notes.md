@@ -7,7 +7,7 @@ updated: 2025-10-11
 
 # Chapter 9 - Notes
 
-- Story: ../chapter9.md
+- Story: ./9chapter.md
 
 ## Character References
 
@@ -40,10 +40,4 @@ Based on Kaede from the manga "How I Became a Pokémon Card" (https://bulbapedia
 - Often pictured sneezing, looking tired, and clutching her runny nose
 - In this chapter: caught stealing Oddish, chased through Game Corner district, captured by Mary's Bellsprout
 
-Sections
-- Intent
-- Beats
-- Foreshadowing
-- Continuity
-- Open Questions
-- To-Do
+

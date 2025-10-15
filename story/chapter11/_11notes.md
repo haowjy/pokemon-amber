@@ -7,7 +7,7 @@ updated: 2025-10-11
 
 # Chapter 11 - Notes
 
-- Story: ../chapter11.md
+- Story: ./11chapter.md
 
 ## Character References
 
@@ -32,10 +32,4 @@ Based on Kaede from the manga "How I Became a Pokémon Card" (https://bulbapedia
 - Often pictured sneezing, looking tired, and clutching her runny nose
 - Her situation with brother Hiro resolved in Chapter 10
 
-Sections
-- Intent
-- Beats
-- Foreshadowing
-- Continuity
-- Open Questions
-- To-Do
+

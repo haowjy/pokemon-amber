@@ -2,7 +2,7 @@
 type: note
 scope: chapter
 chapter: 1
-story_file: ./chapter1.md
+story_file: ./1chapter.md
 spoilers: true
 hidden: true
 title: "Chapter 1 Notes"
@@ -14,7 +14,7 @@ updated: 2025-09-21
 
 # Chapter 1 - Notes
 
-- Story: [../chapter1.md](../chapter1.md)
+- Story: [./1chapter.md](./1chapter.md)
 
 ## Authorial Intent
 - Isekai premise: modern player transported at death (truck impact) into the body of Amber Fuji.

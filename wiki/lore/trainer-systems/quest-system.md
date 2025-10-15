@@ -4,8 +4,9 @@ category: lore
 title: Quest System & Job Boards
 requires_citations: true
 status: draft
-updated: 2025-10-11
+updated: 2025-10-12
 hidden: false
+canon: false
 ---
 
 # Quest System & Job Boards
@@ -26,9 +27,9 @@ Quests are organized by type, marked with colored paper and bracketed labels:
 Collection and retrieval of materials.
 
 **Examples:**
-- "[Item] Berry Collection - Celadon Hills (Moderate) ₽1,500" ([Chapter 7](../../../story/chapter7/chapter7.md))
-- "[Item] Wild Pokemon Census - Viridian Forest (Moderate) ₽3,000"
-- "[Item] Fire Stone Recovery - Flame Forest Outskirts (Dangerous) ₽8,000"
+- "[Item] Berry Collection - Celadon Hills (Moderate) ₽15" ([Chapter 7](../../../story/chapter7/chapter7.md))
+- "[Item] Wild Pokemon Census - Viridian Forest (Moderate) ₽30"
+- "[Item] Fire Stone Recovery - Flame Forest Outskirts (Dangerous) ₽80"
 
 **Typical Difficulty:** Simple to Moderate, peaceful Pokemon for companionship and protection
 
@@ -36,9 +37,9 @@ Collection and retrieval of materials.
 Removal of problem Pokemon from settled areas or routes.
 
 **Examples:**
-- "[Defeat] Rogue Eevee and Eeveelutions Route 7 - Exercise Caution (Moderate) ₽8,000" ([Chapter 7](../../../story/chapter7/chapter7.md))
-- "[Defeat] Grimer Colony - Sewer System (Moderate) ₽6,000"
-- "[Defeat] Aggressive Spearow Near Farms (Simple) ₽3,000"
+- "[Defeat] Rogue Eevee and Eeveelutions Route 7 - Exercise Caution (Moderate) ₽80" ([Chapter 7](../../../story/chapter7/chapter7.md))
+- "[Defeat] Grimer Colony - Sewer System (Moderate) ₽60"
+- "[Defeat] Aggressive Spearow Near Farms (Simple) ₽30"
 
 **Typical Difficulty:** Moderate to Dangerous, strong battle-capable team
 
@@ -49,8 +50,8 @@ Retrieval of lost trainers, civilians, or fainted Pokemon.
 
 **Examples:**
 - "Why were there so many about retrieving 'fainted' Pokemon left in forests?" ([Chapter 7](../../../story/chapter7/chapter7.md) - Amber's observation)
-- "[Rescue] Lost Trainer - Mt. Moon Sector 3 (Dangerous) ₽12,000"
-- "[Rescue] Fainted Pokemon Retrieval - Route 9 (Moderate) ₽5,000"
+- "[Rescue] Lost Trainer - Mt. Moon Sector 3 (Dangerous) ₽120"
+- "[Rescue] Fainted Pokemon Retrieval - Route 9 (Moderate) ₽50"
 
 **Typical Difficulty:** Moderate to Dangerous, tracking Pokemon, rescue equipment
 
@@ -60,19 +61,19 @@ Retrieval of lost trainers, civilians, or fainted Pokemon.
 High-priority threats requiring immediate attention, often with substantial bounties.
 
 **Examples:**
-- "[WANTED] Thief that stole an Oddish from Celadon Gym Greenhouse (Simple) ₽5,000" ([Chapter 7](../../../story/chapter7/chapter7.md))
-- "[WANTED] Mass Sleep Incident - Saffron City Hypno (Extreme) ₽2,000,000" ([Chapter 7](../../../story/chapter7/chapter7.md))
+- "[WANTED] Thief that stole an Oddish from Celadon Gym Greenhouse (Simple) ₽50" ([Chapter 7](../../../story/chapter7/chapter7.md))
+- "[WANTED] Mass Sleep Incident - Saffron City Hypno (Extreme) ₽20,000" ([Chapter 7](../../../story/chapter7/chapter7.md))
 
 **Typical Difficulty:** Varies by threat (Simple to Extreme), investigation skills often needed
 
-**High Bounties:** Major public safety threats can offer enormous rewards. The Hypno incident's ₽2,000,000 bounty reflects its severity - a mass casualty incident in a major city ([Chapter 7](../../../story/chapter7/chapter7.md)).
+**High Bounties:** Major public safety threats can offer enormous rewards. The Hypno incident's ₽20,000 bounty reflects its severity - a mass casualty incident in a major city ([Chapter 7](../../../story/chapter7/chapter7.md)).
 
 ### [Escort] Quests (Blue Paper)
 Protection services for people or cargo traveling through dangerous areas.
 
 **Examples:**
-- "[Escort] Executive Transport - Silph Co to Pokemon Center (Dangerous) ₽8,000"
-- "[Escort] Cargo Delivery - Route 12 (Moderate) ₽6,000"
+- "[Escort] Executive Transport - Silph Co to Pokemon Center (Dangerous) ₽80"
+- "[Escort] Cargo Delivery - Route 12 (Moderate) ₽60"
 
 **Typical Difficulty:** Moderate to Dangerous, reliable defensive Pokemon
 
@@ -80,8 +81,8 @@ Protection services for people or cargo traveling through dangerous areas.
 Information gathering, tracking, and detective work.
 
 **Examples:**
-- "[Investigation] Suspicious Activity - Route 8 (Moderate) ₽5,000"
-- "[Investigation] Missing Pokemon Pattern Analysis (Dangerous) ₽10,000"
+- "[Investigation] Suspicious Activity - Route 8 (Moderate) ₽50"
+- "[Investigation] Missing Pokemon Pattern Analysis (Dangerous) ₽100"
 
 **Typical Difficulty:** Moderate to Dangerous, observation skills, discretion
 
@@ -106,12 +107,12 @@ Every quest requires a valid [trainer license](./trainer-licensing.md). Trainers
 Quests list public class grades to help trainers self‑assess. Typical payout and expected team capability bands:
 
 **Class Scale (capability ~ bands; payouts illustrative):**
-- **Class E** – ~10–25 capability; ₽5,000–20,000
-- **Class D** – ~20–35; ₽20,000–60,000
-- **Class C** – ~30–45; ₽60,000–150,000
-- **Class B** – ~45–60; ₽150,000–400,000
-- **Class A** – ~60–70+; ₽400,000–2,000,000+
-- **Class S** – Off‑board, invitation‑only via Rangers/government (e.g., ₽2,000,000 Hypno incident)
+- **Class E** – ~10–25 capability; ₽50–200
+- **Class D** – ~20–35; ₽200–600
+- **Class C** – ~30–45; ₽600–1,500
+- **Class B** – ~45–60; ₽1,500–4,000
+- **Class A** – ~60–70+; ₽4,000–20,000+
+- **Class S** – Off‑board, invitation‑only via Rangers/government (e.g., ₽20,000 Hypno incident)
 
 **Not Enforced:**
 - Grades are guidance, not requirements
@@ -150,13 +151,13 @@ The highest difficulty quests (for regional threats, legendary encounters) are *
 
 Standardized target ranges (actual postings vary by region, sponsor, urgency):
 
-- **E:** ₽5,000–20,000 (safe work, errands, basic collection)
-- **D:** ₽20,000–60,000 (moderate danger, routine investigations/pest control)
-- **C:** ₽60,000–150,000 (significant risk, complex rescues/operations)
-- **B:** ₽150,000–400,000 (high‑risk missions, specialist skills)
-- **A:** ₽400,000–2,000,000+ (major threats, critical emergencies)
+- **E:** ₽50–200 (safe work, errands, basic collection)
+- **D:** ₽200–600 (moderate danger, routine investigations/pest control)
+- **C:** ₽600–1,500 (significant risk, complex rescues/operations)
+- **B:** ₽1,500–4,000 (high‑risk missions, specialist skills)
+- **A:** ₽4,000–20,000+ (major threats, critical emergencies)
 
-**Exceptional Bounties:** S‑Class incidents can vastly exceed normal ranges (e.g., Saffron Hypno ₽2,000,000 per [Chapter 7](../../../story/chapter7/chapter7.md)).
+**Exceptional Bounties:** S‑Class incidents can vastly exceed normal ranges (e.g., Saffron Hypno ₽20,000 per [Chapter 7](../../../story/chapter7/chapter7.md)).
 
 ### Additional Compensation
 
@@ -185,7 +186,7 @@ Standardized target ranges (actual postings vary by region, sponsor, urgency):
 - Disaster response support
 - Off-route problem Pokemon
 
-**Example:** "[Ranger Request] Route 7 Spearow Flock Management (Moderate) ₽5,000 - Contact Ranger Station 7"
+**Example:** "[Ranger Request] Route 7 Spearow Flock Management (Moderate) ₽50 - Contact Ranger Station 7"
 
 **Why Rangers Post Quests:**
 - Limited staff (can't be everywhere)
@@ -205,7 +206,7 @@ Standardized target ranges (actual postings vary by region, sponsor, urgency):
 - Educational programs support
 - Local area patrol
 
-**Example:** "[WANTED] Thief that stole an Oddish from Celadon Gym Greenhouse (Simple) ₽5,000" ([Chapter 7](../../../story/chapter7/chapter7.md))
+**Example:** "[WANTED] Thief that stole an Oddish from Celadon Gym Greenhouse (Simple) ₽50" ([Chapter 7](../../../story/chapter7/chapter7.md))
 
 ### Private Businesses
 
@@ -346,10 +347,10 @@ Some trainers make their living primarily through quests rather than League comp
 **Type Specialists** - Leverage specific type expertise (Water-type for coastal quests)
 
 **Income Potential (typical, varies by mix and region):**
-- **Casual (1–2 E/D per week):** ₽100,000–300,000/month
-- **Part‑time (3–5 mixed per week):** ₽300,000–900,000/month
-- **Full‑time Professional (near‑daily mixed):** ₽1,000,000–3,000,000+/month
-- **Elite Specialists (regular B/A‑class):** ₽3,000,000+/month
+- **Casual (1–2 E/D per week):** ₽1,000–3,000/month
+- **Part‑time (3–5 mixed per week):** ₽3,000–9,000/month
+- **Full‑time Professional (near‑daily mixed):** ₽10,000–30,000+/month
+- **Elite Specialists (regular B/A‑class):** ₽30,000+/month
 
 **Career Path:** Many [Rangers](../organizations/ranger-union.md) are recruited from successful professional quest-takers.
 

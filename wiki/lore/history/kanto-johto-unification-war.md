@@ -4,8 +4,9 @@ category: lore
 title: Kanto–Johto Unification and the Indigo Corridor
 requires_citations: true
 status: draft
-updated: 2025-09-21
+updated: 2025-10-13
 hidden: false
+canon: false
 ---
 
 # Kanto–Johto Unification and the Indigo Corridor (Amber Continuity)
@@ -31,6 +32,12 @@ Kanto and Johto developed as distinct regions separated by the Indigo mountain r
 ## Timeline Notes (Tech/Comms)
 - 1980s analogue (Arc era): Minimal cross‑region TV; limited trunk lines; ad‑hoc airfields; patchy enforcement.
 - 1990s analogue (Journey era): Satellite relays, better roads, standardized IDs, stronger inter‑region bureaucracy.
+
+## Civil Aftereffects (Social Services)
+- Orphan care systems strained by displacement and casualties; long waitlists and uneven regional funding persisted for years after the treaty.
+- Identity and registry fragmentation led to inconsistent records; forged or erroneous documents were not uncommon and complicated guardianship disputes.
+- The League expanded limited authority to intervene in trainer custody when guardianship was unclear, especially where Pokemon welfare or public safety was implicated.
+- These pressures shaped modern expectations around licensing, custody linkage, and Center registration for minors with Pokemon.
 
 ## Relevance to Story
 - Background to lax security in early chapters and inconsistent ID enforcement.

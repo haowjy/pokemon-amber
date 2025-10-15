@@ -5,6 +5,7 @@ title: Pallet Town Attack
 requires_citations: true
 status: draft
 updated: 2025-09-20
+canon: false
 ---
 
 # Event: Pallet Town Attack

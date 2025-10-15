@@ -5,6 +5,7 @@ title: Mary (Gym Trainer)
 requires_citations: true
 status: published
 updated: 2025-10-11
+canon: true
 ---
 
 # Mary (Gym Trainer)
@@ -218,4 +219,3 @@ Mary's character demonstrates growth even within the limited chapters of her int
 **Resolution:** Successfully solves the case through investigation rather than battle prowess, demonstrating competence in multiple domains while maintaining her humanity.
 
 This arc positions Mary as a positive role model for how authority can be wielded with wisdom and compassion rather than simple power.
-

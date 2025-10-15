@@ -2,7 +2,7 @@
 type: note
 scope: chapter
 chapter: 14
-story_file: ./chapter14.md
+story_file: ./14chapter.md
 spoilers: true
 hidden: true
 title: "Chapter 14 Summary"
@@ -16,7 +16,7 @@ updated: 2025-10-12
 
 Electabuzz watches over Amber in the morning while Delia keeps her distance; that night, Fuji returns with Magmar and blows in the door, initiating a home invasion.
 
-- Story: [Chapter 14](./chapter14.md)
+- Story: [Chapter 14](./14chapter.md)
 
 ## What happens:
 ### 1. Morning in Pallet Town:

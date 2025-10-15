@@ -6,6 +6,7 @@ requires_citations: true
 status: draft
 updated: 2025-10-10
 hidden: false
+canon: false
 ---
 
 # Evolution of Pokemon Gyms
@@ -443,4 +444,3 @@ This story expands gym history and function significantly:
 - Celadon modernization: [Chapter 5](../../../story/chapter5/chapter5.md), [Chapter 8](../../../story/chapter8/chapter8.md)
 - Saffron transition: User worldbuilding notes
 - Canon comparison: [Bulbapedia - Gym](https://bulbapedia.bulbagarden.net/wiki/Gym)
-

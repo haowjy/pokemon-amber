@@ -7,12 +7,5 @@ updated: 2025-09-20
 
 # Chapter 14 - Notes
 
-- Story: ../chapter14.md
+- Story: ./14chapter.md
 
-Sections
-- Intent
-- Beats
-- Foreshadowing
-- Continuity
-- Open Questions
-- To-Do

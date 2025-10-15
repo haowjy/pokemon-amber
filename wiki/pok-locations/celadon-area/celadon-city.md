@@ -6,6 +6,7 @@ requires_citations: true
 status: draft
 updated: 2025-10-09
 hidden: false
+canon: true
 ---
 
 # Celadon City

@@ -6,6 +6,7 @@ requires_citations: false
 status: draft
 updated: 2025-10-04
 hidden: false
+canon: true
 ---
 
 # Cinnabar Island

@@ -2,7 +2,7 @@
 type: note
 scope: chapter
 chapter: 16
-story_file: ./chapter16.md
+story_file: ./16chapter.md
 spoilers: true
 hidden: true
 title: "Chapter 16 Summary"
@@ -16,7 +16,7 @@ updated: 2025-10-12
 
 Professor Oak extracts the kids on Dragonite and confronts Dr. Fuji; Ditto becomes Dragonite, Fuji mutates Magmar with a serum, and collateral damage rips through Pallet before Oak's team turns the tide.
 
-- Story: [Chapter 16](./chapter16.md)
+- Story: [Chapter 16](./16chapter.md)
 
 ## What happens:
 ### 1. Extraction and engagement:

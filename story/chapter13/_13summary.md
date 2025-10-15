@@ -2,7 +2,7 @@
 type: note
 scope: chapter
 chapter: 13
-story_file: ./13chapter.md
+story_file: ./chapter13.md
 spoilers: true
 hidden: true
 title: "Chapter 13 Summary"

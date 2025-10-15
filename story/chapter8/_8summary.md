@@ -2,7 +2,7 @@
 type: note
 scope: chapter
 chapter: 8
-story_file: ./chapter8.md
+story_file: ./8chapter.md
 spoilers: true
 hidden: true
 title: "Chapter 8 Summary"
@@ -16,7 +16,7 @@ updated: 2025-10-12
 
 Amber clears a security review, Erika joins the effort, and the plan forms to investigate unauthorized HP UP interest; Mary is suspended but proceeds anyway.
 
-- Story: [Chapter 8](./chapter8.md)
+- Story: [Chapter 8](./8chapter.md)
 
 ## What happens:
 ### 1. Interrogation at the Gym:

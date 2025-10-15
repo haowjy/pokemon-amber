@@ -4,8 +4,9 @@ category: lore
 title: Gym System Structure & Functions
 requires_citations: true
 status: draft
-updated: 2025-10-11
+updated: 2025-10-12
 hidden: false
+canon: false
 ---
 
 # Gym System Structure & Functions
@@ -88,7 +89,7 @@ Public entertainment battles hosted regularly by gyms.
 - Standardized competitive rules
 
 **Spectator Access:**
-- Day Pass: ₽10,000 ([Chapter 5](../../../story/chapter5/chapter5.md))
+- Day Pass: ₽100 ([Chapter 5](../../../story/chapter5/chapter5.md))
 - Watch trainers compete live
 - Popular entertainment in cities
 
@@ -106,7 +107,7 @@ Spectator fees + corporate sponsorships fund prize pools. Gyms profit from hosti
 
 Day pass access to gym equipment and resources.
 
-**Cost:** ₽4,000 per day ([Chapter 5](../../../story/chapter5/chapter5.md))
+**Cost:** ₽40 per day ([Chapter 5](../../../story/chapter5/chapter5.md))
 
 **Facilities Include:**
 - Battle arenas with various terrain
@@ -215,7 +216,7 @@ Specialize based on local ecosystem:
 - Grants access to water route quests (aquatic rescue, route safety)
 
 **Cinnabar (Fire):**
-- Volcanic island, [Flame Forest](../../pok-locations/cinnabar-island/fanon-flame-forest.md) nearby
+- Volcanic island, [Flame Forest](../../pok-locations/cinnabar-island/flame-forest.md) nearby
 - Extremely dangerous Fire-types
 - Very hard badge test (volcanic hazards, aggressive Fire-types)
 - Grants access to dangerous Cinnabar quests (volcanic zone work)
@@ -253,7 +254,7 @@ Originally a traditional garden-focused teaching institution, Celadon Gym has mo
 **Modern ([Chapters 5-8](../../../story/chapter5/chapter5.md)):**
 - Large complex with multiple buildings
 - Professional staff of 30+ trainers
-- Commercial training facilities (₽4,000 day pass)
+- Commercial training facilities (₽40 day pass)
 - Badge certification for Celadon region
 - Gym League broadcasts
 - Security office and administrative departments
@@ -281,12 +282,12 @@ Originally a traditional garden-focused teaching institution, Celadon Gym has mo
 - Day passes, memberships, classes, private lessons
 
 **League Challenges (25-35%):**
-- Spectator fees (₽10,000+ per event)
+- Spectator fees (₽100+ per event)
 - Corporate sponsorships
 - Broadcasting rights
 - Regular events (weekly/monthly)
 
-Additional steady revenue; day passes (₽4,000), memberships, programs, private lessons
+Additional steady revenue; day passes (₽40), memberships, programs, private lessons
 
 Elite challenge administration is not a profit center; prestige value and League/government partnerships matter more than direct fees
 

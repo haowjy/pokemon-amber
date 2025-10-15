@@ -5,6 +5,7 @@ title: Erika
 requires_citations: true
 status: published
 updated: 2025-10-11
+canon: true
 ---
 
 # Erika
@@ -445,4 +446,3 @@ Several threads remain open for Erika's continued development:
 **Regional Influence:** As future Gym Leader of Kanto's commercial capital, she'd have significant political and economic power.
 
 The character remains rich with potential while having completed a satisfying arc demonstrating her leadership qualities and moral compass.
-

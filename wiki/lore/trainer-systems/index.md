@@ -6,6 +6,7 @@ requires_citations: true
 status: draft
 updated: 2025-10-11
 hidden: false
+canon: false
 ---
 
 # Trainer Systems Overview

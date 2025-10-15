@@ -7,6 +7,7 @@ status: draft
 hidden: true
 created: 2025-09-21
 updated: 2025-10-09
+canon: false
 ---
 
 # Plot Secrets & Story Mechanics (Author-Only)
@@ -77,4 +78,3 @@ Don't
 - Don't let any character meaningfully explain transmigration.
 - Don't allow a second successful human consciousness recreation.
 - Don't give Ambertwo overt psychic abilities or explicit Mew markers.
-

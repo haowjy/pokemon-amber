@@ -2,7 +2,7 @@
 type: note
 scope: chapter
 chapter: 6
-story_file: ./chapter6.md
+story_file: ./6chapter.md
 spoilers: true
 hidden: true
 title: "Chapter 6 Summary"
@@ -16,7 +16,7 @@ updated: 2025-10-12
 
 Fuji forges Amber's identity, Team Rocket leadership assesses the fallout from Mewtwo's escape, Domino points Fuji toward Delia, and Fuji's fixation on a "perfect Amber" deepens.
 
-- Story: [Chapter 6](./chapter6.md)
+- Story: [Chapter 6](./6chapter.md)
 
 ## What happens:
 ### 1. Dr. Fuji's Domestic Obsession:

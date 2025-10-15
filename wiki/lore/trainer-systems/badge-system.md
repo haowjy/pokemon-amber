@@ -6,6 +6,7 @@ requires_citations: true
 status: draft
 updated: 2025-10-11
 hidden: false
+canon: false
 ---
 
 # Gym and Elite Badges
@@ -149,4 +150,3 @@ Badges remain trust marks. The League co‑opts them for qualification. A dual m
 - Job board structure and difficulty/pay examples: [Chapter 7](../../../story/chapter7/chapter7.md)
 - Modern gym operations and staff: [Chapter 8](../../../story/chapter8/chapter8.md)
 - Canon comparison: [Bulbapedia - Gym Badge](https://bulbapedia.bulbagarden.net/wiki/Badge)
-

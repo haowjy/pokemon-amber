@@ -5,6 +5,7 @@ title: Forest Path Incident
 requires_citations: true
 status: draft
 updated: 2025-09-20
+canon: false
 ---
 
 # Event: Forest Path Incident

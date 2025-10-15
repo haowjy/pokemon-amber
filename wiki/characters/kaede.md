@@ -5,6 +5,7 @@ title: Kaede
 requires_citations: true
 status: published
 updated: 2025-10-11
+canon: true
 ---
 
 # Kaede
@@ -190,4 +191,3 @@ While Kaede's immediate arc concludes in Chapter 10, several threads remain unex
 - Kaede's gratitude to Mary and Amber could lead to future assistance or friendship
 
 The character remains available for future development while providing a complete emotional arc in her initial appearance.
-

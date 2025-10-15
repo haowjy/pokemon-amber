@@ -2,7 +2,7 @@
 type: note
 scope: chapter
 chapter: 1
-story_file: ./chapter1.md
+story_file: ./1chapter.md
 spoilers: false
 hidden: true
 title: "Chapter 1 Summary"
@@ -16,7 +16,7 @@ updated: 2025-10-12
 
 An adult from another world dies during a Shadow Mewtwo raid alert and awakens as Amber Fuji in a clone tank amid Mewtwo's escape; Dr. Fuji rescues her.
 
-- Story: [Chapter 1](./chapter1.md)
+- Story: [Chapter 1](./1chapter.md)
 
 ## What happens:
 ### 1. Old World Demise:

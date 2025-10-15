@@ -7,12 +7,5 @@ updated: 2025-09-20
 
 # Chapter 16 - Notes
 
-- Story: ../chapter16.md
+- Story: ./16chapter.md
 
-Sections
-- Intent
-- Beats
-- Foreshadowing
-- Continuity
-- Open Questions
-- To-Do

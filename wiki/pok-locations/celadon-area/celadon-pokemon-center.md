@@ -6,6 +6,7 @@ requires_citations: true
 status: draft
 updated: 2025-10-09
 hidden: false
+canon: true
 ---
 
 # Celadon Pokemon Center
@@ -348,4 +349,3 @@ Amber notes similarity to Mystery Dungeon job boards, showing her game knowledge
 - Mary's appearance with WANTED poster: [Chapter 7](../../../story/chapter7/chapter7.md)
 - Amber's observations and reactions: [Chapter 7](../../../story/chapter7/chapter7.md)
 - Canon comparison: [Bulbapedia - Pokemon Center](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Center)
-

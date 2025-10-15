@@ -2,7 +2,7 @@
 type: note
 scope: chapter
 chapter: 3
-story_file: ./chapter3.md
+story_file: ./3chapter.md
 spoilers: true
 hidden: true
 title: "Chapter 3 Summary"
@@ -16,7 +16,7 @@ updated: 2025-10-12
 
 Settling into a Celadon apartment, Amber notes real-time differences in televised battles, starts training with Ditto, and plans her first exploration of the city.
 
-- Story: [Chapter 3](./chapter3.md)
+- Story: [Chapter 3](./3chapter.md)
 
 ## What happens:
 ### 1. New Body, Evolving Bond:

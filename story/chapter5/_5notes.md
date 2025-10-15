@@ -7,7 +7,7 @@ updated: 2025-10-11
 
 # Chapter 5 - Notes
 
-- Story: ../chapter5.md
+- Story: ./5chapter.md
 
 ## Intent
 - Establish gym challenge requirements (licensing system)
@@ -115,5 +115,3 @@ Based on Kaede from the manga "How I Became a Pokémon Card" (https://bulbapedia
 - Will gym trainer remember the weird transforming Pokémon?
 - What's wrong with the sneezing girl's Oddish?
 
-## To-Do
-- None

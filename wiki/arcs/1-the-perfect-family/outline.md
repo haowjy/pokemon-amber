@@ -6,6 +6,7 @@ requires_citations: true
 status: draft
 updated: 2025-09-21
 hidden: false
+canon: false
 ---
 
 # Arc Outline - The Perfect Family
@@ -107,5 +108,4 @@ Author execution tips:
 - MC's status unresolved (League systems, custody, identity paperwork).
 - Ditto custody → potential reunion threads.
 - Oak/Delia/Ash triangle of care versus grief—future trust-building.
-
 

@@ -7,7 +7,7 @@ updated: 2025-10-11
 
 # Chapter 10 - Notes
 
-- Story: ../chapter10.md
+- Story: ./10chapter.md
 
 ## Character References
 
@@ -45,10 +45,4 @@ Based on Kaede from the manga "How I Became a Pokémon Card" (https://bulbapedia
 - Thought HP UP could "extend his life" (dangerously wrong)
 - Receives free treatment from Erika, allowed to keep Oddish for Hiro's care
 
-Sections
-- Intent
-- Beats
-- Foreshadowing
-- Continuity
-- Open Questions
-- To-Do
+

@@ -5,6 +5,7 @@ title: Dr. Fuji
 requires_citations: true
 status: draft
 updated: 2025-09-20
+canon: true
 ---
 
 # Dr. Fuji

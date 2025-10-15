@@ -2,7 +2,7 @@
 type: note
 scope: chapter
 chapter: 4
-story_file: ./chapter4.md
+story_file: ./4chapter.md
 spoilers: true
 hidden: true
 title: "Chapter 4 Summary"
@@ -16,7 +16,7 @@ updated: 2025-10-12
 
 After observing park battles, Amber accepts a street match; Ditto learns to transform mid-fight, defeats Joey's Rattata, and draws public attention.
 
-- Story: [Chapter 4](./chapter4.md)
+- Story: [Chapter 4](./4chapter.md)
 
 ## What happens:
 ### 1. Observing Celadon's Battle Scene:

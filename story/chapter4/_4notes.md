@@ -7,7 +7,7 @@ updated: 2025-10-11
 
 # Chapter 4 - Notes
 
-- Story: ../chapter4.md
+- Story: ./4chapter.md
 
 ## Intent
 - Amber's first real Pokémon battle
@@ -74,5 +74,3 @@ updated: 2025-10-11
 - How common/rare are Dittos in this world?
 - When will licensing become a real problem?
 
-## To-Do
-- None

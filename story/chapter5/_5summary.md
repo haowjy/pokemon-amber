@@ -2,7 +2,7 @@
 type: note
 scope: chapter
 chapter: 5
-story_file: ./chapter5.md
+story_file: ./5chapter.md
 spoilers: true
 hidden: true
 title: "Chapter 5 Summary"
@@ -16,7 +16,7 @@ updated: 2025-10-12
 
 Priced out of gym fees, Amber wanders the greenhouse, befriends a Gloom, is caught by trainer Mary, and narrowly avoids trouble.
 
-- Story: [Chapter 5](./chapter5.md)
+- Story: [Chapter 5](./5chapter.md)
 
 ## What happens:
 ### 1. Gym Challenge and Financial Realities:

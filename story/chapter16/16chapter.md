@@ -3,7 +3,7 @@ chapter: 16
 title: "[Chapter 16] Dr. Fuji v Professor Oak"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2025-10-12
 ---
 
 # \[Chapter 16\] Dr. Fuji v Professor Oak
@@ -272,22 +272,94 @@ Oak's Pokémon, too, froze. Arcanine, Tauros, and Exeggutor, previously locked i
 
 "Hahaha!" Fuji cackled, his voice raw with a twisted, triumphant glee. He took a staggering step forward, his eyes fixed on the settling dust. "He's gone! I won! I beat the Cha---"
 
-Before he could finish, a low, guttural growl tore from Arcanine's throat. Its body began to glow with a furious, golden aura.
+A figure emerged from the smoke.
 
-Tauros pawed the ground, its snorts turning into heavy, rumbling breaths of pure, unadulterated fury, its eyes blazing with an unholy light.
+Professor Oak staggered forward, one hand pressed against his ribs, his lab coat scorched black and still smoking. Angry red burns covered the left side of his face and neck, already beginning to blister. His breathing came in ragged, painful gasps.
 
-Exeggutor's three heads flared with an angry psychic energy, its leafy top rustling like an angry storm.
+But his eyes were sharp, focused, and very much alive.
 
-Fuji barely had time to register the shift. His triumphant snarl caught in his throat as Exeggutor, without a spoken command, unleashed a focused Psychic force. The invisible hammer slammed into Fuji's chest, lifting him off his feet and throwing him backward with surprising violence, sending him tumbling away from the enraged Pokémon.
+Fuji's triumphant grin froze on his face.
 
-Then, they moved.
+"Impossible---" he began.
 
-Tauros slammed its front hooves into the scorched lawn. The ground instantly buckled and convulsed once again, fissures racing toward the half-Magmar. The earth twisted violently, swallowing the fire-type up to its chest. Half-Magmar bellowed, struggling to free itself.
+Oak's gaze swept the area. The crowd across the street had thinned, officers still ushering stragglers away. His jaw tightened.
 
-Exeggutor launched an Egg Bomb before it, too, was swallowed by its own teammate's Earthquake. The Egg Bomb landed directly where the half-Magmar laid, blasting away some of the Earth that kept it trapped.
+"That should be enough time," he muttered.
 
-Arcanine didn't fare much better. The earth underneath Arcanine also parted. Arcanine, seeing the fissure forming, tried to jump, but it just wasn't as easily timed as with Oak there with them to guide them, and it didn't make it across that chasm.
+"Tauros, Earthquake!" Oak's voice rang out, hoarse but commanding. "Arcanine, Giga Impact! Exeggutor, clear Fuji away!"
 
-However, in the next moment, the ground buckled and Arcanine burst through the ground, before resuming its charge.
+Exeggutor's heads pulsed with psychic energy. An invisible force slammed into Fuji, lifting him off his feet and hurling him backward into the street, away from the ruined yard.
 
-Arcanine, now a blur of concentrated fury, a physical embodiment of pure, destructive power, surrounded itself in a vibrant, glowing aura. When it got close enough, it jumped high, and then crashed into the convulsing earth above where half-Magmar was buried with a huge, gigantic, impact.
+Tauros, despite the poison still clinging to its hide, slammed its front hooves into the scorched earth with everything it had left.
+
+The ground erupted.
+
+The earth buckled and twisted, fissures tearing through the ruined yard and spiderwebbing into the asphalt. The half-Magmar, already battered and struggling to rise from the crater, had no chance to evade. The ground beneath it gave way completely, swallowing it chest-deep.
+
+Half-Magmar bellowed, thrashing, but the earth held it fast.
+
+Arcanine burst forward, its body wreathed in blazing golden-white energy. When it struck, the impact was devastating. The collision drove half-Magmar deeper into the earth. The ground around the crater exploded outward in a thunderous shockwave. The pinkish-white flames sputtered once, twice, then died.
+
+Its cannon arm went limp.
+
+Half-Magmar lay motionless, utterly defeated.
+
+For a long moment, nothing moved but the settling dust and the distant flicker of flames.
+
+Oak's knees buckled. He caught himself against the ruined fence post, breathing hard.
+
+Arcanine stood over the fallen half-Magmar, its chest heaving, fur scorched and singed. Tauros swayed on its feet, the purple aura of poison still clinging to its hide. Exeggutor's three heads drooped, exhausted.
+
+And then there was Ditto.
+
+The small, pink blob sat in the middle of the scorched yard, trembling. It made no move toward Oak's Pokemon. No attempt to transform. No sign of aggression.
+
+It simply sat there, quivering.
+
+Oak's gaze lingered on it for a moment before he pushed himself away from the fence post. Each step was deliberate, painful, but he moved toward where Fuji had been thrown into the street.
+
+The scientist lay sprawled on the asphalt, one arm twisted at an awkward angle, his face pressed against the cracked pavement. As Oak's shadow fell over him, Fuji stirred, groaning.
+
+His head lifted slightly, blood trickling from his temple. His eyes, wild and unfocused, found the pink blob in the distance.
+
+"Ditto," Fuji rasped, his voice barely a whisper. "Ditto... transform. Transform into Dragonite. Into... into Gyarados. Anything." His fingers clawed uselessly at the ground. "Attack him. Kill him."
+
+The pink blob didn't move.
+
+"Ditto!" Fuji's voice cracked, rising to a desperate shriek. "I created you! *Obey me!*"
+
+Still, nothing.
+
+Ditto sat motionless in the scorched yard, small and trembling, making no move to respond.
+
+A choked sob tore from Fuji's throat. "I just wanted my daughter back," he whispered, broken. "That's all I wanted..."
+
+Oak stood over him, expression unreadable, and said nothing.
+
+Two pokeballs lay scattered on the asphalt near Fuji's torn coat, having fallen loose during the Psychic throw. Oak slowly bent down and picked them both up.
+
+He walked back to the Ditto. The small pink Pokemon met his eyes.
+
+Oak held its gaze for a moment before raising the pokeball.
+
+The red beam lanced out. Ditto dissolved into light without resistance, the pokeball clicking shut with a soft chime.
+
+Oak's fingers closed around it for a moment before he turned toward the fallen half-Magmar, the second pokeball in hand.
+
+He approached the crater where it lay buried. The pinkish-white flames had long since died. The grotesque cannon arm lay limp.
+
+Oak knelt at the crater's edge, pokeball still in hand. He waited, watching.
+
+But something was wrong.
+
+There was no breathing. No rise and fall of its chest.
+
+Oak set the pokeball down and reached out, pressing two fingers to the side of Magmar's neck, searching for a pulse.
+
+Nothing.
+
+He moved his hand to its chest. Still nothing. The body was already cooling, the grotesque cannon arm beginning to stiffen.
+
+Oak's hand fell away. His eyes tracked to the broken syringe lying nearby, the shattered glass still glinting with traces of that sickly pink liquid.
+
+His gaze moved back to Fuji. Something cold settled in his eyes.

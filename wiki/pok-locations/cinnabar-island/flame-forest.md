@@ -1,14 +1,15 @@
 ---
 type: wiki
-category: locations
-title: Flame Forest (Fanon)
+category: pok-locations
+title: Flame Forest
 requires_citations: false
 status: draft
-updated: 2025-10-04
+updated: 2025-10-14
 hidden: false
+canon: false
 ---
 
-# Flame Forest (Fanon)
+# Flame Forest
 
 ## Overview
 Flame Forest is a diverse wilderness area on Cinnabar Island, characterized by its mixed ecosystem of Fire, Water, and Grass-type Pokemon. Despite its name, the forest supports a wide variety of Pokemon types due to the island's unique combination of volcanic soil fertility and regular rainfall. The area is known both for its natural beauty and significant dangers, particularly the territorial Skarmory population that patrols its canopy.
@@ -82,4 +83,4 @@ Visitors are advised to travel in groups, maintain Flying-type Pokemon capable o
 ## Notes
 The forest's name is somewhat misleading given its ecological diversity, but reflects early settler focus on the area's Fire-type population and frequent fire hazards from wild Pokemon battles.
 
-This is NOT a canon location - it was made up for this story.
+This location is non‑canon (fan-created) within the Amber continuity.

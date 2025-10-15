@@ -86,9 +86,20 @@ updated: 2025-09-20
 
 The `.cursor/rules/` directory contains:
 - `authoring-conventions.mdc` - File naming and YAML requirements
-- `general.mdc` - Punctuation and spelling conventions  
-- `styles/style-summaries.mdc` - Chapter summary formatting guidelines
-- Various style guides for different narrative modes (battle, dialogue, etc.)
+- `general.mdc` - Punctuation and spelling conventions
+
+### Style Guides (`.cursor/rules/styles/`)
+
+Six specialized style guides for different scene types. All are `alwaysApply: false` - read the actual file before writing:
+
+- **`pokemon-writer.mdc`** - Master prose guide. Read for overall narrative voice and formatting conventions (passage by passage, code blocks vs block quotes)
+- **`style-normal.mdc`** - Default Amber voice for everyday scenes. Read for adult/child split, humor techniques, and tonal balance
+- **`style-dialogue.mdc`** - Conversation scenes. Read before writing dialogue-heavy passages
+- **`style-battle.mdc`** - Pokemon battles. Read before writing combat sequences
+- **`style-discovery.mdc`** - Exploration/new location scenes. Read before writing discovery moments or first impressions of places
+- **`style-summaries.mdc`** - Chapter summaries only. Read before creating `_Xsummary.md` files
+
+**Important:** When writing prose, read the relevant style guide(s) first. The files contain specific examples from the story showing how techniques are applied.
 
 ## Content Organization
 

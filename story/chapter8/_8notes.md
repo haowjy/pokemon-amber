@@ -7,7 +7,7 @@ updated: 2025-10-11
 
 # Chapter 8 - Notes
 
-- Story: ../chapter8.md
+- Story: ./8chapter.md
 
 ## Character References
 
@@ -28,10 +28,4 @@ Based on Erika from the Pokémon games ([Bulbapedia](https://bulbapedia.bulbagar
 - Graceful and commanding presence
 - First appears in security office, shows warmth to Amber
 
-Sections
-- Intent
-- Beats
-- Foreshadowing
-- Continuity
-- Open Questions
-- To-Do
+

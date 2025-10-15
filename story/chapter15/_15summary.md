@@ -2,7 +2,7 @@
 type: note
 scope: chapter
 chapter: 15
-story_file: ./chapter15.md
+story_file: ./15chapter.md
 spoilers: true
 hidden: true
 title: "Chapter 15 Summary"
@@ -16,7 +16,7 @@ updated: 2025-10-12
 
 Electabuzz stands between Amber and Ash and Dr. Fuji's Magmar as a home invasion erupts into a deadly street fight; Amber rejects Fuji as Professor Oak arrives.
 
-- Story: [Chapter 15](./chapter15.md)
+- Story: [Chapter 15](./15chapter.md)
 
 ## What happens:
 ### 1. The invasion ignites:
