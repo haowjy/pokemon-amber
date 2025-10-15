@@ -2,7 +2,7 @@
 type: note
 scope: chapter
 chapter: 10
-story_file: ./chapter10.md
+story_file: ./10chapter.md
 spoilers: true
 hidden: true
 title: "Chapter 10 Summary"
@@ -16,7 +16,7 @@ updated: 2025-10-12
 
 Erika treats Hiro's Sludge Fever and authorizes Oddish to stay; on the return train, Fuji intercepts Amber, reclaims Ditto, and slaps her.
 
-- Story: [Chapter 10](./chapter10.md)
+- Story: [Chapter 10](./10chapter.md)
 
 ## What happens:
 ### 1. Desperate Pleas and a Medical Crisis:

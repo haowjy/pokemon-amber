@@ -3,7 +3,7 @@ chapter: 17
 title: "[Chapter 17] The Eye of the Storm"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2025-10-12
 ---
 
 # \[Chapter 17\] The Eye of the Storm
@@ -238,11 +238,23 @@ He sighed, a heavy, weary sound. "To be honest, I don't remember the very end. T
 
 My heart hammered against my ribs. "And... my Ditto?" I asked, before catching myself. "His Ditto?"
 
-Professor Oak didn't answer immediately. His gaze held mine for a long moment. 
+Professor Oak didn't answer immediately. His gaze held mine for a long moment.
 
-When he finally spoke, the scholarly curiosity in his eyes had been replaced by a gentle reassurance.
+Then, with a slight wince, he reached toward the bedside table where his personal effects were laid out---his Pokédex, his wallet, and a cluster of pokeballs. His fingers closed around one in particular.
 
-"Safe," he said, his voice softening to match his expression. "It's currently being held for questioning, but it's unharmed. A curious Ditto," he mused. "It transformed into my Dragonite, with seemingly equal strength. Thankfully, it didn't seem to want to fight---a rather gentle Pokémon."
+When he turned back to me, the curiosity in his eyes had been replaced by a gentle reassurance.
+
+"Safe," he said, his voice softening. He held out the pokeball. "It's unharmed."
+
+I stared at the red-and-white sphere in his bandaged hand, my breath catching.
+
+"A remarkable Ditto," he continued, his tone taking on that familiar professorial quality. "It transformed into my Dragonite with seemingly equal strength---something I thought impossible for Ditto transformations." He paused, as if choosing his words carefully. "But when the battle ended, it refused to fight further. Wouldn't even respond to Fuji's commands." His expression softened. "A rather gentle Pokémon at heart."
+
+Slowly, almost reverently, I reached out and took the pokeball from his hand. The smooth surface felt cool against my palm, but somehow reassuring. The weight of it---the knowledge that Ditto was inside, safe---made something tight in my chest finally loosen.
+
+"Thank you," I whispered.
+
+Oak watched me for a moment, an unreadable expression crossing his features. There was something in his eyes---recognition? Certainty? I couldn't quite place it. Then he simply nodded.
 
 A wave of relief washed over me before I slowly continued, "So... what happens to me then?"
 
@@ -250,7 +262,7 @@ Professor Oak was quiet for a long moment, choosing his words with care. "Legall
 
 I shook my head, "I... don't think I would have living relatives besides... Dr. Fuji?"
 
-Professor Oak nodded, then, with an odd expression he continued, "If not, then I believe you would be placed in an Indigo League orphanage until you become an adult." 
+Professor Oak nodded, then, with an odd expression he continued, "If not, then you might be placed in an orphanage."
 
 "I see..." I said, not liking the way he said 'orphanage', before continuing, "Is that bad?"
 
