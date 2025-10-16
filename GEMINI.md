@@ -9,6 +9,7 @@ This repository contains a Pokemon fanfiction story, "Pokemon: Ambertwo," writte
 -   **`story/`**: Contains the chapters of the story, with each chapter in its own numbered folder (e.g., `chapter1/`). Each folder includes the chapter markdown file (`1chapter.md`), author notes (`_1notes.md`), and a summary (`_1summary.md`).
 -   **`wiki/`**: A comprehensive wiki for the story's lore, characters, locations, and plot arcs. This serves as a knowledge base to maintain consistency.
 -   **`.cursor/rules/`**: Contains style and formatting guidelines for the AI writing assistant.
+-   **`future/`**: A brainstorming and exploration space for future story direction, including potential plot threads, character ideas, and long-term story arcs.
 
 ## Key Files
 

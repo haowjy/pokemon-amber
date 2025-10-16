@@ -15,6 +15,7 @@ pokemon-amber/
 │   │   ├── Xchapter.md      # Published chapter content
 │   │   ├── _Xnotes.md       # Author notes (hidden)
 │   │   └── _Xsummary.md     # Chapter summary
+├── future/          # Brainstorming and planning for future story arcs
 ├── wiki/            # World-building & reference docs
 │   ├── characters/          # Character profiles
 │   ├── arcs/                # Story arc outlines  

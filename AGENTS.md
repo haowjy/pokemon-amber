@@ -1,7 +1,7 @@
 # Repository Guidelines
 
 ## Project Structure & Module Organization
-Drafted prose lives in `story/`, where each `chapterN/` directory bundles the published draft (`Nchapter.md`), internal notes (`_Nnotes.md`), and recap (`_Nsummary.md`). Long-term continuity tools sit in `wiki/`, organized by theme (`characters/`, `lore/`, `pok-locations/`, etc.). Shared tone, punctuation, and formatting expectations are collected in `.cursor/rules/`; skim these before starting a new scene so the voice stays consistent.
+Drafted prose lives in `story/`, where each `chapterN/` directory bundles the published draft (`Nchapter.md`), internal notes (`_Nnotes.md`), and recap (`_Nsummary.md`). Long-term continuity tools sit in `wiki/`, organized by theme (`characters/`, `lore/`, `pok-locations/`, etc.). Brainstorming and planning for future story arcs can be found in the `future/` directory. Shared tone, punctuation, and formatting expectations are collected in `.cursor/rules/`; skim these before starting a new scene so the voice stays consistent.
 
 ## Authoring & Review Workflow
 - Open the relevant `story/chapterN/` trio together; update prose, notes, and summary in the same pass.
