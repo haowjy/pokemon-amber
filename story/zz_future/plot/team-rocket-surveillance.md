@@ -6,7 +6,7 @@ spoilers: true
 status: idea-to-explore
 hidden: true
 created: 2025-10-14
-updated: 2025-10-14
+updated: 2025-10-15
 ---
 
 # Team Rocket Surveillance Plot
@@ -24,6 +24,40 @@ updated: 2025-10-14
   - Acquire Ditto (perfect-copying clone is valuable)
   - Find out what else Fuji created
   - Leverage her to get Fuji to cooperate from jail
+
+### Giovanni's Nationalist Motivations
+
+**Beyond Opportunistic Crime:**
+
+Giovanni's interest in Amber/Ditto/Fuji isn't just about profit or acquiring a valuable Pokemon - it connects to his larger ideological agenda:
+
+**Mewtwo Project Context:**
+- Giovanni wants to create Pokemon stronger than the legendaries that defeated Kanto at Mt. Silver
+- "If we'd had Mewtwo at Mt. Silver, we'd have won" mindset
+- Fuji's cloning research = pathway to creating the ultimate weapon
+- Superweapon to ensure Kanto can dominate Johto AND subdue legendary opposition
+
+**Amber's Strategic Value:**
+- **Living proof Fuji's cloning works** (even if she doesn't know she's a clone)
+- Ditto shows Fuji perfected transformation/copying technology
+- Amber herself might be prototype for cloning process that creates Mewtwo
+- **Leverage against Fuji**: Giovanni needs Fuji's cooperation to complete Mewtwo
+- If Fuji refuses, threatening Amber (his "daughter") might force compliance
+
+**Why This Makes TR Persistent:**
+- Giovanni's nationalist agenda (not just mother's profit motive)
+- Strategic asset acquisition for revenge against legendaries
+- Giovanni personally invested in Mewtwo project
+- Won't give up easily - this is about "finishing the war properly"
+- Kanto hardliner backers (Silph Co. executives, Saffron elite) funding Giovanni's nationalist operations
+- Madame Boss (his mother) wants profit from selling rare Pokemon; Giovanni wants superweapons
+- TR has resources from both: mother's criminal infrastructure + hardliner elite funding
+
+**Amber as Unwitting Symbol:**
+- Represents what Giovanni wants: artificial Pokemon stronger than nature
+- Her existence proves legendaries can be matched/exceeded
+- If Fuji can clone humans perfectly, he can clone legendary Pokemon
+- Giovanni's revenge against Mt. Silver legendaries embodied in cloning technology
 
 ### Initial Phase: Passive Observation
 

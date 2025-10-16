@@ -13,6 +13,57 @@ updated: 2025-10-14
 
 **Major decision affecting long-term story structure and thematic implications**
 
+## Confirmed Background: Oak's War Role
+
+**These elements are now established worldbuilding (not options):**
+
+### Oak's History
+- **Born in Pallet Town, Kanto** (native, not from Johto)
+- Traveled to Johto as young trainer (learned traditional clan culture, had Celebi encounter if using time loop)
+- Became **Kanto Champion** ~40-50 years ago
+
+### Role in Kanto-Johto War (~20-30 years ago)
+- **Led Kanto forces** as Champion during the war
+- Witnessed **Mt. Silver Incident** firsthand:
+  - Both armies mass-caught wild Pokemon for military use
+  - Disturbed ecosystems (Tyranitar breeding grounds, legendary bird nesting sites, territorial Pokemon)
+  - Wild Pokemon counter-attacked both armies simultaneously
+  - Legendary birds, Tyranitar, territorial Pokemon routed both sides
+  - Hundreds of casualties in hours
+- **Chose immediate surrender** over regrouping
+  - Kanto was winning the human war
+  - Oak believed continued escalation would lead to worse catastrophe
+  - Negotiated unification treaty with significant concessions to Johto
+
+### Post-War Retirement
+- **Stepped down as Champion** to enable Lance (Johto, Blackthorn clan) as first unified Champion
+  - Symbolic compromise showing equal standing
+  - Political necessity for peace
+- Dedicated to Pokemon-human bond research
+  - Proving quality bonds > quantity/industrial warfare
+  - Mt. Silver taught: treating Pokemon as ammunition = disaster
+
+### Current Authority & Enemies
+- **Authority is personal/influential, not institutional**
+  - Gym leaders respect him, but he can't command them
+  - Decentralized government = no executive power
+  - Works through persuasion and reputation
+- **Has enemies in Kanto hardliner faction**
+  - Silph Co. executives, Saffron merchants, Vermilion industrialists
+  - Believe he "gave away victory" when Kanto was winning
+  - Secretly fund Team Rocket to destabilize unified League
+  - Want to "finish" the war properly
+- **Cannot directly stop Team Rocket** (they operate beyond his influence)
+
+### Why This Matters for Amber's Story
+- Oak's protection of Amber is personal choice, not institutional power
+- His enemies (Kanto hardliners funding Giovanni) threaten her
+- His research mission validates bonds (what Amber represents with Ditto)
+- Mt. Silver experience taught him: don't treat Pokemon as tools (Giovanni's opposite lesson)
+- Can intervene for Amber through influence, not authority
+
+---
+
 ## Option 1: Time Loop (Pokemon 4Ever)
 
 ### The Mechanism

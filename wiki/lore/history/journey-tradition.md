@@ -115,12 +115,35 @@ Different regions adapted noble tradition differently:
 - Some regions have younger ages (13-14), others older (16-17)
 - Cultural expectations vary (required vs optional)
 
+## Post-War Context: Journey Culture Boom
+
+### Why Journeys Are Encouraged Post-War
+
+**Social Service Gaps (10-20 years post-war):**
+- Kanto-Johto War strained orphanage systems beyond capacity
+- Decentralized government = no federal welfare or education programs
+- Each gym/city manages own social services with limited budgets
+- **Journey culture fills the gap** for displaced youth
+
+**Gym Council Incentives:**
+- Gym councils ENCOURAGE journeys (not restrict them)
+- Provides purpose for war orphans and displaced youth
+- Removes burden from overwhelmed local services
+- Ranger Union, Pokemon Centers, quest system create safety net
+- Better than orphanages that can't handle population
+
+**Journey as Opportunity:**
+- Economic mobility for those without family support
+- Alternative to strained/inconsistent education system
+- Post-war reconstruction needs Pokemon trainers (Rangers, handlers, workers)
+- **Journey culture is STRONG, not declining** - serves vital social function
+
 ## Modern Journey Culture
 
 ### Junior League Formalization
 
-**Government Structure:**
-Post-Pokeball governments formalized the journey tradition:
+**Gym Council Coordination:**
+Post-Pokeball gym councils formalized the journey tradition:
 
 **Junior League (Under 18):**
 Modern equivalent of noble journey:
@@ -138,17 +161,23 @@ Modern equivalent of noble journey:
 ### Cultural Expectations
 
 **Regional Norms (Kanto-Johto):**
-- Age 15 typical journey start (cultural expectation)
-- Starting earlier (13-14) possible but risky
+- Age 10-15 journey starts (wide range due to decentralized system)
+- Age 10-12: Rare but legal (prodigies, clan kids, orphans, special circumstances)
+- Age 13-15: Most common (finished basic education, family support)
+- Age 16-18: Late bloomers, academic track prerequisites
+- **No centralized enforcement** of journey timing (each gym/city decides)
 - Expected to attempt at least some badges
 - Returning with 8 badges = major achievement
 - Socially acceptable to "settle" at fewer badges (not everyone continues)
 
 **Class Implications:**
-- Wealthy families still have advantages (better starters, funding)
-- Common trainers can succeed through merit
+- Wealthy families still have massive advantages (bred Pokemon, funding, training)
+- **Clan families** (Johto especially) maintain traditional training methods
+- Common trainers struggle without family support (quest work barely covers costs)
+- War orphans often forced into early journeys (no other options)
 - Badge count still correlates loosely with status
 - But no longer determines inheritance or political power
+- **Post-war: Journey serves as social safety valve for displaced youth**
 
 **Parental Involvement:**
 - Parental consent required (especially for younger trainers)
@@ -230,9 +259,10 @@ Other regions evolved differently:
 
 **Strong Journey Culture:**
 - 8 badges deeply culturally significant
-- Age 10-15 typical start
+- Age 10-15 typical start (wide range, decentralized enforcement)
 - Junior League formalized tradition
 - Quest system supports journey economics
+- **Post-war boom**: Journey fills gaps in strained social services
 
 **Noble Clans Still Exist:**
 - Some old families maintain traditions

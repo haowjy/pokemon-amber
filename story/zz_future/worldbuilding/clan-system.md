@@ -144,11 +144,28 @@ Each entry has: **Region Base**, **Culture/Rites**, **Signature Technique**, **N
 
 ### 2) **Silvertail Lineage** --- *Meowth / Persian* (merchant house)
 - **Region Base:** Celadon & Saffron markets (Kanto strong); Johto cousins handle textile trade
-- **Culture/Rites:** Coin-Binding (daily counting); Silent Ledger (favor tokens); Market Trial
+- **Culture/Rites:** Coin-Binding (daily counting ritual); Market Trial (proving business acumen); care for their Meowth/Persian partners
 - **Signature Technique:** **Silk Step** --- multi-Meowth crowd redirection for courier protection
-- **Notable NPCs:** Mina (reformist clinic), Kaito (smiling fixer)
-- **Politics/Allies:** transactional ties with Nightveil couriers; tension with berry clans
-- **Story Hooks:** gray-market parcel; ledger that points to a Rocket buyer; clinic favor for Amber
+- **Notable NPCs:** Mina (clinic reformist, genuinely cares for Pokemon), Kaito (courier, pragmatic but decent), various merchants
+- **Politics/Allies:** transactional ties with Nightveil couriers; partnerships with berry clans for trade; respected in Kanto commerce
+- **Story Hooks:** legitimate merchant favor for Amber; clinic help; courier services; possible ally against Team Rocket
+- **Clan Character:**
+  - **Normal, decent merchants** - practical but care for their Pokemon
+  - Range from warm (Mina's compassionate clinic) to pragmatic (Kaito's efficient courier work)
+  - Treat Meowth/Persian as valued partners, not just tools
+  - Strong business ethics (most members, anyway)
+  - Deeply embedded in Kanto legitimate commerce
+- **The Madame Boss Problem:**
+  - **Black sheep of the family** - emotionally cold, struggled with attachment
+  - Born into Silvertail but couldn't bond with Pokemon like others
+  - Received Meowth as starter, tried to care for it but was distant/functional
+  - **Meowth left her** - found happier trainer who actually played with it, showed affection
+  - Saw her Meowth happy elsewhere; concluded bonds are fake/transactional (defense mechanism)
+  - **Founded Team Rocket** using stolen clan knowledge (logistics, breeding, merchant networks)
+  - Clan tried to help her, she rejected them; now publicly distance themselves
+  - **Uses Silvertail reputation** as cover for criminal operations (to clan's embarrassment)
+  - Married into Viridian family for political legitimacy, raised Giovanni with her twisted philosophy
+  - **Clan position:** "She doesn't represent us. We wish she'd stop using our name."
 
 ---
 
@@ -252,9 +269,31 @@ Each entry has: **Region Base**, **Culture/Rites**, **Signature Technique**, **N
 
 ---
 
+### 13) **Viridian House** --- *Ground-types (Nidoking, Rhydon, etc.)*
+- **Region Base:** Viridian City (Kanto exclusive); no Johto ties
+- **Culture/Rites:** **None** - family abandoned traditional clan practices generations ago during Kanto modernization
+- **Signature Technique:** Ground-type specialization passed down through family breeding programs (industrial, not ritualistic)
+- **Notable NPCs:** **Giovanni** (current Gym Leader, Team Rocket Boss), **Giovanni's father** (identity unknown - Madame Boss never says)
+- **Politics/Allies:** **Kanto hardliner faction** (Silph Co. executives, Saffron elite, Vermilion industrialists); secretly backs Team Rocket
+- **Story Hooks:** Giovanni's gym = Team Rocket headquarters; family legacy of Ground-type specialization; connection to nationalist agenda
+- **Background:**
+  - Giovanni's family has controlled Viridian Gym for generations (legitimate political power base)
+  - **Madame Boss (Silvertail black sheep) married into Viridian family** for political legitimacy/cover after founding Team Rocket
+  - Giovanni's father unknown (Madame Boss won't say - strategic connection? Giovanni suspects Viridian gym member)
+  - Giovanni inherited BOTH: Viridian Gym position (father's side) AND mother's Team Rocket criminal empire
+  - Raised with mother's philosophy: "Bonds are fake, Pokemon are tools"
+  - But also exposed to Viridian family's functional Pokemon relationships (father's influence)
+  - Result: Can bond with Pokemon pragmatically but not emotionally
+  - **Organizational split:** Madame Boss runs TR as pure profit enterprise; Giovanni transformed it into nationalist movement
+  - **Tension:** Mother wants money from selling rare Pokemon; Giovanni wants Kanto supremacy and revenge on legendaries
+  - Viridian Gym = perfect cover (gym leader authority + Team Rocket shadow operations)
+  - Kanto hardliners fund Giovanni's nationalist TR operations (separate from mother's profit schemes)
+
+---
+
 ## Johto-specific (mention only in Kanto as wandering heirs)
 
-### 13) **Blackthorn/Scalehand** --- *Dratini / Dragonair / Dragonite*
+### 14) **Blackthorn/Scalehand** --- *Dratini / Dragonair / Dragonite*
 - **Status:** **Established canon** as the dragon clan in Johto (Blackthorn)
 - **Use in Kanto:** wandering scions, rare; no power base
 - **Hooks:** quiet dragon lore hints; political weight if a scion vouches for Amber later

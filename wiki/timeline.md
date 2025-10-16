@@ -4,7 +4,7 @@ category: index
 title: Overall Timeline
 requires_citations: true
 status: draft
-updated: 2025-10-13
+updated: 2025-10-15
 canon: false
 ---
 
@@ -12,7 +12,46 @@ canon: false
 
 Chronological, reader-focused summary of events so far. Citations link to `story/`.
 
-## Chapter 1 - Truck-kun Strikes Again ([Summary](../story/chapter1/_1summary.md))
+---
+
+## Historical Context (Pre-Story)
+
+**Major events shaping the world before Amber's journey:**
+
+### Ancient History
+- **~200 years ago:** Pokeball invention (primitive, hand-crafted, expensive)
+- **~50 years ago:** Silph Co. breakthrough in mass Pokeball production - democratization of Pokemon training begins
+
+### Recent History
+- **~40-50 years ago:** Samuel Oak becomes Kanto Champion
+- **~30-20 years ago:** Kanto-Johto War
+  - Oak leads Kanto forces as Champion
+  - Kanto winning the human war until Mt. Silver incident
+  - **Mt. Silver Incident:** Both armies mass-catch wild Pokemon; disturbed ecosystems trigger coordinated counter-attack by legendary birds, Tyranitar, and territorial Pokemon; hundreds of casualties in hours; both armies routed
+  - Oak chooses immediate surrender over continued escalation
+  - Negotiates unification treaty with significant concessions to Johto
+  - Oak steps down as Champion to enable Lance (Johto, Blackthorn clan) as first unified Champion
+  - **Culture of silence** around Mt. Silver - most don't know full truth of how war ended
+- **~20-10 years ago:** Post-war recovery
+  - Pokeball production shortage; prices spike
+  - Orphanage systems overwhelmed
+  - Journey culture boom (fills gaps in strained social services)
+  - Ranger Union receives expanded mission (ecosystem protection, poaching enforcement)
+  - New regulations on catching (protected zones, carrying limits)
+
+### Current Day (Story Present)
+- **10-20 years post-war:** Indigo League (unified Kanto-Johto confederation)
+- Lance is Champion (symbol of equal Kanto-Johto standing)
+- Oak is respected researcher (influential but no institutional authority)
+- **Kanto hardliner faction** (Silph Co. executives, Saffron elite, Vermilion industrialists) secretly fund Team Rocket to destabilize unified League
+- Giovanni controls Viridian Gym and Team Rocket
+- Fuji working on Mewtwo project (funded by Giovanni/Team Rocket)
+
+---
+
+## Story Timeline (Chapter Summaries)
+
+### Chapter 1 - Truck-kun Strikes Again ([Summary](../story/chapter1/_1summary.md))
 - An adult protagonist dies in her world (truck accident) and awakens as Amber Fuji, a cloned child, inside a lab tank during Mewtwo's escape.
 - Dr. Fuji rescues Amber from a collapsing facility amid alarms, broken glass, and chaos.
 - Mewtwo locks eyes with Amber before blasting out; an Arcanine charges in the confusion.

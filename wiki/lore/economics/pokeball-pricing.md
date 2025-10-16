@@ -4,7 +4,7 @@ category: lore/economics
 title: Pokeball Economics & Pricing
 requires_citations: true
 status: draft
-updated: 2025-10-12
+updated: 2025-10-15
 hidden: false
 ---
 
@@ -184,7 +184,38 @@ Standard pricing as listed above. Silph Co. headquarters in Saffron ensures stea
 
 ## Historical Context
 
-### Post-War Pokeball Shortage
+### Pokeball Invention Timeline
+
+**Pre-Pokeball Era (Before ~200 years ago):**
+- Pokemon training was elite profession requiring years of study
+- Trainers had to tame Pokemon without containment devices
+- Only nobility and established clans could afford to train Pokemon
+- Pokemon couldn't be transported easily
+- Journey tradition existed but was extremely dangerous and exclusive
+
+**Primitive Pokeballs (~200-50 years ago):**
+- First Pokeballs invented approximately 200 years ago
+- Hand-crafted, expensive, unreliable
+- Still elite-only technology
+- Enabled safer Pokemon training but limited scale
+- Gradual refinement over generations
+
+**Mass Production Revolution (~50 years ago):**
+- Silph Co. breakthrough in mass production
+- Pokeball prices dropped dramatically (from ₽5,000+ to ₽200)
+- **Democratization of Pokemon training** - common folk could finally afford to catch Pokemon
+- Journey tradition spread from nobility to general population
+- Population of trainers exploded
+- Gyms overwhelmed by new trainers (led to area certification system)
+
+**Industrial Warfare Era (~30-20 years ago):**
+- Cheap mass-produced Pokeballs enabled military applications
+- Kanto-Johto War: Both sides used mass-catching strategies
+- **Mt. Silver incident**: Wild Pokemon retaliated against ecosystem disruption from mass-catching
+- Revealed danger of treating Pokemon as ammunition (poorly-bonded Pokemon failed in battle)
+- Led to stricter regulations on catching (protected zones, carrying limits)
+
+### Post-War Pokeball Shortage (~20-10 years ago)
 
 - Production facilities damaged during the War
 - Pokeball prices spiked to ₽500-1,000 for basic balls

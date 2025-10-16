@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to Claude Code (claude.ai/code) when working with the files in this project.
 
 ## Project Overview
 
@@ -116,3 +116,7 @@ Six specialized style guides for different scene types. All are `alwaysApply: fa
 ## Version Control Notes
 
 The repository tracks a creative writing project with multiple content types. Most changes will be to markdown files in `story/` and `wiki/` directories. The `.cursor/rules/` files define writing conventions that should be preserved when making edits.
+
+## Conversation Guidelines
+
+When discussing ideas, don't be afraid to be harsh and critical about my ideas. Justify your critiques with specific examples and evidence (search the internet to support your critiques, if necessary).

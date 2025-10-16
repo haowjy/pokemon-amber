@@ -117,15 +117,28 @@ The most powerful trainers in modern regions often **deliberately avoid** pursui
 
 ### Indigo League (Kanto-Johto)
 
-**Professor Oak (Former Champion):**
-- Served as Champion during the transition period
-- Saw the shift from defender to politician firsthand
-- Stepped down to focus on research and training next generation
-- Still has Champion-level strength but no interest in politics
-- Respected elder statesman; influence without authority
+**Professor Oak (Former Kanto Champion):**
+- Born in Pallet Town, Kanto; traveled to Johto as young trainer (learned traditional clan culture)
+- Became Kanto Champion ~40-50 years ago (strong defender + political leader)
+- **Led Kanto forces during Kanto-Johto War** (~20-30 years ago)
+- Witnessed Mt. Silver incident: wild Pokemon routed both armies (legendary birds, Tyranitar, territorial Pokemon defending disturbed habitats)
+- Chose immediate surrender over regrouping, believing continued escalation would lead to worse catastrophe
+- **Negotiated unification treaty** with Johto, giving significant concessions for quick peace
+- Stepped down as Champion to enable Lance (Johto) as first unified Champion - symbolic compromise
+- **Current authority is personal/influential, not institutional** - gym leaders respect him, but he can't command them
+- Dedicated to Pokemon-human bond research (proving quality bonds > quantity/industrial warfare)
+- Has enemies in Kanto hardliner faction who believe he "gave away victory"
+
+**Current Champion - Lance:**
+- From Johto (Blackthorn clan, dragon specialist)
+- First unified Champion post-war (symbolic of equal Kanto-Johto standing)
+- Compromise candidate Oak negotiated to enable peace
+- **Resented by Kanto hardliners** (they won the war, why Johto Champion?)
+- Maintains Oak's peace, balances both regional interests
+- Respects legendaries and ecosystem protection (Mt. Silver shaped his worldview)
 
 **Current Elite Four:**
-- Manage different aspects of Indigo League government
+- Manage different aspects of Indigo League confederation (not federal government)
 - Some stronger than current Champion but prefer advisory roles
 - Balance between tradition (strength) and modernity (governance)
 
@@ -137,10 +150,13 @@ The most powerful trainers in modern regions often **deliberately avoid** pursui
 - Understands modern power is as much influence as it is battle prowess
 
 **Regional dynamics:**
-- Post-war Indigo League still recovering from conflict
-- Champion position has changed hands several times recently
-- Political instability as system adapts to modern reality
+- Post-war Indigo League is **decentralized confederation** (gym councils coordinate, not federal government)
+- Lance as Johto Champion represents Oak's compromise (equal standing, not Kanto dominance)
+- Kanto hardliner faction (Silph Co., Saffron elite, Vermilion industrialists) resents treaty terms
+- **Secret funding of Team Rocket** by hardliners to destabilize unified League
+- Champion authority is coordinative, not executive (gyms retain local autonomy)
 - Ongoing tension between traditional meritocracy and political governance
+- **Culture of silence around Mt. Silver** - few know full truth of how war really ended
 
 ### Other Regions
 

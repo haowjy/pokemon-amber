@@ -452,25 +452,60 @@ Rangers have limited capacity (only so many personnel) and can't handle everythi
 
 ## Historical Context
 
-**Formation:** Formalized after [Pokeball invention](../history/pokeball-invention.md) enabled government formation and professionalization of wilderness defense.
+**Formation Timeline:**
+- Initial formalization: Post-Pokeball (~50 years ago) enabled professionalization of wilderness defense
+- **Major expansion: Post-Mt. Silver Incident** (~10-20 years ago) - direct response to ecosystem catastrophe
 
-**Pre-Pokeball Era:**
-- No centralized Rangers - gym councils handled all Pokemon threats
+### Mt. Silver Incident & Ranger Mission Change
+
+**What Happened:**
+During Kanto-Johto War, both sides mass-caught wild Pokemon for military use, disturbing ecosystems around Mt. Silver. This triggered coordinated counter-attack by wild Pokemon (legendary birds, Tyranitar, territorial Pokemon) that routed both armies and ended the war.
+
+**Rangers' New Mandate:**
+After Mt. Silver, Ranger Union received expanded mission and funding:
+- **Ecosystem protection** became primary goal (prevent another mass-catch disaster)
+- **Monitor legendary sites** and breeding grounds
+- **Enforce new poaching laws** (catching in protected zones now illegal)
+- **Early warning system** for ecosystem disruption
+- Population management to prevent territorial conflicts
+
+**Why This Matters:**
+- Pre-war: Rangers maintained routes, responded to emergencies
+- Post-war: Added ecosystem protection and poaching enforcement
+- **Rangers now prevent environmental catastrophes**, not just respond to them
+- Mt. Silver taught lesson: Disturbing Pokemon habitats = legendary retaliation
+- Conservation framed as **survival** (prevent legendary anger), not just environmentalism
+
+### Pre-Pokeball Era
+
+**No Centralized Rangers:**
+- Gym councils handled all Pokemon threats
 - Each gym responsible for their local area
 - Ad-hoc coordination between gyms during crises
 - Champion led unified defense efforts
 - Informal guides and local experts supplemented gym efforts
 
-**Post-Pokeball Government Era:**
+### Post-Pokeball Government Era (Early Rangers)
+
 When [governments formed from gym councils](../history/gym-evolution.md), wilderness defense was professionalized:
-- **Ranger Union created** as dedicated wilderness emergency service
+- **Initial Ranger Union created** as dedicated wilderness emergency service
 - Government funding (previously gym councils covered defense)
-- Standardized training and procedures (replacing ad-hoc responses)
-- Regional coordination (Rangers replaced gym council's role)
+- Basic training and procedures (replacing ad-hoc responses)
+- Regional coordination
+- **Focus: Route maintenance and emergency response**
+
+### Post-War Rangers (Current Era)
+
+**Expanded Mission:**
+- Everything above PLUS ecosystem protection
+- **Poaching enforcement** (illegal catching in protected zones)
+- **Legendary site monitoring** (Mt. Silver, legendary bird nesting areas, Tyranitar breeding grounds)
+- **Habitat protection** (prevent mass-catching operations)
+- **Population surveys** (ensure balanced ecosystems)
 - Integration with [quest system](../trainer-systems/quest-system.md)
 
 **Modern Rangers:**
-Rangers now do what gym councils once did - but as professional, full-time service rather than guild members splitting duties. This freed gyms to focus on training and certification.
+Rangers now do what gym councils once did (route defense) PLUS prevent another Mt. Silver (ecosystem protection). This freed gyms to focus on training and certification while Rangers became wilderness guardians.
 
 ## Canon Divergence
 

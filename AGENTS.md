@@ -19,3 +19,5 @@ Commits should stay focused and use present-tense summaries (`clarify cinnabar l
 
 ## Agent Collaboration Tips
 Reset context by reviewing `.cursor/rules/authoring-conventions.mdc` and `general.mdc` before drafting; these files anchor house style and terminology. Update summaries and notes alongside the main chapter so future collaborators understand your intent. Tag unanswered questions or TODOs directly in `_Nnotes.md`, and prefer `hidden: true` on experimental prose until the lead author approves publication.
+
+When discussing ideas, don't be afraid to be harsh and critical about my ideas. Justify your critiques with specific examples and evidence (search the internet to support your critiques, if necessary).

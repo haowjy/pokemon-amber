@@ -6,13 +6,88 @@ spoilers: true
 status: planned
 hidden: true
 created: 2025-10-14
-updated: 2025-10-14
+updated: 2025-10-15
 ---
 
 # Giovanni–Fuji Jail Conversation Planning (Rev B)
 
 > **Change requested:** The scene must end with Giovanni's order, **"make him disappear quietly."**
 > Reader-facing implication: likely death. **Truth (hidden):** Fuji is kept alive off-books, later contributes to a second Mewtwo program, mellows, escapes Rocket, and ultimately becomes **Mr. Fuji** of Lavender Town.
+
+---
+
+## Giovanni & Team Rocket Context
+
+### Giovanni's Background
+- **Family Legacy:** Viridian Gym has been controlled by Giovanni's family for generations (Ground-type specialization)
+- **War Veteran:** Fought in Kanto-Johto War, witnessed Mt. Silver incident (wild Pokemon routing both armies)
+- **Kanto Nationalist:** Believes Oak "gave away victory" when he surrendered; wants to finish what war started
+- **True Believer:** Not just criminal opportunist - genuinely wants to restore Kanto supremacy over Johto
+
+### Team Rocket: Madame Boss's Criminal Empire
+
+**Madame Boss's Background:**
+- **Silvertail clan black sheep** - emotionally cold, struggled with attachment her whole life
+- Born into normal merchant family who care for their Meowth/Persian partners
+- Unlike rest of family, couldn't bond properly with Pokemon
+- Received Meowth as starter, tried to care for it but was distant/functional
+- **Meowth left her** - ran away, found happier trainer who actually played with it
+- Saw her Meowth happy with someone else; crushed her
+- **Defense mechanism:** "Bonds are fake. Pokemon are disloyal opportunists. I won't be stupid enough to care again."
+
+**Founding Team Rocket:**
+- **She founded TR** after Meowth abandonment, using stolen Silvertail knowledge
+- Took clan's merchant logistics, breeding expertise, business networks
+- Corrupted legitimate practices into criminal enterprise
+- Philosophy: Pure profit, Pokemon as commodities to auction, stay out of politics
+- **Hates Pokemon** - won't touch them, finds them disgusting (per Bulbapedia canon)
+- Only wants Mew/Mewtwo for money/power, not because she likes them
+- Elite squadrons handle all Pokemon work (she just gives orders)
+- **Vision:** Team Rocket as warlord organization, eternal profit engine
+
+**Silvertail Clan's Response:**
+- Tried to help her, she rejected them
+- Publicly distance themselves: "She doesn't represent us. We wish she'd stop using our name."
+- Embarrassed that she uses Silvertail reputation as cover for crimes
+- Some family members still care about her (she's family, even if wrong)
+- Others have cut ties completely
+- Clan is legitimate business, not complicit in TR
+
+**Madame Boss's Marriage & Giovanni:**
+- Married into Viridian Gym family for political legitimacy/cover
+- **Giovanni's father unknown** (Madame Boss won't say - strategic connection)
+- Raised Giovanni with her twisted philosophy: "Bonds are fake, Pokemon are tools"
+- But Giovanni also exposed to father's side (Viridian family had normal Pokemon relationships)
+- Result: Giovanni can bond functionally but not emotionally
+- Inherited Viridian Gym (father) AND Team Rocket criminal empire (mother)
+
+**Giovanni (New Guard):**
+- Transformed Team Rocket into **nationalist movement** post-war
+- Uses mother's criminal infrastructure for political agenda
+- Funded by Kanto hardliner elite (Silph Co. executives, Saffron merchants, Vermilion industrialists)
+- **Vision:** Team Rocket as shadow military to destabilize unified League and restore Kanto dominance
+- Unlike mother, doesn't HATE Pokemon - just treats them pragmatically/coldly
+
+**Internal Tension:**
+- Old guard (loyal to Madame Boss): Profit-focused, apolitical, auction rare Pokemon for money
+- New guard (loyal to Giovanni): Ideological, militaristic, revenge-driven against legendaries
+- Mother wants Mewtwo to sell/control markets; Giovanni wants it as superweapon
+- Giovanni consolidating power but hasn't fully sidelined his mother
+
+### Mewtwo Project Motivations
+
+**Giovanni's True Goal:**
+- **Revenge against nature itself** (Mt. Silver legendaries beat Kanto forces)
+- Create Pokemon stronger than legendary birds, Tyranitar, any wild Pokemon that could oppose humans
+- "If we'd had Mewtwo at Mt. Silver, we'd have won" mindset
+- Superweapon to ensure Kanto can dominate Johto AND subdue any legendary opposition
+- Not about profit (Madame Boss's view) but about **finishing the war properly**
+
+**Why This Scene Matters:**
+- Giovanni evaluating if Fuji can deliver the weapon Kanto "should have had"
+- Fuji's competence directly serves nationalist agenda, not just Team Rocket crime
+- Keeping Fuji alive is strategic: second Mewtwo program supports future conflict
+- Giovanni sees Mewtwo as correction of Mt. Silver "mistake" (humans submitting to Pokemon)
 
 ---
 

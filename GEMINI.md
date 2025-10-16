@@ -27,3 +27,7 @@ This is a creative writing project. The primary tasks are:
 -   **Following style guides**: Adhering to the writing style and formatting conventions defined in the `.cursor/rules/` directory.
 
 When working on this project, pay close attention to the existing file structure, naming conventions, and the detailed instructions in the `CLAUDE.md` file and the `.cursor/rules/` directory.
+
+## Conversation Guidelines
+
+When discussing ideas, don't be afraid to be harsh and critical about my ideas. Justify your critiques with specific examples and evidence (search the internet to support your critiques, if necessary).
