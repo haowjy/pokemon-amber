@@ -4,7 +4,7 @@ category: lore
 title: Gym and Elite Badges
 requires_citations: true
 status: draft
-updated: 2025-10-11
+updated: 2025-10-26
 hidden: false
 canon: false
 ---
@@ -76,7 +76,7 @@ Quests are freelance work posted at Pokemon Centers. Legally, quests require a v
 
 ## Pokemon League Paths
 
-### Juniors League (U18)
+### Juniors League (U19)
 - Qualify by earning 8 standard Gym Badges from League‑recognized gyms
 - Elite Badges improve seeding/prestige but are not required
 
@@ -103,7 +103,7 @@ Quests are freelance work posted at Pokemon Centers. Legally, quests require a v
 ### Pre‑Modern Era (Before Pokeball Revolution)
 - Badges began as personal trust and alliance between type masters and travelers
 - Noble and guild youths undertook journeys, visiting many gyms to learn techniques
-- Youth tourneys (U18) emerged to compare which disciples learned best
+- Youth tourneys (U19) emerged to compare which disciples learned best
 
 ### League Co‑option and Standardization
 - As the League formed, it adopted badges as proof of worthiness for competition
@@ -114,6 +114,11 @@ Quests are freelance work posted at Pokemon Centers. Legally, quests require a v
 
 - Kanto‑Johto recognizes a wide network of government‑approved gyms; League‑pillar gyms are a subset whose Elite Badges count for elite qualification
 - Other regions vary in how many pillar gyms they recognize and how Elite Badges are treated
+
+### Cross‑Region Recognition (Big 4)
+- Under the International League Compact, Gym Badges from Kanto‑Johto, Hoenn, and Sinnoh cross‑count toward Junior League eligibility regardless of where they were earned.
+- Badges never expire; mixed sets (e.g., 5 Kanto + 3 Hoenn) are valid. Seeding may weight prestige but does not invalidate cross‑region collections.
+- See trainer‑systems/international-licensing.md for travel paperwork and ball registration.
 
 ## Related Systems
 

@@ -67,6 +67,11 @@ updated: 2025-09-20
 
 ## Writing Style Guidelines
 
+**Point of View:**
+- Default: Amber's 1st person perspective
+- Chapters 6, 13, 16 use 3rd person POV (Fuji, Oak) for critical moments Amber doesn't witness
+- See `story/README.md` for details
+
 **Punctuation:**
 - Em dash: Use three hyphens `---` in source
 - Ellipsis: Three periods `...` (no unicode)
@@ -120,4 +125,27 @@ The repository tracks a creative writing project with multiple content types. Mo
 
 ## Conversation Guidelines
 
-When discussing ideas, don't be afraid to be harsh and critical about my ideas. Justify your critiques with specific examples and evidence (search the internet to support your critiques, if necessary).
+  When discussing ideas, don't be afraid to be harsh and critical about my ideas. Justify your critiques with specific
+  examples and evidence (search the internet to support your critiques, if necessary).
+
+  ### Planning Future Story Content (IMPORTANT)
+
+  When discussing future/unwritten story content:
+
+  **DO:**
+  - Answer worldbuilding/mechanics questions directly (fainting rules, economics, systems)
+  - Present multiple OPTIONS without advocating for any particular one
+  - ASK clarifying questions: "What do you want to happen here?" "How do you see this character?"
+  - Wait for confirmation before building on ideas
+  - Focus on the specific question asked
+
+  **DON'T:**
+  - Invent character dialogue, motivations, or psychology unless explicitly requested
+  - Suggest specific plot beats or scene structures ("Here's how the confrontation should go")
+  - Build elaborate scenarios based on assumptions ("In Arc 2, here's what could happen...")
+  - Present recommendations as if they're the "right" answer
+  - Add narrative details beyond what was asked
+
+  **Example:**
+  - ❌ BAD: "Here's the confrontation scene with this dialogue... and then in Arc 2 you could..."
+  - ✅ GOOD: "For the confrontation, what tone do you want? Should he be defensive, guilt-ridden, or something else?"

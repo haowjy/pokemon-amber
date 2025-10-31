@@ -12,12 +12,11 @@ canon: false
 # Lore Index
 
 ## Trainer Systems
-- [Trainer Systems Overview](./trainer-systems/index.md)
+- [Trainer Systems & Culture](./trainer-systems.md) - Journey tradition, licensing, gyms, schools, cultural expectations
 - [Badge System](./trainer-systems/badge-system.md) - Standard vs Elite badges; League qualification
-- [Gym System Structure](./trainer-systems/gym-system.md) - Challenges, training, entertainment
 - [Quest System & Job Boards](./trainer-systems/quest-system.md) - Freelance trainer work (license required)
 - [Pokemon League](./trainer-systems/pokemon-league.md) - Competitive battling path (coming soon)
-- [Aura & Bonding](./trainer-systems/aura-and-bonding.md) - Trainer-Pokemon connection mechanics (coming soon)
+- [Aura & Bonding](./_aura-and-bonds.md) - Trainer-Pokemon connection mechanics (hidden reference)
 
 ## Organizations
 - [Ranger Union](./organizations/ranger-union.md) - Wilderness emergency services
@@ -35,11 +34,13 @@ canon: false
 - [Economy & Currency](./economy.md) - Pricing, income, and economic structure
 
 ## Mechanics
-- [Pokemon Fainting](./mechanics/pokemon-fainting.md) - Fainting mechanics and consequences (coming soon)
+- [Pokemon Fainting](./mechanics/pokemon-fainting.md) - Fainting mechanics and consequences
 - [Pokemon Battles](./mechanics/pokemon-battles.md) - Battle formats and rules (coming soon)
 
 ## History
 - [Kanto–Johto Unification and the Indigo Corridor](./history/kanto-johto-unification-war.md)
 - [Pokeball Revolution](./history/pokeball-invention.md) - How Pokeballs changed society (coming soon)
 - [Gym Evolution](./history/gym-evolution.md) - Historical transformation of gyms
-- [Journey Tradition](./history/journey-tradition.md) - Noble origins of the trainer journey
+-
+## Crime & Black Markets
+- [Poaching & Illegal Control Tech](./crime/poaching.md) - Methods, buyers, enforcement

@@ -144,3 +144,18 @@ Giovanni's interest in Amber/Ditto/Fuji isn't just about profit or acquiring a v
 - Example encounter: `episodes/trapinch-rescue.md`
 - Arc structure: `arcs/arc2-discovery.md`
 - Decision point: `_open-questions.md` (#6)
+
+## Black‑Market Procurement & Poaching Interface
+
+- Primary buyer for poached stock across Kanto; brokers deals via Celadon backrooms and Vermilion docks.
+- Buys from independent poachers who use cages/sedatives (no valid ball handshake). Rocket labs attempt control retrofits.
+- Preferred contraband:
+  - Recall jammers + Faraday crates (interrupt rescues)
+  - Shock harnesses/psionic dampeners (illegal control)
+  - Clone balls/serial spoofers (registry fraud)
+  - Pheromone lures (Bug/Fighting lines)
+
+## Capture/Control Tech Notes
+
+- Legal capture requires responsive targets; fainted cannot be balled (see `wiki/lore/mechanics/pokemon-fainting.md`). Rocket compensates with hardware and drugs; reliability is poor under stress.
+- OPSEC overlap with Rangers: cross‑region serial watchlists push Rocket to rotate gear frequently.

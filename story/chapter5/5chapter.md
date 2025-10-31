@@ -42,13 +42,11 @@ Her expression softened further. "Are your parents with you?"
 
 I shook my head.
 
-"Alright," she said gently. "You will first need a trainer ID first... ask your parents for help. They might let you upgrade from a junior permit. Just be warned, you have to take a very hard test before you can get a trainer ID."
+"Sorry," she said gently. "You will first need a trainer ID first..."
 
-She gestured toward the price board. "If you'd still like to spend time here today, we have spectator passes or a training day pass?"
+She gestured toward the price board. "If you'd still like to spend time here today, we have spectator pass to watch the battles?"
 
-Heat prickled at my ears. "Thanks."
-
-The coins in my bag might as well have been pocket lint. I did some quick mental math. The total was somewhere between 'adorably insufficient' and 'why even bother counting.'
+"Oh..." I sighed disappointedly.
 
 The doors whispered open again as I retreated, and the ginkgo path garden stretched before me once more, though now it felt less like a cathedral and more like a very scenic route to nowhere. Clusters of late-blooming irises lined the path, their purple heads nodding in silent sympathy.
 

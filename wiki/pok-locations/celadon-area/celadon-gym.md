@@ -349,7 +349,7 @@ Multiple purposes beyond display:
 
 ## Related Systems
 
-- [Gym System](../../lore/trainer-systems/gym-system.md) - How modern gyms function
+- [Gym System](../../lore/trainer-systems.md) - How modern gyms function
 - [Badge System](../../lore/trainer-systems/badge-system.md) - Rainbow Badge area certification
 - [Pokemon League](../../lore/trainer-systems/pokemon-league.md) - Rainbow Badge counts toward League entry
 - [Quest System](../../lore/trainer-systems/quest-system.md) - Gym posts quests

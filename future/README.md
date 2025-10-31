@@ -6,6 +6,19 @@ This is a brainstorming and exploration space for post-Chapter 17 story directio
 
 ---
 
+## **IMPORTANT: Read `TONE.md` First!**
+
+**Before diving into planning docs:**
+- **Read `TONE.md`** for story approach and philosophy
+- These docs sometimes get heavy with thematic scaffolding - **ignore that**
+- Focus on: story beats, character moments, what happens next
+- **Goal:** Make readers care about characters, not explore philosophy
+- Themes emerge naturally from events - don't force them
+
+The actual story is a **Pokemon adventure with realistic consequences**, mixing fun/tense/sorrowful/heartwarming moments naturally. Not a meditation on identity or existence.
+
+---
+
 ## Purpose of This Folder
 
 **What this folder is:**
@@ -69,13 +82,19 @@ This is a brainstorming and exploration space for post-Chapter 17 story directio
 ---
 
 ### `arcs/`
-**Long-term story arc structures**:
-- Arc 1: Survival/Independence
-- Arc 2: Discovery/Identity
-- Arc 3: Acceptance/Purpose
-- Pokemon 4Ever option (if time loop chosen)
+**Regional story arcs** - organized by Pokemon region, not themes:
+- **Arc 1: Kanto (Year 1)** - HIGH detail, currently being planned
+- **Arc 2: Hoenn (Years 2-3?)** - MODERATE detail, tentative
+- **Arc 3+: Beyond Hoenn (Years 3-6+)** - VERY LOW detail, pure speculation
 
-**Status:** Rough frameworks, not rigid chapter plans. Flexible and organic.
+**Status:** Detail level decreases with distance from current story. Only Arc 1 is locked in.
+
+**Key points:**
+- Arcs organized by REGION (Kanto, Hoenn, Sinnoh, etc.), not thematic milestones
+- Multi-region, multi-year journey (age 10 → 16-17+)
+- Realistic growth over time - not instant elite trainer
+- Later arcs determined by how early arcs develop
+- Arc 3+ nothing confirmed - story evolves naturally
 
 ---
 

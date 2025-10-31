@@ -20,3 +20,9 @@ Notes/summary filename change (October 2025)
 
 Linking
 - When linking from the wiki, prefer: `../story/chapterX/Xchapter.md`, `../story/chapterX/_Xnotes.md`, and `../story/chapterX/_Xsummary.md`.
+
+## Point of View
+
+Default: Amber's 1st person perspective
+
+The story occasionally shifts to 3rd person limited for critical moments Amber cannot witness or understand (e.g., Fuji's delusion, Oak's battle, other characters' perspectives at turning points).

@@ -79,9 +79,10 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 - Outside, a sneezing girl collides with Amber; her Oddish faints—an incident that will matter later.
 
 ## Chapter 6 - Scientist Fuji ([Summary](../story/chapter6/_6summary.md))
-- Hidden Rocket facility via the Game Corner; Gideon forges Amber’s civilian identity.
+**POV: 3rd person - Fuji**
+- Hidden Rocket facility via the Game Corner; Gideon forges Amber's civilian identity.
 - Post‑Mewtwo fallout: Archer tallies losses; Dr. Samba presents power data; recapture deemed unlikely.
-- Giovanni probes whether “another Mewtwo” is possible; Fuji admits it is.
+- Giovanni probes whether "another Mewtwo" is possible; Fuji admits it is.
 - Domino hands Fuji a Delia dossier; a photo shows Delia with another man.
 
 ## Chapter 7 - Side Quests Galore ([Summary](../story/chapter7/_7summary.md))
@@ -111,16 +112,17 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 - In Delia’s garden, Fuji declares he “brought their daughter back.” A boy (Ash) plays with Poliwag; Stephen shields the family.
 - Delia rejects the claim and orders Fuji to leave. He abandons Amber there and drives off.
 
-## Chapter 12 - A Very Reasonable Man ([Summary](../story/chapter12/_12summary.md))
-- Fuji waits on a forest path with a photo folder, rehearsing a “reasonable talk.”
-- “Protocol Five”: Ditto becomes Gyarados; Dragon Rage annihilates Poliwag.
-- Ditto hesitates before a forced Hyper Beam; Stephen is killed. Magmar burns the remains.
-- Fuji passes Delia on the road, planning to “return properly.”
+## Chapter 12 - Sweet Home ([Summary](../story/chapter12/_12summary.md))
+- Domestic warmth: curry, a shared cookie with Ash, and Stephen's Pokeball worn as a necklace.
+- Backyard drills: Ash shows Water Gun; Stephen's badge case and old photo hint at a trainer past.
+- Inside, Stephen carefully avoids the word "clone"; Amber admits she doesn't know what she needs.
 
-## Chapter 13 - Sweet Home ([Summary](../story/chapter13/_13summary.md))
-- Domestic warmth: curry, a shared cookie with Ash, and Stephen’s Pokeball worn as a necklace.
-- Backyard drills: Ash shows Water Gun; Stephen’s badge case and old photo hint at a trainer past.
-- Inside, Stephen carefully avoids the word “clone”; Amber admits she doesn’t know what she needs.
+## Chapter 13 - A Very Reasonable Man ([Summary](../story/chapter13/_13summary.md))
+**POV: 3rd person - Fuji**
+- Fuji waits on a forest path with a photo folder, rehearsing a "reasonable talk."
+- "Protocol Five": Ditto becomes Gyarados; Dragon Rage annihilates Poliwag.
+- Ditto hesitates before a forced Hyper Beam; Stephen is killed. Magmar burns the remains.
+- Fuji passes Delia on the road, planning to "return properly."
 
 ## Chapter 14 - Flowers for Delia ([Summary](../story/chapter14/_14summary.md))
 - Pancake morning; Electabuzz guards while Delia stays emotionally distant.
@@ -133,6 +135,7 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 - Amber, holding Ash, rejects Fuji: “I’m not your daughter.” Dragonite lands with Professor Oak.
 
 ## Chapter 16 - Dr. Fuji v Professor Oak ([Summary](../story/chapter16/_16summary.md))
+**POV: 3rd person - Oak**
 - Dragonite extracts the kids under Protect; Oak rejoins with Arcanine, Tauros, Exeggutor.
 - Gravity pins Ditto‑Dragonite; Hyper Beam and Smog rip through the block; collateral damage mounts.
 - Fuji injects a pink serum; Magmar mutates (cannon‑like arm), Overheat injures Oak; the trio rally and push Fuji back as evacuations continue.

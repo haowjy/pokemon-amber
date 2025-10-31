@@ -62,7 +62,7 @@ The stairwell beyond was everything the Game Corner wasn't---sterile, silent, se
 
 Fuji accepted the folder without breaking stride, Gideon falling into step beside him. The younger scientist's nervousness manifested in a constant stream of words.
 
-"I backdated everything through the hospital records---birth certificate, vaccination records, doctor's notes, check-ups, everything. Anyone who looks will find a perfectly ordinary ten-year-old girl who's lived here all her life." Gideon paused, glancing sideways, a slight blush coloring his cheeks. "Oh, and Agent Domino was asking about you last night. Said she has something you'll find interesting. She's at the Rose Heights Apartments, Unit 742."
+"I backdated everything through the hospital records and inserted it into the League registry databases---birth certificate, vaccination records, medical history, school enrollment, everything. It's all in the official systems now. Anyone who looks will find a perfectly ordinary ten-year-old girl who's lived here all her life." Gideon paused, glancing sideways, a slight blush coloring his cheeks. "Oh, and Agent Domino was asking about you last night. Said she has something you'll find interesting. She's at the Rose Heights Apartments, Unit 742."
 
 The conference room door loomed ahead, voices already leaking through. Fuji's hand tightened on the folder, creasing its edge. "Thank you, Dr. Gideon. That will be all."
 

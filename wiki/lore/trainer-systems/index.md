@@ -16,10 +16,11 @@ The modern Pokemon training landscape in Kanto-Johto features multiple interconn
 ## Overview
 
 **Core Systems:**
-1. **[Trainer Licensing](./trainer-licensing.md)** - Legal ability to handle Pokemon and take quests
+1. **[Trainer Systems & Culture](../trainer-systems.md)** - Journey tradition, licensing, gyms, schools, cultural expectations
 2. **[Badge System](./badge-system.md)** - Standard (Gym) and Elite badges; trust and League qualification
 3. **[Pokemon League](./pokemon-league.md)** - Juniors (badges) and Regular (≥1 Elite Badge + ranking)
 4. **[Ace Recognition](../organizations/ace-trainers.md)** - ≥1 Elite Badge; often recruited for government work
+ 5. **[International Licensing & Travel](./international-licensing.md)** - Cross‑region license recognition, party registration, customs
 
 These systems are distinct but often overlap in practice. A skilled trainer might pursue one, two, or all three paths depending on their goals.
 
@@ -30,7 +31,7 @@ These systems are distinct but often overlap in practice. A skilled trainer migh
 - **Licensing**: Legal framework for handling Pokemon and contracting quests (safety, accountability)
 - **Badges**: Gym trust marks; Standard vs Elite; used by the League for qualification and seeding
 - **League**: Competitive pathway with two tracks
-  - Juniors (U18): Earn 8 Standard Gym Badges from League‑recognized gyms (or recommendations)
+  - Juniors (U19): Earn 8 Standard Gym Badges from League‑recognized gyms (or recommendations)
   - Regular (Open Age): Hold ≥1 Elite Badge (Ace status) and meet ranking points threshold
 
 **Integration**: Licenses gate legal work; badges influence hiring, reputation, and League entry/seeding. Badges reflect breadth and recognized trust, not raw power.
@@ -56,8 +57,7 @@ Pre-Pokeball, Champions led gym councils against Pokemon. Post-Pokeball governme
 ## Supporting Systems
 
 - **[Quest System](./quest-system.md)** - Freelance work via Pokemon Centers; license required; badges optional by poster
-- **[Gym System](./gym-system.md)** - Standard and Elite challenges, training, entertainment
-- **[Aura & Bonding](./aura-and-bonding.md)** - Advanced trainer-Pokemon connection mechanics
+- **[Aura & Bonding](../_aura-and-bonds.md)** - Advanced trainer-Pokemon connection mechanics (hidden reference)
 
 ## How the Systems Work Together
 

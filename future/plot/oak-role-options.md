@@ -3,15 +3,17 @@ type: note
 scope: story
 category: plot-decision
 spoilers: true
-status: undecided
+status: decided
 hidden: true
 created: 2025-10-14
-updated: 2025-10-14
+updated: 2025-10-25
 ---
 
-# Oak's Role (Undecided)
+# Oak's Role (DECIDED: No Time Loop)
 
 **Major decision affecting long-term story structure and thematic implications**
+
+**DECISION MADE: 2025-10-25** - Option 2 (Instinct/Trust, No Loop) chosen. Time loop option completely cut from story planning.
 
 ## Confirmed Background: Oak's War Role
 
@@ -64,7 +66,7 @@ updated: 2025-10-14
 
 ---
 
-## Option 1: Time Loop (Pokemon 4Ever)
+## ❌ Option 1: Time Loop (Pokemon 4Ever) - REJECTED
 
 ### The Mechanism
 - Young Oak meets future Amber via Celebi (Years 2-3 of her journey)
@@ -85,7 +87,13 @@ updated: 2025-10-14
 - Risk of feeling gimmicky
 - Reduces Oak's agency (he's following script)
 
-## Option 2: Instinct/Trust (No Loop)
+### Why Rejected
+- **Thematically parasitic:** Time loop would distract from core identity/choice themes
+- **Over-engineered:** Adds unnecessary complexity to justify Oak's trust
+- **Reduces stakes:** Predestination undermines genuine character choices
+- **Not needed:** Oak's trust can be earned through simpler character work
+
+## ✅ Option 2: Instinct/Trust (No Loop) - CHOSEN
 
 ### The Mechanism
 - Recognizes both Amber and Ditto are extraordinary
@@ -103,6 +111,15 @@ updated: 2025-10-14
 - Harder to justify letting child run away
 - Requires strong character work to sell
 - Oak might seem neglectful without supernatural justification
+
+### Why Chosen
+- **Character-driven:** Oak's trust based on observation, not destiny
+- **Thematically aligned:** Choice and agency central to story
+- **Emotionally authentic:** Real relationships, real risks
+- **Simpler execution:** No time travel mechanics to manage
+- **Oak's agency preserved:** He CHOOSES to trust, not following script
+- **Ditto's strength justifies:** Perfect transformation = exceptional Pokemon
+- **Dragonite surveillance provides safety net** without predestination
 
 ## Option 3: Hybrid Approach
 

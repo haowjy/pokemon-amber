@@ -4,7 +4,7 @@ category: lore
 title: Ranger Union
 requires_citations: true
 status: draft
-updated: 2025-10-10
+updated: 2025-10-26
 hidden: false
 canon: true
 ---
@@ -54,6 +54,17 @@ Rangers function as wilderness first‑responders—closer to firefighters/param
 - Police: Urban incidents, arrests, forensics
 - Gyms: Training standards; lend specialists for controlled culls
 - Centers: Dispatch desk, medical hand‑off, job board interface
+
+### Cross‑Region MOUs & Travel
+- International League Compact (ILC) liaison: Rangers exchange theft/poaching alerts and ball‑serial watchlists with Hoenn and Sinnoh counterparts.
+- Ports of entry support: Ranger detachments at Vermilion docks, Indigo rail/air, and Cinnabar ferries perform safety inspections alongside customs.
+- Quarantine assists: trigger quick clinic checks for flagged species rather than blanket bans. See trainer rules in trainer‑systems/international-licensing.md.
+
+### Trainer Security Protocols (Public Guidance)
+- Ball security: PINs + rolling codes; Faraday pouches in crowds; no loose balls on belts in markets.
+- Anti‑snatch habits: buddy system at night; rooftop/dock leashes; use decoy belts when surveilled.
+- “Break‑capture” drills: verbal commands for resisting forced recall; sprint‑to‑crowd and signal‑flare procedures.
+- Reporting: stolen‑ball form at Centers flags serials to cross‑region list within 30 minutes.
 
 ## Notes for authors
 - When you reference “Ranger Union,” it is canon to Pokémon via the Ranger spin‑offs and anime tie‑ins, but adapted here to fit main‑series mechanics.
@@ -280,6 +291,13 @@ Rangers work across multiple regions and terrains. Having 5-6+ badges proves:
 - Injured trainers (provide first aid, evacuate)
 - Fainted Pokemon abandoned (recover and return - see [fainting mechanics](../mechanics/pokemon-fainting.md))
 - Equipment failure (lost in wilderness without supplies)
+
+### Anti‑Poaching & Trafficking
+- Patrol protected zones and high‑value habitats; deter cage‑based takes and sedative use.
+- Seize contraband control tech (shock harnesses, psionic dampeners, clone balls) and coordinate prosecutions.
+- Maintain cross‑region watchlists for ball serials and suspect crews per the International League Compact.
+- Partner with gyms for sting operations in markets near Celadon and Vermilion docks.
+- See lore/crime/poaching.md for definitions and tech.
 
 ### Wildlife Management
 
