@@ -1,426 +1,583 @@
-# Chapter 18: Delia POV - Draft Plan
+# Chapter 18: Delia POV - FINAL Plan
 
-**Date:** 2025-10-31
-**Status:** Draft Planning
+**Date:** 2025-11-07
+**Status:** Ready to Draft
 **POV:** 3rd person limited - Delia
-**Structure:** Three scenes, tight and focused
+**Structure:** Single day (funeral morning) with flashback, tight and compressed
 
 ---
 
 ## Core Premise
 
-Chapter 18 from Delia's perspective shows her impossible bind, the week of mounting tension, and her devastating guilt when Amber disappears. This makes the rejection hurt MORE by showing both sides of the tragedy.
+Chapter 18 closes Arc 0 from Delia's perspective, showing the impossible tragedy from her side. The chapter compresses into funeral day, using flashback structure to deliver context while maintaining present tension.
 
 **Purpose:**
-1. Show Delia's impossible situation sympathetically
-2. Make her breakdown more tragic (she knows she's failing but can't stop)
-3. End with crushing guilt when she discovers Amber gone
-4. Bookend Arc 0 with Fuji POV (Ch 6) and Delia POV (Ch 18)
+1. Show Delia's impossible situation sympathetically (victim of Fuji's delusion)
+2. Make her breakdown tragic (she knows she's wrong but can't stop herself)
+3. End with crushing guilt when Amber disappears
+4. Bookend Arc 0: Ch 6 opened with Fuji POV (perpetrator), Ch 18 closes with Delia POV (victim)
 
-**Target Length:** ~2400-3000 words (with added Scene 1.5)
+**Target Length:** ~2000-2600 words
+
+**Emotional Goal:** Reader understands both Delia AND Amber are victims. No villains, only tragedy.
+
+---
+
+## Why Delia POV Instead of Amber POV?
+
+**Decision Rationale:**
+- Shows BOTH sides of the tragedy (deeper emotional impact)
+- Makes rejection hurt MORE by seeing Delia's pain alongside Amber's
+- Delia's guilt is immediate (not delayed to future chapter)
+- Oak's departure adds layer of abandonment more impactful from Delia's perspective
+- Bookends Arc 0 with POV breaks (Ch 6 Fuji, Ch 18 Delia - both 3rd person)
+- Creates clean break before Arc 1 (Ch 19 returns to Amber 1st person on Route 1)
+
+**What We Sacrifice:**
+- Amber's agency in her decision (happens off-screen)
+- Her internal logic about Route 1 (can be shown in Ch 19)
+- Continuous POV flow (Ch 17 Amber → Ch 18 Delia → Ch 19 Amber)
+
+**Why It's Worth It:**
+- Full tragedy more important than continuous POV
+- Amber's decision still clear through context
+- Creates emotional gut-punch: everyone scattered, everything broken
 
 ---
 
 ## Timeline Context
 
-**Chapter 17 ends:** Hospital day, Oak gives Ditto back, Stephen missing (presumed dead), Delia shattered
+**Chapter 17 ends:** Hospital day, Oak returns Ditto, Stephen missing (presumed dead)
 
-**Week between Ch 17-18:**
+**Week Between (Background):**
 - Day 1: Hospital aftermath, everyone at Oak's house
-- Day 2: Documents discovered - Delia legally listed as Amber's mother
-- Days 3-6: Week of avoidance, guilt building, Oak trying to help
-- Day 7 morning: Funeral
-- Day 7 evening/night: The breakdown
+- Day 2-3: **Burned house visit** (flashback anchor)
+- Days 3-6: Week of mounting tension, Oak preparing to leave
+- **Day 7: Funeral day** (CHAPTER 18 PRESENT)
 - Day 8 pre-dawn: Amber leaves
-- Day 8 morning: Delia discovers Amber gone
+- Day 8 morning: Discovery
+
+**Oak's Departure:**
+- Going to Indigo Plateau to brief Lance about Fuji-TR connection
+- Bringing evidence samples (drugs, burned materials)
+- Leaves late afternoon after funeral
+- Will be gone weeks (investigation gets complicated - background only)
 
 ---
 
-## Scene Structure
+## Scene-by-Scene Breakdown
 
-### Scene 1: The Impossible Choice (~900-1000 words)
+### Scene 1: Funeral Morning Breakfast + Flashback (~1000-1200 words)
 
-**Setting:** Oak's kitchen, Day 2 afternoon, documents discovered
+**PRESENT: Oak's Kitchen, Day 7 Morning**
 
-**Opening:**
-- Delia staring at birth certificate on kitchen table
-- Oak across from her, carefully explaining what he found
-- Her name listed as mother in League databases
-- Not just papers - hacked into government systems
+**Opening Image:**
+- Delia at counter, making breakfast
+- Knife in hand, cutting bread or vegetables
+- Black funeral dress visible on chair back
+- Two hours until funeral
+- Hands not steady
 
-**The Bind:**
-```
-Delia's internal process:
-- Before: Amber would go to foster care automatically (passive)
-- Now: She's legally Amber's mother - must actively put her up for adoption
-- Psychologically different: abandoning "her own child" vs system handling it
-- Oak explaining options, being gentle
-- She knows it's not Amber's fault
-- But every time she looks at her: Stephen burning
-```
+**Physical State (SHOW don't tell):**
+- Movements mechanical, autopilot
+- Eyes unfocused (lost in memory)
+- Hasn't slept (visible exhaustion through actions)
+- Cutting without attention
 
-**Oak's Conversation:**
-- "I'm working with League IT to prove the intrusion, but it could take months."
-- "Adoption is an option. No one would judge you."
-- "She's just a child, Delia. She didn't choose this."
-- Delia: "I know that. I do. But I can't... I can't look at her."
+**The Cut:**
+- Knife slips
+- Blood on cutting board
+- Sharp pain brings her back to present
+- Stares at her hand bleeding
 
-**Delia's State:**
-- Exhausted, hasn't slept since hospital
-- Ash having nightmares every night
-- House destroyed, husband murdered
-- And now: legally obligated to mother "killer's daughter"
-- She wants to be kind, she really does
-- But her body recoils every time Amber walks in the room
+**Amber's Presence:**
+- Amber came downstairs for breakfast (was quiet, Delia didn't notice)
+- Sees the blood: "You're bleeding" OR "Are you okay?"
+- Steps forward to help OR reaches for towel
 
-**The Crumpled Certificate:**
-- Moment of rage - crumples the certificate
-- Immediately feels guilty for it
-- Smooths it back out (it's Amber's identity, she shouldn't...)
-- Crumples it again
-- Leaves it crumpled on counter
-- Small physical manifestation of impossible anger
+**TRIGGER - The Misdirected Anger:**
+- Delia snaps: "Don't!" (sharp, loud)
+- Unfair blame: "I can't even make breakfast without—"
+- Knows immediately it's wrong
+- But week of pressure, exhaustion, grief clouds everything
+- Words keep coming (can't stop herself):
+  - "I can't look at you without seeing him burning"
+  - "If you weren't here I wouldn't—"
+  - Breaking down, not yelling, but words devastating
 
-**Week Begins:**
-- Ash and Gary go back to school (after 1 bereavement day)
-- Delia stays home
-- Amber is... there
-- In the house
-- A constant reminder
-- Days blur together
+**Immediate Regret:**
+- Sees Amber's face (frozen, hurt)
+- Sees Ash (scared, crying - mom is breaking)
+- Knows she's wrong
+- But can't apologize (shame, pride, darkness clouding her mind)
+- Just stands there, hand bleeding
 
-**End Scene 1:** Delia avoiding Amber's eyes, funeral in 5 days
+**Oak Intervenes:**
+- Takes Delia to bathroom, wraps her hand
+- Quiet, gentle: "The funeral is in two hours. Can you do this?"
+- Delia nods (numb)
+- Oak: "I'll talk to her."
 
----
-
-### Scene 1.5: The Suffocating Week (~400-500 words)
-
-**Setting:** Oak's house, Days 3-6, brief interaction moments
-
-**Purpose:** Show specific accumulating moments that make it unbearable for both
-
-**Moment 1 - Breakfast (Day 3 or 4):**
-- Delia making breakfast
-- Sets plates on table
-- Oak's plate placed normally
-- Amber's plate set down without looking - avoids eye contact entirely
-- Amber says "Thank you"
-- Delia's body goes rigid
-- Doesn't respond
-- Leaves kitchen quickly
-- Delia's guilt: "I should have said 'you're welcome.' Why can't I just say it?"
-
-**Moment 2 - Living Room (Day 4 or 5):**
-- Delia folding laundry in living room
-- Amber enters to get book she'd been reading
-- Delia's hands still on towel she's folding
-- Body tenses immediately
-- Amber: "Sorry, I just need to grab—"
-- Delia stands up abruptly, laundry basket in arms
-- Leaves the room without a word
-- Amber left standing there
-- Delia in hallway, heart pounding, hating herself: "She just wanted a book."
-
-**Moment 3 - Dinner Question (Day 5 or 6):**
-- Dinner at table (Oak, Delia, Amber, Ash, Gary)
-- Oak asking about everyone's day
-- Ash mumbles about school
-- Gary talks about something
-- Oak turns to Amber: "How was your day?"
-- Amber starts to answer
-- Delia's fork clatters to plate
-- Gets up: "I need water"
-- Goes to sink, back to table
-- Conversation dies
-- When Delia sits back down, Oak changes subject
-- Delia notices Amber hasn't touched her food after that
-
-**Moment 4 - Near Miss (Day 6):**
-- Narrow hallway
-- Delia coming out of guest room
-- Amber coming toward her
-- Delia's body reacts: pulls back against wall
-- Not subtle
-- Amber freezes mid-step
-- Long moment of silence
-- Amber: "Sorry" (whispered)
-- Goes around Delia, gives her wide berth
-- Delia stands there after Amber passes
-- Internal: "She apologized. To me. For existing in a hallway."
-
-**Oak's Observation (between moments):**
-- Brief beat: Oak watching this happen
-- Tries to talk to Delia: "She sees it. She knows."
-- Delia: "I know. I know she knows. I can't help it."
-- Oak: "The funeral is in two days. After that... we can discuss options."
-- Delia nods numbly
-
-**Cumulative Weight:**
-- Each moment builds
-- Delia's guilt growing alongside her inability to stop
-- Amber becoming quieter, smaller
-- House feeling suffocating
-- Everyone walking on eggshells
-- Two more days until funeral
-- Delia thinking: "Just get through the funeral. Then we can figure this out."
-
-**End Scene 1.5:** Day 6 evening, funeral tomorrow morning
+**TRANSITION TO FLASHBACK:**
+- Delia sitting on bathroom edge, bandaged hand
+- Oak's voice fades
+- Mind goes back to where this started
+- The burned house, days ago
 
 ---
 
-### Scene 2: The Breaking Point (~800-900 words)
+**FLASHBACK: The Burned House, Day 2-3**
 
-**Setting:** Oak's kitchen, Day 7 morning, funeral day
+**Setting:**
+- Ruins of Ketchum house
+- Ash and charred beams
+- Small salvageable items in debris
+- Delia and Oak sorting through wreckage
+- Masks for smoke residue
 
-**Morning Preparations:**
-- Delia making breakfast mechanically
-- Hasn't slept again (Ash's nightmares)
-- Funeral in two hours
-- Black dress already laid out
-- Hands shaking as she cracks eggs
+**Oak's Dialogue (Info Dump via Natural Examination):**
 
-**The Week's Weight:**
-```
-Delia's internal spiral:
-- Six days of avoiding looking at Amber
-- Six days of guilt for avoiding her
-- Oak's gentle suggestions about adoption
-- Knowing she's failing to be kind
-- Knowing Amber sees it
-- Hating herself but unable to stop
-- Stephen's face in the flames every time she closes her eyes
-```
+Oak walking through rubble, examining like former Champion:
+- "The fire patterns here... Magmar's coordination was deliberate"
+- "These scorch marks - Electabuzz tried to interfere, you can see the disruption"
+- "Fuji orchestrated this. Every step planned."
 
-**Amber Comes Downstairs:**
-- Delia's body tenses reflexively
-- Tries to suppress it (fails)
-- Amber says something - trying to help? Innocent comment?
-- Trigger (doesn't matter what - Delia's already at breaking point)
+Finds fireproof lockbox in debris:
+- Opens it: documents inside survived
+- Birth certificate among them
+- Oak reads it, goes quiet
+- "Delia... you should see this."
 
-**The Breakdown:**
-- Doesn't plan to say it
-- Words just come
-- "I can't do this anymore"
-- Starts crying
-- Everything spills out:
-  - "I know it's not your fault"
-  - "But I can't look at you without seeing him burning"
-  - "He forced this. Put my name on your birth certificate like I'd agreed"
-  - "I never wanted this. I never signed up for any of this."
+Shows her - her name listed as Amber's mother:
+- "This isn't just forged paper. This is in League databases."
+- "Whoever did this had actual government access. Professional work."
+- "If Team Rocket can create false identities in League systems..."
+- Trails off, troubled
+- "Lance needs to see this. After the funeral, I have to go to Indigo Plateau."
 
-**Immediate Horror:**
-```
-Delia sees:
-- Amber's face (frozen, processing)
-- Ash frozen too, scared and confused (mom is breaking down)
-- Oak moving toward her
-- What has she done?
-```
+**Delia's Experience (Her POV of Same Moment):**
 
-**Aftermath:**
-- Oak helps her to guest room
-- She's sobbing
-- Guilty immediately
-- "I shouldn't have said that. She's just a child."
-- But also: relief at finally saying it
-- And that makes her feel worse
+While Oak talks, Delia sorting through debris:
+- Finds melted photo frame (photo destroyed - Ash as baby, gone)
+- Stephen's wedding ring in ash (metal survived, nothing else)
+- Kitchen pot (handle burned off, just metal shell)
+- Her life reduced to a box of metal scraps
 
-**Funeral:**
-- Goes through it in a haze
+Memories flooding:
+- Stephen cooking in that pot
+- Ash's first steps in this room
+- Their life here (BRIEF flashes, don't linger)
+- All gone
+
+Oak showing her certificate:
+- Her name where it shouldn't be
+- Fuji forcing her into this
+- Legally tied to the child of the man who destroyed everything
+
+Oak's departure:
+- Has to leave after funeral
+- Gone for weeks
+- She'll be alone with this
+
+**Cut Back to Oak's House:**
+- Walking back, carrying small box of salvaged items
+- Certificate crumpled in her pocket
+- Sees Amber through window (at Oak's house, watching TV? Reading?)
+- Physical reaction: chest tightens, can't breathe
+- Has to look away
+- Can't go inside yet
+- Five more days until funeral
+
+**END FLASHBACK**
+
+---
+
+**WHY THIS STRUCTURE:**
+
+**Flashback Anchored in Present Crisis:**
+- Cut triggers memory (pain → remembering pain)
+- Not random flashback - narratively motivated
+- Shows she's been replaying this all week
+- Compression: don't need to show whole week, flashback does it
+
+**Oak's Info Dump Naturalized:**
+- Former Champion examining battle aftermath (in character)
+- Delivers TR information, database breach, departure plan
+- Through dialogue while DOING something (not sitting at table)
+- Delia processes emotionally while Oak processes analytically
+
+**Physical Objects = Emotional Weight:**
+- Burned house → Stephen's ring → destroyed photos → life reduced to box
+- SHOW the destruction, don't tell about it
+- Objects do emotional work (wedding ring = marriage ended, melted frame = memories gone)
+
+**Reader Emotion:**
+- Sympathy for Delia (seeing what Fuji took from her)
+- Understanding her pain (not excusing her actions, but understanding)
+- Dread (we know the breakdown is coming, she's at breaking point)
+
+---
+
+### Scene 2: Funeral & Oak's Departure (~400-600 words)
+
+**The Funeral (Brief):**
+- Pallet Town cemetery, overcast
+- Delia going through motions (numb)
 - Ash clinging to her
-- Townspeople offering condolences
-- Amber staying back with Oak
-- Delia doesn't look at her
-- Can't look at her
-- Comes home, goes to guest room with Ash
-- Door closes
-- Evening passes in silence
+- Amber staying back with Oak (physical distance)
+- Townspeople condolences (Officer Jenny, neighbors)
+- Casket lowering
+- Delia doesn't look at Amber (can't)
 
-**End Scene 2:** Night, Delia lying awake, Ash finally asleep, guilt eating at her
+**Show Don't Tell:**
+- Delia's hands gripping Ash too tight
+- Standing rigid while people hug her
+- Eyes unfocused (not really there)
+- Mechanical responses: "Thank you for coming"
+
+**Oak's Departure (Late Afternoon):**
+- Back at Oak's house
+- Oak with packed bags, sample cases
+- Brief goodbye: "I'll call when I can. Lance needs to see this evidence."
+- To Delia specifically: "Take care of yourself. And them."
+- She nods (can't speak)
+- He leaves
+
+**The House After:**
+- Just Delia, Ash, and Amber
+- Silence
+- Delia to guest room with Ash
+- Door closes
+- Amber alone downstairs
+
+**WHY BRIEF:**
+- Funeral not the emotional climax (breakfast was)
+- Don't drag ceremonial moments
+- Get in, establish aftermath, get out
+- Oak's departure simple (we already know why he's going from flashback)
+
+**Reader Emotion:**
+- Emptiness (everyone going through motions)
+- Dread (non-apology hanging in air, Oak leaving)
+- Isolation building
 
 ---
 
-### Scene 3: Too Late (~300-500 words)
+### Scene 3: Night of Silence (~200-300 words)
 
-**Setting:** Oak's house, Day 8 early morning (6-7am)
+**Delia in Guest Room:**
+- Ash finally asleep after nightmares
+- Delia lying awake
+- Replays breakfast (what she said)
+- Knows she should apologize
+- Can't bring herself to (shame, exhaustion, darkness)
+- Thinks: "Tomorrow. I'll talk to her tomorrow."
 
-**Delia Wakes:**
-- Ash still sleeping beside her
-- Gray light through window
-- Slept maybe 2 hours total
-- Replay of yesterday's breakdown
-- Thinking: "I need to apologize. I'll talk to her this morning."
+**Sounds in House:**
+- Hears Amber moving downstairs (getting water? Can't sleep either?)
+- Doesn't go check
+- Stays in room
 
-**Oak Knocking:**
-- Soft knock on guest room door
-- "Delia? Can you come out here?"
-- Something in his voice
+**Pre-Dawn:**
+- Still awake
+- Gray light starting
+- Hears front door (very quiet, careful)
+- Doesn't register what it means
+- Or does, but doesn't get up (too tired? Doesn't believe it?)
 
-**The Discovery:**
-```
-Walking to Amber's borrowed room:
-- Door open
+**WHY THIS SCENE:**
+- Show non-apology haunting her
+- Establish she HAD chance to fix it (chose not to/couldn't)
+- Makes discovery hit harder (she was THERE, could have stopped it)
+- Trust reader to understand her state (don't over-explain)
+
+**Reader Emotion:**
+- Frustration (just apologize!)
+- Understanding (she's broken, can't function)
+- Dread (something's going to happen)
+
+---
+
+### Scene 4: Discovery (~400-500 words)
+
+**Morning, Day 8:**
+- Delia wakes (slept maybe 2 hours)
+- Ash still sleeping
+- House too quiet
+- Gets up
+
+**The Empty Room:**
+- Amber's borrowed room door open
 - Bed neatly made
-- Note on pillow: "Thank you for everything. I'm sorry. -Amber"
-- Oak: "She's gone. Took some food, her pokeball. Left before dawn."
-- Delia's stomach drops
-```
+- Window slightly open (she left through window? Or just for air before leaving through door?)
+- Note on pillow
 
-**The Realization:**
-- "She's ten years old"
-- "She's alone"
-- "She heard what I said yesterday"
-- "What have I done?"
+**The Note:**
+> "Thank you for everything. I'm sorry. -Amber"
 
-**Oak's Response:**
-- "I'll send Dragonite to find her. She can't have gotten far."
-- Already moving to lab
-- Delia standing in doorway of empty room
+**Delia's Realization:**
+- Reads it once
+- Reads it again
+- "I'm sorry" - Amber apologizing to HER
+- The child apologizing to the adult who hurt her
+- Stomach drops
+
+**Searches House:**
+- Downstairs - no one
+- Kitchen - some food missing
+- Ditto's pokeball gone (was on table, now gone)
+- She's really gone
+
+**Oak:**
+- Realizes he's gone too (left yesterday)
+- Can't call him (traveling, or can she? Phones exist but limited?)
+- Alone
 
 **Final Image:**
-```
-The note in Delia's hands, reading it again:
-"Thank you for everything. I'm sorry."
+- Delia standing in empty borrowed room
+- Note in bandaged hand (blood seeped through bandage slightly)
+- Dawn light through window
+- Route 1 visible in distance
+- Ten-year-old girl out there, alone, thinking she's fixing something by leaving
 
-Amber apologizing. To HER.
+**The Weight:**
+- Stephen dead
+- House destroyed
+- Oak gone
+- Amber gone
+- Everything Fuji touched: broken
 
-The child apologizing to the adult who broke down at her.
+**Ending:**
+- Delia crumples note in fist
+- Or smooths it out carefully (can't destroy this too)
+- Sits on bed
+- Crushing guilt
+- Too late
 
-Delia sinks onto the bed, still holding the note.
+**WHY THIS ENDING:**
 
-Outside the window, dawn is breaking over Route 1.
+**Consequences Immediate:**
+- Delia's punishment is her guilt (appropriate, not excessive)
+- No escape from what she said
+- Has to sit with it
 
-Somewhere out there, a ten-year-old girl with a failed clone Pokemon
-is walking into wilderness she doesn't understand, thinking she's
-fixing something by leaving.
+**Everyone Scattered:**
+- Arc 0 ends with total dispersal (perfect closure)
+- Everyone alone with their pain
+- Fuji's final casualty count
 
-And Delia knows - even if Oak finds her, even if she comes back -
-some words can't be unsaid.
+**Trust Reader:**
+- Don't over-explain her feelings
+- Actions show everything (crumpled note, sitting on empty bed)
+- Image does emotional work (dawn, Route 1, gone)
 
-Stephen is dead.
-The house is destroyed.
-And now: this.
-
-Another casualty of Fuji's delusion.
-
-She crumples the note in her fist.
-```
-
-**Chapter Ends:** Delia holding crumpled note, crushing guilt, too late
+**Reader Emotion:**
+- Devastation (both sides hurt)
+- No satisfaction (no one wins)
+- Tragedy complete
 
 ---
 
-## Key Elements to Maintain
+## Key Writing Principles
 
-**Delia's Characterization:**
-- Sympathetic despite hurting Amber
-- Conflicted, not cruel
-- Knows intellectually it's not Amber's fault
-- But visceral reaction overrides knowledge
-- Guilt BEFORE breakdown (she knows she's failing)
-- Guilt AFTER breakdown (what has she done?)
-- Exhausted, grieving, pushed past limit
+### SHOW Don't Tell:
 
-**The Impossible Bind:**
-- No right answer exists
-- Both Delia and Amber are victims of Fuji
-- Tragedy on both sides
-- Neither character is wrong
-- Sometimes good people hurt each other despite intentions
+**DON'T:**
+- "Delia felt overwhelmed by guilt"
+- "She was exhausted and couldn't think straight"
+- "The week had been unbearable"
 
-**Emotional Arc:**
-```
-Week of avoidance → Mounting guilt → Breaking point →
-Immediate horror → Weak attempt to process → Discovery →
-Crushing guilt too late
-```
+**DO:**
+- Hands shaking while cutting
+- Drops things, forgets what she's doing
+- Mechanical movements, unfocused eyes
+- Physical reactions when Amber enters room
 
-**Tone:**
-- Tragic, not villainous
-- Show Delia's humanity
-- Make readers understand WHY while not excusing WHAT
-- End on devastating guilt (punishment fits crime)
+### Trust the Reader:
+
+**DON'T Over-Explain:**
+- Why she can't apologize (readers understand shame/pride/exhaustion)
+- Every detail of burned house visit (flashes enough)
+- Her exact emotional state (actions convey it)
+
+**DO Let Images Work:**
+- Wedding ring in ash (readers know what this means)
+- Crumpled certificate (rage + guilt visible)
+- Blood seeping through bandage (physical manifestation of pain)
+- Empty room at dawn (loss, too late, consequences)
+
+### Emotional Impact Through Restraint:
+
+**Less Is More:**
+- Funeral brief (don't milk ceremony)
+- Flashback compressed (moments, not full scenes)
+- Breakdown short and sharp (not prolonged shouting)
+- Discovery quiet (devastating in simplicity)
+
+**Silence and Space:**
+- What's NOT said (no apology given)
+- What's NOT shown (Amber's departure happens off-screen)
+- White space around moments (let them breathe)
+
+### Physical Grounding:
+
+**Every Emotion Through Body/Action:**
+- Grief = hands shaking, movements mechanical
+- Shame = can't look at Amber, turns away
+- Rage = crumpling certificate (then smoothing, then crumpling again)
+- Guilt = sitting frozen with note, can't move
+
+**Objects Carry Weight:**
+- Birth certificate (legal trap)
+- Wedding ring (marriage ended)
+- Bandaged hand (self-inflicted wound, misdirected blame)
+- Note (child's apology, adult's failure)
+
+---
+
+## Delia's Characterization
+
+**Keep Her Sympathetic:**
+- She KNOWS she's wrong (immediate regret after breakdown)
+- She WANTS to apologize (thinks about it, can't do it)
+- She's BROKEN (not cruel, just destroyed)
+- She's HUMAN (flawed, failing, but trying)
+
+**Don't Make Her:**
+- Villainous (she's victim too)
+- Unsympathetic (readers should understand her pain)
+- Too weak (she's grieving, not pathetic)
+- Too cruel (words come from pain, not malice)
+
+**Her Arc This Chapter:**
+- Starts: going through motions, barely holding on
+- Breaks: misdirected anger, unfair blame
+- Regrets: immediately knows she's wrong
+- Fails: can't apologize (shame/exhaustion)
+- Suffers: discovers Amber gone, crushing guilt
+
+**Reader Should Feel:**
+- "I understand why she did it" (not "she was right to")
+- "This is tragic" (not "she's a villain")
+- "Both of them are victims" (not "one is right, one is wrong")
 
 ---
 
 ## What This Accomplishes
 
-**Compared to Amber POV:**
-- Shows both sides of tragedy (deeper emotional impact)
-- Makes rejection hurt MORE not less
-- Delia's guilt immediate (not delayed to future reconciliation)
-- Bookends Arc 0 with POV breaks (Ch 6 Fuji start, Ch 18 Delia end)
-- Sets up potential future reconciliation with emotional foundation
+**For Arc 0 Closure:**
+- Shows full consequences of Fuji's delusion (everyone broken)
+- Bookends with Ch 6 Fuji POV (perpetrator → victim perspectives)
+- Creates clean break before Arc 1 (everyone scattered, new chapter)
 
-**For Story:**
-- Signals major turning point (POV break = big shift)
-- End of Arc 0 (consequences of Fuji's delusion)
-- Beginning of Arc 1 (Amber's solo journey)
-- Creates breathing space between Pallet chapters and Route 1
+**For Delia's Character:**
+- Establishes her guilt immediately (not told later)
+- Shows her humanity and failure (sympathetic future character)
+- Door open for eventual reconciliation (but not guaranteed)
+- Her arc continues in background (processing guilt while Amber on Route 1)
 
-**Character Work:**
-- Delia remains sympathetic future character
-- Her guilt established now (not told later)
-- Amber's absence felt immediately
-- Oak's helplessness shown
+**For Amber's Story:**
+- Her departure motivated and understood (even though off-screen)
+- Reader knows what she's running from (Delia's pain, not just cruelty)
+- Sets up Arc 1 isolation (truly alone, everyone gone)
 
----
-
-## Writing Considerations
-
-**Delia's Voice (3rd person limited):**
-- Exhausted internal monologue
-- Practical concerns mixed with grief
-- Adult trying to hold it together (failing)
-- Moments of clarity ("I shouldn't say this") overridden by breaking point
-- Physical manifestations of stress (shaking hands, not sleeping)
-
-**Don't Make Her:**
-- Villainous (she's breaking, not attacking)
-- Unsympathetic (readers should understand her pain)
-- Too calm (she's at limit)
-- Cruel (words come from pain, not malice)
-
-**Balance:**
-- Show her suffering without excusing the damage
-- Make her human and flawed
-- Give her immediate consequences (guilt, Amber gone)
-- Don't let her off hook but don't demonize
-
-**The Note:**
-- "Thank you for everything. I'm sorry. -Amber"
-- Amber apologizing to Delia (devastating for Delia to read)
-- Child taking responsibility adult should bear
-- Makes Delia's guilt worse
+**For Reader:**
+- Emotional devastation (tragedy complete)
+- Understanding both sides (no villains)
+- Investment in both characters (want reconciliation someday)
+- Clean closure before tone shift (Arc 1 = survival adventure)
 
 ---
 
 ## Connection to Chapter 19
 
-**Chapter 19 opens:** Amber already on Route 1 (back to her 1st person POV), reality check beginning
+**Chapter 19 Opens:**
+- Back to Amber's 1st person POV
+- Already on Route 1 (several hours in, sun rising)
+- Reality check beginning (Route 1 harder than expected)
+- No looking back (forward momentum into Arc 1)
 
-**Background established:** Readers know both sides now - Amber's pain AND Delia's guilt
+**Reader Knows:**
+- Why she left (saw Delia's breakdown, even off-screen)
+- What she left behind (Oak gone, Delia with guilt)
+- Both perspectives (makes her isolation more poignant)
 
-**Long-term:** Oak searching, Delia processing guilt, door open for future reconciliation but not guaranteed
-
----
-
-## Questions for User
-
-1. **Scene length balance okay?** Scene 1 (longest/setup), Scene 2 (breakdown), Scene 3 (discovery)
-
-2. **Delia sympathetic enough?** Want readers to understand without agreeing
-
-3. **Ending on guilt appropriate?** Or too harsh? (I think it fits - she said unforgivable things to 10-year-old)
-
-4. **Specific breakdown trigger?** Leave flexible for drafting, or decide now?
-
-5. **Should Oak's attempts to help be shown more?** Currently mostly implied between scenes
-
-6. **The note content right?** "Thank you for everything. I'm sorry. -Amber" - child apologizing to adult who hurt her
+**Background Threads:**
+- Oak investigating TR with Lance (mentioned, not shown)
+- Delia processing guilt (implied, not shown)
+- Eventual confrontation possible (future arcs)
 
 ---
 
-**END OF DELIA POV DRAFT PLAN**
+## Final Checklist Before Writing
 
-Ready for feedback/revision.
+- [ ] Read style-normal.mdc (Delia's exhausted adult voice)
+- [ ] Review Chapter 17 ending (establish starting emotional state)
+- [ ] Confirm Delia stays sympathetic throughout
+- [ ] Every emotion shown through physical action/object
+- [ ] Trust reader to understand (don't over-explain)
+- [ ] Flashback structure clear (present → past → present)
+- [ ] Funeral brief (don't drag ceremony)
+- [ ] Discovery devastating in simplicity
+- [ ] Ending image strong (dawn, Route 1, gone, guilt)
+- [ ] Total length: 2000-2600 words
+
+---
+
+**END OF FINAL PLAN**
+
+**Ready to draft.**
+
+---
+---
+---
+
+# LEGACY PLAN (For Reference Only)
+
+**Note:** The plan below was an earlier iteration exploring different structure. Preserved for reference but superseded by the final plan above.
+
+<details>
+<summary>Click to expand legacy plan</summary>
+
+## Original Structure (Superseded)
+
+This version explored a four-scene structure spread across the week rather than compressed into single day with flashback:
+
+### Scene 1: The Impossible Choice (~900-1000 words)
+- Documents discovered scene at kitchen table
+- Full conversation with Oak about options
+- Week begins
+
+### Scene 1.5: The Suffocating Week (~400-500 words)
+- Specific moments across Days 3-6
+- Accumulating tension
+- Building to funeral
+
+### Scene 2: The Breaking Point (~800-900 words)
+- Funeral morning breakdown
+- Full scene at funeral
+- Oak departure
+
+### Scene 3: Too Late (~300-500 words)
+- Day 8 discovery
+- Guilt
+
+**Why We Changed:**
+- Too spread out (lost compression and impact)
+- Info-dump conversation felt artificial (sitting at table talking)
+- Week of moments redundant (flashback does this better)
+- Funeral too long (not the emotional climax)
+
+**What We Kept:**
+- Burned house visit (moved to flashback)
+- Breakfast breakdown (moved to funeral morning)
+- Discovery ending (same)
+- Delia's sympathetic characterization (same)
+
+**What We Improved:**
+- Flashback structure (more dynamic than linear)
+- Oak's info dump naturalized (examining battle site)
+- Compression (single day with memory, not full week)
+- Physical grounding (cut hand, objects, actions)
+
+</details>
