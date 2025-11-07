@@ -138,4 +138,132 @@ And she'd be alone with this.
 
 \-\[v.v\]-
 
-*To be continued in next scene...*
+The cemetery was gray under overcast sky. The grass was still wet from morning rain, and Delia's shoes sank into the soft earth with each step.
+
+She stood at the front with Ash pressed against her side, his small hand gripping her dress too tight. The casket sat in front of them, polished wood that reflected nothing. People she half-recognized stood in clusters behind them---Officer Jenny, Stephen's coworkers from the Pokemon Center, neighbors whose names she couldn't remember anymore.
+
+The pastor was saying something. Words about rest and peace and loving husband and father. Delia heard them from a distance, like listening through water.
+
+Her hand found Ash's shoulder. Held on. He was shaking, or maybe she was.
+
+Across the gathering, Amber stood next to Professor Oak. Not at the front. Not with family. Just... there. Separate. The girl's face was carefully blank, the same expression she'd worn in the kitchen that morning. Delia looked away.
+
+The casket lowered. Someone---Jenny, maybe---touched Delia's arm and said something she didn't catch. She nodded anyway. More people came by. Murmured condolences. She responded with the right words, the automatic ones. "Thank you for coming." "Yes, it's been difficult." "We appreciate it."
+
+Her hands ached from gripping Ash so tight.
+
+When it was over, when the last person had drifted away and only Oak remained, Delia finally let herself breathe. The air tasted like rain and turned earth.
+
+"Come on, sweetheart," she said quietly to Ash. "Let's go home."
+
+Except they couldn't go home. Home was ash and charred beams and melted picture frames. Home was gone.
+
+They rode back to Oak's house in his car, Ash silent in the backseat, Amber in the front passenger seat staring out the window. Delia watched the back of her head and felt nothing. Or everything. She couldn't tell anymore.
+
+\-\[v.v\]-
+
+Oak's bags were already packed, sitting by the front door. Sample cases. Documentation folders. Evidence to show Lance.
+
+"I'll call when I can," he said, his hand on the doorknob. "Lance needs to see this evidence. The drug samples, the database intrusion..." He looked at Delia. "Take care of yourself. And them."
+
+Delia nodded. Words felt too heavy to speak.
+
+The door closed behind him. The sound echoed in the quiet house.
+
+Delia stood in the entryway for a moment, listening to Oak's car start and pull away. Then she turned to find Ash and Amber both watching her from the living room. Ash's eyes were red-rimmed. Amber's were unreadable.
+
+"I'm going to lie down," Delia heard herself say. "Ash, come on."
+
+She took her son to the guest room and closed the door. Left Amber downstairs alone.
+
+\-\[v.v\]-
+
+Ash finally fell asleep around midnight, his breathing evening out after an hour of nightmares. Delia lay next to him in the narrow guest bed, staring at the ceiling.
+
+She should apologize. The thought circled in her head like a Pidgey that couldn't land. She should go downstairs and tell Amber it wasn't her fault. That the words this morning were wrong. That grief made people say terrible things they didn't mean.
+
+Except she did mean them. That was the horrible truth of it. She couldn't look at Amber without seeing Stephen burning. Couldn't be near her without her chest going tight and her hands starting to shake.
+
+She knew it wasn't Amber's fault. Knew it intellectually, the way she knew the sky was blue and water was wet. But knowing didn't change how her body reacted. Didn't change the way her throat closed up every time the girl walked into a room.
+
+Tomorrow, Delia thought. She'd talk to her tomorrow. When she had slept. When the funeral wasn't so fresh. When she could breathe without it hurting.
+
+The house creaked around her. Old wood settling. Or maybe Amber, moving around downstairs.
+
+Delia closed her eyes and tried not to think about the girl alone down there. About the look on her face this morning. About the words Delia couldn't take back.
+
+Tomorrow.
+
+The gray light of pre-dawn was just starting to show around the window edges when Delia heard it---the soft click of the front door closing. So quiet she almost missed it.
+
+She lay there for a moment, trying to make sense of the sound. Too early for Oak to be back. Too early for anyone to be leaving.
+
+Unless.
+
+Delia sat up slowly, careful not to wake Ash. Listened to the silence of the house. No footsteps. No movement.
+
+She should get up. Should check. But exhaustion pinned her to the bed, and some part of her---the part that was too tired to feel anything anymore---thought maybe it was nothing. Maybe she'd imagined it.
+
+She lay back down.
+
+Closed her eyes.
+
+Didn't get up.
+
+\-\[v.v\]-
+
+Morning came too soon. Delia woke to sunlight streaming through the window and Ash still asleep beside her. Her bandaged hand throbbed.
+
+The house was too quiet.
+
+She got up carefully, leaving Ash sleeping, and opened the guest room door. The hallway was empty. She walked to the borrowed room where Amber had been staying.
+
+The door was open.
+
+The bed was neatly made, sheets tucked in with more care than a ten-year-old usually managed. The window was closed. Everything was tidy, like the room had never been used at all.
+
+Except for the note on the pillow.
+
+Delia crossed the room and picked it up. The paper was lined notebook paper, torn carefully at the edge. The handwriting was round and careful.
+
+*Thank you for everything. I'm sorry.*
+
+*---Amber*
+
+Delia read it twice. Then a third time.
+
+*I'm sorry.*
+
+The child apologizing to her. The ten-year-old apologizing to the adult who'd said she couldn't look at her without seeing her husband burning.
+
+Delia's legs felt weak. She sat down on the edge of the bed, still holding the note.
+
+She looked around the room. Empty. The closet door hung open, showing nothing inside. She got up and went downstairs, the note crumpling in her fist.
+
+The kitchen was empty. A few pieces of bread were missing from the loaf on the counter. One of the water bottles from the fridge was gone.
+
+Ditto's pokeball, which had been sitting on the coffee table where Oak had left it, was gone too.
+
+She'd really left.
+
+A ten-year-old girl. Alone. With nothing but some bread and a failed clone Pokemon.
+
+Delia stood in the empty kitchen, dawn light streaming through the windows, and looked down at the note in her hand.
+
+*I'm sorry.*
+
+Oak was gone. Stephen was dead. The house was destroyed. And now Amber was gone too, because Delia couldn't stop herself from saying the one thing that would drive her away.
+
+Everything Fuji had touched was broken. Every single thing.
+
+Delia smoothed the note out carefully on the counter, then crumpled it again in her fist. Her bandaged hand ached where she'd cut it yesterday. Or was it still bleeding? She couldn't tell anymore.
+
+Through the kitchen window, she could see Route 1 in the distance. Hills and tall grass and wild Pokemon. A ten-year-old out there somewhere, thinking she was fixing something by leaving.
+
+Delia sank into a kitchen chair, still holding the crumpled note.
+
+The morning light grew stronger. Ash would wake soon. She'd have to explain. Have to tell him Amber was gone. Have to figure out if she should call Officer Jenny, or wait for Oak to call, or...
+
+She didn't know. She didn't know anything anymore.
+
+Just sat there with a child's apology crumpled in her fist and crushing guilt settling in her chest like stones.
