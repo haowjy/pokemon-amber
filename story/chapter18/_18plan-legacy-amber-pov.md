@@ -1,7 +1,19 @@
-# Chapter 18: Revised Planning Summary
+# Chapter 18: LEGACY PLAN - Amber POV (Superseded)
+
+**⚠️ THIS PLAN IS NOT CURRENT ⚠️**
+
+**This plan has been superseded by `_18plan-delia.md` (Delia POV with flashback structure).**
+
+**Reason for change:** Decided Delia POV better serves the story by showing both sides of the tragedy and creating stronger emotional impact for Arc 0 closure.
+
+**Preserved for reference only.**
+
+---
+
+## Original Plan Details
 
 **Date:** 2025-10-25
-**Status:** Planning Complete, Ready to Draft
+**Status:** ~~Planning Complete, Ready to Draft~~ **SUPERSEDED**
 **Structure:** Three scenes, tight and focused
 
 ---
