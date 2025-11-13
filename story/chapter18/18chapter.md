@@ -50,13 +50,11 @@ Back to the ruins.
 
 The ash still hung in the air three days after the fire.
 
-Delia pulled the mask higher on her face as she moved through what used to be her living room. The walls were gone. The roof was gone. Just charred support beams and blackened frame. Ten years.
+Delia pulled the mask higher on her face as she moved through what used to be her living room. Alone. Professor Oak had said he needed to examine the site more thoroughly, asked if she wanted to wait. She'd come anyway.
 
-Professor Oak walked a few feet ahead. He'd stop every few feet, crouch down, examine something.
+The walls were gone. The roof was gone. Just charred support beams and blackened frame. Ten years.
 
-"The fire patterns here..." He gestured at a section of blackened floorboards. "Magmar's coordination was deliberate. See how the burn marks radiate from multiple points?" His finger traced lines through the ash. "Not random. Orchestrated."
-
-She was staring at what used to be the kitchen, at the twisted metal frame of their stove. Stephen had cooked breakfast there every Sunday morning. Pancakes for Ash. Coffee for her. He'd sing off-key while he cooked, some old Kantonian folk song his father used to hum.
+She stood where the kitchen used to be, staring at the twisted metal frame of their stove. Stephen had cooked breakfast there every Sunday morning. Pancakes for Ash. Coffee for her. He'd sing off-key while he cooked, some old Kantonian folk song his father used to hum.
 
 Her foot caught on something. She looked down.
 
@@ -64,35 +62,51 @@ A melted picture frame. The photo inside was nothing but curled black paper, but
 
 She bent down and picked it up anyway. The metal was still warm.
 
-"These scorch marks," Oak continued to her left. "Electabuzz tried to interfere. You can see where the electrical burns disrupt the fire patterns. But Fuji..." He trailed off, then stood up. "He orchestrated this. Every step planned."
+Her hands found other things without conscious decision. A pot with no handle. A drawer pull. Stephen's hammer, the wooden grip burned away but the metal head intact. She set them in a small cardboard box she'd brought.
 
-Delia set the melted frame down carefully and moved deeper into the wreckage. Her hands found things without conscious decision. A pot with no handle. A drawer pull. Stephen's hammer, the wooden grip burned away but the metal head intact.
+Stephen's wedding ring, intact in a pile of ash where their bedroom used to be. She slipped it into her pocket, feeling the warm metal against her palm.
+
+A baking sheet, warped from heat.
+
+One of Ash's shoes.
 
 "Delia."
 
-Oak's voice was different now. Serious enough to make her look up.
+Professor Oak's voice behind her. She hadn't heard him approach. When she turned, he was standing in what used to be the doorway, holding a folder and a small metal lockbox. His expression was grim.
 
-He was crouched near what used to be the hall closet, a small metal box in his hands. Fireproof lockbox. They'd kept important documents in there—birth certificates, insurance papers, things that seemed important before.
+"I found something you need to know about." He gestured at the ruins around them. "About what Fuji did here."
 
-Oak opened it. Papers inside, barely singed. He pulled out a document, read it, froze.
+He moved closer, stepping carefully over charred debris. Set the lockbox down on a section of standing wall.
 
-"Delia." He looked up at her. "You should see this."
+"The Magmar that attacked." Oak's voice was clinical, the way he spoke about research findings. "I collected tissue samples. Ran tests." He paused. "Fuji drugged it. Some kind of stimulant I've never seen before. It didn't just make the Pokemon stronger—it changed how it functioned."
 
-She crossed the ash-covered floor and took the paper from his hands.
+Delia stared at him. Waited.
+
+"Pokemon have a natural protective mechanism," Oak continued. "When they're injured past a certain threshold, they faint. It's automatic. Keeps them from fighting to death." His jaw tightened. "Fuji's drug removed that protection. The Magmar didn't stop when it should have. It kept burning, kept fighting, until its body gave out completely."
+
+The words took a moment to register. "You mean it..."
+
+"Died. Yes." Oak looked older suddenly. "Pokemon don't die in battles. Not normally. That's the point of the fainting mechanism—it evolved specifically to prevent that. But whatever Fuji created, it overrode millions of years of evolution." He gestured at the ruins. "That's why the fire was so intense. The Magmar didn't stop. Couldn't stop. Burned itself out like a candle."
+
+Delia's stomach turned. She looked down at the ash under her feet. At what used to be her home.
+
+"If Team Rocket has more of this drug..." Oak didn't finish the thought. "Lance needs to know. This isn't just property damage or assault. This is a weapon that turns Pokemon into..." He trailed off, then opened the lockbox. "There's something else."
+
+He pulled out papers. Documents. Handed them to her.
 
 Birth certificate. Amber Fuji.
 
 Her own name on the "Mother" line.
 
-"This isn't just forged paper." Oak's hands tightened on the lockbox. "Whoever did this... they're in League databases." He paused. "Medical records. School registration. Everything."
+"I found these in your hall closet. Fireproof box." Oak's voice was quiet now. "It's not just the paper, Delia. I checked. Whoever forged this got into League databases. Her name is in the system. Your name is in the system. Medical records, school registration, everything."
 
-Delia's fingers tightened on the certificate, crinkling the edges. Her name. On a document for the child of the man who'd murdered her husband.
+Delia's fingers tightened on the certificate, crinkling the edges. Her name. On a document for the child of the man who'd just murdered her husband with a drugged Pokemon weapon.
 
-"If Team Rocket can create false identities in League systems..." Oak didn't finish the thought. He looked deeply troubled. "Lance needs to see this. After the funeral, I have to go to Indigo Plateau."
+"Team Rocket." Oak's hands were fists at his sides. "This level of access, these drugs... Lance needs to see all of it. After the funeral, I have to go to Indigo Plateau."
 
 The words took a moment to register. "You're leaving?"
 
-"I have to show him the evidence." Oak gestured at the ruins around them, at the certificate in her hands. "The drugs Fuji used. This level of database access. If they can hack government systems..."
+"I have to." Oak gestured at the folder of test results, at the certificate in her hands. "If they can hack government databases, if they have drugs that can kill Pokemon in battle..." He looked deeply troubled. "This is bigger than Pallet Town."
 
 He'd be gone. For weeks, probably. Chasing evidence and Team Rocket connections while she was left here with---
 
@@ -100,7 +114,7 @@ Delia looked back down at the certificate. At her name where it had no right to 
 
 Her voice came out small. "What am I supposed to do?"
 
-Oak wouldn't meet her eyes. "The League's working to prove the intrusion. But it could take months." He paused. "I know this isn't fair to you."
+Oak wouldn't meet her eyes. "The League's working to prove the database intrusion. But it could take months." He paused. "I know this isn't fair to you."
 
 Fair. The word felt wrong. Before this certificate, Amber would have just gone to League foster care. The system would have handled it. Delia wouldn't have had to DO anything.
 
@@ -112,17 +126,11 @@ She folded the certificate once, twice, crumpled it unconsciously. Then she smoo
 
 She crumpled it again and shoved it in her jacket pocket.
 
-"I'll be back in a few weeks," Oak said. His hand was already on a piece of charred wood, steadying himself to stand. "We'll find a solution."
+"I'll be back in a few weeks," Oak said quietly. "We'll find a solution."
 
 Delia nodded.
 
-Stephen's wedding ring, intact in a pile of ash where their bedroom used to be. Delia slipped it into her other pocket, feeling the warm metal against her palm.
-
-A baking sheet, warped from heat.
-
-One of Ash's shoes.
-
-They walked back to Oak's house in silence, Delia carrying a small cardboard box of salvaged metal and ash. The certificate crumpled in her pocket.
+They walked back to Oak's house in silence, Delia carrying the cardboard box of salvaged metal and ash. Oak carried his folder of evidence—test results, drug samples, proof of what Fuji had done. The certificate crumpled in her pocket.
 
 She could see Oak's house ahead, light in the windows. And through the window---Amber, sitting at the kitchen table. Watching TV with Ash, or maybe reading. Just... there.
 
