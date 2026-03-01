@@ -17,7 +17,7 @@ Chapter 18 from Delia's perspective shows her impossible bind, the week of mount
 3. End with crushing guilt when she discovers Amber gone
 4. Bookend Arc 0 with Fuji POV (Ch 6) and Delia POV (Ch 18)
 
-**Target Length:** ~2400-3000 words (with added Scene 1.5)
+**Target Length:** ~2500-3100 words (with expanded Scene 1.5 including restaurant)
 
 ---
 
@@ -28,9 +28,10 @@ Chapter 18 from Delia's perspective shows her impossible bind, the week of mount
 **Week between Ch 17-18:**
 - Day 1: Hospital aftermath, everyone at Oak's house
 - Day 2: Documents discovered - Delia legally listed as Amber's mother
-- Days 3-6: Week of avoidance, guilt building, Oak trying to help
-- Day 7 morning: Funeral
-- Day 7 evening/night: The breakdown
+- Day 3: Ash and Gary return to school - Delia alone with Amber - reopens restaurant in desperation
+- Days 3-6: Restaurant provides daily escape, but mornings/evenings at Oak's house still suffocating
+- Day 7 early morning: Breakdown at breakfast (funeral day)
+- Day 7 late morning: Funeral
 - Day 8 pre-dawn: Amber leaves
 - Day 8 morning: Delia discovers Amber gone
 
@@ -59,7 +60,7 @@ Delia's internal process:
 - But every time she looks at her: Stephen burning
 ```
 
-**Oak's Conversation:**
+**Oak's Conversation (Ideas for dialogue, don't use these exactly):**
 - "I'm working with League IT to prove the intrusion, but it could take months."
 - "Adoption is an option. No one would judge you."
 - "She's just a child, Delia. She didn't choose this."
@@ -81,26 +82,65 @@ Delia's internal process:
 - Leaves it crumpled on counter
 - Small physical manifestation of impossible anger
 
-**Week Begins:**
-- Ash and Gary go back to school (after 1 bereavement day)
-- Delia stays home
+**Oak's Gentle Suggestion:**
+- Conversation turns to practical matters
+- Oak: "Take the week. Close Pallet House. The town will understand."
+- Not ordering, not managing - just supportive suggestion
+- Delia nods, grateful for permission to hide
+- Internal thought: Yes. A week. She can't face customers, can't put on the smile
+- Oak reminding her she doesn't have to do everything right now
+
+**Week Begins (End of Scene 1):**
+- Tomorrow: Ash and Gary go back to school (after 1 bereavement day)
+- Delia stays home (Pallet House restaurant closed for the week)
 - Amber is... there
 - In the house
 - A constant reminder
-- Days blur together
+- But tomorrow the boys will be at school, and it will just be...
+- Delia doesn't finish the thought
 
-**End Scene 1:** Delia avoiding Amber's eyes, funeral in 5 days
+**End Scene 1:** Delia avoiding Amber's eyes, funeral in 5 days, dreading tomorrow
 
 ---
 
-### Scene 1.5: The Suffocating Week (~400-500 words)
+### Scene 1.5: The Suffocating Week (~500-600 words)
 
-**Setting:** Oak's house, Days 3-6, brief interaction moments
+**Setting:** Oak's house + Pallet House restaurant, Days 3-6, brief interaction moments
 
-**Purpose:** Show specific accumulating moments that make it unbearable for both
+**Purpose:** Show specific accumulating moments that make it unbearable for both, including Delia's forced return to work
 
-**Moment 1 - Breakfast (Day 3 or 4):**
-- Delia making breakfast
+**Context - Pallet House Restaurant:**
+- Breakfast diner/cafe serving fishermen (early morning) and lab workers
+- Inherited from Delia's mother
+- Small family operation, Delia normally runs it herself with maybe part-time help during rush
+- Been closed since Stephen's death
+- Delia's livelihood - needs to reopen (financial pressure with Stephen gone)
+
+**Day 3: The Boys Go to School**
+- Morning: Ash and Gary head to school
+- House suddenly, unbearably quiet
+- Just Delia and Amber
+- Delia in kitchen, Amber somewhere in the house
+- Every sound Amber makes - footsteps, door closing, pages turning - Delia's body tenses
+- An hour passes. Two hours.
+- Delia can't stay here. Cannot be in this house alone with her.
+
+**Restaurant Reopening (Day 3, late morning/noon):**
+- Delia abruptly decides: reopening Pallet House NOW
+- Didn't plan it, but suddenly she's grabbing her keys, leaving Oak's house
+- Opens restaurant much earlier than Oak suggested (he said take the week)
+- Patron interaction:
+  - Regular customer: "Delia? I didn't think you'd be— Are you sure you should be back so soon? It's only been—"
+  - Delia with forced bright smile: "I was getting so bored sitting at home. And I need to keep busy, you know? Ash still needs to eat, bills don't stop..."
+  - Patron exchanges worried glances with others
+  - Everyone can tell she's not okay, but small-town politeness means not pushing
+  - Internal (Delia): Relief flooding through her. Away from the house. Away from Amber.
+- Outward reason: Hardworking, needs to provide for Ash, going stir-crazy at home
+- Real reason: Desperate to escape being near Amber after one morning alone with her
+- Restaurant gives her hours of escape each day (Days 3-6), but mornings/evenings still suffocating
+
+**Moment 1 - Breakfast (Day 3 morning, before boys leave for school):**
+- Delia making breakfast for everyone
 - Sets plates on table
 - Oak's plate placed normally
 - Amber's plate set down without looking - avoids eye contact entirely
@@ -109,8 +149,9 @@ Delia's internal process:
 - Doesn't respond
 - Leaves kitchen quickly
 - Delia's guilt: "I should have said 'you're welcome.' Why can't I just say it?"
+- (This moment happens just before the boys leave for school - foreshadows how unbearable it will be when they're gone)
 
-**Moment 2 - Living Room (Day 4 or 5):**
+**Moment 2 - Living Room (Day 4, evening after restaurant closes):**
 - Delia folding laundry in living room
 - Amber enters to get book she'd been reading
 - Delia's hands still on towel she's folding
@@ -120,8 +161,9 @@ Delia's internal process:
 - Leaves the room without a word
 - Amber left standing there
 - Delia in hallway, heart pounding, hating herself: "She just wanted a book."
+- (Restaurant provides escape during the day, but evenings back at Oak's house still unbearable)
 
-**Moment 3 - Dinner Question (Day 5 or 6):**
+**Moment 3 - Dinner Question (Day 5, evening):**
 - Dinner at table (Oak, Delia, Amber, Ash, Gary)
 - Oak asking about everyone's day
 - Ash mumbles about school
@@ -134,8 +176,9 @@ Delia's internal process:
 - Conversation dies
 - When Delia sits back down, Oak changes subject
 - Delia notices Amber hasn't touched her food after that
+- (Days 3-5 of restaurant providing escape, but every evening same tension)
 
-**Moment 4 - Near Miss (Day 6):**
+**Moment 4 - Near Miss (Day 6, morning before restaurant):**
 - Narrow hallway
 - Delia coming out of guest room
 - Amber coming toward her
@@ -147,6 +190,7 @@ Delia's internal process:
 - Goes around Delia, gives her wide berth
 - Delia stands there after Amber passes
 - Internal: "She apologized. To me. For existing in a hallway."
+- (One day before funeral - tension at peak)
 
 **Oak's Observation (between moments):**
 - Brief beat: Oak watching this happen
@@ -205,7 +249,7 @@ Delia's internal spiral:
 - Everything spills out:
   - "I know it's not your fault"
   - "But I can't look at you without seeing him burning"
-  - "He forced this. Put my name on your birth certificate like I'd agreed"
+  - "He forced this. Put my name on your birth certificate as if I'd agreed"
   - "I never wanted this. I never signed up for any of this."
 
 **Immediate Horror:**
@@ -232,11 +276,24 @@ Delia sees:
 - Amber staying back with Oak
 - Delia doesn't look at her
 - Can't look at her
-- Comes home, goes to guest room with Ash
+
+**Evening:**
+- Returns to Oak's house
+- Goes to guest room with Ash
 - Door closes
 - Evening passes in silence
 
-**End Scene 2:** Night, Delia lying awake, Ash finally asleep, guilt eating at her
+**Night (OPTIONAL - decide during drafting):**
+- Delia lying awake, Ash finally asleep
+- Mind trying to justify what she said:
+  - "She needed to know"
+  - "Better to be honest than keep lying"
+  - "I was at my limit, anyone would have..."
+- Weak justifications that don't quite stick
+- Or maybe: thinking she needs to apologize tomorrow
+- OR: Cut straight to morning (cleaner, more impactful)
+
+**End Scene 2:** Decide during drafting whether to show night processing or cut to black
 
 ---
 
@@ -272,11 +329,6 @@ Walking to Amber's borrowed room:
 - "She heard what I said yesterday"
 - "What have I done?"
 
-**Oak's Response:**
-- "I'll send Dragonite to find her. She can't have gotten far."
-- Already moving to lab
-- Delia standing in doorway of empty room
-
 **Final Image:**
 ```
 The note in Delia's hands, reading it again:
@@ -303,10 +355,10 @@ And now: this.
 
 Another casualty of Fuji's delusion.
 
-She crumples the note in her fist.
+The note trembles in her hand.
 ```
 
-**Chapter Ends:** Delia holding crumpled note, crushing guilt, too late
+**Chapter Ends:** Delia holding note, trembling, crushing guilt, too late
 
 ---
 
