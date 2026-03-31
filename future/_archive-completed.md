@@ -6,7 +6,7 @@ spoilers: true
 status: completed
 hidden: true
 created: 2025-10-14
-updated: 2025-10-14
+updated: 2026-03-30
 ---
 
 # Completed Revisions Archive
@@ -122,7 +122,7 @@ Story will follow Path A: Age 10 departure, real-time journey (NOT 5-year timesk
 
 ### Related Planning
 
-See: `core/path-confirmed.md` for full details
+See: `current-direction.md` for full details
 
 ---
 
@@ -142,3 +142,19 @@ See: `core/path-confirmed.md` for full details
 - Major chapter revisions completed
 - Significant story decisions locked in
 - Completed arcs (when future arcs finish)
+
+---
+
+## Direction Reset (2026-03-30)
+
+Major story direction pivot:
+- Trapinch removed from story entirely (all planning files deleted)
+- Landon Ashford character removed
+- Flint/Trapinch rescue chain removed
+- Early roster changed to: Ditto / Charcadet / Heracross
+- Departure changed from trauma flight to licensed, Oak-supported departure
+- Economics changed from shoestring survival to Oak-funded adventure
+- Badge pacing changed from "2 badges max Year 1" to "8 badges as goal, disrupted by incidents"
+- Character ages established: Amber 13, Kyle 14, Ash 12, Sabrina 14
+- Tournament role changed from spectator/coach to active participant (goal)
+- New central planning doc created: `current-direction.md`

@@ -206,8 +206,8 @@ Path A's greatest strength is **on-screen discovery** - readers learn WITH Amber
 
 ## Related Files
 
-- Core path: `core/path-confirmed.md` (on-screen discovery strength)
-- Arc 1: `arcs/arc1-survival.md` (economic/survival realities)
+- Core path: `current-direction.md` (on-screen discovery strength)
+- Arc 1: `arcs/arc1-kanto-year1.md` (economic/survival realities)
 - License system: See wiki/lore/trainer-systems/trainer-licensing.md
 - Gym system: See wiki/lore/trainer-systems/gym-system.md
 - Champion government: See wiki/lore/government/champion-system.md

@@ -6,12 +6,12 @@ spoilers: true
 status: confirmed
 hidden: true
 created: 2025-10-14
-updated: 2025-10-14
+updated: 2026-03-30
 ---
 
-# The Forged Documents Setup
+# The Forged Documents
 
-**Central conflict driver for Amber's departure from Pallet**
+**Background legal tension and future interlude material**
 
 ## What Fuji Did
 
@@ -20,38 +20,29 @@ updated: 2025-10-14
 - Documents appear legitimate (Fuji was thorough)
 - Found on his person after arrest
 
-## Why This Matters
+## Current Role in Story
 
-- Delia is legally responsible for Amber unless contested
+The forged documents are **NOT the departure catalyst.** Amber leaves because she earned her license and Oak supports her journey. The documents exist as:
+
+- **Background legal tension:** Amber's identity is built on forgeries that could unravel
+- **Future interlude material:** Delia's inner workings, Oak's legal maneuvering
+- **Identity-security subplot:** The forgery creates ongoing vulnerability
+- **Possible Team Rocket angle:** If TR investigates Amber's identity, the forged documents are a thread they could pull (note as option, not committed)
+
+## Why This Still Matters
+
+- Delia is legally responsible for Amber (documents say so)
 - To contest = investigation, scrutiny, questions about who Amber really is
-- Delia feels trapped: legally obligated to care for killer's daughter
-- Not just grief over Stephen, but rage at being manipulated post-mortem
-- **"I never wanted you! He forced this on me!"**
-- Both Delia and Amber are Fuji's victims
-- Creates impossible situation forcing Amber to run
-
-## The Immediate Crisis
-
-### At Stephen's Funeral
-
-- Delia's breakdown
-- Public rejection of Amber
-- Community witnesses the confrontation
-- Amber realizes she can't stay where she causes suffering
-
-### Amber's Decision
-
-- Can't contest documents (would reveal her origins)
-- Can't stay with Delia (causing more pain)
-- Flees with just Ditto (legal, 1 Pokemon = right)
-- Becomes functionally homeless at age 10
+- The legal situation is unresolved even though Amber has left on good terms
+- Creates quiet tension underneath the adventure
+- Both Delia and Amber are Fuji's victims (explored later, not at departure)
 
 ## Resolution Path (Eventual)
 
-- Oak works to prove forgery
+- Oak works to prove forgery (still valid)
 - Takes guardianship himself
 - Delia released from legal obligation
-- But emotional damage already done
+- Emotional complexity explored in interludes, not departure scenes
 
 ## Complications
 
@@ -59,9 +50,10 @@ updated: 2025-10-14
 - Legal system not equipped to handle clone identity
 - Any investigation risks exposing Amber's true nature
 - Oak must be careful not to reveal too much while helping
+- Team Rocket could use identity records as leverage (option)
 
 ## Related Files
 
-- Core path: `core/path-confirmed.md` (beat #2-4)
-- Character exploration: `characters/` (Amber's trauma response)
+- Current direction: `current-direction.md`
+- Character exploration: `characters/` (Amber, Delia dynamics)
 - Open question: `_open-questions.md` (Delia resolution?)

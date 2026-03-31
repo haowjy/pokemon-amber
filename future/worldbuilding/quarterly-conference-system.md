@@ -6,7 +6,7 @@ spoilers: true
 status: confirmed
 hidden: true
 created: 2025-10-25
-updated: 2025-10-25
+updated: 2026-03-30
 ---
 
 # Quarterly Conference System
@@ -199,7 +199,7 @@ updated: 2025-10-25
   - Flexible depending on narrative pacing
 
 ### Arc 2 (Years 2-3):
-- **Regional travel begins?** (Hoenn for Trapinch homeland?)
+- **Regional travel begins?** (Hoenn? Johto? See current-direction.md)
 - Quarterly circuit becomes more relevant
 - Following Conference seasons
 - Meeting trainers from other regions
@@ -252,10 +252,10 @@ updated: 2025-10-25
 - Both under 18, both registered before deadline
 - Saffron gym politics proxy war (Fighting Dojo vs. Psychic Gym)
 
-### Why Amber Isn't:
-- Only 2 badges (Pewter + Celadon)
-- Under 8-badge requirement
-- Spectator/coach role for Kyle
+### Why Amber Isn't (TBD):
+- Amber is pursuing 8 badges herself (see current-direction.md - goal is 8)
+- Whether she qualifies depends on how many badges she earns before the deadline
+- Journey may be disrupted by incidents; exact badge count at tournament time TBD
 
 ---
 
@@ -263,6 +263,6 @@ updated: 2025-10-25
 
 - Gym system: `worldbuilding/gym-system-detailed.md`
 - Economic reality: `worldbuilding/economic-reality.md`
-- Arc 1 structure: `arcs/arc1-survival.md`
+- Arc 1 structure: `arcs/arc1-kanto-year1.md`
 - Kyle character: `characters/kyle-kong.md`
 - Saffron politics: `plot/saffron-gym-rivalry.md`

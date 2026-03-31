@@ -4,7 +4,7 @@ category: pokemon-teams
 title: Amber MC — Team Planning (Spoilers)
 status: draft
 hidden: true
-updated: 2025-10-26
+updated: 2026-03-30
 canon: false
 ---
 
@@ -14,21 +14,31 @@ This page tracks plausible team composition for Amber across arcs, with habitats
 
 ## Anchors (Confirmed)
 
-- Ditto — identity/agency pillar; perfect copy variant; not to be sidelined.
-- Trapinch — Week 2–3 rescue with Flint; abandonment mirror; very slow evolution.
-  - Ref: future/team/trapinch.md
+- Ditto — identity/agency pillar; perfect copy variant; not to be sidelined. Foundational bond, mirror, comfort, identity. Established in chapters 1-17. Emotionally central, intimate.
+- Charcadet — Journey Pokemon: ambition, drive, intensity. Not yet settled --- evolves into Armarouge or Ceruledge (TBD). Signals momentum and becoming. Strong identity tension (unsettled future shape).
+- Heracross — Pain-averse, cleanliness-obsessed, hates getting dirty/hurt. Dislikes close combat despite being physically built for it. Judged/bullied by other Pokemon and trainers for seeming "wrong" for a Heracross. Amber does NOT force it into brawler role. Develops **technical, repeated-strike, multi-hit fighting style** --- precise rather than tanky. Adds warmth, physicality, comedy, battle presence. Resonates with Amber through mismatch/misread identity (not one-to-one mirror). Later Mega Heracross payoff possible.
+
+## Team Philosophy
+
+**Not every Pokemon should mirror Amber.** The team should feel like a group of beings with their own problems and histories who end up around Amber because she is the kind of person they can stay with.
 
 ## Guiding Constraints
 
-- Small roster Year 1 (3–4 mons) due to cost/licensing.
+- Small roster Year 1 (3 mons: Ditto / Charcadet / Heracross).
 - Off‑route rarity is earned via risk, not convenience.
-- Additions must not eclipse Ditto’s versatility or Trapinch’s late‑bloomer arc.
+- Additions must not eclipse Ditto’s versatility.
 - Stones/special gear are mid‑term “quests,” not freebies.
 
-## Year 1 Candidates (Planned Options)
+## Year 1 Roster (Confirmed)
+
+- **Ditto** — established bond from chapters 1-17
+- **Charcadet** — acquisition TBD (where/how open question)
+- **Heracross** — acquisition TBD (where/how open question)
+
+## Year 1 Additional Candidates (If Roster Expands)
 
 - Elekid (Johto) — Power Plant periphery/maintenance yards at dusk
-  - Role: Anti‑Water/Flying pressure; pairs with Trapinch’s Ground.
+  - Role: Anti‑Water/Flying pressure.
   - Hooks: power theft subplot; Ranger scrutiny; charging regimen.
   - Cost: moderate gear; evolves late, won’t dominate early.
 
@@ -37,24 +47,10 @@ This page tracks plausible team composition for Amber across arcs, with habitats
   - Hooks: consent/ethics training; clergy oversight; licensing module.
   - Cost: low capture; high handler time.
 
-- Heracross (Johto) — Deep Viridian old‑growth, sap lines
-  - Role: Fighting coverage; Rocket/poacher counter.
-  - Hooks: anti‑poaching patrols; arboreal set‑pieces; Erika/Mary ties.
-  - Cost: honey/sap upkeep; temperament management.
-
 - Shellder (Kanto) — Vermilion piers/kelp beds at night
   - Role: Water mobility; early Ice coverage.
   - Hooks: rescue crew collab; prize/sponsor for Water Stone.
   - Cost: low upkeep; stone is gated.
-
-- Shroomish → Breloom (Hoenn) — Celadon greenhouse perimeters/wet thickets
-  - Role: Nonlethal control via spores; alternative to Heracross.
-  - Hooks: spore‑ethics with Rangers; Erika’s pedagogy.
-  - Cost: cheap feed; high responsibility.
-
-Recommended Year 1 paths:
-- Lean Route: Ditto + Trapinch + Elekid + Shellder.
-- Grit Route: Ditto + Trapinch + Gastly + Heracross.
 
 ## Year 2–3 Candidates (Selective Growth)
 
@@ -121,7 +117,7 @@ Rule: one, max two, across saga; frame as mutual choice with on‑screen convers
   - MO: ferry inspection ruse; leverage against Amber.
   - Outcome: quick recovery; add waterproof tethers.
 
-Hard rule: Ditto or Trapinch thefts resolve fast as bottle episodes to showcase Ditto’s agency and Rocket limits.
+Hard rule: Ditto thefts resolve fast as bottle episodes to showcase Ditto’s agency and Rocket limits.
 
 Black‑Market Interface:
 - Independent poachers use cages/sedatives and sell to Rocket; these targets cannot be legally registered in that state (no ball handshake). Rescues focus on stabilization first.
@@ -167,21 +163,21 @@ Guardrails: exhaust non‑lethals on‑screen; show investigations, grief, new p
 ## Region Plan & Transitions
 
 - Year 1 — Kanto only
-  - Establish survival, licensing, and Ditto/Trapinch core. First extra capture(s) per Year 1 list.
+  - Establish licensing, Oak-supported departure, and Ditto/Charcadet/Heracross core. Goal: 8 badges, disrupted by incidents.
 
-- Year 2 — Kanto wrap
-  - Complete gyms; security upgrades in place after at least one theft incident. Consider 3–4 badge string with minor gyms for schedule realism.
+- Year 2 — Kanto wrap (if needed)
+  - Complete remaining gyms if Year 1 disrupted; security upgrades after theft incidents.
 
 - Transition Trigger (exit Kanto): choose one primary + one secondary factor
   - Primary: Two successful Rocket thefts within ~60 days (even if both recovered), demonstrating active targeting that endangers bystanders.
-  - Secondary options: denied gym rematch due to security concerns; sponsor offer in Slateport (Hoenn) contingent on relocation; Ranger advice to clear heat; personal line “I am not bait.”
+  - Secondary options: denied gym rematch due to security concerns; sponsor offer contingent on relocation; Ranger advice to clear heat; personal line “I am not bait.”
   - Paperwork: follow International League Compact rules (see lore/trainer-systems/international-licensing.md). No hard ban on cross‑region teams—register balls, pass quick health checks, carry insurance.
 
-- Year 3 — Hoenn arc
-  - Ecology shift (desert coasts, marshes) justifies Trapinch focus and potential Vibrava timing if desired. Candidate adds: Torkoal (Cinnabar tie rolls over), Shroomish/Breloom if not taken earlier, Feebas→Milotic only with sponsor.
-  - Antagonists: Rocket offshoots replaced by Magma/Aqua‑aligned smugglers; ball‑cloner tech shows up as black‑market imports.
+- Year 3+ — Post-Kanto (region TBD)
+  - Ecology shift justifies new team additions. Candidate adds: Torkoal (Cinnabar tie), Shroomish/Breloom, Feebas→Milotic only with sponsor.
+  - Antagonists: Rocket offshoots replaced by regional villain teams; ball‑cloner tech shows up as black‑market imports.
 
-- Year 4+ — Sinnoh arc
+- Later arcs — Sinnoh possibility
   - Tone hardens (mountains, cold, ruins). Candidate adds: Gligar→Gliscor, Weavile, Rotom (after strong League backing). Themes of history/identity sync with Amber.
   - League note: mixed badges from Big 4 remain valid for juniors; seeding accounts for prestige but does not invalidate cross‑region sets.
 
@@ -192,8 +188,8 @@ Migration Logistics (on‑screen beats):
 
 ## Cross‑Refs
 
-- future/team/trapinch.md — confirmed second Pokémon
+- future/current-direction.md — source of truth for story direction
 - future/worldbuilding/gym-system-detailed.md — gym availability/politics
 - future/plot/team-rocket-surveillance.md — Rocket methods and surveillance
 - wiki/characters/amber-mc.md — MC overview
- - wiki/lore/trainer-systems/international-licensing.md — cross‑region movement rules
+- wiki/lore/trainer-systems/international-licensing.md — cross‑region movement rules

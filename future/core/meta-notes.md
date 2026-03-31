@@ -6,7 +6,7 @@ spoilers: false
 status: active
 hidden: true
 created: 2025-10-14
-updated: 2025-10-14
+updated: 2026-03-30
 ---
 
 # Meta Notes for Story Direction
@@ -16,10 +16,14 @@ updated: 2025-10-14
 - The identity/creation theme is the strongest element
 - Don't let canon crossovers overshadow original story
 - Amber's agency must be preserved (avoid over-reliance on support)
-- Survival stakes create compelling narrative tension
+- Adventure and character stakes create compelling narrative tension
 - Ditto is narrative mirror, not comic relief
-- On-screen discovery is Path A's greatest strength
+- On-screen discovery remains a core strength
 - Keep creative flexibility - these are directions, not rigid plans
+
+## Team Philosophy
+
+**Not every Pokemon should mirror Amber.** The team should feel like a group of beings with their own problems and histories who end up around Amber because she is the kind of person they can stay with. Some will resonate with her (Ditto), some will have parallel tensions (Heracross and misread identity), some will just be their own creatures with their own drives (Charcadet).
 
 ## Story Balance
 
@@ -28,12 +32,14 @@ updated: 2025-10-14
 - Emotional authenticity
 - World-building through action/discovery
 - Theme exploration through plot
+- Semi-lighthearted adventure tone with background darkness
 
 **Avoid:**
 - Over-plotting future chapters
 - Explaining too much too soon
 - Removing stakes with convenient help
 - Making Amber too competent too fast
+- Making every Pokemon a thematic mirror of Amber
 
 ## Planning Philosophy
 

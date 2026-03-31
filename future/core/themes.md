@@ -6,7 +6,7 @@ spoilers: true
 status: confirmed
 hidden: true
 created: 2025-10-14
-updated: 2025-10-31
+updated: 2026-03-30
 ---
 
 # Core Story Elements
@@ -51,14 +51,14 @@ updated: 2025-10-31
 
 ## Story Elements That Drive Plot
 
-### 1. Economic Reality
-**Creates constant pressure:**
-- Can't afford pokeballs (knows where rare Pokemon are, can't catch them)
-- Quest boards barely cover food/shelter
-- Watches others succeed because they have money
-- Small team not by choice but necessity
+### 1. Adventure Reality
+**Creates grounding pressure:**
+- Oak-funded but not unlimited (working-class-plus, not elite)
+- Pokeballs still expensive, resources still matter
+- Game knowledge ≠ real-world competence
+- Weird incidents keep pulling her off the gym circuit
 
-**Drama from:** Frustration, class awareness, survival struggle
+**Drama from:** Gap between plans and reality, background threats, the journey itself
 
 ### 2. Secrets & Hiding
 **Creates tension:**
@@ -71,28 +71,27 @@ updated: 2025-10-31
 
 ### 3. Found Family vs. Hyper-Independence
 **Creates character growth:**
-- Starts: "I can't burden anyone" (trauma response)
-- Learns: Temporary help is okay (Flint)
+- Starts: "I can do this myself" (competence + isolation)
 - Develops: Reluctant partnerships (Kyle)
-- Grows: Accepting support without shame
+- Grows: Accepting that companions make the journey better, not weaker
 
-**Drama from:** Internal conflict, trust issues, learning to accept help
+**Drama from:** Internal conflict, trust issues, learning to let people in
 
-### 4. Abandonment & Worth
+### 4. Mismatch & Misread Identity
 **Recurring element:**
-- Trapinch: abandoned by original trainer
-- Amber: rejected by Delia
-- Flint: abandoned his kids
+- Heracross: judged for not being the brawler everyone expects
+- Amber: adult mind in teen body, clone passing as human
 - Kyle: pressure to prove family worth
+- Charcadet: unsettled future shape (Armarouge or Ceruledge?)
 
-**Drama from:** Shared trauma, healing through connection, choosing to stay
+**Drama from:** Being misjudged, finding your own way despite expectations
 
 ### 5. Consequences That Stick
 **Makes stakes real:**
 - Failed gym attempts = cooldown periods
-- Economic failure = can't continue
 - Some battles can't be won (Fighting Dojo will decline)
-- Not everyone is kind (Landon was normal, not evil)
+- Weird incidents derail the gym circuit
+- Secrets compound over time
 
 **Drama from:** Realistic obstacles, tragic outcomes despite effort
 
@@ -101,12 +100,12 @@ updated: 2025-10-31
 ## Character Connections (Not Deep Themes)
 
 **What makes readers care:**
-- Will Amber survive economically?
-- Will Trapinch learn to trust again?
+- Will Amber find her footing on the road?
+- Will Heracross find a way to fight on its own terms?
 - Will Kyle's partnership with Amber work out?
 - Will Team Rocket catch up to them?
 - What happens when secrets are revealed?
-- Can they succeed against the odds?
+- How many badges before weird stuff derails everything?
 
 **Focus on:** Events and relationships, not what it all means.
 
@@ -116,17 +115,17 @@ updated: 2025-10-31
 
 These emerge from story events without needing to be stated:
 
-**Worth isn't determined by utility:**
-- Shown through: Trapinch rescue, Amber's value despite poverty, Ditto being "failed" but exceptional
+**Worth isn't determined by fitting expectations:**
+- Shown through: Heracross finding its own fighting style, Amber's value despite not belonging, Ditto being "failed" but exceptional
 - Don't need to say it - readers get it from events
 
 **Bonds formed by choice matter:**
-- Shown through: Found family forming, temporary help (Flint), reluctant allies (Kyle)
+- Shown through: Found family forming, reluctant allies (Kyle), companions met on the road
 - Don't need to say it - readers see it happening
 
-**Resources determine progression:**
-- Shown through: Kyle vs. Amber badge counts, pokeball costs, class stratification
-- Don't need to say it - economic reality speaks for itself
+**Plans get disrupted:**
+- Shown through: 8-badge goal vs. weird incidents, gym circuit vs. Team Rocket, expectations vs. reality
+- Don't need to say it - the gap between plan and outcome speaks for itself
 
 **Some battles can't be won:**
 - Shown through: Fighting Dojo's inevitable decline despite Kyle's effort
@@ -145,9 +144,9 @@ These emerge from story events without needing to be stated:
 - Thematic statements about personhood
 
 **This story IS about:**
-- Characters surviving and connecting
+- Characters connecting on the road
 - Secrets causing complications
-- Economic struggle and realistic obstacles
+- Semi-lighthearted adventure with darkness in the background
 - Relationships forming through shared experiences
 - Pokemon adventure with actual stakes
 
@@ -170,6 +169,6 @@ When brainstorming story:
 ## Related Files
 
 - Story approach: `TONE.md` (read this!)
-- Character arcs: `core/path-confirmed.md`
+- Character arcs: `current-direction.md`
 - Future story: `arcs/arc2-discovery.md`, `arcs/arc3-acceptance.md`
 - Character relationships: `characters/`

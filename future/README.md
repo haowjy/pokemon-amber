@@ -40,7 +40,7 @@ The actual story is a **Pokemon adventure with realistic consequences**, mixing 
 
 ### `core/`
 **Confirmed story foundations** - these are locked in decisions that form the base of future planning:
-- Path A confirmation (age 10 departure, real-time journey)
+- Path A confirmation (age 13 departure, licensed journey)
 - Core themes (clone/creation/identity triangle)
 - Meta notes about story focus
 
@@ -71,13 +71,11 @@ The actual story is a **Pokemon adventure with realistic consequences**, mixing 
 
 ### `team/`
 **Pokemon team members** - if acquired, they're permanent:
-- Route 1 companion options (Cubone/Eevee/Meowth/etc)
-- Trapinch acquisition playbook
-- Future: other potential team members
+- Currently empty (team roster moved to `current-direction.md`)
+- Confirmed roster: Ditto, Charcadet, Heracross
+- Acquisition episodes for Charcadet/Heracross: TBD
 
-**Status:** Exploring options. If a Pokemon joins, it's a lasting commitment.
-
-**Note:** Acquisition methods are mix-and-match; multiple paths available per Pokemon.
+**Status:** See `current-direction.md` for confirmed team. Folder available for future acquisition planning.
 
 ---
 
@@ -91,7 +89,7 @@ The actual story is a **Pokemon adventure with realistic consequences**, mixing 
 
 **Key points:**
 - Arcs organized by REGION (Kanto, Hoenn, Sinnoh, etc.), not thematic milestones
-- Multi-region, multi-year journey (age 10 → 16-17+)
+- Multi-region, multi-year journey (age 13 → 17+)
 - Realistic growth over time - not instant elite trainer
 - Later arcs determined by how early arcs develop
 - Arc 3+ nothing confirmed - story evolves naturally
@@ -99,11 +97,11 @@ The actual story is a **Pokemon adventure with realistic consequences**, mixing 
 ---
 
 ### `episodes/`
-**Specific story events or one-off encounters**:
-- Currently empty (Trapinch moved to `team/`)
-- Reserved for truly episodic content (side quests, one-chapter events)
+**Specific story events or encounters**:
+- Route 1 solo episode, Pewter gym, Kyle meeting, and others
+- Episodic content: gym challenges, route encounters, side quests
 
-**Status:** Future use. Not character acquisition - those go in `characters/` or `team/`.
+**Status:** Active planning. Episodes being updated to match `current-direction.md`.
 
 ---
 
@@ -213,6 +211,6 @@ If something in this folder is unclear:
 
 ---
 
-**Last Updated:** 2025-10-15
+**Last Updated:** 2026-03-30
 
 **Remember:** All of this is POTENTIAL. Explore freely, decide later, write authentically.

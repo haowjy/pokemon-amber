@@ -104,7 +104,7 @@ Giovanni's interest in Amber/Ditto/Fuji isn't just about profit or acquiring a v
 
 ### Connections to:
 - **Giovanni-Fuji plot:** Rocket's interest stems from Fuji's value
-- **Trapinch episode:** Grunts attempting opportunistic capture
+- **Early encounters:** Grunts attempting opportunistic capture of Amber's Pokemon
 - **Arc 2 (Discovery):** TR pursuit becomes active antagonist
 - **Companions:** Their safety becomes leverage against Amber
 
@@ -141,7 +141,7 @@ Giovanni's interest in Amber/Ditto/Fuji isn't just about profit or acquiring a v
 ## Related Files
 
 - Giovanni's interest: `plot/giovanni-fuji-jail.md`
-- Example encounter: `episodes/trapinch-rescue.md`
+- Current direction: `current-direction.md`
 - Arc structure: `arcs/arc2-discovery.md`
 - Decision point: `_open-questions.md` (#6)
 

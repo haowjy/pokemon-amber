@@ -177,4 +177,4 @@ This was intentionally ambiguous to preserve creative flexibility.
 - Core decision: `_open-questions.md` (#1, #5)
 - If loop chosen: `arcs/pokemon-4ever-option.md`
 - Arc structure: `arcs/arc2-discovery.md`, `arcs/arc3-acceptance.md`
-- Character implications: `core/path-confirmed.md` (independence arc)
+- Character implications: `current-direction.md` (independence arc)

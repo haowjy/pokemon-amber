@@ -175,7 +175,7 @@ Each entry has: **Region Base**, **Culture/Rites**, **Signature Technique**, **N
 - **Signature Technique:** **Pulse Walk** --- tapping pattern to feel hollow ground for route safety
 - **Notable NPCs:** Elder Shima (quiet engineer)
 - **Politics/Allies:** Houndstone escorts; Stonehand for stone rights
-- **Story Hooks:** collapsed trail repair; secret tunnel to a Rocket cache; training synergy with Trapinch
+- **Story Hooks:** collapsed trail repair; secret tunnel to a Rocket cache; training synergy with Ground-types
 
 ---
 
@@ -205,7 +205,7 @@ Each entry has: **Region Base**, **Culture/Rites**, **Signature Technique**, **N
 - **Signature Technique:** **Hearthhold** --- calming body-pressure maneuver for panicked Pokemon
 - **Notable NPCs:** Elder Nala (mentor), Jori (gruff orchard lead)
 - **Politics/Allies:** trade with Driftroot herbalists; tensions with merchant price-fixers
-- **Story Hooks:** berry poisoning scandal; Ursaring restraint lesson for Amber; long-form rehab advice (great for Trapinch)
+- **Story Hooks:** berry poisoning scandal; Ursaring restraint lesson for Amber; long-form rehab advice for injured Pokemon
 
 ---
 
@@ -225,7 +225,7 @@ Each entry has: **Region Base**, **Culture/Rites**, **Signature Technique**, **N
 - **Signature Technique:** **Scent Veil** --- nonlethal aromatics to ease crowd panic (careful dosing)
 - **Notable NPCs:** Healer Anzu (sharp ethics)
 - **Politics/Allies:** supply clinics; wary of Silvertail price pressure
-- **Story Hooks:** medicine shortage; addictive balm controversy; aid for Trapinch care
+- **Story Hooks:** medicine shortage; addictive balm controversy; aid for Pokemon care
 
 ---
 

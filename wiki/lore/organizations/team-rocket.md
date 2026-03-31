@@ -4,7 +4,7 @@ category: lore
 title: Team Rocket Organization
 status: draft
 hidden: false
-updated: 2025-10-26
+updated: 2026-03-30
 canon: true
 ---
 
@@ -194,23 +194,16 @@ canon: true
 ### Rare Pokemon Operations
 
 **Targeting Criteria:**
-- Pokemon only Giovanni has in region (like Trapinch - only his Flygon in Kanto)
-- Hoenn/Sinnoh/foreign species (not native, valuable)
+- Foreign species not native to Kanto (valuable, hard to replace)
 - Exceptional specimens (perfect genetics, unusual abilities)
 - Clone candidates (Mewtwo project research subjects)
+- Amber's Ditto (perfect transformation, Fuji connection)
 
 **Methods:**
 - Surveillance of trainers (spot rare Pokemon in public)
 - Lure wild Pokemon to attack (create chaos, steal in aftermath)
 - Fake Ranger credentials (claim authority to confiscate)
 - Ambush and theft (when other methods fail)
-
-**Recent Example:**
-- Landon's Trapinch spotted at Viridian Gym
-- Butch & Cassidy assigned theft operation
-- Scyther swarm tactic (lure wild Pokemon, overwhelm trainer, claim fainted Pokemon)
-- Failed due to interference (Amber & Flint)
-- Continue surveillance (Giovanni wants that Trapinch)
 
 ## Methods & Tactics
 
@@ -294,23 +287,21 @@ canon: true
 ### Arc 1 (Current)
 
 **Presence:**
-- Butch & Cassidy attempt Trapinch theft
 - Public uniforms shown (establishing yakuza-style openness)
 - Demonstrate impunity (wearing TR gear, no legal consequences)
 - Establish surveillance capability (tracking rare Pokemon)
+- Amber on their radar (Ditto's perfect transformation noticed)
 
 **Foreshadowing:**
-- "Giovanni wants that Pokemon" (boss interest established)
-- Failed operation (will try again)
-- Amber on their radar (Ditto's perfect transformation noticed)
+- Amber's Ditto flagged as high-value target (perfect clone, Fuji connection)
 - TR as ongoing threat, not one-time encounter
+- Giovanni's interest in Fuji's research established
 
 ### Future Arcs
 
 **Escalation Potential:**
 - Passive surveillance → active pursuit
-- Trapinch theft attempts → targeting Amber directly
-- Ditto's value (perfect clone, Fuji connection)
+- Targeting Amber directly (Ditto's value, Fuji connection)
 - Mewtwo project relevance (Amber is clone, Fuji's research)
 - Political dimension (nationalism, Kanto-Johto tensions)
 
@@ -323,7 +314,7 @@ canon: true
 
 ## Related Files
 
-- **Butch & Cassidy encounter:** `episodes/flint-and-trapinch.md`
+- **Story direction:** `current-direction.md`
 - **TR surveillance plot:** `plot/team-rocket-surveillance.md`
 - **Giovanni's motivations:** `plot/giovanni-fuji-jail.md`
 - **Poaching operations:** `lore/crime/poaching.md`

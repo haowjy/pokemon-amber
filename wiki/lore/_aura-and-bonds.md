@@ -168,7 +168,7 @@ All types grant easier bonding with matching Pokemon.
 
 **Early Start:**
 - Begin systematic aura cultivation age 5-6 (before journey)
-- Kyle's Fighting aura at age 10 (unusual for his age)
+- Kyle's Fighting aura at age 14 (unusual for his age)
 - Physical enhancement manifests earlier
 - Locked into type specialization from childhood
 

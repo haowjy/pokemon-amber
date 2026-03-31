@@ -4,7 +4,7 @@ category: lore
 title: Pokemon Trainer Systems & Culture
 requires_citations: true
 status: draft
-updated: 2025-10-26
+updated: 2026-03-30
 hidden: false
 canon: false
 ---
@@ -383,7 +383,7 @@ canon: false
 Choosing a type specialty is culturally almost like choosing a profession - families in certain industries pass down type specializations across generations:
 
 - **Ground/Rock types** → Mining, geology, construction industries
-  - Example: Ashford Mining Company (Landon's family) - Ground-type tradition
+  - Example: Mining families with multi-generational Ground-type tradition
   - Family businesses expect children to train Ground-types for future work
   - Type choice = career preparation, not just battle preference
 

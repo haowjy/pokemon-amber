@@ -6,7 +6,7 @@ spoilers: true
 status: planned
 hidden: true
 created: 2025-10-25
-updated: 2025-10-25
+updated: 2026-03-30
 ---
 
 # Kyle Kong
@@ -16,16 +16,16 @@ updated: 2025-10-25
 ## Basic Info
 
 - **Full Name:** Kyle Kong
-- **Age:** 10 (unusually young for journey start)
+- **Age:** 14 (standard journey age)
 - **Origin:** Saffron City (Fighting Dojo)
 - **Father:** Koichi (Fighting Dojo Leader)
-- **Journey Start:** Age 10 (pressured by father to match Sabrina)
+- **Journey Start:** Age 14 (standard age, pressured by father to match Sabrina)
 
 ## Physical/Combat Abilities
 
 ### Fighting Aura (Developed Early)
 - **Trained since age 5-6** in Fighting Dojo ancient techniques
-- **Physical enhancement:** Strong as adult man despite being 10
+- **Physical enhancement:** Exceptionally strong for his age
 - **Durability:** Can take hits that would incapacitate normal kids
 - **Manifestation:** Fighting aura developed through childhood training
 - **Not unique:** Dojo techniques allow early development (unlike natural path)
@@ -75,32 +75,30 @@ updated: 2025-10-25
 
 ## Story Role
 
-### First Arc - Meeting Delayed
+### First Arc - Meeting
 
-**NOT at Trapinch Rescue:**
-- Trapinch rescue is Flint + Amber (Week 2-3)
-- Kyle meeting happens later (Month 6-7)
-- Context TBD - related to Chapter 7 + manga inspiration
-- User developing specific plot
+**Meeting Context:** TBD
+- Related to Chapter 7 + manga inspiration
+- Specific plot in development
 
-**When They Meet (Month 6-7):**
+**When They Meet:**
 - **Kyle's state:** Has 3 badges already (Saffron Fighting Dojo, Vermillion, Celadon)
 - **Been traveling 2-3 months:** Traditional Dojo walking journey (by choice, honor)
 - **Tactically weak:** Strong Pokemon, poor strategy, reckless
 - **Gets lost frequently:** Navigation is terrible
-- **Meeting context:** [TBD - see `episodes/kyle-meeting.md`]
+- **Meeting context:** TBD
 
 **Initial Dynamic:**
 - Likely mutual benefit situation (not rescue)
 - Kyle's strength + Amber's strategy combination
 - Both contribute meaningfully
 - Partnership begins tentatively
-- Class awareness: he has resources she doesn't
+- Both have resources (Kyle from Dojo family, Amber from Oak support)
 
 **What He Provides:**
 - Wilderness survival skills (food, shelter, berries)
 - Combat power (fighting aura + strong Pokemon)
-- Resources (can afford supplies, pokeballs, failures)
+- Dojo family resources and connections
 - Confidence (even if sometimes misplaced)
 - Contrast to Amber's cautious strategy
 
@@ -144,7 +142,8 @@ updated: 2025-10-25
 - **8 gym badges** in one year (impressive)
 - **Resources helped:** Dojo support, early training, connections
 - **Genuine skill:** Not just privileged, actually good
-- **Under-18 Junior League:** Competes at year-end tournament
+- **Junior League:** Competes at conference
+- **Amber also pursuing conference entry** --- both may compete (not just Kyle while Amber watches)
 
 **Kyle vs. Sabrina Match:**
 - **Stakes:** Saffron gym politics (Dojo vs. Psychic Gym)
@@ -166,7 +165,7 @@ updated: 2025-10-25
 - **Koichi's expectations:** Prove Dojo superiority
 - **Sabrina as rival:** Psychic prodigy, same age, competitor
 - **Gym politics:** Kyle's success/failure affects Dojo status
-- **Heavy burden:** 10-year-old carrying father's ambitions
+- **Heavy burden:** 14-year-old carrying father's ambitions
 
 ### Personal Drive
 - **Wants to prove himself:** Not just father's puppet
@@ -179,14 +178,13 @@ updated: 2025-10-25
 ### With Amber
 **Evolution Over Time:**
 - **First meeting:** Mutual "who is this kid?"
-- **Trapinch rescue:** Grudging respect earned
 - **Early journey:** Rivals who help occasionally
 - **Mid-year:** Reluctant friends (won't admit it)
 - **Tournament:** Genuine allies, strategic partners
 
 **Dynamic:**
 - He's stronger physically, she's smarter tactically
-- He has resources, she's independent
+- He has Dojo resources, she has Oak support
 - He's impulsive, she's cautious
 - Complement each other without dependency
 
@@ -199,7 +197,7 @@ updated: 2025-10-25
 - **Pressure:** Heavy expectations about gym rivalry
 - **Training:** Dojo techniques from childhood
 - **Pride:** Wants to make father proud
-- **Burden:** Carrying family reputation at age 10
+- **Burden:** Carrying family reputation at age 14
 - **(Explore later):** Does he resent the pressure?
 
 ### With Sabrina
@@ -229,7 +227,7 @@ updated: 2025-10-25
 ### For Amber's Arc
 - **Shows her growth:** Learning to work with others
 - **Strategic showcase:** Her adult mind helps him
-- **Contrast character:** Privilege + resources vs. independence
+- **Contrast character:** Dojo tradition vs. Oak-mentored independence
 - **Found family candidate:** Reluctant friend who proves loyal
 
 ### For Worldbuilding
@@ -269,9 +267,8 @@ updated: 2025-10-25
 
 ## Related Files
 
+- Current direction: `current-direction.md`
 - Saffron gym politics: `plot/saffron-gym-rivalry.md`
-- First appearance: Trapinch rescue in `team/trapinch.md`
-- Arc context: `arcs/arc1-survival.md`
 - Sabrina: `characters/sabrina.md`
 - Aura mechanics: `wiki/lore/aura-and-bonds.md`
 - Training culture: `wiki/lore/training-culture.md`

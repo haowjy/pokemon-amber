@@ -6,7 +6,7 @@ spoilers: true
 status: confirmed
 hidden: true
 created: 2025-10-25
-updated: 2025-10-25
+updated: 2026-03-30
 ---
 
 # Economic Reality: Modern Trainer Paths
@@ -113,9 +113,9 @@ updated: 2025-10-25
 
 **Who Does This:**
 - **Clan families** teaching ancient traditions (Kyle's Dojo path - choice)
-- **Very poor** who can't afford flights or academy (Amber - necessity)
+- **Very poor** who can't afford flights or academy
 - **Romantics/traditionalists** (rare idealists)
-- **Runaways** (fleeing something, like Amber)
+- **Mentored walkers** who choose the road despite having resources (Amber - Oak-supported but walks by choice/adventure)
 
 **Costs:**
 - Minimal money needs (survive on quest boards)
@@ -208,7 +208,7 @@ updated: 2025-10-25
 - **Amber can't afford to catch dream team** (knows where Gible lives, can't buy pokeball)
 - **Kyle can afford failed attempts** (family money covers losses)
 - **Most trainers have small teams** (2-3 Pokemon common, 6 is expensive)
-- **Trapinch was exceptional** (rescue situation, not purchase)
+- **Most catches are situational** (rescue, encounter, not casual purchase)
 
 ### Quest Board Income:
 - **Rattata removal:** ¥2,000-3,000 per mission
@@ -222,24 +222,26 @@ updated: 2025-10-25
 - **Pokeball:** ¥30,000 (month's worth of quest income)
 - **Flight ticket:** ¥10,000 (week of quests)
 
-**For Amber:**
-- Works quests just to eat and sleep
-- Can barely save money
-- Pokeballs are luxury she can't afford
-- Team stays at 2 (Ditto + Trapinch) all year
+**For Amber (Oak-supported):**
+- Oak provides starter funds, equipment, and supplies
+- Can afford pokeballs, Pokemon Centers, and basic living
+- Not wealthy --- working-class-plus, not elite
+- Still uses quest boards for supplemental income and experience
+- Pokeballs are still meaningful expenses, not throwaway purchases
+- Somewhere between Academy path and Walking Journey economically
 
 ---
 
 ## Class Stratification Shown Through Story
 
-### Amber (Forced Traditional, Poverty):
-- **Walking journey** (can't afford flights)
-- **No academy** (no tuition money)
-- **Self-taught** (adult knowledge helps but no formal instruction)
-- **Quest boards** (survival income, not side hustle)
-- **2 badges Year 1** (realistic for her circumstances)
-- **Small team** (Ditto + Trapinch only - can't afford more pokeballs)
-- **Failed gym attempts** = financial disaster (cooldown period, lost income time)
+### Amber (Oak-Supported, Walking by Choice):
+- **Walking journey** (chooses the road for adventure, not forced by poverty)
+- **No academy** (Oak-mentored, self-taught with adult knowledge)
+- **Oak funding** (starter funds, equipment, supplies --- not shoestring)
+- **Quest boards** (supplemental income and experience, not survival)
+- **8 badges as goal** (disrupted by weird incidents/Team Rocket, not economics)
+- **Year 1 roster:** Ditto / Charcadet / Heracross
+- **Failed gym attempts** = setback, not financial disaster
 
 ### Kyle (Traditional Choice, Privileged):
 - **Walking journey** (Dojo tradition, CHOSE this path)
@@ -259,11 +261,12 @@ updated: 2025-10-25
 
 ### Contrast Shows:
 - Resources determine progression speed
-- Talent matters, but money matters MORE
+- Talent matters, but money matters MORE for most trainers
 - Kyle + resources + Amber's help = 8 badges
-- Amber + no resources + talent = 2 badges
+- Amber + Oak support + talent = 8 badge goal (disrupted by incidents, not economics)
 - Sabrina + elite resources + talent = 8 badges solo
 - **NOT preachy** - shown through experience, not told
+- Amber's disruptions come from weird plot involvement, not poverty
 
 ---
 
@@ -291,26 +294,27 @@ updated: 2025-10-25
 
 ## Integration With Story
 
-### Amber's Economic Struggle:
-- Week 1-2: Fleeing with no money
-- Month 2: Barely scraping by on quests
-- Month 6: Still struggling, can't save
-- Month 12: Has 2 badges but couldn't afford to push for more
-- Watches Kyle succeed where she can't (class awareness)
-- Adult knowledge can't overcome poverty
+### Amber's Economic Position:
+- Oak provides starter funds, equipment, and supplies at departure
+- Properly resourced but not wealthy --- working-class-plus
+- Can afford pokeballs, Centers, basic living
+- Quest boards for supplemental income and trainer experience
+- Badge progress disrupted by incidents, not economics
+- Still sees class stratification around her (other trainers who lack her support)
 
 ### Kyle's Privilege Awareness:
 - Has resources, takes them for granted initially
-- Sees Amber struggling (uncomfortable realization)
-- "Why don't you just catch it?" (Vee) → Amber: "Can't afford the pokeball."
+- Dojo family wealth means never worrying about supplies
 - Learning: talent + money ≠ guaranteed success
-- But money + average talent often beats talent + poverty
+- But money + average talent often beats talent + limited resources
+- Class dynamics still visible through other trainers they encounter
 
 ### Tournament Dynamics:
 - **Kyle:** 8 badges (resources + Amber's help)
 - **Sabrina:** 8 badges (resources + no help needed)
-- **Amber:** 2 badges (talent but no resources)
-- Shows how class impacts outcomes
+- **Amber:** Pursuing 8 badges (Oak support + talent, disrupted by incidents)
+- Both Kyle and Amber may compete at conference
+- Class dynamics still visible through the wider trainer population
 
 ---
 
@@ -318,6 +322,6 @@ updated: 2025-10-25
 
 - Gym system: `worldbuilding/gym-system-detailed.md`
 - Quarterly conferences: `worldbuilding/quarterly-conference-system.md`
-- Amber's journey: `arcs/arc1-survival.md`
+- Current direction: `current-direction.md`
 - Kyle's character: `characters/kyle-kong.md`
 - Training culture: `wiki/lore/training-culture.md`

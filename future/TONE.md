@@ -5,7 +5,7 @@ category: core-guidance
 status: confirmed
 hidden: true
 created: 2025-10-31
-updated: 2025-10-31
+updated: 2026-03-30
 ---
 
 # Story Tone & Approach
@@ -20,8 +20,8 @@ A Pokemon adventure with realistic consequences, where characters struggle, conn
 **Make readers care about the characters.**
 
 That's it. If readers are invested in:
-- Whether Amber survives economically
-- Whether Trapinch learns to trust again
+- Whether Amber finds her footing on the road
+- Whether Heracross can fight on its own terms
 - Whether Kyle and Amber's partnership works out
 - Whether Team Rocket catches up to them
 - What happens when secrets are revealed
@@ -44,20 +44,20 @@ The story should mix:
 **Tense moments:**
 - Team Rocket battles (actual danger)
 - Gym challenges (stakes matter)
-- Wilderness survival (Route 1 is harsh)
-- Economic pressure (can't afford things)
+- Wilderness reality checks (game knowledge ≠ real experience)
+- Background threats closing in
 
 **Sorrowful moments:**
-- Delia's rejection (emotional wound)
-- Trapinch's abandonment (shared trauma)
+- Delia's unresolved tension (emotional wound)
+- Heracross judged for being the "wrong kind" of Heracross
 - Loneliness and isolation
-- Watching others succeed where you can't
+- The gap between what Amber knows and what she can do
 
 **Heartwarming moments:**
-- Brock thanking Amber for bringing Flint home
-- Trapinch choosing to trust Amber
+- Heracross finding a fighting style that's genuinely its own
 - Kyle accepting help without ego
 - Found family forming naturally
+- Small victories that feel earned
 
 **No one emotion dominates.** Events happen, characters react naturally, tone shifts as appropriate.
 
@@ -87,13 +87,13 @@ Readers can take whatever themes they want from the events. Some will see identi
 ## Writing Approach
 
 **Let events speak for themselves:**
-- Trapinch was abandoned → Amber rescues it → bond forms
-- Don't need to explicitly state "this shows worth isn't determined by utility"
+- Heracross hates fighting dirty → Amber builds a style around that → bond forms
+- Don't need to explicitly state "this shows worth isn't determined by fitting expectations"
 - Readers get it from the events
 
 **Character moments over message:**
 - Kyle learning strategy matters > thematic statement about pride
-- Amber accepting help from Flint > philosophical realization about independence
+- Amber navigating her first real wilderness day > philosophical realization about knowledge vs experience
 - Show through action, not introspection
 
 **Keep moving:**
@@ -106,29 +106,28 @@ Readers can take whatever themes they want from the events. Some will see identi
 ## What Makes This Story Work
 
 **Realistic consequences in Pokemon world:**
-- Money actually matters (pokeballs are expensive)
-- Wilderness is dangerous (Route 1 can kill you)
-- Not everyone is kind (Landon abandons Trapinch)
-- Economic class determines progression speed
+- Money matters (pokeballs are expensive, Oak funds help but aren't unlimited)
+- Wilderness is dangerous (game knowledge ≠ real survival)
+- Not everyone is kind
 - Some battles can't be won (Fighting Dojo will decline)
 
 **Characters with real problems:**
-- Amber: poor, alone, hiding secret, traumatized
+- Amber: hiding secret, not fully belonging anywhere, adult mind in teen body
 - Kyle: pressure from father, tactically weak, overconfident
-- Trapinch: abandoned, slow evolution, trust issues
+- Heracross: judged for not being the brawler everyone expects
 - Each has struggles readers can invest in
 
 **Relationships that develop naturally:**
 - Not instalove or instant friendship
-- People help each other temporarily (Flint)
+- People help each other along the way
 - Reluctant allies become friends (Kyle)
 - Bonds form through shared experiences, not speeches
 
 **Stakes that matter:**
 - Team Rocket is actually dangerous (not comic relief)
 - Secrets can have real consequences if revealed
-- Economic failure = can't continue journey
 - Failed gym attempts have cooldowns (time/money cost)
+- Weird incidents keep pulling her off the gym circuit
 
 ---
 
@@ -137,18 +136,18 @@ Readers can take whatever themes they want from the events. Some will see identi
 ### Long-Term Vision
 
 **Multi-region, multi-year journey:**
-- This is NOT a one-year story where 10-year-old becomes champion
+- This is NOT a one-year story where a teenager becomes champion
 - Realistic growth over many years and regions
 - Growing up with Pokemon gradually
 - Becoming elite through accumulated experience, not destiny
 
 **Age progression:**
-- Age 10 (Arc 1): Survival, barely scraping by
-- Age 11-12 (Arc 2-3): Competent but still learning
-- Age 13-15 (Arc 4+): Strong trainer
-- Age 16-17+ (Arc 5-6+): Elite-level capability
+- Age 13-14 (Arc 1): Learning the ropes, Oak-supported adventure
+- Age 14-15 (Arc 2-3): Competent but still learning
+- Age 15-16 (Arc 4+): Strong trainer
+- Age 17+ (Arc 5-6+): Elite-level capability
 
-**How tf can a 10-year-old be a super strong trainer?** They can't. Growth takes years.
+**Growth takes years.** Even starting at 13 with good resources, becoming elite is a long road.
 
 ---
 
@@ -158,12 +157,12 @@ Readers can take whatever themes they want from the events. Some will see identi
 
 **Arc 1: Kanto (Year 1)** - DETAILED PLANNING
 - First year as trainer in Kanto
-- Economic struggle, survival, 2 badges
-- Kyle partnership, Trapinch rescue
-- Learning to accept help
+- Semi-lighthearted adventure, Oak-supported, 8-badge goal (disrupted by incidents)
+- Charcadet + Heracross join team, Kyle partnership
+- Weird Pokemon incidents keep pulling her off the gym circuit
 
 **Arc 2: Hoenn (Years 2-3?)** - TENTATIVE
-- New region, Trapinch homeland
+- New region, fresh start
 - Team Rocket escalates
 - Secret complications
 - More growth and badges
@@ -199,6 +198,6 @@ The planning docs sometimes get heavy with thematic scaffolding. Ignore that. Th
 
 Mix fun and tension and sorrow and warmth naturally. Let events create their own meaning. Don't overthink it.
 
-If readers finish a chapter thinking "I wonder what happens to Trapinch next" or "I hope Kyle doesn't get too hurt in that gym battle" or "Oh no, will Team Rocket catch up?" then you're doing it right.
+If readers finish a chapter thinking "I wonder how Heracross handles the next fight" or "I hope Kyle doesn't get too hurt in that gym battle" or "Oh no, will Team Rocket catch up?" then you're doing it right.
 
 Everything else is gravy.

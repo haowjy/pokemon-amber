@@ -6,7 +6,7 @@ spoilers: true
 status: confirmed
 hidden: true
 created: 2025-10-25
-updated: 2025-10-25
+updated: 2026-03-30
 ---
 
 # Gym System: Pillar vs. Minor Gyms
@@ -16,7 +16,7 @@ updated: 2025-10-25
 ## Pillar Gyms (Official League-Recognized)
 
 ### Current Kanto Pillar Gyms (8 Total):
-1. **Pewter City Gym** - Rock-type (Brock/Flint)
+1. **Pewter City Gym** - Rock-type (Brock)
 2. **Cerulean City Gym** - Water-type
 3. **Vermillion City Gym** - Electric-type (Lt. Surge)
 4. **Celadon City Gym** - Grass-type (Erika)
@@ -57,12 +57,11 @@ updated: 2025-10-25
 - Provides cover for TR activities in Viridian City
 - Gym system is decentralized (no central oversight to investigate closely)
 - Giovanni competent enough to maintain standards (badges are legitimate)
-- Rare to have Flygon in Kanto (draws trainers like Landon seeking expertise)
+- Rare to have Flygon in Kanto (draws trainers seeking expertise)
 
 **Story Relevance:**
-- Landon came to Viridian seeking Flygon training expertise
-- Found no teaching, just cold battles
-- Frustration contributed to abandoning Trapinch
+- Giovanni's Ground-type mastery draws aspiring trainers
+- Known for cold, efficient battle style
 
 ---
 
@@ -250,7 +249,7 @@ updated: 2025-10-25
 
 ### Kyle's Journey:
 - **Desperate last attempt** to prove Fighting Dojo's continued relevance
-- Father (Koichi) sent him out early (age 10) to match Sabrina's timeline
+- Father (Koichi) sent him out at the standard age (14) to match Sabrina's timeline
 - U19 tournament = political proxy war
 - **Kyle's loss to Sabrina accelerates or fails to prevent inevitable decline**
 - Effort matters for character, but outcome already determined
@@ -263,4 +262,4 @@ updated: 2025-10-25
 - Quarterly system: `worldbuilding/quarterly-conference-system.md`
 - Kyle's character: `characters/kyle-kong.md`
 - Saffron politics: `plot/saffron-gym-rivalry.md`
-- Arc 1 structure: `arcs/arc1-survival.md`
+- Arc 1 structure: `arcs/arc1-kanto-year1.md`
