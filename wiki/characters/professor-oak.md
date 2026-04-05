@@ -57,8 +57,29 @@ He lets her get away with things (the ramen deflection, deflecting questions) be
 
 **The ending of ch17:** Oak starts to tell the Kitakami story when Amber asks about adventures. Gary complains he's told it a hundred times. Oak looks at Amber — warm, distant, like he's somewhere else — and says: *"I met people I wouldn't trade for anything."* He is not talking about the Kitakami outskirts.
 
+## The Post-4Ever Call
+
+After the 4Ever events, Amber calls Oak. She lost Charcadet — stolen by the Iron-Masked Marauder in the chaos. She blames Oak in the moment.
+
+Oak's position: in his memory of those events as young Sam, Charcadet wasn't stolen. The timeline diverged somewhere. He doesn't understand it and doesn't use it as a deflection — he just has no answer for her.
+
+In his memory, the girl in that forest was different. Braver. More open. Fearless in a way the person on the phone is not. He carries that gap without being able to name it. Neither of them understands what it means.
+
+Somewhere in this conversation, Amber finally opens up to Oak — tells him she's not from this world. Oak opens up in return. He tells her what he knows: that something exists beyond normal trainer-Pokemon relationships, that he's seen it at the top level, that he's been researching it for decades and still doesn't know how to train it. He points her toward it without being able to teach it.
+
+This is the pivot. Before this call, Oak is mentor and sponsor. After it, they're something closer to equals who have both been carrying things alone.
+
+## The Research
+
+Oak's Pokemon bond research is not purely academic. As a former Champion, he knows from personal experience that something exists at the top level of training — something that separates the best from the merely excellent. He doesn't have a name for it (what the Aura Guardian tradition calls "aura" is their specific tradition's term, not a universal one). He knows it's real. He knows it's likely trainable. He doesn't know the mechanism.
+
+That's why he became a researcher. The bond studies are the attempt to understand what he witnessed and felt at the peak — from the outside, since he's no longer there.
+
+See: `wiki/lore/aura-system.md`
+
 ## Notes
 
 - The Sam/4Ever connection should never be stated explicitly in the text. It lives in behavior, gaze, and small indulgences.
-- Oak knowing Amber's future is not the same as Oak controlling it. He doesn't intervene beyond what he would do anyway.
+- Oak knowing Amber's future is not the same as Oak controlling it. He doesn't intervene beyond what he would do anyway. His restraint is self-imposed — he's worried about breaking the timeline, not bound by a rule.
+- The gap between the girl he remembers and the Amber who showed up: do not explain it. Do not have either character theorize about it. It lives as something Oak carries quietly.
 - The payoff: after Amber discovers Kitakami, she can finally tell Oak what was on the other side. He spent forty years wondering.
