@@ -244,6 +244,31 @@ Regional government posts emergency response and critical infrastructure quests.
 
 **Payment:** Often includes hazard pay and bonuses, plus potential awards for exceptional service.
 
+## Quest Income vs. Journey Costs
+
+The quest board is **supplemental income**, not a survival mechanism. Understanding the economics:
+
+### What Quest Income Can Cover
+- A trainer with 1–2 Pokemon can realistically sustain themselves on Class D–C quest income — food, Pokeball costs, basic lodging, Pokemon upkeep for a small team is manageable.
+- Class C–B quests provide meaningful income for experienced trainers operating lean.
+
+### What Quest Income Cannot Cover (Full Roster)
+A trainer maintaining a full 6-Pokemon roster faces costs that quest income alone cannot meet:
+- **Pokemon food** — scales directly with team size. 6 Pokemon eating daily is a significant recurring expense.
+- **Pokeballs** — ₽200 each, and failed catches are pure loss.
+- **Medical costs** — healing 6 Pokemon after difficult battles adds up fast.
+- **Gear, transport, lodging** — baseline journey costs on top of everything else.
+
+At full roster, quest income covers expenses only in the best circumstances. Most trainers at this level have a sponsor, family money, tournament prize income, or institutional backing.
+
+### The Carry Limit as Economic Gate
+The graduated carry limit isn't just about competency — it's also an accidental economic gate. You can't legally carry 6 Pokemon until 6 badges, by which point a trainer has either secured sustainable income or dropped out. The system self-selects for trainers who can actually afford what they're carrying.
+
+### Amber's Situation
+Without Oak's sponsorship, Amber's journey isn't viable at a full roster. Quest income would cover a 1–2 Pokemon team. Oak's backing is what makes the rest possible. This isn't just gratitude — it's financial dependency with real weight. Amber knows the math.
+
+**Exception:** Amber's game knowledge lets her identify high-value quests, avoid bad risks, and optimize income better than most. She could probably make it work better than the average trainer — but it would still be marginal without Oak.
+
 ## Quest Acceptance Process
 
 1. **Browse Job Board** at Pokemon Center

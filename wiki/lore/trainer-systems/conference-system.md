@@ -55,6 +55,20 @@ The conference tier is the elite competitive layer.
 - **Role in progression:** Primary high-tier conference path tied to Elite Four and champion-track competition pipelines
 - **Participation pattern:** Many ACE trainers run the full annual circuit (Kanto -> Johto -> Hoenn -> Sinnoh)
 
+## Battle Formats & Roster Rules
+
+Tournaments use a **registration pool** system — trainers register more Pokemon than they field, then select a subset for each round.
+
+| Format | Register | Field per round |
+|--------|----------|-----------------|
+| Singles | 10 | 6 |
+| Doubles | 10 | 6 (2 active at a time) |
+| Tag Team | 10 | 3 |
+
+- Registered pool is locked at the start of the tournament
+- Field selection is made fresh each round — trainers adapt to their matchup
+- This creates strategic depth: bench Pokemon like a specialist with a niche ability can be pulled for the right opponent
+
 ## Cross-Region Badge Validity
 
 Badge eligibility is interoperable across the Big 4.

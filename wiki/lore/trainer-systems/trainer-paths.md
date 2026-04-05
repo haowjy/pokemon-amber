@@ -11,6 +11,20 @@ canon: false
 
 # Trainer Paths & Socioeconomic Class
 
+## The Journey as College
+
+The trainer journey functions as the cultural equivalent of college — a multi-year rite of passage that signals competency, discipline, and character to future employers, institutions, and society at large.
+
+**Historically:** Only wealthy families could afford to send a child out for years with Pokemon, gear, and living expenses. The journey was a mark of elite status, not a common path.
+
+**Post-war democratization:** Following the Great Unification War, government-backed loan programs made journey funding accessible to working and middle-class families as part of reconstruction and nation-building. The state had an interest in producing capable, bonded trainers — they form the backbone of regional defense, disaster response, and infrastructure maintenance.
+
+**The journey prep industry:** An entire commercial sector has emerged around journey preparation — academies, tutors, specialist breeders, gear outfitters, and coaching services. Families invest heavily in their child's journey the way they once invested in university prep.
+
+**Resume signal:** After 18, employers actively evaluate journey records — badge count, tournament results, quest history, notable incidents. A 6-badge journey with a conference appearance is a meaningful credential. A 2-badge dropout reads differently. Skipping the journey entirely and testing in at 18 is the equivalent of a GED — technically valid, socially stigmatized.
+
+**Oak backing Amber** is the equivalent of a full scholarship from the most prestigious institution in the region. It changes what's possible for her and how she's perceived.
+
 ## Overview
 
 Trainer progression in modern Kanto-Johto is strongly shaped by household resources, transport access, and institutional support. Common archetypes include academy commuters, loan-funded self-taught trainers, traditional walkers, elite private-track trainers, and non-trainer education routes.
