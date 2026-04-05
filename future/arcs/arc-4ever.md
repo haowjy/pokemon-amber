@@ -47,16 +47,15 @@ Young Oak — time-displaced by Celebi — is in the forest. Amber meets him. Oa
 
 After the events, Amber calls Oak. She's emotional. She lost Charcadet. She blames Oak.
 
-Oak's position: in his memory of those events as Sam, Charcadet wasn't stolen. The timeline diverged. He doesn't understand it.
+Oak's position: in his memory of those events as Sam, Charcadet wasn't stolen. The timeline diverged. He doesn't understand it and has no answer for her.
 
-This conversation is the first time they speak honestly with each other:
+Neither character understands the divergence. Neither names it. The reader infers.
 
-- Amber tells Oak she's not from this world
-- Oak tells her what he knows about the aura/bond system — that something exists at the champion level, that he's been researching it, that he doesn't know how to teach it
+This call damages their relationship. Amber doesn't open up. Oak can't explain himself.
 
-Neither character understands the timeline divergence. Neither names it. The reader infers.
+In the aftermath, Oak gives her practical advice — how to bond with her Pokemon properly, grounding techniques, how to listen to her team. Normal elite-trainer knowledge. He doesn't frame it as anything special, doesn't name what it is. Amber develops the rest through the work itself.
 
-This is the pivot in their relationship. Before: mentor and sponsor. After: something closer to equals carrying things alone together.
+She does not tell Oak she's not from this world. That secret stays kept.
 
 See: `wiki/characters/professor-oak.md` — the gap between who Oak remembered and who showed up.
 

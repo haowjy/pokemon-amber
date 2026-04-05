@@ -59,15 +59,17 @@ He lets her get away with things (the ramen deflection, deflecting questions) be
 
 ## The Post-4Ever Call
 
-After the 4Ever events, Amber calls Oak. She lost Charcadet — stolen by the Iron-Masked Marauder in the chaos. She blames Oak in the moment.
+After the 4Ever events, Amber calls Oak. She lost Charcadet — stolen by the Iron-Masked Marauder in the chaos. She blames Oak.
 
-Oak's position: in his memory of those events as young Sam, Charcadet wasn't stolen. The timeline diverged somewhere. He doesn't understand it and doesn't use it as a deflection — he just has no answer for her.
+Oak's position: in his memory of those events as young Sam, Charcadet wasn't stolen. The timeline diverged somewhere. He doesn't understand it. He has no answer for her.
 
-In his memory, the girl in that forest was different. Braver. More open. Fearless in a way the person on the phone is not. He carries that gap without being able to name it. Neither of them understands what it means.
+He carries the gap between who he remembered and who's on the phone without being able to explain it. Neither of them understands what it means. Neither names it.
 
-Somewhere in this conversation, Amber finally opens up to Oak — tells him she's not from this world. Oak opens up in return. He tells her what he knows: that something exists beyond normal trainer-Pokemon relationships, that he's seen it at the top level, that he's been researching it for decades and still doesn't know how to train it. He points her toward it without being able to teach it.
+This call damages their relationship. Amber doesn't open up. Oak can't explain himself. She hangs up with less trust in him than before.
 
-This is the pivot. Before this call, Oak is mentor and sponsor. After it, they're something closer to equals who have both been carrying things alone.
+What Oak does in the aftermath — not as a revelation, just as practical advice — is tell her how to actually train. How to bond with her Pokemon properly. Simple grounding techniques, how to calm herself before a battle, how to listen to what her team is telling her. Nothing mystical. The kind of thing any serious champion-level trainer knows. He doesn't frame it as anything special. He doesn't name what it is.
+
+Amber doesn't need him to. She develops it through the work itself.
 
 ## The Research
 
@@ -81,5 +83,7 @@ See: `wiki/lore/aura-system.md`
 
 - The Sam/4Ever connection should never be stated explicitly in the text. It lives in behavior, gaze, and small indulgences.
 - Oak knowing Amber's future is not the same as Oak controlling it. He doesn't intervene beyond what he would do anyway. His restraint is self-imposed — he's worried about breaking the timeline, not bound by a rule.
-- The gap between the girl he remembers and the Amber who showed up: do not explain it. Do not have either character theorize about it. It lives as something Oak carries quietly.
+- The gap between the girl he remembers and the Amber who showed up: Oak never mentions it. Not once. It lives entirely in behavior — small hesitations, moments where he looks at her slightly too long, indulgences he extends without explanation. The reader sees it. Amber doesn't.
+- The post-4Ever call is a low point in their relationship, not a breakthrough. Amber does not open up to Oak about being from another world — that secret stays kept for much longer, possibly the whole saga.
+- Oak never directly teaches Amber about aura or names the system to her. What he gives her is practical: bonding techniques, grounding before battles, how to listen to her Pokemon. She develops the rest herself.
 - The payoff: after Amber discovers Kitakami, she can finally tell Oak what was on the other side. He spent forty years wondering.
