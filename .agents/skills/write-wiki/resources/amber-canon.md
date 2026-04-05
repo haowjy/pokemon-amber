@@ -1,47 +1,50 @@
----
-description: 
-globs: wiki/*
-alwaysApply: false
----
-# Pokemon Amber Wiki Style Guide
+# Pokemon Amber Canon Rules
 
-Project-specific conventions for the *Pokemon Amber* fanfiction wiki. Complements the general Wiki Style Guide
+Project-specific conventions for the *Pokemon Amber* fanfiction wiki. Complements the general Wiki Style Guide in `../SKILL.md`.
 
 ---
 
 ## Core Requirements
 
 ### 1. Canon Divergence Documentation
+
 **All canon claims must be internet-researched and cited with URLs.**
 
-**Required for all articles:**
-- Major characters: "Canon Divergence" section
-- Minor characters: Divergence info in "Overview" 
-- Pokemon: Note behavioral/origin differences from canon
+Required for all articles:
+
+- **Major characters:** Include a dedicated "Canon Divergence" section.
+- **Minor characters:** Include divergence info inline in the "Overview" section.
+- **Pokemon:** Note any behavioral or origin differences from canon.
 
 ### 2. Fan Theory Integration
+
 - Label clearly: "Based on the fan theory that..."
-- **Must research and link sources** (Reddit, forums, fan wikis)
-- Note community acceptance level
+- **Must research and link sources** (Reddit, forums, fan wikis).
+- Note community acceptance level where known.
 
 ### 3. Source Priority
-1. Anime canon / movie canon (primary) 
+
+When sources conflict, apply this hierarchy:
+
+1. Anime canon / movie canon (primary)
 2. Game canon (secondary)
-3. Manga canon (tertiary) - but still important
-4. little pieces of other official lore (like pokemon cards, etc.)
-5. fan theories (quaternary) - but still important
+3. Manga canon (tertiary) — but still important
+4. Other official lore (e.g., Pokemon cards, merchandise)
+5. Fan theories (quaternary) — but still important
 
 ---
 
 ## Research Process
 
 **Before writing any canon content:**
-1. Search Bulbapedia for official info
-2. Cross-check Serebii.net for game details
-3. Research fan theories on Reddit/forums
-4. Document all URLs and access dates
+
+1. Search Bulbapedia for official info.
+2. Cross-check Serebii.net for game details.
+3. Research fan theories on Reddit/forums.
+4. Document all URLs.
 
 **Required Sources:**
+
 - **Canon:** Bulbapedia, Serebii.net, Pokemon Database
 - **Fan Theories:** Reddit (r/pokemonconspiracies), Bulbagarden Forums, fan wikis
 
@@ -50,6 +53,7 @@ Project-specific conventions for the *Pokemon Amber* fanfiction wiki. Complement
 ## Citation Format
 
 **Examples:**
+
 - Canon: `Professor Oak's past as Champion ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Professor_Oak))`
 - Fan Theory: `Ditto as failed Mew clones theory ([Fan Theory Wiki](https://fantheory.fandom.com/wiki/Ditto), [Reddit](https://reddit.com/r/pokemonconspiracies))`
 - Story: `Dr. Fuji's motivation revealed in ([Chapter 3](../../story/chapter3.md))`
@@ -59,6 +63,7 @@ Project-specific conventions for the *Pokemon Amber* fanfiction wiki. Complement
 ## Templates
 
 ### Canon Divergence Section
+
 ```markdown
 ## Canon Divergence
 **Official Canon ([Source URL]):** [Description]
@@ -67,6 +72,7 @@ Project-specific conventions for the *Pokemon Amber* fanfiction wiki. Complement
 ```
 
 ### Quick Inline Format
+
 ```markdown
 Dr. Fuji's grief over his daughter (anime canon) drives his research ([Chapter 1](../../story/chapter1.md)).
 ```
@@ -75,7 +81,7 @@ Dr. Fuji's grief over his daughter (anime canon) drives his research ([Chapter 1
 
 ## Special Notes
 
-- **Darker themes:** Present factually, appropriate for general audience
-- **Multiple media:** Specify which Pokemon version you're referencing
-- **Spoilers:** Use clear warnings for major plot reveals
-- **Tone:** Neutral presentation, not "corrections" to canon 
+- **Darker themes:** Present factually, appropriate for general audience.
+- **Multiple media:** Specify which Pokemon version is being referenced.
+- **Spoilers:** Use clear warnings for major plot reveals.
+- **Tone:** Neutral presentation — not framed as "corrections" to canon.

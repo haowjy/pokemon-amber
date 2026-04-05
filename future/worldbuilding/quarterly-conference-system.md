@@ -11,6 +11,8 @@ updated: 2026-03-30
 
 # Quarterly Conference System
 
+> **Wiki promotion note:** The quarterly rotation schedule, Big 4 grouping, competitive tiers, and gradual world opening concept have been promoted to `wiki/lore/trainer-systems/conference-system.md`. This file retains story timing speculation, arrival options, and tournament arc planning.
+
 **How the Big 4 regions coordinate tournament schedules**
 
 ## The Big 4 Regions (Japan Cluster)

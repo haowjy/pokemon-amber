@@ -1,0 +1,21 @@
+# Ignore everything by default
+*
+
+# Track .gitignore itself
+!.gitignore
+
+# Track project config
+!config.toml
+!models.toml
+
+# Track shared install manifest and lock
+!agents.toml
+!agents.lock
+
+# Track shared repo state
+!fs/
+!fs/**
+!work/
+!work/**
+!work-archive/
+!work-archive/**

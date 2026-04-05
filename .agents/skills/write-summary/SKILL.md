@@ -1,12 +1,13 @@
 ---
-alwaysApply: false
+name: write-summary
+description: Chapter summary format for Pokemon Amber. Use when creating _Xsummary.md files.
 ---
 
 # Chapter Summaries Style Guide
 
 This guide outlines the recommended structure and conventions for creating `_summary.md` files for each chapter. The goal is to provide concise yet detailed summaries that highlight key narrative events and potential future implications, while explicitly separating factual events from speculation. Authorial intent should be reserved for `_notes.md` files.
 
-## Structure:
+## Structure
 
 Each `_summary.md` file should adhere to the following markdown structure:
 
@@ -44,7 +45,7 @@ updated: [YYYY-MM-DD]
 *   **[Another Speculation]:** [Avoid authorial intent; keep reader-oriented.]
 ```
 
-## Key Guidelines:
+## Key Guidelines
 
 1.  **YAML Front Matter:**
     *   Always include the standard YAML front matter as shown above.
@@ -56,7 +57,7 @@ updated: [YYYY-MM-DD]
 
 3.  **Reader-first "What happens" Section:**
     *   Summarize in neutral, third-person, spoiler-aware language focused on what a reader would want to know.
-    *   Break events into 3–5 titled story beats; keep bullets scannable and concrete (no process notes).
+    *   Break events into 3-5 titled story beats; keep bullets scannable and concrete (no process notes).
     *   Avoid meta commentary, drafting rationale, or authorial intent.
 
 4.  **"Potential speculation" Section:**

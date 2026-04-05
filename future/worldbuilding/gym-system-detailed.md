@@ -11,6 +11,8 @@ updated: 2026-03-30
 
 # Gym System: Pillar vs. Minor Gyms
 
+> **Wiki promotion note:** The pillar/minor tier system, scheduling mechanics, and cooldown structure have been promoted to `wiki/lore/trainer-systems/gym-system.md`. This file retains specific gym listings, Saffron gym politics, Giovanni details, and other arc planning content.
+
 **Detailed structure of Kanto's gym network and badge requirements**
 
 ## Pillar Gyms (Official League-Recognized)

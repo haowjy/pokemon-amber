@@ -18,9 +18,12 @@ The modern Pokemon training landscape in Kanto-Johto features multiple interconn
 **Core Systems:**
 1. **[Trainer Systems & Culture](../trainer-systems.md)** - Journey tradition, licensing, gyms, schools, cultural expectations
 2. **[Badge System](./badge-system.md)** - Standard (Gym) and Elite badges; trust and League qualification
-3. **[Pokemon League](./pokemon-league.md)** - Juniors (badges) and Regular (≥1 Elite Badge + ranking)
-4. **[Ace Recognition](../organizations/ace-trainers.md)** - ≥1 Elite Badge; often recruited for government work
- 5. **[International Licensing & Travel](./international-licensing.md)** - Cross‑region license recognition, party registration, customs
+3. **[Gym System](./gym-system.md)** - Pillar vs Minor gym tiers, scheduling, cooldowns, difficulty models
+4. **[Trainer Paths](./trainer-paths.md)** - Socioeconomic class and journey archetypes (academy, walking, elite, etc.)
+5. **[Conference System](./conference-system.md)** - Big 4 quarterly tournament rotation (Grand Slam model)
+6. **[Pokemon League](./pokemon-league.md)** - Juniors (badges) and Regular (≥1 Elite Badge + ranking)
+7. **[Ace Recognition](../organizations/ace-trainers.md)** - ≥1 Elite Badge; often recruited for government work
+8. **[International Licensing & Travel](./international-licensing.md)** - Cross-region license recognition, party registration, customs
 
 These systems are distinct but often overlap in practice. A skilled trainer might pursue one, two, or all three paths depending on their goals.
 

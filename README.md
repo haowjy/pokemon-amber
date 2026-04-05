@@ -23,7 +23,7 @@ This repository is an experiment in **AI-assisted creative writing**. The story 
 - Style guidelines and voice consistency
 - Story structure and pacing feedback
 
-The `.cursor/rules/` directory contains custom prompts and style guides that help the AI understand the story's voice, tone, and conventions. The `wiki/` serves as a shared knowledge base for both human and AI to reference.
+The `.agents/skills/` directory contains style guides and writing conventions organized as Meridian skills that help the AI understand the story's voice, tone, and conventions. The `wiki/` serves as a shared knowledge base for both human and AI to reference.
 
 **Goal:** Explore how AI can augment creative writing without replacing the human author's vision and decision-making.
 
@@ -49,8 +49,7 @@ pokemon-amber/
 │   ├── arcs/                # Story arc outlines
 │   ├── lore/                # World mechanics & systems
 │   └── pok-locations/       # Location details
-└── .cursor/         # Writing guidelines & style rules
-    └── rules/
+└── .agents/skills/  # Writing style guides & conventions (Meridian skills)
 ```
 
 ### File Naming Conventions

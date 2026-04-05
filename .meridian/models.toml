@@ -1,0 +1,28 @@
+# Model catalog overrides.
+# Uncomment and edit the sections below to customize models, routing, and visibility.
+
+# [models]
+# opus = "claude-opus-4-6"            # pinned alias shorthand
+
+# [models.fast]                        # auto-resolve: picks latest match
+# provider = "google"
+# include = "flash"
+# exclude = ["-lite"]
+# description = "Quick model for simple tasks."
+
+# [models."gpt-5.4-mini"]              # key is model ID when no model_id field
+# description = "Quick and cheap for simple tasks."
+# pinned = true                         # always show regardless of filters
+
+# [harness_patterns]
+# claude = ["claude-*", "opus*", "sonnet*", "haiku*"]
+# codex = ["gpt-*", "o1*", "o3*", "o4*", "codex*"]
+# opencode = ["opencode-*", "gemini*", "*/*"]
+
+# [model_visibility]
+# include = []
+# exclude = ["*-latest", "*-deep-research", "gemini-live-*", "o1*", "o3*", "o4*"]
+# hide_date_variants = true
+# hide_superseded = true
+# max_age_days = 120
+# max_input_cost = 10.0

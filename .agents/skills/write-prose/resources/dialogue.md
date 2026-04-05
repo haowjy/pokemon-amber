@@ -1,21 +1,15 @@
----
-alwaysApply: false
----
-
 # Dialogue
 
-How to write dialogue based on the user's existing style.
+How to write dialogue for Pokemon Amber.
 
 ---
 
-## The User's Dialogue Style
+## Characters Speak From Their State
 
-### Characters Speak From Their State
+People speak from emotion/mental state, not to explain things to the reader.
 
-People speak from emotion/mental state, not to explain things to reader.
-
-**Example from their writing (Chapter 12):**
-```markdown
+**Example (Chapter 12):**
+```
 "Hey." Dr. Fuji's voice broke as he stepped onto the path. "We need to talk about Delia."
 
 Stephen stopped, briefcase shifting in his grip. His expression was guarded, but not yet afraid.
@@ -27,12 +21,14 @@ Stephen stopped, briefcase shifting in his grip. His expression was guarded, but
 
 Fuji interrupts because he's spiraling (not for plot). Stephen speaks carefully because he's scared.
 
-### Physical Action Speaks Alongside Words
+---
+
+## Physical Action Speaks Alongside Words
 
 What characters DO while talking often says more than the words.
 
-**Example from their writing (Chapter 2):**
-```markdown
+**Example (Chapter 2):**
+```
 "Do you have dresses? Ideally a white dress?" he called toward the counter. "For a child?"
 
 The girl's head lifted slowly from her magazine. She stared at him, then glanced around at the racks of tourist tees and cheap flip-flops. At the energy drinks. At the industrial bags of chips.
@@ -44,12 +40,14 @@ Dr. Fuji's jaw tightened. He turned back to the rack, pulling out the yellow Psy
 
 Her slow scan speaks volumes. His grip shows frustration.
 
-### Real Speech = Messy
+---
 
-People interrupt, trail off, restart, use fragments.
+## Real Speech Is Messy
 
-**Example from their writing (Chapter 14):**
-```markdown
+People interrupt, trail off, restart, and use fragments.
+
+**Example (Chapter 14):**
+```
 "But Mo-om," Ash dragged out the word. "It's Clair's Blastoise!"
 
 "Homework," Delia repeated, finally stepping fully into the room. Her eyes flicked briefly to me, then away. "There will probably be reruns later."
@@ -79,10 +77,9 @@ Natural interruptions, tone carries meaning, kids push boundaries.
 
 ## What to Aim For
 
-When writing dialogue for this story:
 - Show character state through HOW they speak
 - Ground conversation in physical action
-- Use fragments, interruptions, trailing off naturally
+- Use fragments, interruptions, and trailing off naturally
 - Keep Amber's internal/external voice split
 - Match speech to age and mental state
 - Use silence and non-response as communication

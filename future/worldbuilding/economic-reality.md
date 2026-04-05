@@ -11,6 +11,8 @@ updated: 2026-03-30
 
 # Economic Reality: Modern Trainer Paths
 
+> **Wiki promotion note:** The trainer path framework (class-based archetypes, social perception, why most stop at 2-4 badges) has been promoted to `wiki/lore/trainer-systems/trainer-paths.md`. This file retains character-specific positioning (Amber/Kyle/Sabrina), tournament dynamics, and detailed cost breakdowns.
+
 **How trainers ACTUALLY progress in the modern era - class stratification through path differences**
 
 ## Modern Trainer Paths (By Class)

@@ -1,19 +1,6 @@
----
-type: note
-scope: story
-category: worldbuilding
-spoilers: false
-status: active
-hidden: true
-created: 2025-10-14
-updated: 2025-10-14
----
+# Revealing World Details Organically
 
-# World-Building to Explore On-Screen
-
-**Things Amber (and readers) discover in real-time through experience**
-
-Path A's greatest strength is **on-screen discovery** - readers learn WITH Amber, not through exposition.
+Guide for how to surface worldbuilding through story rather than exposition. Readers learn WITH Amber, not through info dumps.
 
 ---
 
@@ -21,23 +8,23 @@ Path A's greatest strength is **on-screen discovery** - readers learn WITH Amber
 
 ### Wild Pokemon Behavior
 - Wild Pokemon are **territorial, not friendly**
-- Attack intruders, defend resources
-- Battles for berries, water sources, territory
+- They attack intruders and defend resources
+- Battles over berries, water sources, territory are common
 - **Death is rare but real** (not just fainting)
 - Species have general traits, but individuals have personalities
 
 ### Battle Mechanics
-- **Fainted Pokemon cannot be recalled** (vulnerability)
-- Battle sustenance system (gradual understanding)
+- **Fainted Pokemon cannot be recalled** (creates vulnerability)
+- Battle sustenance system (Amber learns this gradually)
 - Type advantages matter but aren't absolute
-- Trainer skill vs. Pokemon power balance
-- Moves learned through training, not just leveling
+- Trainer skill vs. Pokemon power is a real balance
+- Moves are learned through training, not just leveling
 
 ### Pokemon-Human Bonds
 - Energy link between trainer and active Pokemon
 - Backlash when Pokemon faint (cumulative)
-- Six-Pokemon limit is physiological, not arbitrary
-- Trust builds over time, not instant
+- The six-Pokemon limit is physiological, not arbitrary
+- Trust builds over time, not instantly
 - Pokemon choose to follow commands (not mind control)
 
 ---
@@ -45,17 +32,17 @@ Path A's greatest strength is **on-screen discovery** - readers learn WITH Amber
 ## Trainer Culture
 
 ### Economic Realities
-- **Pokeballs expensive** (₽200 each - significant cost)
+- **Pokeballs are expensive** (₽200 each — significant cost)
 - **Quests pay low** (₽50-200 for basic work)
 - Most trainers struggle financially
 - Rich kids have massive advantages (bred Pokemon, supplies, tutors)
 - Many quit due to money running out
 
 ### Journey as "College"
-- **Cultural expectation** to attempt journey (ages 13-15 typical)
-- Not trying = social stigma, limited job prospects
-- **Most fail/quit after 2-3 badges** (respectable outcome)
-- Journey proves work ethic, not necessarily success
+- **Cultural expectation** to attempt a journey (ages 13-15 typical)
+- Not trying = social stigma and limited job prospects
+- **Most fail/quit after 2-3 badges** (this is still a respectable outcome)
+- The journey proves work ethic, not necessarily success
 - Parents save for years to fund their kids' journeys
 
 ### Social Hierarchies
@@ -66,48 +53,48 @@ Path A's greatest strength is **on-screen discovery** - readers learn WITH Amber
 - Ace Trainers (Elite Badge) = regional celebrities
 
 ### Sponsorship Systems
-- **Professor starters** = prestigious, rare (Oak's students)
-- **Gym scholarships** = talented trainers get support/training
+- **Professor starters** = prestigious and rare (Oak's students)
+- **Gym scholarships** = talented trainers get support and training
 - **Ranger programs** = government-funded public service track
-- **Family Pokemon** = breeding operations for children's starters
+- **Family Pokemon** = breeding operations funding children's starters
 - **Corporate sponsors** = rare, high-achievers only (Silph Co., Devon Corp)
 
-### Common Outcomes
+### Common Journey Outcomes
 - **2-3 badges:** Respectable, demonstrates work ethic, employable
-- **4-6 badges:** Very successful, management/specialist positions
-- **7-8 badges:** Elite achievement, leadership track, celebrity
+- **4-6 badges:** Very successful, opens management/specialist positions
+- **7-8 badges:** Elite achievement, leadership track, celebrity status
 - **Conference qualification:** Top 1%, can pursue Champion path if desired
-- Most return to: gym employment, breeding, Pokemon Centers, Rangers
+- Most return to: gym employment, breeding operations, Pokemon Centers, Rangers
 
 ---
 
 ## Post-War World
 
 ### Orphan Crisis
-- **Orphans common** throughout region
-- Registry chaos (forged documents easier, like Amber's)
-- Many war orphans on journeys early (necessity, not choice)
+- **Orphans are common** throughout the region
+- Registry chaos (forged documents are easier to obtain, like Amber's)
+- Many war orphans on journeys early out of necessity, not choice
 - Social services overwhelmed
 - Some towns have orphan programs (Lavender Tower?)
 
 ### Reconstruction
 - **Some towns still rebuilding** from war damage
-- Infrastructure gaps (routes less maintained in areas)
-- Economic disparities widened by war
-- Military/Ranger presence higher than pre-war
-- Veterans working as trainers, guards, Rangers
+- Infrastructure gaps (routes less maintained in certain areas)
+- Economic disparities widened by the war
+- Military and Ranger presence higher than pre-war
+- Veterans working as trainers, guards, and Rangers
 
 ### Security State
 - **Team Rocket dismissed as conspiracy theories** (at first)
-- People want normalcy, ignore warning signs
+- People want normalcy and ignore warning signs
 - Government surveillance increased but inefficient
-- Registration systems tighter (but still exploitable)
-- Paranoia about "next war" vs. complacency
+- Registration systems tighter but still exploitable
+- Tension between paranoia about "next war" and complacency
 
 ### Military/Ranger Presence
 - Rangers patrol routes more actively
 - Military has stronger Pokemon divisions
-- Some strong trainers recruited for defense
+- Some strong trainers are recruited for defense
 - Weapons technology advancing (equalizing vs. Pokemon)
 - Tension between traditional (Pokemon) and modern (military) power
 
@@ -116,7 +103,7 @@ Path A's greatest strength is **on-screen discovery** - readers learn WITH Amber
 ## Gym System
 
 ### Gym Leader Roles
-- **Local governors** managing cities/towns
+- **Local governors** managing cities and towns
 - First line of defense for their regions
 - Set badge standards (Elite vs. Basic)
 - Economic leaders (gyms employ trainers)
@@ -125,9 +112,9 @@ Path A's greatest strength is **on-screen discovery** - readers learn WITH Amber
 ### Badge System
 - **Basic Badge** = competency demonstrated
 - **Elite Badge** = exceptional skill, Ace Trainer status
-- Each gym sets own standards
+- Each gym sets its own standards
 - Badges = trust, not just battle wins
-- Progression isn't linear (can challenge any gym, but harder gyms last)
+- Progression isn't linear (can challenge any gym, but harder gyms typically last)
 
 ### Gym Economies
 - Employ trainers for various roles
@@ -143,7 +130,7 @@ Path A's greatest strength is **on-screen discovery** - readers learn WITH Amber
 - Expensive precision engineering (Silph Co. monopoly)
 - Different grades (basic, great, ultra = different costs/quality)
 - Recall only works on conscious Pokemon
-- Energy signature links Pokemon to ball
+- Energy signature links Pokemon to their ball
 - Black market balls exist (lower quality, risky)
 
 ### Pokemon Centers
@@ -157,26 +144,26 @@ Path A's greatest strength is **on-screen discovery** - readers learn WITH Amber
 - Pokegear = expensive (₽1000+)
 - Not everyone has one (Amber doesn't at first)
 - Phone booths in towns
-- Letters/mail still common
+- Letters and mail still common
 - News travels through broadcasts and word-of-mouth
 
 ---
 
-## Discovery Method (Show, Don't Tell)
+## How to Reveal This World
 
 ### Through Experience
 - Amber learns by doing (trial and error)
 - Mistakes have consequences
 - Other trainers share knowledge informally
-- Observations contradict meta knowledge
-- Gradual understanding, not info dumps
+- Observations contradict her meta-knowledge from games
+- Understanding is gradual, never an info dump
 
 ### Through Conversations
-- Casual dialogue reveals culture
-- Other trainers mention "common knowledge"
+- Casual dialogue reveals culture naturally
+- Other trainers mention things as "common knowledge"
 - Overheard conversations provide context
 - Questions to Pokemon Center staff, Rangers, etc.
-- Mary or other companions explain things naturally
+- Companions (Mary or others) explain things naturally in context
 
 ### Through Consequences
 - Running out of money teaches economics
@@ -187,7 +174,7 @@ Path A's greatest strength is **on-screen discovery** - readers learn WITH Amber
 
 ---
 
-## Integration Notes
+## Integration Guidelines
 
 **Don't:**
 - Info dump worldbuilding in exposition
@@ -201,13 +188,3 @@ Path A's greatest strength is **on-screen discovery** - readers learn WITH Amber
 - Demonstrate consequences of world rules
 - Layer understanding gradually over chapters
 - Trust readers to infer from context
-
----
-
-## Related Files
-
-- Core path: `current-direction.md` (on-screen discovery strength)
-- Arc 1: `arcs/arc1-kanto-year1.md` (economic/survival realities)
-- License system: See wiki/lore/trainer-systems/trainer-licensing.md
-- Gym system: See wiki/lore/trainer-systems/gym-system.md
-- Champion government: See wiki/lore/government/champion-system.md
