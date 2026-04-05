@@ -270,16 +270,34 @@ Professor Oak let out a strange, dry chuckle, "It was overburdened in the War. T
 
 "Oh..." I sighed, feigning disappointment. Internally, however, a part of my mind seized on his words. The War. That single phrase confirmed a crucial piece of lore, a dark background detail that only fanfictions covered.
 
-Professor Oak smiled knowingly as his gaze lingered over me and he asked a seemingly simple question, "How old are you, Amber?"
+"How old are you, Amber?" he asked.
 
 A bead of sweat dripped from my forehead as I hesitantly answered, "I don't know... Why do you ask, Professor?"
 
 A jolt of pure panic shot through me as I started to glance around the room for anything else to change the conversation to.
 
-Professor Oak simply replied, "No reason. I was just curious."
+Professor Oak's brow furrowed slightly at that---just for a moment. "I was wondering how long you have until your journey," he said.
 
-"Oh..." 
+The word snagged. Journey.
 
-My eyes darted to the TV, where a flashy commercial had replaced the Pokemon battle. A cartoon bowl of noodles danced across the screen. My panicked mind latched onto it like a life raft.
+"Wait---when can I go?" I asked, leaning forward before I could stop myself. "On my journey, I mean. Is there an age requirement, or---"
 
-"So then..." I blurted out, the words tasting like nonsense. "What's your favorite instant ramen?"
+"Fourteen, typically," Oak said, his professorial tone returning. "After middle school. There's a competency exam, equipment, licensing... a process. Given your situation, we'll need to sort out guardianship first before any of that."
+
+"Right," I said. "Right, of course."
+
+He was quiet for a moment. His gaze drifted somewhere past me, unfocusing.
+
+"That's when I left, too," he said, almost to himself. "Barely knew what I was doing. The world felt..." He paused, searching for the word. "Very large."
+
+"Any cool adventures?" I asked.
+
+Something shifted in his expression. The professorial tone dropped away entirely.
+
+"There was one," he said. "I'd heard a rumor---a lost village, deep in the mountains, that nobody had ever found. Nobody even knew if it was real." A faint smile crossed his face. "I was seventeen and very confident."
+
+From across the room, the TV had gone quiet. Ash had turned around on the couch, chin resting on his folded arms, watching Oak with wide eyes. Even Gary had swiveled in his chair.
+
+"I've heard this story a hundred times, Gramps," Gary said flatly. "Blah blah blah, dragon den, blah blah blah, Charizard evolves."
+
+"But Amber hasn't heard it," Oak said, unbothered. He turned to me, warm. "I'll start from the beginning."

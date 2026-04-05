@@ -4,19 +4,13 @@ category: pokemon-teams
 title: Amber MC — Team Planning (Spoilers)
 status: draft
 hidden: true
-updated: 2026-03-30
+updated: 2026-04-05
 canon: false
 ---
 
 # Amber MC — Team Planning (Spoilers)
 
-This page tracks plausible team composition for Amber across arcs, with habitats, roles, and narrative guardrails. It assumes rare non‑Kanto species can appear off‑route in dangerous biomes per setting rules.
-
-## Anchors (Confirmed)
-
-- Ditto — identity/agency pillar; perfect copy variant; not to be sidelined. Foundational bond, mirror, comfort, identity. Established in chapters 1-17. Emotionally central, intimate.
-- Charcadet — Journey Pokemon: ambition, drive, intensity. Not yet settled --- evolves into Armarouge or Ceruledge (TBD). Signals momentum and becoming. Strong identity tension (unsettled future shape).
-- Heracross — Pain-averse, cleanliness-obsessed, hates getting dirty/hurt. Dislikes close combat despite being physically built for it. Judged/bullied by other Pokemon and trainers for seeming "wrong" for a Heracross. Amber does NOT force it into brawler role. Develops **technical, repeated-strike, multi-hit fighting style** --- precise rather than tanky. Adds warmth, physicality, comedy, battle presence. Resonates with Amber through mismatch/misread identity (not one-to-one mirror). Later Mega Heracross payoff possible.
+This page tracks Amber's confirmed roster and candidate pool. Acquisition timing and location are left open until story needs clarify them. Non-Kanto species are fair game --- rarity must be earned via risk, not convenience.
 
 ## Team Philosophy
 
@@ -24,167 +18,133 @@ This page tracks plausible team composition for Amber across arcs, with habitats
 
 ## Guiding Constraints
 
-- Small roster Year 1 (3 mons: Ditto / Charcadet / Heracross).
-- Off‑route rarity is earned via risk, not convenience.
-- Additions must not eclipse Ditto’s versatility.
-- Stones/special gear are mid‑term “quests,” not freebies.
+- Additions must not eclipse Ditto's versatility.
+- Off‑route or rare species require narrative cost.
+- Stones/special gear are mid‑term "quests," not freebies.
 
-## Year 1 Roster (Confirmed)
+---
 
-- **Ditto** — established bond from chapters 1-17
-- **Charcadet** — acquisition TBD (where/how open question)
-- **Heracross** — acquisition TBD (where/how open question)
+## Confirmed Roster
 
-## Year 1 Additional Candidates (If Roster Expands)
+- **Ditto** — Identity/agency pillar; perfect copy variant; not to be sidelined. Foundational bond, mirror, comfort, identity. Established in chapters 1–17. Emotionally central, intimate.
 
-- Elekid (Johto) — Power Plant periphery/maintenance yards at dusk
-  - Role: Anti‑Water/Flying pressure.
-  - Hooks: power theft subplot; Ranger scrutiny; charging regimen.
-  - Cost: moderate gear; evolves late, won’t dominate early.
+- **Charcadet** *(2nd Pokemon acquired, after Ditto; permanently stolen by Team Rocket)* — Journey Pokemon: ambition, drive, intensity. Acquired very early --- Amber's second Pokemon --- so the bond is deep before the theft. **Stolen by Team Rocket and evolved into Ceruledge under their control** --- its armor is shaped by malice and regret rather than honor. The Armarouge/Ceruledge choice is resolved by the story, not the author. Becomes a recurring Rocket Pokemon Amber recognizes. Core question: can it be reached? Does it remember her? Its loss is a radicalizing event --- a primary driver of Amber's campaign against Team Rocket.
+  - **Theft timing:** Late Year 1 or shortly after, but crucially *after* the Pokemon 4Ever plot point --- the moment Amber realizes the world's story is happening to her and she may be a protagonist. The theft is her first major loss as someone who now understands what she's in. Her metagame knowledge didn't protect her. That failure is part of what radicalizes her.
 
-- Gastly (Kanto) — Lavender outskirts; minor Ghost Gym mentorship
-  - Role: Anti‑Psychic utility; status/fear management.
-  - Hooks: consent/ethics training; clergy oversight; licensing module.
-  - Cost: low capture; high handler time.
+- **Heracross** — Pain-averse, cleanliness-obsessed, hates getting dirty/hurt. Dislikes close combat despite being physically built for it. Judged/bullied by other Pokemon and trainers for seeming "wrong" for a Heracross. Amber does NOT force it into brawler role. Develops **technical, repeated-strike, multi-hit fighting style** --- precise rather than tanky. Adds warmth, physicality, comedy, battle presence. Resonates with Amber through mismatch/misread identity (not one-to-one mirror). Later Mega Heracross payoff possible.
 
-- Shellder (Kanto) — Vermilion piers/kelp beds at night
-  - Role: Water mobility; early Ice coverage.
-  - Hooks: rescue crew collab; prize/sponsor for Water Stone.
-  - Cost: low upkeep; stone is gated.
+---
 
-## Year 2–3 Candidates (Selective Growth)
+## Candidate Pool
 
-- Gligar → Gliscor (Johto cliffs Route 9–10)
-  - Night scout, grapples; desert synergy; evolves late.
+### Electric Slot (pick one)
 
-- Lanturn (Seafoam deeps/Johto shoals)
-  - Ocean mobility, lighting, SAR partner; Volt Absorb pivot.
+- **Elekid** — Anti‑Water/Flying pressure. Scrappy, urban energy. Hooks: power theft subplot; Ranger scrutiny; charging regimen. Moderate gear cost; evolves late.
 
-- Skarmory (Mt. Silver skirts/highlands)
-  - Logistics, line defense; expensive maintenance → sponsor goal.
+- **Mareep** *(competes with Elekid)* — Anti‑Water/Flying pressure; steadier, warmer presence. Hooks: Ampharos lighthouse/navigation identity; gentle temperament contrasts team's intensity. Slow evolver; Ampharos is a late-arc payoff. Mega Ampharos (Dragon) possible prestige endpoint. Flavor distinction: luminous/steady vs. Elekid's urban/aggressive.
 
-- Croagunk → Toxicroak (Fuchsia wetlands/industrial runoff)
-  - Anti‑Psychic/Steel via toxins; HazMat training arcs.
+### Ghost Slot
 
-- Duskull → Dusclops (Lavender hinterlands/Cinnabar graves)
-  - “Ghost work” partner; restraint/consent ethics.
+- **Gastly** — Anti‑Psychic utility; status/fear management. Hooks: consent/ethics training; clergy oversight; licensing module. Low capture cost; high handler time.
 
-- Baltoy → Claydol (Route 11 arid ruins)
-  - Area control, mapping, hazard clearing; complements Ground theme.
+- **Duskull → Dusclops** — "Ghost work" partner; restraint/consent ethics. Slower burn than Gastly.
 
-- Meditite → Medicham (Saffron retreats)
-  - Bridges Fighting Dojo/Psychic factions; discipline focus.
+### Water Slot
 
-Late/sponsor‑gated specials: Rotom (tech infiltration), Weavile (night ops), Torkoal (forge/logistics), Milotic (prestige). Avoid pseudo‑legendaries and corporate magnets (Eevee, Porygon) until you want “celebrity target” problems.
+- **Shellder** — Water mobility; early Ice coverage. Hooks: rescue crew collab; Water Stone gated by prize/sponsor.
+
+- **Lanturn** — Ocean mobility, lighting, SAR partner; Volt Absorb pivot. Better suited to later arcs with sea travel.
+
+### Ground/Steel
+
+- **Drilbur → Excadrill** — Ground/Steel coverage. Mold Breaker ability. Relentless, single-minded personality --- workaholic energy contrasts Heracross's reluctance. Practical utility: digging, tunnel work, search-and-rescue. Strong late-game; manage power creep carefully.
+
+### Utility / Later Additions
+
+- **Gligar → Gliscor** — Night scout, grapples; desert synergy; evolves late.
+
+- **Skarmory** — Logistics, line defense; expensive maintenance → sponsor goal.
+
+- **Croagunk → Toxicroak** — Anti‑Psychic/Steel via toxins; HazMat training arcs.
+
+- **Baltoy → Claydol** — Area control, mapping, hazard clearing.
+
+- **Meditite → Medicham** — Bridges Fighting Dojo/Psychic factions; discipline focus.
+
+### Sponsor/Late-Gated
+
+Rotom (tech infiltration), Weavile (night ops), Torkoal (forge/logistics), Milotic (prestige).
+
+Avoid pseudo‑legendaries and corporate magnets (Eevee, Porygon) until you want "celebrity target" problems.
+
+---
 
 ## Willingly Left — Agency Outcomes (Use Sparingly)
 
-- Heracross → Forest guardian
-  - Trigger: anti‑poaching arc; chooses to defend sap/nest.
-
-- Shellder → Lighthouse/rescue partner
-  - Trigger: Vermilion storm rescues; stays with crew.
-
-- Gastly → Lavender mentorship
-  - Trigger: apprenticeship; serves restless spirits under oversight.
-
-- Croagunk → Ranger HazMat team
-  - Trigger: industrial spill; transfers for greater good.
-
-- Lanturn → Coast Guard/lighthouse
-  - Trigger: storm season; infrastructure bond stronger than road life.
+- **Heracross** → Forest guardian. Trigger: anti‑poaching arc; chooses to defend sap/nest.
+- **Shellder** → Lighthouse/rescue partner. Trigger: storm rescues; stays with crew.
+- **Gastly** → Lavender mentorship. Trigger: apprenticeship under clergy oversight.
+- **Croagunk** → Ranger HazMat team. Trigger: industrial spill; transfers for greater good.
+- **Lanturn** → Coast Guard/lighthouse. Trigger: storm season; infrastructure bond stronger than road life.
 
 Rule: one, max two, across saga; frame as mutual choice with on‑screen conversation.
 
+---
+
 ## Rocket Theft — Credible Cases
 
-- Murkrow (urban scout)
-  - MO: rooftop net + recall jammer during Celadon stakeout.
-  - Stakes: OPSEC breach; safehouses/decoys needed.
-  - Outcome: recovered within arc; lingering trust issues.
+- **Charcadet** *(permanent --- the central theft)* — Stolen early in the journey; evolves into Ceruledge under Rocket. This is not recovered. It becomes a Rocket asset and a recurring antagonist Amber has a personal relationship with. The theft radicalizes Amber and sets her on a collision course with Team Rocket.
+- **Murkrow** — Rooftop net + recall jammer during Celadon stakeout. Stakes: OPSEC breach. Outcome: recovered; lingering trust issues.
+- **Elekid/Mareep** — Electric-type targeted for power utility. Stakes: PR/legal heat; Ranger cooperation → ally earned. Outcome: recovered.
+- **Heracross** — Pheromone lure + dart; Game Corner pipeline. Outcome: recovered or converts to "willingly left."
+- **Shellder** — Ferry inspection ruse; leverage against Amber. Outcome: quick recovery.
 
-- Elekid (Power Plant)
-  - MO: maintenance impostors; ball‑spoof + insulated crate.
-  - Stakes: PR/legal heat; Ranger cooperation → ally earned.
-  - Outcome: recovered; install charge‑limit tags, ball PINs.
+Hard rule: Ditto thefts resolve fast as bottle episodes to showcase Ditto's agency and Rocket limits. All other thefts besides Charcadet resolve within the arc.
 
-- Heracross (poacher crossover)
-  - MO: pheromone lure + dart; Game Corner pipeline.
-  - Stakes: forces community vs. ownership choice.
-  - Outcome: recovered or converts to “willingly left.”
-
-- Shellder (dock snatch)
-  - MO: ferry inspection ruse; leverage against Amber.
-  - Outcome: quick recovery; add waterproof tethers.
-
-Hard rule: Ditto thefts resolve fast as bottle episodes to showcase Ditto’s agency and Rocket limits.
-
-Black‑Market Interface:
-- Independent poachers use cages/sedatives and sell to Rocket; these targets cannot be legally registered in that state (no ball handshake). Rescues focus on stabilization first.
+Black‑Market Interface: Independent poachers use cages/sedatives and sell to Rocket; targets cannot be legally registered. Rescues focus on stabilization first.
 
 ### Rocket MO Notes
 
 - Forged Ranger badges/appointments; recall spoofers; Faraday crates; Silph‑grade cloners.
 - Lures (honey/pheromones) for Bug/Fighting; charge‑drain traps for Electrics.
-- Social engineering: fake weigh‑ins, “quarantine checks,” dock inspections.
+- Social engineering: fake weigh‑ins, "quarantine checks," dock inspections.
+
+---
 
 ## Security Protocols (Training Beats)
 
 - Ball PINs + rolling codes; Faraday pouch for active balls in crowds.
 - Anti‑snatch leashes at docks/rooftops; decoy belts/dummy balls in markets.
-- “Break capture” drills: resist forced recall; sprint‑to‑crowd protocols.
-- Handler habits: buddy system at night; encrypted notes (no “Ditto” on paper).
+- "Break capture" drills: resist forced recall; sprint‑to‑crowd protocols.
+- Handler habits: buddy system at night; encrypted notes (no "Ditto" on paper).
+
+---
 
 ## Sacrifice/Death Policy (Extreme, Optional)
 
 Use once, if at all; aim for necessity and aftermath over shock.
 
-- Electrode — trained self‑destruct to halt chemical fire/tunnel collapse
-  - Clear consent; legal/ethical investigation; visible policy change after.
-
-- Shedinja — fragile guardian shatters protecting a civilian/Amber
-  - Symbolic; avoids killing a long‑bonded partner.
-
-- Murkrow/Honchkrow — rooftop extraction fatality (if dark urban arc)
-  - Focus on chosen family, cost of shadows.
-
-- Croagunk/Toxicroak — toxin neutralization at personal cost
-  - Ties directly to role; spurs Ranger reforms.
+- **Electrode** — Trained self‑destruct to halt chemical fire/tunnel collapse. Clear consent; legal/ethical investigation; visible policy change after.
+- **Shedinja** — Fragile guardian shatters protecting a civilian/Amber. Symbolic; avoids killing a long‑bonded partner.
+- **Murkrow/Honchkrow** — Rooftop extraction fatality (if dark urban arc). Focus on chosen family, cost of shadows.
+- **Croagunk/Toxicroak** — Toxin neutralization at personal cost. Ties directly to role; spurs Ranger reforms.
 
 Alternatives: medical retirement/sanctuary, permanent transfer to orgs, or ecological release.
 
 Guardrails: exhaust non‑lethals on‑screen; show investigations, grief, new protocols, and move‑set shifts.
 
-## Roadmaps (Examples)
-
-- Logistics Path (safer): Year 2 add Gligar + Lanturn; later Skarmory; no deaths; one retirement arc.
-- Dark City Path (riskier): Year 2 add Croagunk + Murkrow; mid‑arc Electrode mission‑only death saving civilians; long fallout.
+---
 
 ## Region Plan & Transitions
 
-- Year 1 — Kanto only
-  - Establish licensing, Oak-supported departure, and Ditto/Charcadet/Heracross core. Goal: 8 badges, disrupted by incidents.
+- **Kanto** — Establish licensing, Oak-supported departure, Ditto/Charcadet/Heracross core. Goal: 8 badges, disrupted by incidents.
+- **Kanto wrap** — Complete remaining gyms if disrupted; security upgrades post-theft.
+- **Transition trigger** — Two successful Rocket thefts within ~60 days (even if recovered), plus one secondary factor: denied gym rematch, sponsor offer contingent on relocation, Ranger advice, or Amber's own line "I am not bait."
+- **Post-Kanto (region TBD)** — Ecology shift justifies new additions. Possible regions: Johto, Hoenn, Sinnoh (tone hardens; history/identity themes sync with Amber).
 
-- Year 2 — Kanto wrap (if needed)
-  - Complete remaining gyms if Year 1 disrupted; security upgrades after theft incidents.
+Migration logistics: show registration scan, health stamp, insurance proof. Small friction (flagged spore user, invasive-risk egg hold) grounds the travel.
 
-- Transition Trigger (exit Kanto): choose one primary + one secondary factor
-  - Primary: Two successful Rocket thefts within ~60 days (even if both recovered), demonstrating active targeting that endangers bystanders.
-  - Secondary options: denied gym rematch due to security concerns; sponsor offer contingent on relocation; Ranger advice to clear heat; personal line “I am not bait.”
-  - Paperwork: follow International League Compact rules (see lore/trainer-systems/international-licensing.md). No hard ban on cross‑region teams—register balls, pass quick health checks, carry insurance.
-
-- Year 3+ — Post-Kanto (region TBD)
-  - Ecology shift justifies new team additions. Candidate adds: Torkoal (Cinnabar tie), Shroomish/Breloom, Feebas→Milotic only with sponsor.
-  - Antagonists: Rocket offshoots replaced by regional villain teams; ball‑cloner tech shows up as black‑market imports.
-
-- Later arcs — Sinnoh possibility
-  - Tone hardens (mountains, cold, ruins). Candidate adds: Gligar→Gliscor, Weavile, Rotom (after strong League backing). Themes of history/identity sync with Amber.
-  - League note: mixed badges from Big 4 remain valid for juniors; seeding accounts for prestige but does not invalidate cross‑region sets.
-
-Migration Logistics (on‑screen beats):
-- Port choice: Vermilion→Slateport (Hoenn) or Indigo rail→Canalave (Sinnoh) with brief customs scenes.
-- Show registration scan of ball serials, health stamp check, and insurance proof.
-- Small friction: flagged spore user requires mask kit; invasive‑risk egg held for 24‑hour observation.
+---
 
 ## Cross‑Refs
 
