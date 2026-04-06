@@ -6,7 +6,7 @@ spoilers: true
 status: active
 hidden: true
 created: 2025-10-14
-updated: 2026-03-30
+updated: 2026-04-05
 ---
 
 # Open Questions to Decide Later
@@ -47,20 +47,7 @@ updated: 2026-03-30
 
 ## Plot Thread Decisions
 
-### 4. Team Rocket introduction timing?
-**Affects:** Threat escalation pace, which incidents disrupt Amber's gym circuit
-
-Team Rocket is confirmed as **escalating background threat** in Arc 1. The question is pacing:
-
-**Options:**
-- Early minor encounter (Arc 1 first third) escalating to interference by year-end
-- Mid-arc first encounter, rapid escalation
-- Mostly surveillance in Arc 1, active pursuit starts Arc 2
-- Multiple phases with gaps (encounter -> quiet -> encounter)
-
-**Note:** TR interest is in Ditto (failed Mew clone). Their interference is one of the things disrupting Amber's badge schedule.
-
-**Urgency:** Medium - affects incident planning for Arc 1
+### ~~4. Team Rocket introduction timing?~~ → DECIDED (see Decision Log)
 
 ---
 
@@ -128,18 +115,7 @@ Less urgent now that the early team is Ditto/Charcadet/Heracross. Vee is a later
 
 ## New Questions (From 2026-03-30 Pivot)
 
-### 13. Charcadet acquisition: where/how?
-**Affects:** Early journey pacing, team formation
-
-Charcadet is not native to Kanto. How does Amber encounter one?
-
-**Options:**
-- Imported/escaped Pokemon situation
-- Gift or trade
-- Found during an incident
-- Encountered in unusual location (ruins, volcanic area)
-
-**Urgency:** High - needs to happen in Arc 1
+### ~~13. Charcadet acquisition: where/how?~~ → DECIDED (see Decision Log)
 
 ---
 
@@ -217,11 +193,9 @@ If Amber competes, she needs opponents worth writing. Who are they?
 ## Decision Priority
 
 **High urgency (Arc 1 planning):**
-- #13 (Charcadet acquisition)
-- #14 (Heracross acquisition)
+- #14 (Heracross acquisition — when/where, now not tied to Arc 1 specifically)
 
 **Medium urgency (Arc 1 structure):**
-- #4 (Team Rocket timing/pacing)
 - #8 (Kyle meeting context)
 - #17 (Conference outcome)
 - #18 (Badge count Year 1)
@@ -243,6 +217,35 @@ If Amber competes, she needs opponents worth writing. Who are they?
 ## Decision Log
 
 *Questions moved here once decided, with date and chosen option.*
+
+---
+
+### ✅ DECIDED: Charcadet Acquisition (2026-04-05)
+**Original Question:** #13 — Where/how does Amber get Charcadet?
+
+- **Chosen:** Route 1 cave, Day 2. TR operation. Charcadet was already inside causing chaos when TR arrived. Amber encounters it during escape from the operation, acquires it in the cave.
+- **Detail:** Not native to Kanto — exact origin TBD (wandered in, loose in cave system, etc.)
+- **Affected files:** `arcs/arc1-kanto-year1.md`, `saga-overview.md`
+
+---
+
+### ✅ DECIDED: Teddiursa Acquisition (2026-04-05)
+**New question, immediately decided**
+
+- **Chosen:** Route 1 cave, Day 2. Same TR operation. TR captured his mother (Ursaring) opportunistically when she wandered into their operation. Teddiursa attacks Amber (blows her cover), gets tied up with her, saws through the rope when she promises to find Ursaring. Joins pragmatically — deal made, nowhere else to go, she went into the cave.
+- **Ursaring:** Already transferred offsite. Promise partially open. Ursaring is still out there.
+- **Replaces Heracross as 3rd Arc 1 Pokemon.** Heracross acquisition question (#14) remains open — no longer Arc 1 specific.
+- **Affected files:** `arcs/arc1-kanto-year1.md`, `saga-overview.md`
+
+---
+
+### ✅ DECIDED: Team Rocket Introduction Timing (2026-04-05)
+**Original Question:** #4 — When does TR first appear?
+
+- **Chosen:** Day 2 of Route 1. First encounter IS the cave operation. TR is present almost immediately.
+- **What they were doing:** Ore deposit with Mew-adjacent energy readings (flagged as possible Mew/legendary trace). Turned out to be Mega Stone ore deposit, not Mew. They wanted it regardless — part of rebuilding legendary capture operations post-Mewtwo escape (ch6).
+- **Pacing established:** TR starts active (not just surveillance) from the very start of the journey. Amber's first incident IS a TR op.
+- **Affected files:** `arcs/arc1-kanto-year1.md`, `plot/_mewtwo-thread.md`
 
 ---
 

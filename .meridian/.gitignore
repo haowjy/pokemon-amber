@@ -9,8 +9,6 @@
 !models.toml
 
 # Track shared install manifest and lock
-!agents.toml
-!agents.lock
 
 # Track shared repo state
 !fs/

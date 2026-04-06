@@ -1,0 +1,8 @@
+[dependencies.meridian-base]
+url = "https://github.com/haowjy/meridian-base"
+
+[settings]
+targets = [
+    ".agents",
+    ".claude",
+]

@@ -282,7 +282,7 @@ The word snagged. Journey.
 
 "Wait---when can I go?" I asked, leaning forward before I could stop myself. "On my journey, I mean. Is there an age requirement, or---"
 
-"Fourteen, typically," Oak said, his professorial tone returning. "After middle school. There's a competency exam, equipment, licensing... a process. Given your situation, we'll need to sort out guardianship first before any of that."
+"Fourteen, typically," Oak said, his professorial tone returning. "Usually after middle school and only if you pass the liscence test."
 
 "Right," I said. "Right, of course."
 

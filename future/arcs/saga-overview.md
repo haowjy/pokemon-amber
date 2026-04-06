@@ -27,9 +27,9 @@ High-level map of Amber's journey from start to peak. Individual arc files conta
 ### Arc 1 — Kanto: Journey Start
 **Amber age:** 13 | **Region:** Indigo (Kanto)
 
-Licensed departure from Pallet. Oak-supported. Amber is equipped but untested — game knowledge ≠ real wilderness. Acquires Charcadet (2nd Pokemon) and Teddiursa (3rd Pokemon). Meets Kyle Kong. Badge progression begins, disrupted by incidents. Team Rocket is an escalating background threat. Celadon reached; first glimpse of quest board.
+Licensed departure from Pallet. Oak-supported. Amber is equipped but untested — game knowledge ≠ real wilderness. Day 2 on Route 1: off-trail detour into a TR operation. Acquires Charcadet (2nd Pokemon) and Teddiursa (3rd Pokemon) from the chaos. Pockets a raw ore from the TR camp — doesn't know what it is. Viridian Gym is her **first** gym: Giovanni fights her personally, and figures out what she is. She doesn't know what he knows. Meets Kyle Kong. Badge progression begins, disrupted by incidents. Team Rocket is an escalating background threat. Celadon reached; first glimpse of quest board.
 
-**Ends:** Amber has ~3-4 badges, real trainer experience, and a growing reputation for weird incident magnetism.
+**Ends:** Amber has ~3-4 badges, real trainer experience, and a growing reputation for weird incident magnetism. Ursaring still out there (TR transferred her offsite). The ore is in Amber's bag.
 
 See: `arc1-kanto-year1.md`
 
@@ -149,7 +149,7 @@ See: `arc-kitakami.md`, `arc-pikachu-handoff.md`
 ### Arc 11 — Sinnoh: Ceruledge + Team Galactic
 **Amber age:** 17** | **Region:** Sinnoh
 
-Amber arrives in Sinnoh already powerful — Kitakami was real training. Intelligence: Ceruledge has passed from Rocket to **Team Galactic.** Cyrus's operation is the first evil team Amber targets with full intent to dismantle, not just disrupt.
+Amber arrives in Sinnoh already powerful — Kitakami was a real training ground. She's here for badges, progression, the next leg of the journey. Mid-arc, she sees Ceruledge in the field working for **Team Galactic** — no prior intelligence, just collision. How it passed from Rocket to Galactic happens off-screen between arcs. Cyrus's operation is the first evil team Amber targets with full intent to dismantle, not just disrupt — partly because of Galactic's scale, partly because Ceruledge is here.
 
 **Ceruledge reunion:** The emotional climax of the arc. Years since the theft. Amber finally strong enough. The question: does Charcadet remember her? Can it be reached through what Rocket and Galactic made it?
 
@@ -172,6 +172,10 @@ Mega Evolution fully harnessed. Peak roster assembling. The story shifts from "t
 - Lance as peer — fight alongside him, not under him
 - Age 18–20: peak physical and Pokemon bond capacity
 
+**Mewtwo #1 reunion:** The Genesect crisis hits Kalos. Mewtwo #1 — the original, free for years, protecting Pokemon in a Kalos city — is at the center of it. This is the Genesect movie arc, playing out largely as in the anime. Amber arrives with the raw ore she's been carrying since Day 2 of her journey. Someone in Kalos identifies it. It's synthesized into Mewtwonite Y. She uses it to help Mewtwo achieve/stabilize Mega Evolution during the crisis. She's been carrying it toward him since before she knew he was free.
+
+See: `plot/_mewtwo-thread.md`
+
 **The question is no longer how strong she is. It's what she's fighting for.**
 
 ---
@@ -191,7 +195,7 @@ Mega Evolution fully harnessed. Peak roster assembling. The story shifts from "t
 | 9 | 15 | Hoenn | Conference — youngest ever winner |
 | 10 | 16 | Kitakami | Training arc, village discovered, Pikachu handoff |
 | 11 | 17 | Sinnoh | Team Galactic dismantled, Ceruledge reunion, Mega unlocked |
-| 12+ | 17–20 | Kalos+ | Peak, politics, Lance, full Rocket takedown |
+| 12+ | 17–20 | Kalos+ | Peak, politics, Lance, Mewtwo #1 reunion, full Rocket takedown |
 
 ---
 
@@ -204,3 +208,4 @@ Mega Evolution fully harnessed. Peak roster assembling. The story shifts from "t
 - `arc-pikachu-handoff.md` — Pikachu/Ash beat
 - `wiki/pokemon-teams/team-amber-mc.md` — full roster by region
 - `future/current-direction.md` — source of truth for ages and direction
+- `future/plot/_mewtwo-thread.md` — the two-Mewtwo structure and ore-to-Mewtwonite Y thread

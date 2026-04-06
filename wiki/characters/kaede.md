@@ -4,7 +4,7 @@ category: characters
 title: Kaede
 requires_citations: true
 status: published
-updated: 2025-10-11
+updated: 2026-04-05
 canon: true
 ---
 
@@ -158,19 +158,17 @@ This context frames Kaede's theft as a symptom of larger social problems rather 
 
 ## Thematic Significance
 
-Kaede's character serves multiple thematic purposes:
+**Healthcare Critique:** Hiro's illness is treatable. The barrier is paperwork. He can't get treatment because they don't have proper registration. Kaede steals an Oddish because the official system left her with no other move.
 
-**Healthcare Critique:** Her story exposes the cruelty of healthcare systems that deny treatment based on bureaucratic requirements rather than medical need. A child suffers from a treatable illness simply because his family lacks "proper registration."
+**Desperation vs. Criminality:** She steals the Oddish. She was going to try to make HP UP from scratch, with no pharmaceutical training, to keep her brother alive. She's not a villain. She just had nothing else.
 
-**Desperation vs. Criminality:** The story challenges simple notions of theft and criminality by showing how impossible circumstances can drive good people to break laws. Kaede isn't a villain---she's a victim of systemic failure.
+**Sacrifice and Love:** She's allergic to the Oddish she stole. Every moment it's near her, she's suffering. She keeps it anyway because it might help Hiro. She doesn't even consider giving it up.
 
-**Sacrifice and Love:** Her willingness to endure constant physical suffering (allergic reactions) for her brother's sake demonstrates the depths of familial love. Every sneeze, every watering eye, represents a choice to prioritize Hiro over her own comfort.
+**Compassion in Action:** Erika sees the apartment, diagnoses Hiro, and starts treating him. She doesn't process the theft first. "Don't mention this to anyone" --- she knows she's breaking procedure, and she does it anyway.
 
-**Compassion in Action:** Erika's response---providing free treatment, bending rules, trusting Kaede despite the theft---models how institutional power can be used compassionately rather than punitively. Her "don't mention this to anyone" suggests she's aware she's breaking gym procedures but prioritizes human welfare over rules.
+**The Pokémon-Human Bond:** The Oddish refuses to go back to the gym. It stays with Hiro. It recognized something in that apartment and chose to respond to it.
 
-**The Pokémon-Human Bond:** The Oddish's choice to stay with Hiro despite being stolen creates interesting questions about Pokémon agency and compassion. The Pokémon recognizes genuine need and chooses to help, suggesting deeper emotional intelligence than simple obedience.
-
-**Amber's Perspective:** As someone from a world with modern healthcare, Amber's reaction to learning about medical access barriers adds another layer of critique. Her expectation of "cheerful jingles at Pokemon Centers" for healing contrasts sharply with the reality of human healthcare in this world.
+**Amber's Perspective:** Amber came from a world where Pokemon Centers heal everything for free, with a cheerful jingle. Human healthcare in this world doesn't work that way, and she didn't know until now.
 
 ## Connections to Broader Lore
 

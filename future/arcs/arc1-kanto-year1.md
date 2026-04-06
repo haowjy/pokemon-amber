@@ -6,7 +6,7 @@ spoilers: true
 status: planned
 hidden: true
 created: 2025-10-14
-updated: 2026-03-30
+updated: 2026-04-05
 ---
 
 # Arc 1: Kanto (Year 1)
@@ -17,15 +17,15 @@ updated: 2026-03-30
 
 ## What Happens
 
-Amber departs Pallet Town at 13 with Oak's blessing, a trainer license, starter funds, and Ditto. Her goal: 8 gym badges and conference entry. She acquires Charcadet and Heracross along the way. She meets Kyle Kong (14), and they form a peer-based partnership --- both pursuing badges, Amber providing tactical insight, Kyle providing muscle and (sometimes) direction.
+Amber departs Pallet Town at 13 with Oak's blessing, a trainer license, starter funds, and Ditto. Her goal: 8 gym badges and conference entry. She acquires Charcadet and Teddiursa along the way. She meets Kyle Kong (14), and they form a peer-based partnership --- both pursuing badges, Amber providing tactical insight, Kyle providing muscle and (sometimes) direction.
 
 The journey is properly resourced but repeatedly disrupted by weird Pokemon incidents that pull Amber off the gym circuit. Team Rocket operates as an escalating background threat. The gap between "normal trainer journey plan" and "weird stuff keeps happening to me" drives the arc.
 
 **Major Events:**
 - Ch 18: Licensed departure from Pallet
-- Route 1: equipped but learning ("game knowledge != real wilderness")
-- Charcadet acquisition (TBD: where/how)
-- Heracross acquisition (TBD: where/how)
+- Route 1 Day 1: equipped but learning ("game knowledge != real wilderness")
+- Route 1 Day 2: cave detour, TR operation, Charcadet + Teddiursa acquired
+- Viridian Gym: first gym challenge, Giovanni fights Amber personally
 - Kyle partnership begins
 - Badge progression across the year (disrupted by incidents)
 - Team Rocket surveillance / interference
@@ -65,16 +65,17 @@ This is NOT desperate survival. It's the gap between theory and experience.
 ## Pokemon Acquisition
 
 ### Charcadet
-- **When/where:** TBD
-- **Personality:** Ambition, drive, intensity. Not yet settled (Armarouge vs Ceruledge mirrors its unsettled identity)
-- **Bond:** Amber respects its intensity; Charcadet respects Amber's competence
-- **Hook:** Needs development --- what situation brings them together?
+- **When/where:** Route 1 cave, Day 2. Charcadet was already inside causing chaos when TR arrived. Amber encounters it during the escape from TR's operation.
+- **Personality:** Ambition, drive, intensity. Not yet settled (Armarouge vs Ceruledge mirrors its unsettled identity).
+- **Bond:** Amber respects its intensity; Charcadet respects Amber's competence — specifically, that she went INTO the cave.
+- **Not native to Kanto:** Charcadet presumably wandered in from somewhere it shouldn't be, or was already trapped/loose in the cave system. Exact origin TBD.
 
-### Heracross
-- **When/where:** TBD
-- **Personality:** Pain-averse, cleanliness-obsessed, hates close combat. Judged by others for being "wrong" for a Heracross.
-- **Bond:** Amber doesn't try to "fix" it or force brawler role. Develops multi-hit technical style instead.
-- **Hook:** Needs development --- what situation brings them together? Something that showcases the mismatch (other trainers rejecting it, or Amber seeing it fight "wrong" and recognizing value).
+### Teddiursa
+- **When/where:** Route 1 cave, Day 2. Same TR operation. His mother (Ursaring) was captured opportunistically by TR. He attacks Amber thinking she's the enemy, blows her cover to the grunts.
+- **Personality:** Grievance-driven, not warm. He's not a comfort bear; he's a small animal whose mother was taken. Pragmatic once he realizes Amber might be useful.
+- **Bond:** Deal-based. Amber promises to find Ursaring. Teddiursa saws through the ropes (hurts her wrists — not clean, not gentle). He goes into the cave with her because she held up her end by going in at all.
+- **Ursaring:** NOT in the cave. Already transferred offsite by TR. Amber can't keep the full promise on Day 2. This stays open.
+- **Why he joins:** Deal was made. He has nowhere else to go. She went into the cave. That's it. No warmth yet.
 
 ---
 
@@ -92,8 +93,11 @@ Rough pacing considerations:
 
 Exact badge count for Year 1: **TBD** (open question). Could be 5-7 realistically, with 8 as a stretch.
 
+### Viridian Gym — First Gym
+Viridian is Amber's **first** gym challenge (not the 8th as in games). Giovanni fights her personally. She's on day ~3-5 of her journey when this happens. Giovanni is formal, professional. He figures out during the battle who she is: Fuji's clone, and Oak's protégé. He doesn't show it. The battle is clean. Amber doesn't know what he knows. The reader who knows Pokémon canon feels the weight before she does.
+
 ### Available Gyms (any 8 count for conference):
-**Pillar:** Pewter, Cerulean, Vermillion, Celadon, Fuchsia, Saffron (Fighting Dojo), Cinnabar, Viridian
+**Pillar:** Pewter, Cerulean, Vermillion, Celadon, Fuchsia, Saffron (Fighting Dojo), Cinnabar, **Viridian (FIRST)**
 **Minor:** Psychic (Saffron), Ghost (Lavender), Bug (Viridian Forest area), others
 
 ---
@@ -186,7 +190,7 @@ Key beats regardless of outcome:
 ### Found Family:
 - **Ditto:** Clone bond, loyal, intimate
 - **Charcadet:** Driven, ambitious --- Amber respects its fire
-- **Heracross:** Mismatch, comedy, warmth --- Amber lets it be itself
+- **Teddiursa:** Grudge-based start, deal-based loyalty --- not warmth yet, but real
 - **Kyle:** Peer partnership, reluctant -> genuine friendship
 - **Oak:** Active mentor in background (not helicopter, but present)
 
@@ -239,12 +243,13 @@ Key beats regardless of outcome:
 ## Ending State
 
 **Amber Has:**
-- 3 Pokemon (Ditto / Charcadet / Heracross)
+- 3 Pokemon (Ditto / Charcadet / Teddiursa)
 - TBD badges (goal was 8, reality intervened)
 - Real trainer experience (not just theory)
 - Kyle partnership (genuine friendship)
 - Oak's continued support
 - Growing reputation (weird incidents attract attention)
+- A raw ore in her pocket she doesn't understand (pocketed from TR cave)
 
 **Setup for Arc 2:**
 - Team Rocket escalates (passive -> active)
@@ -252,24 +257,69 @@ Key beats regardless of outcome:
 - Conference outcome creates new goals
 - Amber's visibility increasing (good and bad)
 - Fuji's "death" and origins questions lurking
+- Ursaring: still out there, transferred by TR. The debt is open.
 
 ---
 
 ## Key Episodes (Status)
 
 - **Ch 18:** Departure (planning, see `current-direction.md`)
-- **Route 1:** Equipped but learning (needs development)
-- **Charcadet acquisition:** TBD
-- **Heracross acquisition:** TBD
+- **Route 1, Day 1:** Equipped but learning (needs development)
+- **Route 1, Day 2 — TR Cave:** ✅ CONFIRMED (see below)
+- **Viridian Gym:** ✅ CONFIRMED — first gym, Giovanni personal battle (see below)
+- **Charcadet acquisition:** ✅ CONFIRMED — Route 1 cave, Day 2
+- **Teddiursa acquisition:** ✅ CONFIRMED — Route 1 cave, Day 2
 - **Kyle meeting:** TBD context
 - **Badge challenges:** Need specific gym episodes
-- **Incident episodes:** Need development (what pulls Amber off-circuit?)
+- **Incident episodes:** Need development
 - **Conference arc:** Needs structure once badge count decided
+
+---
+
+## Route 1, Day 2 — The TR Cave
+
+Day 1, Amber walks Route 1. Camps in the woods. By Day 2 she's more confident, antsy. Four years living in this world has made her impatient --- she knows she technically shouldn't go off-trail without more experience, but she does it anyway. Deliberate detour into a cave/forested area off the main road.
+
+She spots TR grunts moving through the woods. Follows them back to their small outside camp.
+
+**Teddiursa blows her cover.** He sees a human. Human = the species that took his mother. He doesn't reason about it --- he attacks Amber, exposing her to the grunts. TR sends out Pokemon. Ditto defends. Ditto keeps glancing back --- not scared for itself but watching Teddiursa maul Amber while Ditto is fighting elsewhere. Ditto eventually faints.
+
+Amber is captured, tied up outside at the camp. Teddiursa is tied up next to her and is *still* biting and scratching her.
+
+**Then the grunts run INTO the cave** --- Charcadet has been causing chaos in there. Amber is left alone with a bear cub who hates her.
+
+She convinces Teddiursa to help by promising to find his mother. He saws through the rope with his claws. Not clean --- her wrists take damage. They raid the TR camp supplies: she revives Ditto with a Potion, patches up Teddiursa and herself.
+
+**She goes into the cave.** She made a deal (find Ursaring), and all the grunts went in there, so that's where answers might be. The deal forces her hand.
+
+**What TR was doing there:** Ore deposit with strong Mew-adjacent energy readings. Their sensors flagged it as a possible Mew trace / legendary signature --- they're actively rebuilding legendary capture operations after Mewtwo's escape (established ch6). It turned out to be a Mega Stone ore deposit, not Mew. But they want it regardless.
+
+Amber finds the chaos inside --- Charcadet vs. grunts. Helps manage it. Acquires Charcadet.
+
+Ursaring is **not** in the cave --- already transferred offsite by TR. Amber can't keep the full promise.
+
+She pockets the raw ore on the way out. Doesn't know what it is. Just knows TR wanted it badly enough to run an operation over it.
+
+**Escapes with Ditto, Charcadet, and Teddiursa.** Teddiursa joins --- not out of warmth, the deal was made, he has nowhere else to go, and she went into the cave. That's the whole reason.
+
+---
+
+## Viridian Gym — First Challenge
+
+Viridian is the first gym. Day ~3-5 of Amber's journey.
+
+Giovanni fights her personally. He's the gym leader. She's brand new. The battle is formal, professional --- Giovanni always is.
+
+During the battle, Giovanni figures out two things: she's Fuji's clone (Ambertwo), and she's one of Oak's protégés. He doesn't show it. He doesn't tip his hand. The battle is clean.
+
+Amber doesn't know what he knows. She's just trying to win her first badge against a ground-type gym. The reader who knows Pokémon canon feels the weight of what's happening before she does --- Giovanni is meeting Fuji's creation for the first time, a year after he had Fuji "disappeared."
 
 ---
 
 ## Related Files
 
 - `current-direction.md` - SOURCE OF TRUTH
-- `current-direction.md` - Expanded decisions and worldbuilding
 - `_open-questions.md` - Decision tracker
+- `plot/_mewtwo-thread.md` - The ore Amber pockets here is the Mewtwonite Y origin
+- `plot/giovanni-fuji-jail.md` - Giovanni context; why the Viridian gym battle carries weight
+- `wiki/characters/mewtwo.md` - Mewtwo connection to Amber

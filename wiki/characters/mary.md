@@ -4,7 +4,7 @@ category: characters
 title: Mary (Gym Trainer)
 requires_citations: true
 status: published
-updated: 2025-10-11
+updated: 2026-04-05
 canon: true
 ---
 
@@ -174,19 +174,15 @@ The story notes she "doesn't have Ivysaur yet," implying potential future develo
 
 ## Thematic Significance
 
-**Compassionate Authority:** Mary represents the possibility of authority figures who enforce rules while maintaining humanity. She demonstrates that "law and order" can coexist with understanding and mercy.
+**Compassionate Authority:** Mary enforces rules and still looks at the actual person in front of her. She doesn't treat people as problems to be processed.
 
-**Youth and Responsibility:** At 15, Mary occupies an interesting space between childhood and adulthood. She has official authority but still shows the idealism and compassion that might fade with age. Her youth makes her relatable to Amber while still representing institutional power.
+**Youth and Responsibility:** She's 15 and has more practical wisdom than most. She has the authority and the badge on her chest. She also hasn't learned yet to let the job harden her.
 
-**Redemption Through Service:** Her suspension creates a redemption arc where she must prove her worth through investigation and problem-solving rather than battle prowess. This values different forms of competence.
+**Redemption Through Service:** She can't fight her way back into good standing --- she's suspended. So she investigates. She solves it the long way. That turns out to matter.
 
-**Bridge Between Worlds:** Mary connects multiple social spheres:
-- The gym's internal hierarchy (authority)
-- Amber's outsider perspective (friendship)
-- Kaede's desperate poverty (compassion)
-- Celadon's various districts (local knowledge)
+**Bridge Between Worlds:** Mary connects things that don't usually touch: the gym's internal hierarchy, Amber's outsider perspective, Kaede's poverty, the city's various districts. She's what allows the Oddish arc to resolve instead of just escalate.
 
-**Rules vs. Right:** Mary's character explores when rules should be bent or broken. She trespasses Amber with warnings rather than reports, supports Erika's rule-breaking free treatment, and consistently chooses humanitarian outcomes over bureaucratic correctness.
+**Rules vs. Right:** She doesn't report Amber for trespassing. She supports Erika's free treatment. Every time following the rule would make things worse, she bends it. Not carelessly --- she thinks about it. But she bends it.
 
 ## Future Potential
 
@@ -206,16 +202,14 @@ The character remains rich with potential for future story development while hav
 
 ## Character Development Arc
 
-Mary's character demonstrates growth even within the limited chapters of her introduction:
+**Initial State:** Professional, a little stiff, frustrated by the suspension. Naturally inclined toward kindness but trying to do the job right.
 
-**Initial State:** Professional gym trainer focused on rules and proper behavior, though naturally inclined toward kindness.
+**Catalyst:** The suspension means she has something to prove and no official way to do it. Erika hands her the Oddish investigation. She takes it.
 
-**Catalyst:** The suspension creates frustration and eagerness to prove herself, making her receptive to taking on the investigation.
+**Challenge:** The investigation takes her through parts of Celadon she knows about but hasn't had to really look at. The Game Corner district. The Factory Ward. Kaede's apartment. It becomes harder to pretend that following procedure is always the same as doing the right thing.
 
-**Challenge:** The Oddish theft investigation exposes her to Celadon's darker sides (Game Corner district, Factory Ward poverty, systemic healthcare failures) and forces her to confront that sometimes following rules creates worse outcomes than breaking them.
+**Growth:** She backs Erika's call to treat Hiro for free. She's been backing her own judgment the whole arc; this is just the last one.
 
-**Growth:** Mary learns to trust her compassionate instincts over rigid rule-following, supporting Erika's decision to provide free treatment despite "gym procedures."
+**Resolution:** She solves the case. Without battling. The suspension forced her to, and it turns out investigation is its own form of competence.
 
-**Resolution:** Successfully solves the case through investigation rather than battle prowess, demonstrating competence in multiple domains while maintaining her humanity.
-
-This arc positions Mary as a positive role model for how authority can be wielded with wisdom and compassion rather than simple power.
+She ends the arc with a better understanding of what authority is actually for.
