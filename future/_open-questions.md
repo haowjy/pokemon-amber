@@ -220,6 +220,47 @@ If Amber competes, she needs opponents worth writing. Who are they?
 
 ---
 
+### ✅ DECIDED: Ch 20 Cave Scene Restructure (2026-04-08)
+**Context:** Full beat-by-beat of the cave sequence captured in `story/chapter20/_20plan.md`. Replaces earlier "Amber tied up at TR camp, pockets ore" framing.
+
+- **New structure:** Teddiursa encounter on route (hostile) → deal to find missing Ursaring → off-route tracking → cave where TR is attacking a centuries-old Charcadet guarding its dead Paldean master's resting place → Amber tackles Teddy out of Persian's strike path (instinct, bravery) → Ditto transforms into Arcanine (remembered from Oak's household) → TR releases Ursaring, she rampages, cave collapses, she's recalled → Charcadet leads them out via alternate tunnel → Viridian Pokemon Center.
+- **Affected files:** `story/chapter20/_20plan.md`, `future/arcs/arc1-kanto-year1.md`, `future/arcs/saga-overview.md`, `future/plot/_mewtwo-thread.md`
+
+---
+
+### ✅ DECIDED: Charcadet Capture Timing (2026-04-08)
+**Original Question:** When does Amber officially catch Charcadet?
+
+- **Chosen:** At Viridian Pokemon Center after the cave escape. Charcadet briefly confers with Teddiursa (something is being decided between them), then kneels before Amber --- a knight's acceptance of a new master. Simple, almost ceremonial. Amber catches it then.
+- **Affected files:** `story/chapter20/_20plan.md`, `future/arcs/arc1-kanto-year1.md`
+
+---
+
+### ✅ DECIDED: Ditto-Arcanine Reveal (2026-04-08)
+**Original Question:** When/how does Amber figure out the Arcanine transformation?
+
+- **Chosen:** Figured out shortly after the cave, quietly --- Ditto lived in Oak's household before Amber, saw Arcanine, remembered. No dramatic reveal. In a later training session, Ditto transforms into Arcanine again, deliberately this time. A small tender beat about Ditto's depth.
+- **Note:** Arcanine is already in Ditto's remembered repertoire per `wiki/characters/ditto.md` (Fuji's original training). Consistent.
+- **Affected files:** `story/chapter20/_20plan.md`
+
+---
+
+### ✅ DECIDED: Psychic Stone Handoff Timing (2026-04-08)
+**Original Question:** When does Charcadet trust Amber enough to hand over the stone?
+
+- **Chosen:** Right before Arc 4 (4Ever). Charcadet carries the stone for the entirety of Arc 1-3. The handoff is a quiet relationship milestone --- and for readers paying attention, a red flag: the moment Amber takes the stone is the moment before she loses Charcadet (stolen by the Iron-Masked Marauder within Arc 4).
+- **Affected files:** `story/chapter20/_20plan.md`, `future/arcs/saga-overview.md`, `future/plot/_mewtwo-thread.md`
+
+---
+
+### ✅ DECIDED: Ch 19 Content (2026-04-08)
+**Original Question:** What happens on Day 1 of Amber's journey?
+
+- **Chosen:** Caterpie catch (first real catch), basic wild battles, Route 1 travel and exploration, first night camping. Equipped-but-learning beats. No crisis, no TR, no weird Pokemon. Deliberately quiet chapter before the Ch 20 cave.
+- **Affected files:** `story/chapter19/_19plan.md` (stubbed), `future/arcs/arc1-kanto-year1.md`
+
+---
+
 ### ✅ DECIDED: Charcadet Acquisition (2026-04-05)
 **Original Question:** #13 — Where/how does Amber get Charcadet?
 

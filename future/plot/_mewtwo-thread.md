@@ -46,15 +46,21 @@ Fuji, extracted from prison by Giovanni after the "disappear quietly" order, wor
 
 This is the long thread. It takes years to pay off.
 
-**Arc 1, Day 2 (Route 1 cave):**
-Amber pockets raw ore from the TR operation. She doesn't know what it is. She just knows TR wanted it badly enough to run an op over it, and they don't get to keep it. It goes in her bag. It stays there.
+**Arc 1, Day 2 (off-route cave near Viridian):**
+The stone appeared near the grave of Charcadet's centuries-dead Paldean master (likely ultra wormhole / Mystery Dungeon phenomenon). Its energy signature --- strong, Mew-adjacent --- tripped TR's rebuilt legendary-capture sensors (they're rebuilding after Mewtwo's escape, ch6). TR sent grunts to investigate; they found Charcadet guarding and attacked.
 
-TR was there because their sensors flagged a strong Mew-adjacent energy reading in the cave. It wasn't Mew --- it was a Mega Stone ore deposit. But the signature was close enough to trigger their rebuilt legendary capture sensors (they're actively rebuilding after Mewtwo's escape, ch6).
+Amber walks into the fight mid-way (tracking Teddiursa's missing mother), intervenes, earns Charcadet's loyalty through instinct (tackling Teddy out of Persian's strike path). Cave collapses in the chaos.
 
-The ore is raw. Not refined. Nobody processes it into anything for years.
+**Charcadet carries the stone out, not Amber.** It's the stone Charcadet was guarding; it's not leaving it behind for a stranger. Amber doesn't know what it is and doesn't ask.
 
-**Years 1 through ~6 (Arc 1 through Arc 10):**
-She carries it across Kanto, Hoenn, Sinnoh. Just a weird rock she stole from TR. Occasionally she notices it. She knows it's something, doesn't know what. It's in the pocket or the bag or the kit. It travels with her.
+**Arc 1 through Arc 4 (right before 4Ever):**
+Charcadet holds the stone. Amber sees it occasionally --- a weird rock her Pokemon carries around. She knows it's something. Doesn't know what. Charcadet doesn't hand it over.
+
+**Right before Arc 4 (4Ever) --- the handoff:**
+Charcadet trusts Amber enough to let her carry it. The trigger moment is a relationship beat (TBD specifics). For readers paying attention, this is a quiet red flag: the moment Amber takes the stone is the moment before she loses Charcadet. Within an arc, Charcadet is stolen by the Iron-Masked Marauder. Amber still has the stone.
+
+**Arcs 4 through ~12 (Kanto → Hoenn → Sinnoh → Kalos):**
+She carries it across regions. It was her Pokemon's before it was hers. She never stops feeling the weight of that. It travels with her for years. Nobody processes it.
 
 **Kalos (Arc 12+):**
 The Genesect movie arc plays out. Mewtwo #1 is in Kalos, protecting Pokemon in a city there. The Genesect swarm arrives. Crisis.
@@ -63,7 +69,7 @@ Someone in Kalos with the relevant knowledge identifies the ore. The Mega Stone 
 
 Amber uses it to help Mewtwo achieve or stabilize Mega Evolution during the crisis.
 
-She's been carrying it toward Mewtwo since before she knew Mewtwo #1 existed as a free entity. Before she knew there was a distinction between the Mewtwo that escaped and the one Giovanni never had. She picked it up on Day 2 of her journey and carried it for years.
+She's been carrying it toward Mewtwo since before she knew Mewtwo #1 existed as a free entity. Before she knew there was a distinction between the Mewtwo that escaped and the one Giovanni never had. Charcadet picked it up on Day 2 of her journey and handed it to her years later. She's carried it ever since.
 
 That's the payoff.
 
@@ -83,21 +89,21 @@ What's established: when they meet in Kalos, the Mewtwonite Y is the bridge. Amb
 
 ## Mewtwonite Y Synthesis
 
-The ore Amber pockets on Day 2 is eventually synthesized into Mewtwonite Y --- the stone that enables Mega Evolution to Mega Mewtwo Y form.
+The stone Charcadet carries out of the Day 2 cave is eventually synthesized into Mewtwonite Y --- the stone that enables Mega Evolution to Mega Mewtwo Y form.
 
-The synthesis happens in Kalos, by someone with the knowledge to identify what the raw ore is. TBD: who does this? Options include a Devon researcher, a Mega Evolution scholar in Kalos, or someone connected to the Diantha/League apparatus. Not decided. Don't need to decide yet.
+The synthesis happens in Kalos, by someone with the knowledge to identify what the raw stone is. TBD: who does this? Options include a Devon researcher, a Mega Evolution scholar in Kalos, or someone connected to the Diantha/League apparatus. Not decided. Don't need to decide yet.
 
-What's decided: Amber has the raw material since Arc 1. She gets to Kalos with it. It gets processed there. She uses it for Mewtwo.
+What's decided: Charcadet has it since Arc 1. Amber carries it from just before Arc 4 onward. She gets to Kalos with it. It gets processed there. She uses it for Mewtwo.
 
 ---
 
 ## What the Thread Is About
 
-Amber picks up a rock because she's stubborn and doesn't let TR keep things they stole from nature. She doesn't know it's significant. She carries it for years out of pure spite-inertia.
+Charcadet was guarding a stone that appeared near its dead master's grave. Amber proves worthy of Charcadet's loyalty in a cave collapse on Day 2 of her journey. Charcadet carries the stone out. Years later, right before Amber loses Charcadet, it hands the stone to her. She carries it the rest of the way without knowing what it is.
 
 It turns out to be the thing that lets the first Mewtwo --- Fuji's real creation, the one made by accident through care rather than engineering --- achieve its fullest form.
 
-She was carrying it for Mewtwo since before she knew Mewtwo was free.
+She was carrying it for Mewtwo since before she knew Mewtwo was free. She was carrying it for a Pokemon she'd already lost.
 
 That's the spine.
 
@@ -105,7 +111,8 @@ That's the spine.
 
 ## Cross-Refs
 
-- `future/arcs/arc1-kanto-year1.md` — TR cave scene, ore acquisition
+- `future/arcs/arc1-kanto-year1.md` — Day 2 cave scene, Charcadet acquisition
+- `story/chapter20/_20plan.md` — full beat-by-beat of the cave sequence
 - `future/arcs/saga-overview.md` — Arc 12+ Kalos entry
 - `future/plot/giovanni-fuji-jail.md` — Fuji's extraction, Mewtwo #2 context, two-Mewtwo distinction
 - `wiki/characters/mewtwo.md` — Mewtwo character file (stub, needs expansion)

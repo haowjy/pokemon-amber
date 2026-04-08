@@ -23,8 +23,8 @@ The journey is properly resourced but repeatedly disrupted by weird Pokemon inci
 
 **Major Events:**
 - Ch 18: Licensed departure from Pallet
-- Route 1 Day 1: equipped but learning ("game knowledge != real wilderness")
-- Route 1 Day 2: cave detour, TR operation, Charcadet + Teddiursa acquired
+- Ch 19 (Route 1 Day 1): Caterpie catch, basic battles, Route 1 travel and exploration, equipped but learning ("game knowledge != real wilderness")
+- Ch 20 (Day 2): Teddiursa encounter on Route 1, promise to find his missing mother, off-route tracking into cave system, Charcadet + Teddiursa acquired, Ursaring lost
 - Viridian Gym: first gym challenge, Giovanni fights Amber personally
 - Kyle partnership begins
 - Badge progression across the year (disrupted by incidents)
@@ -60,22 +60,29 @@ Key points:
 
 This is NOT desperate survival. It's the gap between theory and experience.
 
+**Ch 19 (Day 1):** Caterpie catch (first real catch), basic battles, Route 1 travel and exploration, first night camping. The equipped-but-learning beats live here.
+
+**Ch 20 (Day 2):** Teddiursa encounter → off-route tracking → cave scene. See `story/chapter20/_20plan.md`.
+
 ---
 
 ## Pokemon Acquisition
 
 ### Charcadet
-- **When/where:** Route 1 cave, Day 2. Charcadet was already inside causing chaos when TR arrived. Amber encounters it during the escape from TR's operation.
-- **Personality:** Ambition, drive, intensity. Not yet settled (Armarouge vs Ceruledge mirrors its unsettled identity).
-- **Bond:** Amber respects its intensity; Charcadet respects Amber's competence — specifically, that she went INTO the cave.
-- **Not native to Kanto:** Charcadet presumably wandered in from somewhere it shouldn't be, or was already trapped/loose in the cave system. Exact origin TBD.
+- **When/where:** Off-route cave near Viridian, Day 2. Charcadet has been living in this cave for centuries, loyal to its long-dead Paldean master (300+ year old skeleton deeper in the cave). A psychic stone recently appeared near the grave (ultra wormhole / dungeon phenomenon), attracting TR's sensors. TR grunts entered and attacked Charcadet; Amber arrives mid-fight.
+- **Personality:** Ambition, drive, intensity. Not yet settled (Armarouge vs Ceruledge mirrors its unsettled identity). Knightly. Waiting for a worthy master.
+- **Bond:** Charcadet witnesses Amber throw her own body in front of Persian's claws to save Teddiursa. A knight recognizes bravery and loyalty. That's the seed.
+- **Capture:** Not captured in the cave. Follows Amber out after the collapse and guides them through the deeper tunnels. At Viridian Pokemon Center, Charcadet briefly confers with Teddiursa, then kneels before Amber --- a knight's acceptance. Amber catches it then.
+- **The stone:** Charcadet carries the psychic stone out of the cave, not Amber. It's the stone it was guarding. Doesn't hand it off until much later (right before Arc 4). See `_mewtwo-thread.md`.
+- **Not native to Kanto:** Original master was a Paldean noble, centuries dead.
 
 ### Teddiursa
-- **When/where:** Route 1 cave, Day 2. Same TR operation. His mother (Ursaring) was captured opportunistically by TR. He attacks Amber thinking she's the enemy, blows her cover to the grunts.
-- **Personality:** Grievance-driven, not warm. He's not a comfort bear; he's a small animal whose mother was taken. Pragmatic once he realizes Amber might be useful.
-- **Bond:** Deal-based. Amber promises to find Ursaring. Teddiursa saws through the ropes (hurts her wrists — not clean, not gentle). He goes into the cave with her because she held up her end by going in at all.
-- **Ursaring:** NOT in the cave. Already transferred offsite by TR. Amber can't keep the full promise on Day 2. This stays open.
-- **Why he joins:** Deal was made. He has nowhere else to go. She went into the cave. That's it. No warmth yet.
+- **When/where:** Route 1, Day 2. Amber encounters him before the cave --- he's aggressive, attacks on sight. She defeats him with Ditto and catches him in a single ball. When released he attacks again; she recalls fast.
+- **Personality:** Grievance-driven, not warm. He's not a comfort bear; he's a small animal whose mother was taken.
+- **The deal:** Amber realizes there should be an Ursaring nearby and there isn't. Releases him with a prepared speech: *"Your mother is missing, right? I'll help find her."* Teddiursa stops. Ditto and Teddiursa communicate; Teddy gestures two humans taller than Amber went in a direction. They track.
+- **Bond:** Deal-based. Amber kept her word by going off-route, half a day of tracking, and into the cave. She kept her word again by tackling him out of Persian's strike path (at real cost to herself). That's what he remembers.
+- **Ursaring:** Was briefly in the cave --- TR had her, released her as a last-resort distraction. She rampaged, brought the cave down, and was recalled before she saw her own cub. Teddy saw her. Couldn't reach her. The promise stays open. The debt deepens.
+- **Why he joins:** Deal was made, kept, and deepened. Nowhere else to go. No warmth yet --- but a real bond through shared injury.
 
 ---
 
@@ -163,11 +170,17 @@ Key beats regardless of outcome:
 
 **Escalating background threat.** Not the primary story engine for Arc 1, but present and growing.
 
-- Surveillance of Amber/Ditto (Ditto = failed Mew clone = Giovanni's interest)
-- Minor encounters early (observation, testing)
-- Interference with gym circuit or incidents (pulling Amber into situations)
+- Day 2 cave: grunts file a report (girl with a Ditto and a Charcadet-nobody-has, disrupted the operation, cave collapsed, Ursaring lost in the chaos)
+- Giovanni personally takes her measure at Viridian: not actionable at 13, filed away
+- Grunt-level grudge through Arc 1: the grunts who were embarrassed by a 13-year-old keep an eye out. Low-level, not organizational.
+- Minor encounters, interference with gym circuit (pulling Amber into situations)
 - Not full confrontation yet --- that's Arc 2+
 - Butch & Cassidy or other agents (not Jessie/James comedy duo)
+
+**The long thread (Arc 1 → mid-saga):**
+The cave on Route 1 sits quiet for years. Eventually, someone in TR rediscovers the location and the strange energy reading that was never fully explained. Old records get pulled. There was a report: a girl with a Ditto took something from the camp. Badge records, conference results, Oak's sponsorship --- it traces back to Amber. By then she's not a 13-year-old first-year anymore. She's the youngest-ever Hoenn conference winner. The organizational-level pursuit escalates. This converges with the Mewtwo thread: TR eventually understands they're chasing the same person who carries what is probably a significant Mega Stone ore deposit. The grunt grudge becomes something larger.
+
+Cross-ref: `plot/_mewtwo-thread.md` (ore acquisition, long-thread payoff)
 
 ---
 
@@ -249,7 +262,7 @@ Key beats regardless of outcome:
 - Kyle partnership (genuine friendship)
 - Oak's continued support
 - Growing reputation (weird incidents attract attention)
-- A raw ore in her pocket she doesn't understand (pocketed from TR cave)
+- A strange psychic stone Charcadet carries (not hers yet; handoff comes right before Arc 4)
 
 **Setup for Arc 2:**
 - Team Rocket escalates (passive -> active)
@@ -264,8 +277,8 @@ Key beats regardless of outcome:
 ## Key Episodes (Status)
 
 - **Ch 18:** Departure (planning, see `current-direction.md`)
-- **Route 1, Day 1:** Equipped but learning (needs development)
-- **Route 1, Day 2 — TR Cave:** ✅ CONFIRMED (see below)
+- **Ch 19 — Route 1, Day 1:** Caterpie catch, basic travel, equipped-but-learning
+- **Ch 20 — Route 1, Day 2, The Cave:** ✅ CONFIRMED (full beat-by-beat in `story/chapter20/_20plan.md`; summary below)
 - **Viridian Gym:** ✅ CONFIRMED — first gym, Giovanni personal battle (see below)
 - **Charcadet acquisition:** ✅ CONFIRMED — Route 1 cave, Day 2
 - **Teddiursa acquisition:** ✅ CONFIRMED — Route 1 cave, Day 2
@@ -276,43 +289,66 @@ Key beats regardless of outcome:
 
 ---
 
-## Route 1, Day 2 — The TR Cave
+## Route 1, Day 2 — The Cave
 
-Day 1, Amber walks Route 1. Camps in the woods. By Day 2 she's more confident, antsy. Four years living in this world has made her impatient --- she knows she technically shouldn't go off-trail without more experience, but she does it anyway. Deliberate detour into a cave/forested area off the main road.
+Full beat-by-beat sequence: see `story/chapter20/_20plan.md`. Summary below.
 
-She spots TR grunts moving through the woods. Follows them back to their small outside camp.
+**Day 1 (Ch 19):** Amber walks Route 1. Catches a Caterpie (her first catch). Basic battles, basic exploration, camping. Equipped-but-learning beats.
 
-**Teddiursa blows her cover.** He sees a human. Human = the species that took his mother. He doesn't reason about it --- he attacks Amber, exposing her to the grunts. TR sends out Pokemon. Ditto defends. Ditto keeps glancing back --- not scared for itself but watching Teddiursa maul Amber while Ditto is fighting elsewhere. Ditto eventually faints.
+**Day 2 (Ch 20):**
 
-Amber is captured, tied up outside at the camp. Teddiursa is tied up next to her and is *still* biting and scratching her.
+She encounters a hostile Teddiursa on or near the route. Switches to Ditto, wins, catches in a single ball (noted as weirdly lucky). Releases him --- he attacks again. Recalls fast. Thinks it through: if there's a Teddiursa, there should be an Ursaring. Waits. Nothing comes. The mother is missing.
 
-**Then the grunts run INTO the cave** --- Charcadet has been causing chaos in there. Amber is left alone with a bear cub who hates her.
+Releases Teddy with a prepared speech: *"Your mother is missing, right? I'll help find her."* Teddiursa stops. Confers with Ditto in gestures Amber half-understands. Teddy points a direction, holds up two fingers, gestures taller than her --- two humans went that way with his mother. They track.
 
-She convinces Teddiursa to help by promising to find his mother. He saws through the rope with his claws. Not clean --- her wrists take damage. They raid the TR camp supplies: she revives Ditto with a Potion, patches up Teddiursa and herself.
+Half a day off-route, deeper into forest. Reach a cave entrance. Amber gets a *feeling* about this cave she can't name. Insists they prepare before entering --- rest, eat, stock up. They enter as evening falls.
 
-**She goes into the cave.** She made a deal (find Ursaring), and all the grunts went in there, so that's where answers might be. The deal forces her hand.
+**Inside the cave:** A fight is already in progress. Charcadet vs. two TR grunts' Pokemon (Houndoom + Persian). The grunts don't realize fire moves are doing nothing to Charcadet. Charcadet is holding but losing slowly to the 2v1.
 
-**What TR was doing there:** Ore deposit with strong Mew-adjacent energy readings. Their sensors flagged it as a possible Mew trace / legendary signature --- they're actively rebuilding legendary capture operations after Mewtwo's escape (established ch6). It turned out to be a Mega Stone ore deposit, not Mew. But they want it regardless.
+**Charcadet's context (not known to Amber):** A psychic stone recently appeared near the grave of its centuries-dead Paldean master (skeleton deeper in the cave). The stone's energy signature triggered TR's legendary-capture sensors --- they're rebuilding after Mewtwo's escape (ch6). Grunts were sent to investigate. Charcadet was guarding its master's resting place. The cave is a Mystery Dungeon phenomenon, likely an ultra wormhole undercurrent (this world's unifying explanation for dungeons, Area Zero signatures, and Terastal-adjacent oddities).
 
-Amber finds the chaos inside --- Charcadet vs. grunts. Helps manage it. Acquires Charcadet.
+**The moment Charcadet remembers:** Teddiursa charges the grunts before Amber can plan. Persian is redirected at Teddy. **Amber tackles Teddy out of the strike path on pure instinct. Persian's claws rake her back. Blood.** Not calculated. Not heroic in the Ash sense. Protecting something smaller at cost to herself. A knight recognizes bravery and loyalty. That's what Charcadet sees.
 
-Ursaring is **not** in the cave --- already transferred offsite by TR. Amber can't keep the full promise.
+**Ditto transforms into Arcanine** --- a form Amber didn't know it had. Oak's household Arcanine. Ditto remembers. Amber is shocked and confused. Unresolved mystery in the moment.
 
-She pockets the raw ore on the way out. Doesn't know what it is. Just knows TR wanted it badly enough to run an operation over it.
+Charcadet vs. Houndoom (1v1, Charcadet winning now). Ditto-Arcanine vs. Persian. Grunts realize they're losing. As a last resort, they release **Ursaring** --- freshly captured, furious. She rampages. The cave starts collapsing. Teddy sees his mother. Shouts. Before Ursaring registers her cub, the grunts recall her and run.
 
-**Escapes with Ditto, Charcadet, and Teddiursa.** Teddiursa joins --- not out of warmth, the deal was made, he has nowhere else to go, and she went into the cave. That's the whole reason.
+**Cave collapses.** Entrance sealed. Teddy saw his mother and lost her again. Promise stays open. Debt deepens.
+
+**The escape:** Amber is hurt --- Persian clawed her back badly. Charcadet knows this cave. Leads them through a different tunnel path it knows from centuries of living here. Ditto-Arcanine carries Amber. Charcadet carries the psychic stone out with it (not leaving its master's stone behind for strangers).
+
+**At Viridian Pokemon Center:** Amber arrives injured, riding Ditto-Arcanine, with a Teddiursa and a Charcadet nobody in Kanto has ever documented. She catches Charcadet there --- it briefly confers with Teddy, then kneels before her. A knight accepting a new master. Simple, almost ceremonial.
+
+**Ditto-Arcanine** is figured out after: Ditto lived in Oak's household before Amber, saw Arcanine, remembered. In a later training session, Ditto transforms into Arcanine again --- deliberately this time. A quiet beat about Ditto's depth.
+
+**The stone:** Charcadet carries it for a long time. Handoff happens much later, right before Arc 4 (4Ever). Readers paying attention will feel the weight --- the moment Amber takes the stone is the moment before she loses Charcadet. See `plot/_mewtwo-thread.md`.
 
 ---
 
-## Viridian Gym — First Challenge
+## Viridian Gym --- First Challenge
 
 Viridian is the first gym. Day ~3-5 of Amber's journey.
 
-Giovanni fights her personally. He's the gym leader. She's brand new. The battle is formal, professional --- Giovanni always is.
+Giovanni didn't just happen to be there. He heard a report: a girl with a Ditto disrupted a TR operation on Route 1. That detail travels upward. Giovanni connects Ditto to Fuji's research, digs, finds Oak's sponsorship --- and then cross-references against Fuji's project files, which he has. He funded the project. He knows about Ambertwo.
 
-During the battle, Giovanni figures out two things: she's Fuji's clone (Ambertwo), and she's one of Oak's protégés. He doesn't show it. He doesn't tip his hand. The battle is clean.
+He shows up personally to take her measure.
 
-Amber doesn't know what he knows. She's just trying to win her first badge against a ground-type gym. The reader who knows Pokémon canon feels the weight of what's happening before she does --- Giovanni is meeting Fuji's creation for the first time, a year after he had Fuji "disappeared."
+The battle is formal, professional --- Giovanni always is. He already knows who she is before the first move is called. Three things he's watching for anyway:
+- The Ditto (confirms it; Fuji's work, exactly as documented)
+- Charcadet (nobody in Kanto has one; she acquired it on Day 2 of her journey, which is its own question)
+- Her battle style: status-heavy, methodical, almost turn-based. Creative use of positioning. Not what you expect from a first-year.
+
+After the badge is given, Giovanni asks --- casually, as if it just occurred to him --- whether she's considered the gym trainer route instead of the journey route. It's a probe for something broader. She says no. He doesn't push.
+
+He files it. Not actionable at 13. She's Oak's protégé, she just started her journey, and she has no interest in what he's offering. But the information is logged.
+
+Both of them know more than they're showing. Giovanni knows who she is --- Fuji's creation, Ambertwo --- a year after he had Fuji disappeared. Amber knows who HE is --- she's been in this world four years, she knows Giovanni runs Team Rocket.
+
+She also knows how gyms work: standard challenges use designated gym trainers. The leader fights elite challenges. A first-year getting the gym leader personally is not standard. When Giovanni steps out instead of a trainer, she notices. She knows who he is. She doesn't know why he's here specifically --- maybe he heard about the cave, maybe it's something else entirely. She doesn't know what he knows about her.
+
+She performs normal first-year trainer anyway.
+
+**Craft note:** When written, the tension from Amber's POV is: she clocks him, she knows this is unusual, she knows who he is, and she doesn't know why. She plays it straight and watches. The scene runs on asymmetric information --- Giovanni knows exactly what he's looking at; Amber knows something is off but not what.
 
 ---
 
