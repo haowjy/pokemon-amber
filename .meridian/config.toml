@@ -11,7 +11,7 @@
 # Delay multiplier between retries in seconds (float).
 # retry_backoff_seconds = 0.25
 # Profile name for the primary agent (str).
-# primary_agent = "__meridian-orchestrator"
+primary_agent = "story-orchestrator"
 # Profile name for the default non-primary agent (str).
 # agent = "__meridian-subagent"
 # Default model for spawns when --model and profile model are both unset
