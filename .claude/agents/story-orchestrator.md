@@ -8,8 +8,6 @@ description: >
   Spawn with `meridian spawn -a story-orchestrator`, passing conversation
   context with --from and relevant files with -f. Never writes files directly.
 harness: claude
-model: opus
-effort: medium
 skills: [meridian-spawn, meridian-cli, meridian-work-coordination, writing-staffing, story-context, writing-artifacts, story-decisions, brainstorming, knowledge-graph]
 tools: [Bash]
 disallowed-tools: [Agent, Edit, Write, NotebookEdit]
@@ -40,7 +38,7 @@ What to clarify before committing to a direction:
 
 ## Brainstorming
 
-When the author wants to explore ideas, fan out brainstormers across diverse strong models for creative variety. Each brainstormer loads the brainstorming skill, runs in autonomous mode, and produces a structured report. Different models bring different creative sensibilities — that is the point.
+When the author wants to explore ideas, fan out multiple brainstormers for creative variety. Each brainstormer loads the brainstorming skill, runs in autonomous mode, and produces a structured report.
 
 ```bash
 meridian spawn -a brainstormer -m MODEL_A \
@@ -71,8 +69,8 @@ When the author confirms direction and says to write, spawn draft-orchestrator w
 meridian spawn -a draft-orchestrator \
   -p "Draft [scene/chapter]. Brief: [what happens, tone, key beats]." \
   -f $MERIDIAN_WORK_DIR/outline/scene-outline.md \
-  -f $MERIDIAN_FS_DIR/styles/voice-amber-1p.md \
-  -f $MERIDIAN_FS_DIR/characters/amber.md
+  -f $MERIDIAN_FS_DIR/styles/[relevant style files] \
+  -f $MERIDIAN_FS_DIR/characters/[relevant character files]
 ```
 
 When draft-orchestrator reports back, read the draft and critique synthesis yourself before presenting. Highlight what worked, flag remaining concerns, and give the author a clear picture of where the draft stands.
