@@ -2,7 +2,9 @@
     "permissions": {
       "allow": [
         "Bash",
-        "Skill"
+        "Skill",
+        "WebSearch",
+        "WebFetch"
       ],
       "deny": [],
       "ask": []
