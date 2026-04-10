@@ -6,8 +6,8 @@ commit = "12ab35c2eb5668c95810e6a6066f40f4218adc39"
 
 [dependencies.creative-writing-skills]
 url = "https://github.com/haowjy/creative-writing-skills"
-version = "v0.0.6"
-commit = "bf877bfadc14902eeeb4de9c89f2f6502e9f65e5"
+version = "v0.0.9"
+commit = "75d3e318dc1f0d2d71e22a859ae4a732550f863f"
 
 [dependencies.meridian-base]
 url = "https://github.com/haowjy/meridian-base"
@@ -22,49 +22,49 @@ commit = "ba947a2b00c290d55b306881635172e13975d5fa"
 [items."agents/brainstormer.md"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.0.6"
-source_checksum = "sha256:0d0f915b41088ad5742c80ac61613e2cf470ef523c5a2820ebfd75fa235f5870"
-installed_checksum = "sha256:0d0f915b41088ad5742c80ac61613e2cf470ef523c5a2820ebfd75fa235f5870"
+version = "v0.0.8"
+source_checksum = "sha256:d83aa7d681d03383afc5590d33c8259ffcfaff88bf5bc96fc3ab397a1b2e58ea"
+installed_checksum = "sha256:d83aa7d681d03383afc5590d33c8259ffcfaff88bf5bc96fc3ab397a1b2e58ea"
 dest_path = "agents/brainstormer.md"
 
 [items."agents/character-sim.md"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.0.6"
-source_checksum = "sha256:2b8cdf3d5482f8db80999b9b02f7e53f78adb614654871bbeb6433b049b038aa"
-installed_checksum = "sha256:2b8cdf3d5482f8db80999b9b02f7e53f78adb614654871bbeb6433b049b038aa"
+version = "v0.0.8"
+source_checksum = "sha256:3b3c2298e369ed12890e0227b0d286d879105c4424456e09cc163b79737ed04c"
+installed_checksum = "sha256:3b3c2298e369ed12890e0227b0d286d879105c4424456e09cc163b79737ed04c"
 dest_path = "agents/character-sim.md"
 
 [items."agents/chronicler.md"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.0.6"
-source_checksum = "sha256:f91357ac09a9b589d9c0f82926329b151ab1dec0181d2a86617c8936012af3c1"
-installed_checksum = "sha256:f91357ac09a9b589d9c0f82926329b151ab1dec0181d2a86617c8936012af3c1"
+version = "v0.0.8"
+source_checksum = "sha256:438be2e8565549a1b9c2f0de7ab634b5d7ba79ce5428f37ffb34c3cd9f390431"
+installed_checksum = "sha256:438be2e8565549a1b9c2f0de7ab634b5d7ba79ce5428f37ffb34c3cd9f390431"
 dest_path = "agents/chronicler.md"
 
 [items."agents/continuity-checker.md"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.0.6"
-source_checksum = "sha256:f00ce3bdb03de25149c6a5d42abba810a0e018d7b31dc7ac5138d61b07241b9b"
-installed_checksum = "sha256:f00ce3bdb03de25149c6a5d42abba810a0e018d7b31dc7ac5138d61b07241b9b"
+version = "v0.0.8"
+source_checksum = "sha256:ee483a723dde5996796451485f899aedbc37d54c1bec8546203093875d328dd1"
+installed_checksum = "sha256:ee483a723dde5996796451485f899aedbc37d54c1bec8546203093875d328dd1"
 dest_path = "agents/continuity-checker.md"
 
 [items."agents/critic.md"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.0.6"
-source_checksum = "sha256:3eb7aa42813563b3f218ea7b5957f735642dd731a0d1b3bc827b3f6449904766"
-installed_checksum = "sha256:3eb7aa42813563b3f218ea7b5957f735642dd731a0d1b3bc827b3f6449904766"
+version = "v0.0.8"
+source_checksum = "sha256:6b657e1098b169a386a4a08fd5a07905bd1f4b60317e936d1a1cf257c76fc614"
+installed_checksum = "sha256:6b657e1098b169a386a4a08fd5a07905bd1f4b60317e936d1a1cf257c76fc614"
 dest_path = "agents/critic.md"
 
 [items."agents/draft-orchestrator.md"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.0.6"
-source_checksum = "sha256:790149d9824cd1ebc6d6ba7f82e4b14635eb87ebb196c96fc8d9527d3478499e"
-installed_checksum = "sha256:790149d9824cd1ebc6d6ba7f82e4b14635eb87ebb196c96fc8d9527d3478499e"
+version = "v0.0.8"
+source_checksum = "sha256:10a17b0452e32bc93158e89b533f9ca8ca9b5c51e28e34909d334dec1a6970b6"
+installed_checksum = "sha256:10a17b0452e32bc93158e89b533f9ca8ca9b5c51e28e34909d334dec1a6970b6"
 dest_path = "agents/draft-orchestrator.md"
 
 [items."agents/explorer.md"]
@@ -78,9 +78,9 @@ dest_path = "agents/explorer.md"
 [items."agents/graph-maintainer.md"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.0.6"
-source_checksum = "sha256:8bc377169e71624c61542578ab927f28f796b2327f9fe8c25e44c2ae8ef8e210"
-installed_checksum = "sha256:8bc377169e71624c61542578ab927f28f796b2327f9fe8c25e44c2ae8ef8e210"
+version = "v0.0.8"
+source_checksum = "sha256:53b7ead2342bfb9900ac80f76f8c52c75a2acd383201dd03827a364f87d49bae"
+installed_checksum = "sha256:53b7ead2342bfb9900ac80f76f8c52c75a2acd383201dd03827a364f87d49bae"
 dest_path = "agents/graph-maintainer.md"
 
 [items."agents/knowledge-orchestrator.md"]
@@ -134,25 +134,25 @@ dest_path = "agents/researcher.md"
 [items."agents/session-miner.md"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.0.6"
-source_checksum = "sha256:e998b0be1312dd19a29c20e405a1f44cf7318413922536b49453a784b1b2c6a1"
-installed_checksum = "sha256:e998b0be1312dd19a29c20e405a1f44cf7318413922536b49453a784b1b2c6a1"
+version = "v0.0.8"
+source_checksum = "sha256:4b3607725344d8bc2e04360d91fb0cf899f34f06771ed57655dde82567162b96"
+installed_checksum = "sha256:4b3607725344d8bc2e04360d91fb0cf899f34f06771ed57655dde82567162b96"
 dest_path = "agents/session-miner.md"
 
 [items."agents/story-orchestrator.md"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.0.6"
-source_checksum = "sha256:2f259c8027cbbc173b0fc464ee22bf970bc18e3876eeca168f5f36d695e38f25"
-installed_checksum = "sha256:2f259c8027cbbc173b0fc464ee22bf970bc18e3876eeca168f5f36d695e38f25"
+version = "v0.0.8"
+source_checksum = "sha256:939c7b7f00df0ba5db60bead266d49c5d54ea95f4c58176990e93148ad39b6a2"
+installed_checksum = "sha256:939c7b7f00df0ba5db60bead266d49c5d54ea95f4c58176990e93148ad39b6a2"
 dest_path = "agents/story-orchestrator.md"
 
 [items."agents/style-creator.md"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.0.6"
-source_checksum = "sha256:5dc182ba2a8878a239415d10b7f85f25f5f24030f21d254685cabf28abf3ef1e"
-installed_checksum = "sha256:5dc182ba2a8878a239415d10b7f85f25f5f24030f21d254685cabf28abf3ef1e"
+version = "v0.0.8"
+source_checksum = "sha256:09c174b66a1013ca6bb330c84710d9af1c08dfe0e618038f5f889606ad982817"
+installed_checksum = "sha256:09c174b66a1013ca6bb330c84710d9af1c08dfe0e618038f5f889606ad982817"
 dest_path = "agents/style-creator.md"
 
 [items."agents/wiki-editor.md"]
@@ -245,9 +245,9 @@ dest_path = "skills/mermaid"
 [items."skills/prose-analysis"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.0.6"
-source_checksum = "sha256:c5f993b65d10de6b92ca3dd382425c1a8de26a721ff1e2f07c5ed85df979eadf"
-installed_checksum = "sha256:c5f993b65d10de6b92ca3dd382425c1a8de26a721ff1e2f07c5ed85df979eadf"
+version = "v0.0.8"
+source_checksum = "sha256:71e96c13eef4749c2969fd9dc913ef3065dcd3a4eebe7fa33630e7cdc4548596"
+installed_checksum = "sha256:71e96c13eef4749c2969fd9dc913ef3065dcd3a4eebe7fa33630e7cdc4548596"
 dest_path = "skills/prose-analysis"
 
 [items."skills/prose-critique"]
@@ -285,17 +285,17 @@ dest_path = "skills/story-architecture"
 [items."skills/story-context"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.0.6"
-source_checksum = "sha256:9a1eeb6619edf9c0e15172c241e65d836136232e7684e2d1b900166d6340b998"
-installed_checksum = "sha256:9a1eeb6619edf9c0e15172c241e65d836136232e7684e2d1b900166d6340b998"
+version = "v0.0.8"
+source_checksum = "sha256:77a1f35b9101b6e7503d40eb50b17e23d0b21aa6eaaf684e85b189aed665cdfb"
+installed_checksum = "sha256:77a1f35b9101b6e7503d40eb50b17e23d0b21aa6eaaf684e85b189aed665cdfb"
 dest_path = "skills/story-context"
 
 [items."skills/story-decisions"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.0.6"
-source_checksum = "sha256:fc44cead69076b63a83e7d9f74701749d873efb47380e0b3e0ff94b2d3d108b8"
-installed_checksum = "sha256:fc44cead69076b63a83e7d9f74701749d873efb47380e0b3e0ff94b2d3d108b8"
+version = "v0.0.8"
+source_checksum = "sha256:f24e637cebff47ba38752f630e81db3cea9a2d4be32c0c35cf9b7fcb299597d9"
+installed_checksum = "sha256:f24e637cebff47ba38752f630e81db3cea9a2d4be32c0c35cf9b7fcb299597d9"
 dest_path = "skills/story-decisions"
 
 [items."skills/wiki-docs"]
@@ -309,10 +309,18 @@ dest_path = "skills/wiki-docs"
 [items."skills/writing-artifacts"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.0.6"
-source_checksum = "sha256:1e1f8994ffc25963b07f25f88ea4674ab53a6ba168002859c80732856bddecaf"
-installed_checksum = "sha256:1e1f8994ffc25963b07f25f88ea4674ab53a6ba168002859c80732856bddecaf"
+version = "v0.0.8"
+source_checksum = "sha256:3657642de9bb2ec5e5b98f2f8786cd02f610e4e6139b10597a5ca7cb3ac6c80d"
+installed_checksum = "sha256:3657642de9bb2ec5e5b98f2f8786cd02f610e4e6139b10597a5ca7cb3ac6c80d"
 dest_path = "skills/writing-artifacts"
+
+[items."skills/writing-issues"]
+source = "creative-writing-skills"
+kind = "skill"
+version = "v0.0.9"
+source_checksum = "sha256:37d9967f337168453583a4cc9685bb3a61d6f72b9915e38d3d87fbea262a42dc"
+installed_checksum = "sha256:37d9967f337168453583a4cc9685bb3a61d6f72b9915e38d3d87fbea262a42dc"
+dest_path = "skills/writing-issues"
 
 [items."skills/writing-principles"]
 source = "creative-writing-skills"
@@ -325,7 +333,7 @@ dest_path = "skills/writing-principles"
 [items."skills/writing-staffing"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.0.6"
-source_checksum = "sha256:82fa24b119823b9c8c1046317f6e375eb9a88e17141335fc3232860aad353b4d"
-installed_checksum = "sha256:82fa24b119823b9c8c1046317f6e375eb9a88e17141335fc3232860aad353b4d"
+version = "v0.0.8"
+source_checksum = "sha256:58ad9ccc711db8725fe9c2086343d7bb0d50846dc611f323b334692781108478"
+installed_checksum = "sha256:58ad9ccc711db8725fe9c2086343d7bb0d50846dc611f323b334692781108478"
 dest_path = "skills/writing-staffing"
