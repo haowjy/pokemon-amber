@@ -132,23 +132,13 @@ updated: 2025-09-20
 
 ## Key Writing Aids
 
-Writing style and conventions are organized as Meridian skills in `.agents/skills/`:
+**Style reference files** live in `.meridian/fs/styles/`. These are grounded in the actual prose from chapters 1-17 — character voices, scene-type techniques, tonal registers. Writer and critic agents load individual files via `-f` based on what the scene needs.
 
-### `write-prose` — Amber's narrative voice
-Default Amber 1st-person voice: adult/child split, humor techniques, tonal balance. SKILL.md covers the baseline; scene-type resources provide specialized guidance:
-- `resources/dialogue.md` — Speech patterns, action beats, internal vs external voice
-- `resources/battle.md` — Tactical clarity, environmental consequences, skill differentiation
-- `resources/discovery.md` — Game knowledge vs reality, sensory inventory, cross-world comparisons
-- `resources/reveals.md` — How to surface worldbuilding organically (show, don't tell)
+**Known issues** live in `.meridian/fs/issues/`. Cross-cutting problems identified during analysis — mechanical tics, emotional inconsistencies, structural limitations.
 
-### `write-wiki` — Wiki article conventions
-Encyclopedic tone, citation format, article templates. Resource covers Pokemon Amber-specific canon rules:
-- `resources/amber-canon.md` — Source priority (anime > game > manga > fan theory), research process, divergence documentation
+**Writing skills** (generic craft, not project-specific) are in `.agents/skills/` via the creative-writing-skills package. These include `prose-writing`, `prose-critique`, `writing-principles`, etc.
 
-### `write-summary` — Chapter summary format
-Structure and conventions for `_Xsummary.md` files: YAML front matter, story beats, speculation section.
-
-**Important:** When writing prose, read the relevant skill and resource files first. They contain specific examples from the story showing how techniques are applied.
+**Important:** When writing prose, read the relevant style files first. They contain specific examples from the story showing how the voice works.
 
 ## Content Organization
 
