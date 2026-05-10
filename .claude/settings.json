@@ -1,13 +1,16 @@
 {
-    "permissions": {
-      "allow": [
-        "Bash",
-        "Skill",
-        "WebSearch",
-        "WebFetch"
-      ],
-      "deny": [],
-      "ask": []
-    }
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Skill",
+      "WebSearch",
+      "WebFetch",
+      "Agent(general-purpose)"
+    ],
+    "deny": [],
+    "ask": []
+  },
+  "enabledPlugins": {
+    "creative-writing-skills@cw": true
   }
-  
+}

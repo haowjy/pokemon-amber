@@ -5,15 +5,17 @@
 !.gitignore
 
 # Track project config
-!config.toml
 !models.toml
 
 # Track shared install manifest and lock
 
 # Track shared repo state
-!fs/
-!fs/**
 !work/
 !work/**
-!work-archive/
-!work-archive/**
+# Added by Meridian to keep required project state tracked
+!kb/
+!kb/**
+!archive/
+!archive/**
+# Added by Meridian to keep required project state tracked
+!id

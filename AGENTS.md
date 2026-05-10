@@ -1,184 +1,80 @@
 # AGENTS.md
 
-This file provides guidance to agents when working with the files in this project.
+Project guidance for agents working in this repository.
 
 ## Project Overview
 
-This is a Pokemon fanfiction repository for "Pokemon: Ambertwo" - a creative writing project about an isekai'd Pokemon fan who becomes Dr. Fuji's clone, Amber. The story combines elements from anime, games, and manga with a grittier, more realistic take on the Pokemon world.
+Pokemon: Ambertwo — a fanfiction about an isekai'd adult consciousness inhabiting Dr. Fuji's clone, Amber. Grittier and more realistic than canon. Combines anime, games, and manga sources.
 
 ## Repository Structure
 
 ```
 pokemon-amber/
-├── story/           # Chapter files organized by folder
-│   ├── chapterX/
-│   │   ├── Xchapter.md      # Published chapter content
-│   │   ├── _Xnotes.md       # Author notes (hidden)
-│   │   └── _Xsummary.md     # Chapter summary
-├── future/          # Brainstorming and planning for future story arcs
-├── wiki/            # World-building & reference docs
-│   ├── characters/          # Character profiles
-│   ├── arcs/                # Story arc outlines  
-│   ├── lore/                # World mechanics & systems
-│   └── pok-locations/       # Location details
-├── .agents/skills/  # Writing style guides & conventions (Meridian skills)
-└── scripts/         # Conversion utilities
+├── story/                # Chapter prose. One folder per chapter.
+│   └── chX/
+│       ├── chapterX.md   # Published prose
+│       ├── summary.md    # What happened (load for context)
+│       ├── notes.md      # Author craft notes
+│       └── plan.md       # Planning for unwritten chapters
+└── .meridian/kb/         # Author's working knowledge base.
+    ├── wiki/             # Entity, concept, and summary pages
+    ├── styles/           # Voice/tone reference for writing
+    ├── issues/           # Craft backlog
+    └── research/         # Raw external sources
 ```
 
-## File Naming Conventions
+See `story/AGENTS.md` for story file conventions.
+See `.meridian/kb/AGENTS.md` for KB conventions and operations.
 
-**Critical naming rules:**
-- **Official content:** No leading underscore (e.g., `1chapter.md`, `amber-mc.md`)
-- **Author notes/drafts:** Leading underscore (e.g., `_1notes.md`, `_1summary.md`)
-- **Chapter files:** Named `Xchapter.md` inside `story/chapterX/` folders
-- **Chapter notes:** Numbered to match folder (e.g., `_10notes.md` in `chapter10/`)
+## File Naming
 
-## YAML Front Matter Requirements
+- **Chapter folders:** `story/chX/` (e.g., `story/ch10/`)
+- **Chapter prose:** `chapterX.md` — number in filename so editor tabs are readable
+- **summary.md** — what happened; load for context before writing adjacent chapters
+- **notes.md** — author craft notes, character research, decisions
+- **plan.md** — planning for unwritten chapters
+- **No underscore prefix** — folder placement makes purpose clear
+- **KB pages:** kebab-case (e.g., `amber-mc.md`, `team-rocket.md`)
 
-All authoring files must include YAML front matter. Key schemas:
+## Writing Style
 
-**Story chapters:**
-```yaml
----
-title: "[Chapter 1] Truck-kun Strikes Again"
-chapter: 1
-arc: cinnabar
-pov: Amber Fuji
-status: draft # or published
-hidden: false
-created: 2025-09-20
-updated: 2025-09-20
----
-```
+**Point of View**
+- Default: Amber's 1st person
+- Ch 6 (Fuji), Ch 13 (Oak), Ch 16 — 3rd person limited for moments Amber can't witness
 
-**Author notes (chapter-local):**
-```yaml
----
-type: note
-scope: chapter
-chapter: 1
-spoilers: true
-status: draft
-hidden: true
-created: 2025-09-20
-updated: 2025-09-20
----
-```
+**Punctuation**
+- Em dash: `---` (three hyphens)
+- Ellipsis: `...` (three periods, no unicode)
+- Quotes: plain ASCII `"` and `'`
 
-**Arc notes:**
-```yaml
----
-type: note
-scope: arc
-arc_id: arc01-celadon
-chapters: [7, 8, 9, 10]
-spoilers: true
-status: draft
-hidden: true
-updated: 2025-09-20
----
-```
+**Spelling**
+- `Pokemon` — consistent within a file (ASCII or accented, not both)
 
-**Global notes (worldbuilding, continuity, etc.):**
-```yaml
----
-type: note
-scope: global
-category: worldbuilding # or continuity, themes, mechanics
-spoilers: false
-status: draft
-hidden: true
-updated: 2025-09-20
----
-```
-
-**Wiki pages:**
-```yaml
----
-type: wiki
-category: events # or chapters, index
-title: Pallet Town Attack
-requires_citations: true
-status: published
-updated: 2025-09-20
----
-```
-
-## Writing Style Guidelines
-
-**Point of View:**
-- Default: Amber's 1st person perspective
-- Chapters 6, 13, 16 use 3rd person POV (Fuji, Oak) for critical moments Amber doesn't witness
-- See `story/README.md` for details
-
-**Punctuation:**
-- Em dash: Use three hyphens `---` in source
-- Ellipsis: Three periods `...` (no unicode)
-- Quotes: Plain ASCII `"` and `'`
-- Hyphen `-` for compound words (e.g., 8-bit); em dash `---` for breaks/asides
-
-**Spelling:**
-- `Pokemon` (ASCII) or `Pokemon` (accented) — be consistent within a file
-
-**Content rules:**
-- Keep official prose clean (no inline author commentary)
-- Use `hidden: true` for content not meant to be exported
-- Update `updated:` date when making substantive edits
-
-**File organization:**
-- Chapters are organized in numbered folders under `story/`
-- Each chapter has three files: the chapter itself, notes, and summary
-- Wiki serves as shared knowledge base for consistency tracking
+**Content rules**
+- No inline author commentary in published prose
+- Update `updated:` date on chapter frontmatter when making substantive edits
 
 ## Key Writing Aids
 
-**Style reference files** live in `.meridian/fs/styles/`. These are grounded in the actual prose from chapters 1-17 — character voices, scene-type techniques, tonal registers. Writer and critic agents load individual files via `-f` based on what the scene needs.
-
-**Known issues** live in `.meridian/fs/issues/`. Cross-cutting problems identified during analysis — mechanical tics, emotional inconsistencies, structural limitations.
-
-**Writing skills** (generic craft, not project-specific) are in `.agents/skills/` via the creative-writing-skills package. These include `prose-writing`, `prose-critique`, `writing-principles`, etc.
-
-**Important:** When writing prose, read the relevant style files first. They contain specific examples from the story showing how the voice works.
-
-## Content Organization
-
-**Story content:**
-- Linear chapter progression in numbered folders
-- Each chapter includes author notes for intent/foreshadowing
-- Summaries follow specific formatting for consistency
-
-**Wiki content:**
-- Characters, locations, lore, and timeline documentation
-- Citations required back to specific chapters
-- Organized by category (characters, arcs, lore, locations)
-
-## Version Control Notes
-
-The repository tracks a creative writing project with multiple content types. Most changes will be to markdown files in `story/` and `wiki/` directories. Writing conventions are defined in `.agents/skills/` and should be preserved when making edits.
+- **Style references** — `.meridian/kb/styles/`. Voice, tone, scene-type techniques grounded in actual prose.
+- **Known issues** — `.meridian/kb/issues/`. Cross-cutting craft problems to watch for.
+- **Wiki** — `.meridian/kb/wiki/`. Characters, lore, plot threads, events.
 
 ## Conversation Guidelines
 
-  When discussing ideas, don't be afraid to be harsh and critical about my ideas. Justify your critiques with specific
-  examples and evidence (search the internet to support your critiques, if necessary).
+Be harsh and critical when evaluating ideas. Support critiques with specific examples — search the web if needed.
 
-  ### Planning Future Story Content (IMPORTANT)
+### Planning Future Story Content
 
-  When discussing future/unwritten story content:
+**DO:**
+- Answer worldbuilding/mechanics questions directly
+- Present multiple options without advocating for one
+- Ask clarifying questions before building on ideas
 
-  **DO:**
-  - Answer worldbuilding/mechanics questions directly (fainting rules, economics, systems)
-  - Present multiple OPTIONS without advocating for any particular one
-  - ASK clarifying questions: "What do you want to happen here?" "How do you see this character?"
-  - Wait for confirmation before building on ideas
-  - Focus on the specific question asked
+**DON'T:**
+- Invent character dialogue or psychology unless asked
+- Suggest specific plot beats or scene structures unprompted
+- Build elaborate scenarios from assumptions
 
-  **DON'T:**
-  - Invent character dialogue, motivations, or psychology unless explicitly requested
-  - Suggest specific plot beats or scene structures ("Here's how the confrontation should go")
-  - Build elaborate scenarios based on assumptions ("In Arc 2, here's what could happen...")
-  - Present recommendations as if they're the "right" answer
-  - Add narrative details beyond what was asked
-
-  **Example:**
-  - ❌ BAD: "Here's the confrontation scene with this dialogue... and then in Arc 2 you could..."
-  - ✅ GOOD: "For the confrontation, what tone do you want? Should he be defensive, guilt-ridden, or something else?"
+❌ "Here's how the confrontation should go... and then in Arc 2..."
+✅ "What tone do you want for the confrontation? Defensive, guilt-ridden, something else?"
