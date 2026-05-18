@@ -6,7 +6,7 @@ spoilers: true
 status: planning
 hidden: true
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-05-17
 ---
 
 # Chapter 19 Plan: Route 1, Day 1 (Working Title)
@@ -21,7 +21,7 @@ updated: 2026-04-08
 
 The equipped-but-learning beats. This is the gap between theory and practice. Amber has Oak's gear, pokeballs, supplies, and years of game/anime knowledge --- and she's about to discover that knowing a route on a map is not the same as walking it.
 
-Not desperate survival. Not a crisis chapter. A deliberately quiet chapter before the cave in Ch 20.
+Not desperate survival. Not a crisis chapter. A deliberately quiet chapter before the Teddiursa encounter and Team Rocket camp in Ch 20.
 
 ---
 
@@ -68,6 +68,6 @@ Not desperate survival. Not a crisis chapter. A deliberately quiet chapter befor
 
 ## Cross-Refs
 
-- `story/chapter18/_18plan.md` --- Departure
-- `story/chapter20/_20plan.md` --- Day 2 cave sequence
-- `future/arcs/arc1-kanto-year1.md` --- Arc 1 structure
+- `story/ch18/plan.md` --- Departure
+- `story/ch20/plan.md` --- Route 1 off-route / Team Rocket camp / Alonso introduction
+- `story/ch21/plan.md` --- The guarded cave / Ursaring rampage / Rescue

@@ -9,7 +9,7 @@ created: 2026-05-17
 updated: 2026-05-17
 ---
 
-# Route 1 / Don / Charcadet Revision
+# Route 1 / Alonso Quijano / Charcadet Revision
 
 ## Purpose
 
@@ -24,23 +24,19 @@ The current cave version has useful bones:
 - Charcadet becomes emotionally important very early.
 - Charcadet later becomes central to the 4Ever theft / Ceruledge tragedy.
 
-The part to reconsider is the "ancient Charcadet guarding a centuries-dead Paldean master in a Kanto cave" framing. That version creates lore machinery and distracts from the human elements that are one of AmberTwo's strengths.
+The part to reconsider is the older cave-relic framing. That version creates lore machinery and distracts from the human elements that are one of AmberTwo's strengths.
 
-The proposed revision: Charcadet is in Kanto because Don is in Kanto.
+The proposed revision: Charcadet is in Kanto because Alonso is in Kanto.
 
 ## Core Change
 
-Replace:
+Current direction:
 
-> Ancient Charcadet in a Kanto cave, guarding a Paldean master's skeleton and a psychic stone.
-
-With:
-
-> Don, a Paldean adventuring knight, travels in Kanto with Armarouge and Charcadet. Amber meets him through the Teddiursa / Team Rocket incident. Charcadet eventually chooses Amber after Don and Amber travel together briefly.
+> Alonso, a 17-year-old Paldean adventurer, travels in Kanto with Armarouge and Charcadet. Amber meets him through the Teddiursa / Team Rocket incident. Charcadet eventually chooses Amber after Alonso and Amber travel together briefly.
 
 This makes Charcadet's presence emotionally and logistically cleaner.
 
-Don is the reason Charcadet is in Kanto.
+Alonso is the reason Charcadet is in Kanto.
 
 Amber is the reason Charcadet stays.
 
@@ -52,10 +48,10 @@ AmberTwo's strongest material is human-will collision:
 - Delia's trauma and inability to mother Amber.
 - Oak's restraint and buried memory.
 - Erika/Mary/Kaede's compassion versus institutions.
-- Kyle/Sabrina as ambition under pressure.
+- Kyle/Sabrina as inherited drive against raw power.
 - Giovanni as ideology and inheritance.
 
-An ancient cave skeleton is mostly lore. Don is a person with will, passion, ridiculousness, and a philosophy Amber can react to.
+The older cave-relic framing was mostly lore. Alonso is a person with will, passion, ridiculousness, and a philosophy Amber can react to.
 
 The story should introduce more human relationships and wills, not fewer.
 
@@ -83,9 +79,9 @@ Amber finds signs of Team Rocket activity: a camp, capture equipment, transport 
 
 Ursaring may have been captured, restrained, or moved through this operation.
 
-### 4. Don's Parallel Quest
+### 4. Alonso's Parallel Quest
 
-Don is also in the area, but not necessarily with Amber yet.
+Alonso is also in the area, but not necessarily with Amber yet.
 
 Possible reasons:
 - He is following a Mystery Dungeon report.
@@ -94,7 +90,7 @@ Possible reasons:
 - He is searching for a Paldean relic or Kanto trace of an old adventurer.
 - He is pursuing a "quest" that turns out to intersect with Teddiursa's missing mother.
 
-Don's motive should be sincere and a little ridiculous, but not useless.
+Alonso's motive should be sincere and a little ridiculous, but not useless.
 
 ### 5. Amber's First Knightly Inkling
 
@@ -108,28 +104,28 @@ This is not the moment she becomes a hero. It is an inkling.
 
 Charcadet notices.
 
-Don notices.
+Alonso notices.
 
-### 6. Don and Armarouge Intervene
+### 6. Alonso and Armarouge Intervene
 
-Don and Armarouge arrive as cavalry after Amber has already acted.
+Alonso and Armarouge arrive as cavalry after Amber has already acted.
 
-This is important: Don should not steal Amber's agency by rescuing her before she chooses. He prevents the choice from becoming fatal.
+This is important: Alonso should not steal Amber's agency by rescuing her before she chooses. He prevents the choice from becoming fatal.
 
-He speaks ridiculously. Armarouge acts with disciplined competence. Together, they prove that Don's knightly language has real action behind it.
+He says something simple and stubborn — the kind of thing Amber wants to dismiss — while Armarouge acts with disciplined competence. Together, they prove Alonso's ideal is real without needing archaic or performative knight-speech.
 
 ### 7. Short-Term Travel
 
 Do not have Charcadet choose Amber immediately.
 
-Instead, Don and Amber travel together for a short stretch:
+Instead, Alonso and Amber travel together for a short stretch:
 - Route 1 aftermath
 - Viridian logistics
 - possibly Route 2 / Viridian Forest
 - possibly a Center recovery chapter
-- possibly a small quest or bureaucratic problem caused by Don's foreign Pokémon
+- possibly a small quest or bureaucratic problem caused by Alonso's foreign Pokémon
 
-This gives Don time to understand Amber and gives Charcadet time to observe her.
+This gives Alonso time to understand Amber and gives Charcadet time to observe her.
 
 ### 8. Charcadet Observes Pattern
 
@@ -138,20 +134,20 @@ Charcadet should choose Amber because of repeated pattern recognition, not one h
 It sees:
 - Amber keeps promises to Teddiursa.
 - Amber respects Pokémon as people.
-- Amber takes Don seriously even when embarrassed by him.
+- Amber takes Alonso seriously even when embarrassed by him.
 - Amber is brave but not fearless.
 - Amber is practical, guarded, and still capable of acting beyond self-interest.
 - Amber does not yet have a grand dream, but she has the beginning of one.
 
 ### 9. Separation / Choice
 
-At the end of the mini-arc, Don and Amber must separate.
+At the end of the mini-arc, Alonso and Amber must separate.
 
 Charcadet chooses Amber.
 
-Don recognizes what is happening before Amber does. This becomes Don's own test: he must respect Charcadet's chosen quest.
+Alonso recognizes what is happening before Amber does. This becomes Alonso's own test: he must respect Charcadet's chosen quest.
 
-Don lets Charcadet go because his chivalry is real.
+Alonso lets Charcadet go because his chivalry is real.
 
 ### 10. Official Capture
 
@@ -170,24 +166,18 @@ Amber officially catches Charcadet after the choice, likely at a Pokémon Center
 
 ## What To Remove Or Reframe
 
-### Remove / De-emphasize
+### Current Reframe
 
-- Ancient Charcadet living for centuries in a Kanto cave.
-- Paldean skeleton as the primary emotional logic.
-- Psychic stone as the reason Charcadet bonds with Amber.
-- One-action instant loyalty.
-
-### Reframe
-
-- Any special stone/relic should be tied to Don's quest, the Explorer/Mystery Dungeon system, or a later Mewtwo thread only if needed.
-- Paldean knight lore belongs to Don/Armarouge/Charcadet as living culture, not dead exposition.
-- Team Rocket's interest can be in foreign Pokémon, Mystery Dungeon energy, or a capture pipeline rather than "random ancient stone."
+- Charcadet's presence comes from Alonso's living Paldean context.
+- Charcadet's choice comes from observing Amber over time, not from one-action instant loyalty.
+- Any special ore/relic thread should serve the Mewtwo payoff and Team Rocket operation, not Charcadet's bonding logic.
+- Team Rocket's interest can be in foreign Pokemon, Mystery Dungeon energy, Mew-adjacent ore, or a capture pipeline.
 
 ## Amber's Internal Arc
 
 Amber is from our world. She does not initially believe in heroic life as a real mode of being.
 
-Don destabilizes her.
+Alonso destabilizes her.
 
 At first:
 - "This guy is insane."
@@ -199,36 +189,36 @@ Then:
 - "He means this."
 - "Maybe sincerity is not fake just because it looks ridiculous."
 
-The goal is not for Amber to become Don. The goal is for Don to make Amber understand that a life can be organized around a chosen ideal.
+The goal is not for Amber to become Alonso. The goal is for Alonso to make Amber understand that a life can be organized around a chosen ideal.
 
-## Don's Function
+## Alonso's Function
 
-Don is not a quest-giver.
+Alonso is not a quest-giver.
 
-Don is not a joke.
+Alonso is not a joke.
 
-Don is not better than Amber.
+Alonso is not better than Amber.
 
-Don is a living example of positive passion and obsession: ridiculous, risky, generous, and real.
+Alonso is a living example of positive passion and obsession: ridiculous, risky, generous, and real.
 
 He is one of the first people Amber meets whose dream is large enough to make her own survival-focused mindset feel small.
 
 ## Open Questions
 
 - How many chapters should this mini-arc occupy?
-- Does Don appear before or during the Teddiursa incident?
+- Does Alonso appear before or during the Teddiursa incident?
 - What exact Rocket operation are they interrupting?
 - Is Ursaring captured on-screen or already moved?
-- Does Don know anything about Team Rocket?
-- Is Don properly registered in Kanto?
+- Does Alonso know anything about Team Rocket?
+- Is Alonso properly registered in Kanto?
 - Does Charcadet choose Amber before or after Viridian Gym?
-- Would Giovanni notice Don's foreign Pokémon too?
+- Would Giovanni notice Alonso's foreign Pokémon too?
 - Does Armarouge later recognize Ceruledge?
-- Does Don return after 4Ever?
+- Does Alonso return after 4Ever?
 
 ## Related Files
 
-- `../characters/don-q-adventuring-knight.md`
-- `../plot-threads/charcadet-to-ceruledge-throughline.md`
-- `arc1-kanto-year1.md`
-- `../characters/amber-mc-team.md`
+- `story/ch20/plan.md` --- Chapter 20 Plan
+- `story/ch21/plan.md` --- Chapter 21 Plan
+- `alonso-quijano-adventuring-knight.md` --- Character profile
+- `charcadet-to-ceruledge-throughline.md` --- Plot thread

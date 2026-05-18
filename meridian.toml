@@ -43,7 +43,7 @@ harness = "codex"
 [primary]
 # Default agent profile launched when running `meridian` without `-a`.
 # Without this, meridian launches with no profile.
-# agent = ""
+agent = "muse"
 # Model override for the primary agent (unset = use defaults.model).
 # model = ""
 # Harness override for the primary agent (unset = use defaults.harness).

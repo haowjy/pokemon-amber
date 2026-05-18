@@ -55,7 +55,7 @@ A life organized around a consuming pursuit.
 Examples:
 - Fuji: restoring Amber / the perfect family.
 - Giovanni: power, Kanto nationalism, Mewtwo as answer to Mt. Silver.
-- Don: adventuring knighthood, greatness, living by ideals.
+- Alonso Quijano: the Greatest Adventurer ideal, strength, nobility, and chosen adventure.
 - Later Amber: becoming strong enough that no one can steal her family again.
 
 ### Ambition
@@ -109,7 +109,7 @@ Desire organized around knowing, seeing, mapping, or finding.
 
 Examples:
 - Young Oak.
-- Don in adventurer form.
+- Alonso in adventurer form.
 - Later Amber with Kitakami and other impossible places.
 
 ## Character Map — Current Draft
@@ -126,11 +126,11 @@ Emerging drive:
 
 Amber's arc is not "was always heroic." It is the gradual acquisition of a consuming object through loss, promises, examples, and responsibility.
 
-### Don
+### Alonso Quijano
 
 Drive type: obsession / chosen ideal.
 
-Object: adventuring knighthood, greatness, exploration, living as if ideals are real.
+Object: the Greatest Adventurer ideal, exploration, strength, nobility, and living as if courage matters.
 
 Function: first positive obsessive figure Amber meets. He shows that passion can organize a life without becoming possession.
 
@@ -190,7 +190,7 @@ Growth: distinguish his own drive from Koichi's expectations.
 
 Drive type: ambition / control / mastery.
 
-Object: psychic excellence, precision, elite path, proving Psychic Gym supremacy.
+Object: none in the same sense — Sabrina is raw psychic power without much drive; emotional distance comes from psychic overload.
 
 Amber as anomaly should bother her.
 
@@ -212,7 +212,7 @@ Drive type: becoming / chosen shape.
 
 Object: what kind of fire it will become.
 
-Don/Armarouge show one path. Rocket/Ceruledge force another.
+Alonso/Armarouge show one path. Rocket/Ceruledge force another.
 
 ### Teddiursa → Ursaring
 
@@ -242,7 +242,7 @@ Amber's education is partly learning the difference.
 
 ## Related Files
 
-- `../characters/don-q-adventuring-knight.md`
+- `../characters/alonso-quijano-adventuring-knight.md`
 - `../characters/professor-oak-young-champion.md`
 - `../plot-threads/charcadet-to-ceruledge-throughline.md`
 - `core-story-elements.md`

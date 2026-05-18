@@ -2,7 +2,7 @@
 description: Chapter 10 notes
 hidden: true
 status: draft
-updated: 2025-10-11
+updated: 2026-05-18
 ---
 
 # Chapter 10 - Notes
@@ -12,7 +12,7 @@ updated: 2025-10-11
 ## Character References
 
 ### Erika
-Based on Erika from the Pokémon games ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Erika)):
+Based on Erika from the Pokémon games ([Bulbapedia][bulbapedia-erika]):
 - Major chapter showing her gym battle and medical expertise
 - Battles challenger using Weepinbell (defeated) and Tangela (victory)
 - Reveals she's "Gym Trainer Erika" not yet Gym Leader (Mary: "She's way too young to be Gym Leader")
@@ -26,7 +26,7 @@ Based on Erika from the Pokémon games ([Bulbapedia](https://bulbapedia.bulbagar
 - Tangela: Moves include Ingrain, Stun Spore, Constrict, Giga Drain, Vine Whip
 
 ### Mary
-Based on Cooltrainer Mary from Celadon Gym ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Celadon_Gym)):
+Based on Cooltrainer Mary from Celadon Gym ([Bulbapedia][bulbapedia-celadon-gym]):
 - Brings Kaede to her apartment, verifies story
 - Returns with Erika for medical help
 - Assists with treatment preparation
@@ -34,7 +34,7 @@ Based on Cooltrainer Mary from Celadon Gym ([Bulbapedia](https://bulbapedia.bulb
 - Has Bellsprout partner
 
 ### Kaede
-Based on Kaede from the manga "How I Became a Pokémon Card" (https://bulbapedia.bulbagarden.net/wiki/Kaede):
+Based on Kaede from the manga "How I Became a Pokémon Card" ([Bulbapedia][bulbapedia-kaede]):
 - Childhood friends with Erika, the Celadon Gym Leader
 - Severely allergic to pollen, flowers, and Grass-type Pokémon in general (hence constant sneezing around Oddish)
 - In the original manga, she's a member of Team Rocket (though Erika is oblivious to this)
@@ -46,3 +46,7 @@ Based on Kaede from the manga "How I Became a Pokémon Card" (https://bulbapedia
 - Receives free treatment from Erika, allowed to keep Oddish for Hiro's care
 
 
+
+[bulbapedia-erika]: https://bulbapedia.bulbagarden.net/wiki/Erika
+[bulbapedia-celadon-gym]: https://bulbapedia.bulbagarden.net/wiki/Celadon_Gym
+[bulbapedia-kaede]: https://bulbapedia.bulbagarden.net/wiki/Kaede

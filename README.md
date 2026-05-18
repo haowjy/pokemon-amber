@@ -1,6 +1,6 @@
 # Pokemon: Ambertwo
 
-[![Royal Road](https://img.shields.io/badge/Read%20on-Royal%20Road-red)](https://www.royalroad.com/fiction/103289/pokemon-ambertwo-pokemon-fanficisekai)
+[![Royal Road][royal-road-badge-img]][royal-road]
 ---
 
 ## Synopsis
@@ -23,7 +23,7 @@ This repository is an experiment in **AI-assisted creative writing**. The story 
 - Style guidelines and voice consistency
 - Story structure and pacing feedback
 
-The `.agents/skills/` directory contains style guides and writing conventions organized as Meridian skills that help the AI understand the story's voice, tone, and conventions. The `wiki/` serves as a shared knowledge base for both human and AI to reference.
+Meridian skills help the AI understand the story's voice, tone, and conventions. The durable knowledge base is resolved through `meridian context kb` / `$MERIDIAN_CONTEXT_KB_DIR`, not a repo-local `wiki/` directory.
 
 **Goal:** Explore how AI can augment creative writing without replacing the human author's vision and decision-making.
 
@@ -41,13 +41,8 @@ pokemon-amber/
 │   │   ├── _1notes.md       # Author notes (hidden)
 │   │   └── _1summary.md     # Chapter summary
 │   └── ...
-├── wiki/            # World-building & reference docs
-│   ├── index.md             # Wiki home
-│   ├── chapters.md          # Chapter summaries with citations
-│   ├── timeline.md          # Chronological event list
-│   ├── characters/          # Character profiles
-│   ├── arcs/                # Story arc outlines
-│   ├── lore/                # World mechanics & systems
+# Durable KB lives outside the repo at $MERIDIAN_CONTEXT_KB_DIR
+# (resolved with `meridian context kb`)
 │   └── pok-locations/       # Location details
 └── .agents/skills/  # Writing style guides & conventions (Meridian skills)
 ```
@@ -80,7 +75,7 @@ The world is grounded and lived-in: Pokemon work at train stations, battles are 
 ## Reading
 
 **Published chapters available at:**
-- [Royal Road](https://www.royalroad.com/fiction/103289/pokemon-ambertwo-pokemon-fanficisekai)
+- [Royal Road][royal-road]
 
 **Development status:** Ongoing  
 **Update schedule:** Irregular
@@ -92,3 +87,6 @@ The world is grounded and lived-in: Pokemon work at train stations, battles are 
 This is a transformative fan work based on Pokemon (© Nintendo/Game Freak/Creatures Inc.). Not for commercial use.
 
 Story, original characters, and world-building expansions by the author.
+
+[royal-road-badge-img]: https://img.shields.io/badge/Read%20on-Royal%20Road-red
+[royal-road]: https://www.royalroad.com/fiction/103289/pokemon-ambertwo-pokemon-fanficisekai

@@ -16,15 +16,15 @@ pokemon-amber/
 │       ├── summary.md    # What happened (load for context)
 │       ├── notes.md      # Author craft notes
 │       └── plan.md       # Planning for unwritten chapters
-└── .meridian/kb/         # Author's working knowledge base.
-    ├── wiki/             # Entity, concept, and summary pages
-    ├── styles/           # Voice/tone reference for writing
-    ├── issues/           # Craft backlog
-    └── research/         # Raw external sources
+└── $MERIDIAN_CONTEXT_KB_DIR/  # Resolved Meridian KB context, not repo-local
+    ├── wiki/                  # Entity, concept, and summary pages
+    ├── styles/                # Voice/tone reference for writing
+    ├── issues/                # Craft backlog
+    └── research/              # Raw external sources
 ```
 
 See `story/AGENTS.md` for story file conventions.
-See `.meridian/kb/AGENTS.md` for KB conventions and operations.
+Use `meridian context kb` / `$MERIDIAN_CONTEXT_KB_DIR` for KB location; do not assume a repo-local `.meridian/kb` or `wiki/` tree.
 
 ## File Naming
 
@@ -56,9 +56,17 @@ See `.meridian/kb/AGENTS.md` for KB conventions and operations.
 
 ## Key Writing Aids
 
-- **Style references** — `.meridian/kb/styles/`. Voice, tone, scene-type techniques grounded in actual prose.
-- **Known issues** — `.meridian/kb/issues/`. Cross-cutting craft problems to watch for.
-- **Wiki** — `.meridian/kb/wiki/`. Characters, lore, plot threads, events.
+- **Style references** — `$MERIDIAN_CONTEXT_KB_DIR/styles/`. Voice, tone, scene-type techniques grounded in actual prose.
+- **Known issues** — `$MERIDIAN_CONTEXT_KB_DIR/issues/`. Cross-cutting craft problems to watch for.
+- **Wiki** — `$MERIDIAN_CONTEXT_KB_DIR/wiki/`. Characters, lore, plot threads, events.
+
+## Linking References in Repo Docs
+
+- **Inside this repo:** use normal relative Markdown links.
+- **Outside this repo (including `$MERIDIAN_CONTEXT_KB_DIR`):** do **not** use local filesystem paths as Markdown links.
+- If the outside source has a GitHub location, link that URL instead. For this project's KB, use:
+  - `https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/`
+- Prefer reference-style links for readability: use `[shortcut]` in body text and define `[shortcut]: https://...` at the bottom of the file.
 
 ## Conversation Guidelines
 

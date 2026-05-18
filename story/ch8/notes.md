@@ -2,7 +2,7 @@
 description: Chapter 8 notes
 hidden: true
 status: draft
-updated: 2025-10-11
+updated: 2026-05-18
 ---
 
 # Chapter 8 - Notes
@@ -21,7 +21,7 @@ Original character (OC):
 - About to accidentally reveal HP UP production secrets before Erika stops her
 
 ### Erika (First Appearance)
-Based on Erika from the Pokémon games ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Erika)):
+Based on Erika from the Pokémon games ([Bulbapedia][bulbapedia-erika]):
 - In this story, she's a gym trainer working toward becoming Gym Leader (not yet the official leader)
 - Wears traditional yellow kimono with blue Pokéball patterns
 - Dark hair with wooden flower ornaments
@@ -29,3 +29,5 @@ Based on Erika from the Pokémon games ([Bulbapedia](https://bulbapedia.bulbagar
 - First appears in security office, shows warmth to Amber
 
 
+
+[bulbapedia-erika]: https://bulbapedia.bulbagarden.net/wiki/Erika

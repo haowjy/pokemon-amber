@@ -36,7 +36,7 @@ They can explain:
 - Why routes need Rangers and quest boards.
 - Why Explorers exist.
 - Why Pokémon Centers host rescue requests.
-- Why Oak, Don, and later Amber can be drawn toward impossible places.
+- Why Oak, Alonso Quijano, and later Amber can be drawn toward impossible places.
 
 They also make "game knowledge != real wilderness" much sharper. Amber may know route names and encounter tables, but she does not know how a real unstable dungeon behaves.
 
@@ -58,7 +58,7 @@ Places where human-Pokémon interactions, old oaths, mass grief, or long-term se
 
 ### Terastal / Area Zero Adjacent Energies
 
-Paldea-related energies could provide one explanatory family, especially for Don's background.
+Paldea-related energies could provide one explanatory family, especially for Alonso's background.
 
 ### Ecological Feedback
 
@@ -131,16 +131,16 @@ Mystery Dungeons generate many job-board postings:
 
 Professional quest-takers can work the edges. Explorers go deeper.
 
-## Route 1 / Don Use
+## Route 1 / Alonso Quijano Use
 
 The revised Route 1 incident can use a low-level Mystery Dungeon or dungeon-adjacent zone without relying on "ancient Charcadet in a Kanto cave."
 
 Possible setup:
-- Don is investigating a strange cave report.
+- Alonso is investigating a strange cave report.
 - Rocket is using the unstable zone to hide captures or search for valuable readings.
 - Ursaring is captured or displaced during the operation.
 - Teddiursa leads Amber into the outskirts.
-- Charcadet is present because Don is present.
+- Charcadet is present because Alonso is present.
 - The dungeon provides danger and atmosphere, but not the emotional basis for Charcadet's choice.
 
 ## Kitakami Connection
@@ -182,11 +182,11 @@ Possible practical rules:
 - If Pokémon stop vocalizing, retreat.
 - If compass/ball telemetry fails, retreat.
 
-These rules can be learned by Amber over time and are perfect for Don/Oak/Explorer mentorship.
+These rules can be learned by Amber over time and are perfect for Alonso/Oak/Explorer mentorship.
 
 ## Related Files
 
 - `../trainer-systems/explorers-and-adventurers.md`
 - `../trainer-systems/quest-system.md`
-- `../../arcs/route1-don-charcadet-revision.md`
+- `../../arcs/route1-alonso-charcadet-revision.md`
 - `../../arcs/arc-kitakami.md`

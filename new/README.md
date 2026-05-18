@@ -1,25 +1,25 @@
-# AmberTwo Repo Additions — Don, Explorers, Drive, Charcadet
+# AmberTwo Repo Additions — Alonso Quijano, Explorers, Drive, Charcadet
 
-Repo-ready markdown notes generated from the discussion around Don, Charcadet, positive obsession, Explorers/adventurers, and the 4Ever Ceruledge throughline.
+Repo-ready markdown notes generated from the discussion around Alonso Quijano, Charcadet, positive obsession, Explorers/adventurers, and the 4Ever Ceruledge throughline.
 
-These are **not committed** to the repo. Copy the files under `.meridian/kb/wiki/` into the matching paths in `haowjy/pokemon-amber` and then adjust cross-links/file names to taste.
+These are staging notes. Promote them into the resolved Meridian KB under `$MERIDIAN_CONTEXT_KB_DIR/wiki/` (use `meridian context kb` to confirm the path), then adjust cross-links/file names to taste.
 
 ## Suggested files
 
-| Suggested repo path | Purpose |
+| Suggested KB path | Purpose |
 |---|---|
-| `.meridian/kb/wiki/characters/don-q-adventuring-knight.md` | New character page for Don, the Paldean adventuring knight inspired by Don Quixote. |
-| `.meridian/kb/wiki/arcs/route1-don-charcadet-revision.md` | Route 1 / early Kanto mini-arc replacing the ancient Charcadet cave premise with Don + travel + earned Charcadet choice. |
-| `.meridian/kb/wiki/plot-threads/charcadet-to-ceruledge-throughline.md` | Emotional throughline from Don/Armarouge/Charcadet to 4Ever theft and later Ceruledge. |
-| `.meridian/kb/wiki/lore/trainer-systems/explorers-and-adventurers.md` | Adds Adventurers / Explorers as a vocation between trainer, Ranger, and quest-taker. |
-| `.meridian/kb/wiki/lore/mechanics/mystery-dungeons.md` | Working lore for Mystery Dungeons as unstable exploration zones. |
-| `.meridian/kb/wiki/themes/character-drive-spectrum.md` | Character-drive framework that avoids forcing every character into “obsession.” |
-| `.meridian/kb/wiki/characters/professor-oak-young-champion.md` | Expansion notes for young Oak’s lost ambition, Champion era, war, and transformation into researcher/mentor. |
-| `.meridian/kb/wiki/workspace/open-questions-don-explorers.md` | Open questions / grilling checklist for gaps to decide. |
+| `$MERIDIAN_CONTEXT_KB_DIR/wiki/characters/alonso-quijano.md` | New character page for Alonso, the Paldean adventurer inspired by Cervantes's Alonso Quijano. |
+| `$MERIDIAN_CONTEXT_KB_DIR/wiki/arcs/route1-alonso-charcadet-revision.md` | Route 1 / early Kanto mini-arc replacing the ancient Charcadet cave premise with Alonso + travel + earned Charcadet choice. |
+| `$MERIDIAN_CONTEXT_KB_DIR/wiki/plot-threads/charcadet-to-ceruledge-throughline.md` | Emotional throughline from Alonso/Armarouge/Charcadet to 4Ever theft and later Ceruledge. |
+| `$MERIDIAN_CONTEXT_KB_DIR/wiki/lore/trainer-systems/explorers-and-adventurers.md` | Adds Adventurers / Explorers as a vocation between trainer, Ranger, and quest-taker. |
+| `$MERIDIAN_CONTEXT_KB_DIR/wiki/lore/mechanics/mystery-dungeons.md` | Working lore for Mystery Dungeons as unstable exploration zones. |
+| `$MERIDIAN_CONTEXT_KB_DIR/wiki/themes/character-drive-spectrum.md` | Character-drive framework that avoids forcing every character into “obsession.” |
+| `$MERIDIAN_CONTEXT_KB_DIR/wiki/characters/professor-oak-young-champion.md` | Expansion notes for young Oak’s lost ambition, Champion era, war, and transformation into researcher/mentor. |
+| `$MERIDIAN_CONTEXT_KB_DIR/wiki/workspace/open-questions-alonso-explorers.md` | Open questions / grilling checklist for gaps to decide. |
 
 ## Integration notes
 
-- The current repo already has `arc1-kanto-year1.md` and `amber-mc-team.md` describing ancient Charcadet / Team Rocket / 4Ever theft beats. These notes assume you may revise that version.
-- The central recommendation is: **Don is why Charcadet is in Kanto. Amber is why Charcadet stays.**
-- Do not flatten Don into a fake knight. He should be whimsical and ridiculous in presentation, but competent and sincere in action.
-- Keep the 4Ever theft. The Ceruledge tragedy becomes stronger if Charcadet first chooses Amber after traveling with her and Don.
+- Ch. 20 and 21 plans now use Alonso + travel + earned Charcadet choice instead of the ancient-cave-guardian premise. See `story/ch20/plan.md` and `story/ch21/plan.md`.
+- The central recommendation is: **Alonso is why Charcadet is in Kanto. Amber is why Charcadet stays.**
+- Do not flatten Alonso into a fake knight or archaic speaker. He should be plainspoken, goofy, competent, and sincere; his ideal shows through action.
+- Keep the 4Ever theft. The Ceruledge tragedy becomes stronger if Charcadet first chooses Amber after traveling with her and Alonso.

@@ -9,32 +9,30 @@ created: 2026-05-17
 updated: 2026-05-17
 ---
 
-# Open Questions — Don, Explorers, Charcadet Revision
+# Open Questions — Alonso Quijano, Explorers, Charcadet Revision
 
-## Don
+## Alonso Quijano
 
-1. What is Don's full name?
-2. Is "Don" his legal name, a self-styled title, or a nickname?
-3. What part of Paldea is he from?
-4. Does modern Paldea have actual knightly families, or is Don reviving obsolete stories?
-5. Is Don from privilege, middle class, or poverty?
-6. Does Don's family support his adventuring knight identity?
-7. Does Don have a Sancho-like human companion, or does Armarouge fill that function?
-8. Why is Don in Kanto?
-9. Is he following a specific quest, relic, Mystery Dungeon report, or Explorer Guild trial?
-10. Is he licensed properly in Kanto?
-11. What problems does his foreign registration create?
-12. Does Don know anything about Team Rocket before meeting Amber?
-13. How old is Don exactly? The notebook suggested 17.
-14. Does he reappear after the Route 1 mini-arc?
-15. Does he reappear after Charcadet is stolen?
-16. Does he ever meet Ceruledge?
+1. What part of Paldea is he from?
+2. Does modern Paldea have actual knightly families, or is Alonso reviving obsolete stories?
+3. Is Alonso from privilege, middle class, or poverty?
+4. Does Alonso's family support his Greatest Adventurer dream?
+5. Does Alonso have a Sancho-like human companion, or does Armarouge fill that function?
+6. Why is Alonso in Kanto?
+7. Is he following a specific quest, relic, Mystery Dungeon report, or Explorer Guild trial?
+8. Is he licensed properly in Kanto?
+9. What problems does his foreign registration create?
+10. Does Alonso know anything about Team Rocket before meeting Amber?
+11. How old is Alonso exactly? The notebook suggested 17.
+12. Does he reappear after the Route 1 mini-arc?
+13. Does he reappear after Charcadet is stolen?
+14. Does he ever meet Ceruledge?
 
-## Don's Pokémon
+## Alonso's Pokémon
 
-1. Does Don already have Armarouge when Amber meets him?
-2. Did Armarouge evolve under Don's care?
-3. How many Charcadet does Don travel with?
+1. Does Alonso already have Armarouge when Amber meets him?
+2. Did Armarouge evolve under Alonso's care?
+3. How many Charcadet does Alonso travel with?
 4. Is Amber's future Charcadet related to Armarouge?
 5. Is Charcadet timid, intense, unsettled, or something else?
 6. Does Armarouge approve of Charcadet choosing Amber?
@@ -42,35 +40,37 @@ updated: 2026-05-17
 8. How public is the transfer/capture?
 9. Does Kanto recognize Charcadet as a foreign species?
 10. Does this use Amber's foreign Pokémon allowance?
-11. Does Don give Amber anything besides Charcadet? A code? A map? A warning? A phrase?
+11. Does Alonso give Amber anything besides Charcadet? A code? A map? A warning? A phrase?
 
-## Route 1 Revision
+## Route 1 Revision (Decisions Made)
 
-1. How much of the current Ch. 20 cave plan remains?
-2. Is there still a cave?
-3. Is the cave a Mystery Dungeon?
-4. Is Ursaring in the cave, a Rocket camp, or already transferred?
-5. Does Team Rocket recognize Don's Paldean Pokémon as valuable?
-6. What is Rocket's actual operation?
-7. Does Amber get injured protecting Teddiursa?
-8. Does Ditto still reveal the remembered Arcanine transformation here?
-9. Does Don see Ditto transform?
-10. Does Don understand how unusual Ditto is?
-11. Does Giovanni's Viridian Gym interest now involve Don too?
-12. Does the Viridian Pokémon Center scene still exist?
-13. Does Charcadet kneel, or is another acceptance gesture better?
+Decided:
+- Ch. 20: camp encounter outside the cave. Ch. 21: cave escalation, Ursaring rampage/reunion-almost-happens/trapped, small Pokemon escape for rescue.
+- Ditto-Arcanine memory reveal: delayed to a future crisis outside this mini-arc.
+- Charcadet: does not join Amber immediately. Notices her protective impulse in Ch. 20, deepens observation in Ch. 21, choice comes after traveling with Alonso.
+- Charcadet capture: happens later, after earned trust and pattern recognition.
+
+Open:
+1. Is the cave a Mystery Dungeon, dungeon-adjacent anomaly, ordinary cave, or Rocket-modified hideout?
+2. Does Team Rocket recognize Alonso's Paldean Pokémon as valuable?
+3. What is Rocket's actual operation at the camp and cave?
+4. Does Amber get injured protecting Teddiursa? (Yes: meaningful but not catastrophic in Ch. 20; worse in Ch. 21.)
+5. Does Alonso see Ditto transform?
+6. Does Alonso understand how unusual Ditto is?
+7. Does Giovanni's Viridian Gym interest now involve Alonso too?
+8. Does the Viridian Pokémon Center scene still exist?
 
 ## Charcadet → Ceruledge
 
 1. What exactly does Charcadet see in Amber?
-2. What does Charcadet see in Don?
+2. What does Charcadet see in Alonso?
 3. Does Charcadet understand Amber lacks a quest?
 4. How long should Charcadet travel with Amber before 4Ever?
 5. How close should Amber and Charcadet be before the theft?
 6. Is Charcadet Amber's ace by the time it is stolen?
 7. Who steals Charcadet in 4Ever?
 8. How is Charcadet forced or manipulated into Ceruledge?
-9. Does Ceruledge remember Don?
+9. Does Ceruledge remember Alonso?
 10. Does Ceruledge remember Armarouge?
 11. When does Amber first see Ceruledge again?
 12. What is the emotional content of that first reunion?
@@ -134,14 +134,14 @@ updated: 2026-05-17
 7. What did stepping down cost him personally?
 8. Does he consider Lance the right successor?
 9. Does he miss adventuring?
-10. What does Don remind him of, if they ever meet?
+10. What does Alonso remind him of, if they ever meet?
 
 ## Priority Decisions
 
 High priority:
-- Don's exact role in Route 1.
+- Alonso's exact role in Route 1.
 - Charcadet's ownership/choice mechanics.
-- Whether the ancient Charcadet cave framing is removed entirely.
+- Ancient Charcadet cave framing: removed. Charcadet is in Kanto because Alonso is in Kanto.
 - What "Explorer/Adventurer" means in-world.
 
 Medium priority:
@@ -149,10 +149,10 @@ Medium priority:
 - Mary post-timeskip journey.
 - Erika's path to Gym Leader.
 - Kaede's future Rocket temptation.
-- Don's later reappearance.
+- Alonso's later reappearance.
 
 Low priority:
 - Full Explorer's Guild hierarchy.
-- Don's family history.
+- Alonso's family history.
 - Oak/Agatha details.
 - Ceruledge's final recovery mechanics.

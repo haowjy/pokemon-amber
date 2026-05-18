@@ -36,6 +36,11 @@ Amber interprets this through a Pokémon fan lens: "It's shy like a real animal 
 
 ## Wiki references
 
-- [Arc Outline-The Perfect Family](../../wiki/arcs/1-the-perfect-family/outline.md)
-- [Dr. Fuji Character Page](../../wiki/characters/dr-fuji.md)
-- [Hidden Lore & Story Mechanics](../../wiki/lore/_world-mechanics.md)
+- Arc outline: [perfect-family-arc]
+- Dr. Fuji character page: [dr-fuji]
+- Hidden mechanics split across [mechanics-dir] and [aura-mechanics]
+
+[perfect-family-arc]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/arcs/1-the-perfect-family.md
+[dr-fuji]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/characters/dr-fuji.md
+[mechanics-dir]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/lore/mechanics/
+[aura-mechanics]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/lore/aura-mechanics.md

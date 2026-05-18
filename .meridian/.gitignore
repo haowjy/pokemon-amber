@@ -4,11 +4,5 @@
 # Track .gitignore itself
 !.gitignore
 
-# Track project config
-!models.toml
-
-# Track shared install manifest and lock
-
-# Track shared repo state
-# Added by Meridian to keep required project state tracked
+# Track project identity
 !id

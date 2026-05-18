@@ -9,7 +9,7 @@ title: "Chapter 1 Notes"
 description: "Author intent, sequences, canon references, and headcanon for Chapter 1."
 status: draft
 created: 2025-09-21
-updated: 2025-09-21
+updated: 2026-05-18
 ---
 
 # Chapter 1 - Notes
@@ -34,10 +34,10 @@ updated: 2025-09-21
 
 ## Canon References (for context)
 - Amber (Ai), Dr. Fuji's deceased daughter; cloning attempt "Ambertwo" befriends nascent Mewtwo during incubation; early clones fail.
-  - Source: [Amber (anime) — Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Amber_(anime))
-  - Source: [The Uncut Story of Mewtwo's Origin — Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/The_Uncut_Story_of_Mewtwo%27s_Origin)
+  - Source: [Amber (anime) — Bulbapedia][amber-anime]
+  - Source: [The Uncut Story of Mewtwo's Origin — Bulbapedia][uncut-story-of-mewtwo-origin]
 - Memory suppression for Mewtwo after early-clone loss; English materials imply residual feelings.
-  - Further reading: [Mewtwo's forgotten childhood (deleted opening) — Sportskeeda](https://www.sportskeeda.com/pokemon/mewtwo-s-forgotten-childhood-exploring-pokemon-the-first-movie-s-deleted-opening)
+  - Further reading: [Mewtwo's forgotten childhood (deleted opening) — Sportskeeda][sportskeeda-deleted-opening]
 
 ## Headcanon (Story Direction)
 - The original Ambertwo fails as in canon; Dr. Fuji persists and eventually achieves a viable clone body.
@@ -61,6 +61,10 @@ updated: 2025-09-21
 - Risks: keep pronoun/identity clarity as story progresses; preserve POV-knowledge boundaries when naming.
 
 ## References
-- [Amber (anime) — Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Amber_(anime))
-- [The Uncut Story of Mewtwo's Origin — Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/The_Uncut_Story_of_Mewtwo%27s_Origin)
-- [Mewtwo's forgotten childhood (deleted opening) — Sportskeeda](https://www.sportskeeda.com/pokemon/mewtwo-s-forgotten-childhood-exploring-pokemon-the-first-movie-s-deleted-opening)
+- [Amber (anime) — Bulbapedia][amber-anime]
+- [The Uncut Story of Mewtwo's Origin — Bulbapedia][uncut-story-of-mewtwo-origin]
+- [Mewtwo's forgotten childhood (deleted opening) — Sportskeeda][sportskeeda-deleted-opening]
+
+[amber-anime]: https://bulbapedia.bulbagarden.net/wiki/Amber_(anime)
+[uncut-story-of-mewtwo-origin]: https://bulbapedia.bulbagarden.net/wiki/The_Uncut_Story_of_Mewtwo%27s_Origin
+[sportskeeda-deleted-opening]: https://www.sportskeeda.com/pokemon/mewtwo-s-forgotten-childhood-exploring-pokemon-the-first-movie-s-deleted-opening

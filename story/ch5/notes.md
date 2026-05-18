@@ -2,7 +2,7 @@
 description: Chapter 5 notes
 hidden: true
 status: draft
-updated: 2025-10-11
+updated: 2026-05-18
 ---
 
 # Chapter 5 - Notes
@@ -90,7 +90,7 @@ updated: 2025-10-11
 
 ## Character Notes
 ### Mary (Purple-Haired Gym Trainer)
-Based on Cooltrainer Mary from Celadon Gym ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Celadon_Gym)):
+Based on Cooltrainer Mary from Celadon Gym ([Bulbapedia][bulbapedia-celadon-gym]):
 - ~15 years old
 - Wears Celadon Gym uniform (forest green kimono-style, rainbow badge)
 - Has Bellsprout partner (doesn't have Ivysaur yet)
@@ -100,7 +100,7 @@ Based on Cooltrainer Mary from Celadon Gym ([Bulbapedia](https://bulbapedia.bulb
 - Doesn't report Amber for trespassing
 
 ### Kaede (Sneezing Girl)
-Based on Kaede from the manga "How I Became a Pokémon Card" (https://bulbapedia.bulbagarden.net/wiki/Kaede):
+Based on Kaede from the manga "How I Became a Pokémon Card" ([Bulbapedia][bulbapedia-kaede]):
 - 14-15 years old
 - Has stolen Oddish from gym (wilted, drooping, unconscious from fall)
 - Severely allergic to pollen, flowers, and Grass-type Pokémon (constant sneezing, flushed, red running eyes)
@@ -115,3 +115,6 @@ Based on Kaede from the manga "How I Became a Pokémon Card" (https://bulbapedia
 - Will gym trainer remember the weird transforming Pokémon?
 - What's wrong with the sneezing girl's Oddish?
 
+
+[bulbapedia-celadon-gym]: https://bulbapedia.bulbagarden.net/wiki/Celadon_Gym
+[bulbapedia-kaede]: https://bulbapedia.bulbagarden.net/wiki/Kaede

@@ -30,7 +30,7 @@ They pursue:
 - Cross-region expedition routes.
 - Stories other people consider impossible.
 
-This is the cultural/professional category Don belongs to.
+This is the cultural/professional category Alonso Quijano belongs to.
 
 ## Relationship to Existing Systems
 
@@ -102,13 +102,13 @@ Possible distinction:
 **Adventurer** is the cultural identity:
 - Romantic, broad, questing, self-styled.
 - Can include amateurs and dreamers.
-- Don may call himself an adventuring knight.
+- Alonso may model himself on an ancient adventurer-knight, but he should not speak in archaic knight diction.
 
 **Explorer** is the professional recognition:
 - Certified, documented, mapped, recognized.
 - May require field exams, expedition proof, and guild approval.
 
-Don might be an adventurer trying to become a recognized Explorer.
+Alonso might be an adventurer trying to become a recognized Explorer.
 
 ## Horizons Inspiration
 
@@ -121,9 +121,9 @@ Pokémon Horizons introduces relevant concepts:
 
 AmberTwo does not need to import Horizons directly, but the conceptual layer is useful.
 
-## Don's Place
+## Alonso Quijano's Place
 
-Don can consider himself an **adventuring knight**.
+Alonso can model himself on an ancient adventurer-knight, but his spoken goal is becoming the **Greatest Adventurer**.
 
 He is not merely doing a trainer journey. He is trying to live inside the older tradition of heroic exploration.
 
@@ -132,7 +132,7 @@ Possible goals:
 - Complete a foreign-region expedition.
 - Find a Mystery Dungeon tied to Paldean knight lore.
 - Track a relic or old expedition route.
-- Prove that chivalric ideals still have a place in the modern trainer world.
+- Prove that courage, worthiness, and chosen adventure still have a place in the modern trainer world.
 - Bring home exploits to Paldea.
 
 This gives him a reason to be in Kanto and a frame larger than badges.
@@ -162,7 +162,7 @@ Structurally, the story keeps pulling her into Explorer problems:
 - Ceruledge pursuit.
 - Mega/Darkrai-scale discoveries.
 
-Don may be the first person to name the road she is already walking.
+Alonso may be the first person to name the road she is already walking.
 
 ## Mystery Dungeons
 
@@ -187,13 +187,13 @@ See `../mechanics/mystery-dungeons.md`.
 - Do Explorers have their own insignia?
 - What is the relationship between Explorers and Rangers?
 - Was Oak ever Guild-certified?
-- Is Don certified, aspiring, or self-declared?
+- Is Alonso certified, aspiring, or self-declared?
 
 ## Related Files
 
 - `quest-system.md`
 - `trainer-paths.md`
 - `../mechanics/mystery-dungeons.md`
-- `../../characters/don-q-adventuring-knight.md`
+- `../../characters/alonso-quijano-adventuring-knight.md`
 - `../../characters/professor-oak-young-champion.md`
 - `../../arcs/arc-kitakami.md`

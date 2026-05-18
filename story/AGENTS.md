@@ -24,10 +24,10 @@ No underscore prefix. No numbering in non-prose filenames. The folder name carri
 
 When drafting or critiquing a chapter, load in this order:
 
-1. **Style files** — `.meridian/kb/styles/` (voice, tone, scene type)
+1. **Style files** — `$MERIDIAN_CONTEXT_KB_DIR/styles/` (voice, tone, scene type)
 2. **Recent summaries** — `story/ch{N-2}/summary.md` through `story/ch{N}/summary.md` (last 2–3 chapters)
 3. **Current plan** — `story/ch{N}/plan.md` if drafting a new chapter
-4. **Character/lore pages** — `.meridian/kb/wiki/characters/` and relevant lore as needed
+4. **Character/lore pages** — `$MERIDIAN_CONTEXT_KB_DIR/wiki/characters/` and relevant lore as needed
 
 Do not load all summaries at once — load only the ones adjacent to the chapter being worked on.
 
@@ -55,3 +55,5 @@ See root `AGENTS.md` for full style rules. Key points:
 
 From KB: `../../story/ch10/chapter10.md`
 From agent prompt: `story/ch10/summary.md`
+
+For links to references outside this repo (especially KB files resolved via `$MERIDIAN_CONTEXT_KB_DIR`), follow root `AGENTS.md` link guidance: do not use local filesystem path links; use GitHub URLs (reference-style links preferred).

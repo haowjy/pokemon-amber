@@ -166,17 +166,17 @@ But the fire is not gone. It is banked.
 
 He still studies the thing that mattered most to young Oak: the bond between humans and Pokémon.
 
-## Contrast With Don
+## Contrast With Alonso Quijano
 
-Don is young obsession in open flame.
+Alonso Quijano is young obsession in open flame.
 
 Oak is old obsession after cost.
 
 Amber meeting both matters:
-- Don shows the beauty of living by an ideal.
+- Alonso shows the beauty of living by an ideal.
 - Oak shows what ideals become after history, regret, and responsibility.
 
-Don makes Amber feel the possibility of a quest.
+Alonso makes Amber feel the possibility of a quest.
 
 Oak shows the burden of carrying one for decades.
 
