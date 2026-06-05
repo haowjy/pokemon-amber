@@ -17,8 +17,8 @@ pokemon-amber-xml/*.xml
 pokemon-amber-xml/_meta.xml
 .mars/
 
-.agents/skills/
-.claude/skills/
-.cursor/skills/
-.codex/skills/
-.opencode/skills/
+.agents/
+.claude/
+.cursor/
+.codex/
+.opencode/

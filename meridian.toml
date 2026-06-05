@@ -10,11 +10,6 @@
 # max_retries = 3
 # Delay multiplier between retries in seconds (float).
 # retry_backoff_seconds = 0.25
-# Default model for spawns when --model and profile model are both unset.
-# model = ""
-# Default harness for spawns when higher-precedence values are unset.
-harness = "codex"
-
 # -- Timeout behavior -------------------------------------------------------
 [timeouts]
 # Grace period before force-killing processes (float minutes).
@@ -44,10 +39,10 @@ harness = "codex"
 # Default agent profile launched when running `meridian` without `-a`.
 # Without this, meridian launches with no profile.
 agent = "muse"
-# Model override for the primary agent (unset = use defaults.model).
+# Model override for the primary agent.
 # model = ""
-# Harness override for the primary agent (unset = use defaults.harness).
-# harness = ""
+# Harness override for the primary agent.
+# harness = "claude"
 # Context compaction threshold for the primary agent (int 1-100).
 # autocompact = 65
 # Effort level for the primary agent.
@@ -73,22 +68,6 @@ agent = "muse"
 # Days to retain spawn artifacts and session data (-1 = keep forever).
 # retention_days = 30
 
-# -- Agent runtime overrides ------------------------------------------------
-# Override default model/policy for specific agent profiles without editing
-# generated .mars/agents/ sources.
-# See docs/configuration.md for full semantics.
-
-# [agents.tech-lead]
-# model = "gpt55"
-# effort = "medium"
-# approval = "auto"
-
-# [[agents.tech-lead.model-policies]]
-# match = { model-glob = "gpt*" }
-# override = { effort = "medium", autocompact = 200000 }
-# # Or use percentage-based threshold (1-100):
-# # override = { effort = "medium", autocompact_pct = 80 }
-
 # -- Hook examples -----------------------------------------------------------
 # Hooks are dynamic arrays of tables. Keep examples commented until needed.
 
@@ -107,11 +86,6 @@ agent = "muse"
 # sync = "project"
 
 # -- Context source examples -------------------------------------------------
-# [context.work]
-# source = "git"
-# remote = "https://example.com/work.git"
-# path = ".meridian/work"
-# archive = ".meridian/archive/work"
 
 [context.kb]
 source = "git"
