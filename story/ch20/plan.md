@@ -6,7 +6,7 @@ spoilers: true
 status: planning
 hidden: true
 created: 2026-04-06
-updated: 2026-05-17
+updated: 2026-05-21
 ---
 
 # Chapter 20 Plan: Route 1 Off-Route / Team Rocket Camp / Alonso Introduction
@@ -23,9 +23,10 @@ updated: 2026-05-17
 - Amber makes a promise to help save Ursaring.
 - Teddiursa recognizes Team Rocket and charges before Amber can plan.
 - Amber instinctively protects Teddiursa.
-- Alonso Quijano is traveling in Kanto with Armarouge and Charcadet.
+- Alonso Quijano is traveling in Kanto with a strong starter Charcadet, that Charcadet's younger sibling, Talonflame, and final-evolution Pawmot.
 - Charcadet notices Amber's protective impulse, but does **not** join yet.
 - Charcadet is in Kanto because Alonso is in Kanto; Amber is the reason Charcadet eventually stays.
+- Team Rocket's camp/cave operation is harvesting or testing **psychic-reactive Mew-adjacent ore** — an early, unexplained seed for the eventual Mewtwonite Y / female Mewtwo payoff.
 - Chapter 20 is outside at the camp. The cave escalation belongs to Chapter 21.
 
 ---
@@ -97,9 +98,10 @@ The camp can include:
 - transport equipment,
 - signs of stolen wild Pokemon,
 - guards posted near the cave,
-- evidence that Rocket is protecting, exploiting, or investigating the cave.
+- evidence that Rocket is protecting, exploiting, or investigating the cave,
+- sample cases / instruments / shielding around strange pale-pink psychic-reactive ore or mineral fragments.
 
-Keep the operation field-level. Do not over-explain the lore machinery in this chapter.
+Keep the operation field-level. Do not over-explain the lore machinery in this chapter. No one should say "Mewtwonite" here. At most, the camp suggests Rocket is collecting an unusual psychic-reactive mineral and testing whether it affects restraint, command, Pokeball telemetry, or wild Pokemon agitation.
 
 ### 6. Teddiursa Recognizes Team Rocket
 
@@ -129,13 +131,13 @@ The point is not maximum suffering. The point is that Amber's body chooses prote
 
 Ditto should help defend or extract Amber and Teddiursa, but do **not** use the Oak-Arcanine memory reveal here.
 
-Reason: Alonso, Armarouge, and Charcadet should own this sequence's visual identity. Save Ditto-Arcanine for a later crisis where Ditto's hidden memory can be the main emotional reveal.
+Reason: Alonso and the two Charcadet should own this sequence's visual identity. Save Ditto-Arcanine for a later crisis where Ditto's hidden memory can be the main emotional reveal.
 
 Ditto may use practical known forms or Ditto-body utility.
 
 ### 9. Alonso Quijano Arrives
 
-Alonso arrives with Armarouge and Charcadet after Amber has already made the dangerous choice.
+Alonso arrives with his strong starter Charcadet and the younger Charcadet after Amber has already made the dangerous choice.
 
 He saves Amber from the consequences becoming fatal. This should not steal Amber's agency; it should validate it.
 
@@ -143,7 +145,7 @@ Emotional logic:
 
 > Amber acted before she had language for why. Alonso arrives as the person who can recognize that kind of courage.
 
-Armarouge demonstrates disciplined, controlled, knightly fire. Amber may flinch at Armarouge's fire, tying the rescue to her trauma without making that the whole scene.
+Alonso's starter Charcadet demonstrates disciplined, controlled fire despite being unevolved. Amber may flinch at the fire, tying the rescue to her trauma without making that the whole scene.
 
 Alonso checks on Amber and treats the rescue as the obvious thing someone had to do. Amber may find his certainty ridiculous, but he is competent and sincere; his ideal shows through action, not performative knight-speech.
 
@@ -167,11 +169,11 @@ Possible end-state:
 
 - Rocket retreats toward or into the cave.
 - Evidence points to Ursaring being inside or recently moved through it.
-- The camp's purpose clearly connects to the cave.
+- The camp's purpose clearly connects to the cave and its psychic-reactive ore/energy readings.
 - Alonso treats investigating the cave as the obvious next step: someone has to help Teddy.
 - Amber wants to be practical, but the promise to Teddiursa is still open.
 
-End with temporary alliance: Amber, Ditto, Teddiursa, Alonso, Armarouge, and Charcadet will continue together into the cave problem.
+End with temporary alliance: Amber, Ditto, Teddiursa, Alonso, and the two Charcadet will continue together into the cave problem.
 
 ---
 
@@ -201,5 +203,5 @@ End with temporary alliance: Amber, Ditto, Teddiursa, Alonso, Armarouge, and Cha
 - What exact Rocket Pokemon attacks Teddiursa/Amber at the camp?
 - How much does Alonso already know about Team Rocket?
 - Why is Alonso separated from his crew near this camp: following a Pokemon-in-danger lead, tracking Rocket, investigating the cave, getting lost, or all of the above?
-- What is Rocket doing with the cave: hiding captures, staging transport, investigating an anomaly, or all of the above?
+- What precise field test is Rocket running with the psychic-reactive ore: control amplification, restraint tech, Pokeball telemetry, Pokemon agitation, Mewtwo research samples, or several at once?
 - Does the chapter end before cave entry, at cave entry, or with the decision to enter?

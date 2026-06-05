@@ -1,163 +1,158 @@
 ---
 type: note
-scope: story
-category: character
+scope: workspace
+category: open-questions
 spoilers: true
-status: seed
+status: active
 hidden: true
 created: 2026-05-17
 updated: 2026-05-17
 ---
 
-# Alonso Quijano — Paldean Adventuring Knight
+# Open Questions — Alonso Quijano, Explorers, Charcadet Revision
 
-## Core Concept
+## Alonso Quijano
 
-Alonso Quijano is a 17-year-old Paldean adventurer who wants to become the **Greatest Adventurer**. He is inspired by Cervantes's Alonso Quijano, but he is not merely a fool or a parody. He is plainspoken, goofy, and ridiculous in presentation, but he is also brave, competent, and sincere.
+1. What part of Paldea is he from?
+2. Does modern Paldea have actual knightly families, or is Alonso reviving obsolete stories?
+3. Is Alonso from privilege, middle class, or poverty?
+4. Does Alonso's family support his Greatest Adventurer dream?
+5. Does Alonso have a Sancho-like human companion, or does Armarouge fill that function?
+6. Why is Alonso in Kanto?
+7. Is he following a specific quest, relic, Mystery Dungeon report, or Explorer Guild trial?
+8. Is he licensed properly in Kanto?
+9. What problems does his foreign registration create?
+10. Does Alonso know anything about Team Rocket before meeting Amber?
+11. How old is Alonso exactly? The notebook suggested 17.
+12. Does he reappear after the Route 1 mini-arc?
+13. Does he reappear after Charcadet is stolen?
+14. Does he ever meet Ceruledge?
 
-He is what Cervantes's Alonso Quijano might look like if the giants were sometimes real.
+## Alonso's Pokémon
 
-In Amber's world, this matters. In the real world Amber came from, someone living as a knight would seem embarrassing, delusional, or LARP-like. In the Pokémon world, where children walk into monster-filled forests, ancient ruins actually contain legends, and Mystery Dungeons can swallow roads whole, the line between ridiculous and heroic is much thinner.
+1. Does Alonso already have Armarouge when Amber meets him?
+2. Did Armarouge evolve under Alonso's care?
+3. How many Charcadet does Alonso travel with?
+4. Is Amber's future Charcadet related to Armarouge?
+5. Is Charcadet timid, intense, unsettled, or something else?
+6. Does Armarouge approve of Charcadet choosing Amber?
+7. Does Charcadet choose Amber before or after Viridian Gym?
+8. How public is the transfer/capture?
+9. Does Kanto recognize Charcadet as a foreign species?
+10. Does this use Amber's foreign Pokémon allowance?
+11. Does Alonso give Amber anything besides Charcadet? A code? A map? A warning? A phrase?
 
-Alonso is one of the first people Amber meets who makes her confront that possibility.
+## Route 1 Revision (Decisions Made)
 
-## Role in Amber's Arc
+Decided:
+- Ch. 20: camp encounter outside the cave. Ch. 21: cave escalation, Ursaring rampage/reunion-almost-happens/trapped, small Pokemon escape for rescue.
+- Ditto-Arcanine memory reveal: delayed to a future crisis outside this mini-arc.
+- Charcadet: does not join Amber immediately. Notices her protective impulse in Ch. 20, deepens observation in Ch. 21, choice comes after traveling with Alonso.
+- Charcadet capture: happens later, after earned trust and pattern recognition.
 
-Alonso's mentorship is **existential before it is tactical**.
+Open:
+1. Is the cave a Mystery Dungeon, dungeon-adjacent anomaly, ordinary cave, or Rocket-modified hideout?
+2. Does Team Rocket recognize Alonso's Paldean Pokémon as valuable?
+3. What is Rocket's actual operation at the camp and cave?
+4. Does Amber get injured protecting Teddiursa? (Yes: meaningful but not catastrophic in Ch. 20; worse in Ch. 21.)
+5. Does Alonso see Ditto transform?
+6. Does Alonso understand how unusual Ditto is?
+7. Does Giovanni's Viridian Gym interest now involve Alonso too?
+8. Does the Viridian Pokémon Center scene still exist?
 
-He does not primarily teach Amber how to battle. Oak, gyms, Kyle, and the road can do that.
+## Charcadet → Ceruledge
 
-Alonso teaches Amber that:
+1. What exactly does Charcadet see in Amber?
+2. What does Charcadet see in Alonso?
+3. Does Charcadet understand Amber lacks a quest?
+4. How long should Charcadet travel with Amber before 4Ever?
+5. How close should Amber and Charcadet be before the theft?
+6. Is Charcadet Amber's ace by the time it is stolen?
+7. Who steals Charcadet in 4Ever?
+8. How is Charcadet forced or manipulated into Ceruledge?
+9. Does Ceruledge remember Alonso?
+10. Does Ceruledge remember Armarouge?
+11. When does Amber first see Ceruledge again?
+12. What is the emotional content of that first reunion?
+13. Can Ceruledge be reached before Sinnoh, or only later?
 
-> A person can choose an impossible ideal and live toward it without apologizing.
+## Explorers / Adventurers
 
-Amber begins as a survivor. She is competent, cautious, genre-aware, secretive, and practical. She has goals, but not yet the consuming fire associated with the "greats" she will eventually meet. Alonso is one of her first examples of passion and obsession pointed in a generative direction.
+1. Is "Explorer" an official profession?
+2. Is "Adventurer" a cultural title?
+3. Does an Explorer's Guild exist?
+4. If yes, is it regional, international, or decentralized?
+5. Does Paldea have a stronger Explorer tradition due to Area Zero / expedition culture?
+6. Are Explorers respected or seen as reckless?
+7. Do Explorers need gym badges?
+8. Are Explorers licensed separately from trainers?
+9. Are Rangers annoyed by Explorers?
+10. Do Pokémon Centers host Explorer postings separately from regular quests?
+11. Can Mary become an Explorer-adjacent investigator later?
+12. Was young Oak considered an Explorer?
+13. Is Kitakami famous among Explorers as an impossible route?
+14. Does Team Rocket exploit Explorer maps and relic networks?
 
-He does not teach her to be a knight. He shows her what it looks like when a life has been organized around a dream.
+## Mystery Dungeons
 
-## Cervantes Adaptation
+1. Are Mystery Dungeons a known world phenomenon?
+2. Are they rare or common?
+3. Do they move or shift?
+4. Are they tied to Ultra Wormholes, Terastal energy, legendary residue, aura, or multiple causes?
+5. Do Poké Balls work normally inside them?
+6. Do communications work inside them?
+7. Do Rangers grade them?
+8. Do Explorers map them?
+9. Can Pokémon be trapped in them for years?
+10. Can a Mystery Dungeon affect evolution?
+11. Is the Route 1 cave one?
+12. Is Kitakami related to the same phenomenon or separate?
 
-In Cervantes, Alonso Quijano reads chivalric romances until he decides to become a knight-errant. He renames himself, rides out with Sancho Panza, mistakes windmills for giants, inns for castles, and ordinary people for figures from romance. The pathos is that he tries to live by an old heroic story in a world that no longer believes in it.
+## Mary / Erika / Kaede
 
-AmberTwo's Alonso should keep the emotional engine but not the literal incompetence.
+1. What exactly does "Gym Trainer" mean in AmberTwo?
+2. Is it staff, apprentice, civil servant, badge examiner, research assistant, security, or all of the above?
+3. What caused Mary's suspension?
+4. Should Mary's suspension be the first sign that she bends procedure to help people?
+5. Does Mary leave on a journey after Erika becomes Gym Leader?
+6. What is Mary's ambition after the timeskip?
+7. Does Erika become Gym Leader after the timeskip?
+8. What obstacle blocks Erika from leadership now?
+9. What does Kaede do after Hiro is saved?
+10. Does Kaede eventually get tempted by Team Rocket?
+11. Does Mary notice Kaede's vulnerability before Erika does?
+12. Does Amber reconnect with this trio during the Celadon/Vee arc?
 
-Alonso is not wrong about reality. He knows Team Rocket is dangerous. He knows Kanto bureaucracy exists. He knows caves collapse and Pokémon get hurt. But he narrates his life through the language of chivalry.
+## Oak
 
-A missing Pokémon becomes a quest.
+1. What was young Oak's original drive?
+2. Did he want to be Champion, or did Champion status follow from exploration/research?
+3. How did Dragonite Island shape him?
+4. Was he associated with Explorers or only with the League?
+5. What was his relationship with Agatha?
+6. What did Mt. Silver destroy in him?
+7. What did stepping down cost him personally?
+8. Does he consider Lance the right successor?
+9. Does he miss adventuring?
+10. What does Alonso remind him of, if they ever meet?
 
-A registration problem becomes the trial of a foreign kingdom.
+## Priority Decisions
 
-A dangerous route becomes the road where courage announces itself.
+High priority:
+- Alonso's exact role in Route 1.
+- Charcadet's ownership/choice mechanics.
+- Ancient Charcadet cave framing: removed. Charcadet is in Kanto because Alonso is in Kanto.
+- What "Explorer/Adventurer" means in-world.
 
-This gives him the whimsical air without making him useless.
+Medium priority:
+- Mystery Dungeon rules.
+- Mary post-timeskip journey.
+- Erika's path to Gym Leader.
+- Kaede's future Rocket temptation.
+- Alonso's later reappearance.
 
-## Personality
-
-- Plainspoken, goofy, and stubbornly sincere.
-- Brave in a way that is sometimes admirable and sometimes exhausting.
-- Actually competent in a crisis.
-- Prone to romanticizing hardship.
-- Sincere to the point of embarrassment.
-- Chivalrous without always being socially aware.
-- Treats Pokémon as companions with quests of their own.
-- Can be ridiculous without being fake.
-
-He should sometimes be funny. He should sometimes be annoying. But when danger arrives, his actions should prove that the words are not empty.
-
-## Drive Type
-
-**Drive type:** Obsession / chosen ideal.
-
-**Object:** Knighthood, greatness, exploration, adventure, and living as if old ideals are real.
-
-**Origin:** TBD. Possible origins:
-- Paldean chivalric stories and old knight lore.
-- Family stories about ancient adventurers.
-- A desire to escape a life where everyone considers those stories obsolete.
-- A rejected or informal connection to an Explorer/Adventurer tradition.
-- Charcadet/Armarouge lore around knights and noble retainers.
-
-**Discipline:** Training, travel, formalized codes of conduct, Pokémon partnership, fieldwork, and deliberate quest-seeking.
-
-**Blindness:** He can underestimate practical danger, exhaust companions, and mistake "meaningful" for "safe."
-
-**Sacrifice:** Comfort, social respect, possibly family approval, and eventually Charcadet's companionship if Charcadet chooses Amber.
-
-## Pokémon
-
-### Armarouge
-
-Armarouge is Alonso's mature knightly mirror: patient, disciplined, protective, and visibly more grounded than Alonso. It is not merely his weapon. It is the proof that his ideal has produced something real.
-
-Armarouge can also play the Sancho-like role in practice: the one who compensates when Alonso's reckless instincts run ahead of his logistics.
-
-### Charcadet
-
-Alonso may travel with more than one Charcadet, or with a Charcadet closely connected to Armarouge. This Charcadet should not be an ancient Kanto cave artifact. It is in Kanto because Alonso is in Kanto.
-
-Charcadet should respect Alonso and likely admire Armarouge. But after traveling with Amber, it begins to recognize a different kind of beginning in her.
-
-Alonso already has his quest.
-
-Amber does not.
-
-Charcadet choosing Amber is not a rejection of Alonso. It is Charcadet choosing to become the fire that helps Amber find her quest.
-
-## Relationship to Amber
-
-Amber initially reads Alonso through modern cynicism:
-
-- This guy is insane.
-- This guy talks like a children's book.
-- This guy is going to get everyone killed.
-
-Then she sees him act.
-
-- He protects people.
-- He risks himself.
-- He respects Pokémon choice.
-- He means every word.
-
-Alonso unsettles Amber because he demonstrates a kind of sincerity she does not know what to do with. He is not pretending to be a knight. He has chosen to live as one.
-
-## Relationship to Charcadet's Later Tragedy
-
-Alonso and Armarouge establish the noble path Charcadet might have taken.
-
-Later, when Team Rocket steals Charcadet and it returns as Ceruledge, the contrast becomes emotionally important:
-
-- Armarouge: fire shaped by honor, protection, and chosen loyalty.
-- Ceruledge: fire shaped by theft, rage, betrayal, and weaponization.
-
-This makes the 4Ever theft hurt more. Amber loses not just an early Pokémon, but the first Pokémon that believed in the beginning of a nobler future for her.
-
-## Alonso's Test
-
-Alonso's most important proof of knightliness may be letting Charcadet go.
-
-A lesser Alonso would cling to Charcadet. Alonso's ideal requires respecting that every companion may have a quest of their own.
-
-Potential beat:
-
-> Alonso looked at Charcadet for a long moment, and for once there was no speech ready on his tongue.
->
-> "So," he said at last, very softly. "You found your quest."
-
-## Open Questions
-
-- Is he from a Paldean family with old chivalric ties?
-- Is he connected to an Explorer/Adventurer guild?
-- Is he officially licensed in Kanto, or does his foreign registration cause problems?
-- Why did he come to Kanto specifically?
-- How many Charcadet does he have?
-- How long does he travel with Amber?
-- Does he reappear after Charcadet is stolen?
-- Does he ever meet Ceruledge?
-
-## Related Files
-
-- `../arcs/route1-alonso-charcadet-revision.md`
-- `../plot-threads/charcadet-to-ceruledge-throughline.md`
-- `../lore/trainer-systems/explorers-and-adventurers.md`
-- `amber-mc.md`
-- `amber-mc-team.md`
+Low priority:
+- Full Explorer's Guild hierarchy.
+- Alonso's family history.
+- Oak/Agatha details.
+- Ceruledge's final recovery mechanics.

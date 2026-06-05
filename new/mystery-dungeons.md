@@ -5,12 +5,15 @@ title: Mystery Dungeons
 requires_citations: false
 status: seed
 hidden: false
-canon: false
+canon: promoted-with-revisions
 created: 2026-05-17
 updated: 2026-05-17
 ---
 
 # Mystery Dungeons
+
+> [!NOTE] Promoted with revisions (2026-05-18)
+> Mystery Dungeon-style phenomena are canonical and should integrate with the Pokemon Center quest board, Rangers, and adventurer culture. They should be introduced later, not as a full Ch. 20-21 system. Route 1 remains only dungeon-adjacent. Also, do not use this page's older "Explorer" language to create a formal Explorer profession; formal status remains registered trainer.
 
 ## Working Definition
 

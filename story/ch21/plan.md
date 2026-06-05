@@ -6,7 +6,7 @@ spoilers: true
 status: planning
 hidden: true
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-05-21
 ---
 
 # Chapter 21 Plan: The Guarded Cave / Ursaring Rampage / Rescue
@@ -33,7 +33,7 @@ The emotional center is not "defeat Ursaring." It is:
 
 Amber and Alonso have formed a temporary alliance after the Team Rocket camp encounter.
 
-Team Rocket was guarding, using, or investigating a nearby cave. Ursaring is believed to be inside, recently moved through it, or connected to whatever Rocket is protecting.
+Team Rocket was guarding, using, or investigating a nearby cave with psychic-reactive Mew-adjacent ore/energy readings. Ursaring is believed to be inside, recently moved through it, or connected to whatever Rocket is protecting.
 
 Party likely present:
 
@@ -41,10 +41,10 @@ Party likely present:
 - Ditto
 - Teddiursa
 - Alonso Quijano
-- Armarouge
-- Charcadet
+- Charcadet — Alonso's strong starter / current ace
+- Charcadet — younger sibling; future Amber Charcadet
 
-Charcadet is still Alonso's Pokemon / companion. It has noticed Amber, but has not chosen her.
+The younger Charcadet is still Alonso's Pokemon / companion. It has noticed Amber, but has not chosen her.
 
 ---
 
@@ -68,15 +68,15 @@ Alonso treats the cave as something they have to face because someone has to hel
 
 The cave is something Team Rocket wanted guarded, hidden, exploited, or investigated.
 
-Options to leave open:
+Working direction:
 
-- capture staging area,
-- hidden transport/cache route,
-- strange energy/anomaly reading,
-- unstable cave/Mystery Dungeon-adjacent zone,
-- place where Ursaring was restrained as a living deterrent or captive asset.
+- not a full Mystery Dungeon arc,
+- an unstable off-route cave / dungeon-adjacent anomaly,
+- a source of pale/pink psychic-reactive Mew-adjacent ore,
+- a hidden Team Rocket field site for harvesting samples and testing control/restraint methods,
+- the place where Ursaring was restrained, stressed, and turned into a living deterrent or captive asset.
 
-Do not make the cave's lore more important than Teddiursa/Ursaring.
+Do not make the cave's lore more important than Teddiursa/Ursaring. The ore is a seed for the eventual Mewtwonite Y / female Mewtwo payoff, not a reveal the characters understand here.
 
 ### 3. Rocket Releases / Provokes Ursaring
 
@@ -86,7 +86,8 @@ Ursaring is not evil. She is:
 
 - hurt,
 - restrained too long,
-- drugged or panicked if needed,
+- possibly drugged or control-tech affected,
+- agitated by the cave's psychic-reactive ore/field conditions,
 - furious,
 - disoriented,
 - desperate.
@@ -104,7 +105,7 @@ Possible hazards:
 - blocked paths,
 - broken Rocket equipment,
 - fire/heat/smoke from battle,
-- Amber's old fire trauma triggered by Armarouge's necessary flames,
+- Amber's old fire trauma triggered by necessary flames,
 - Teddy trying to reach his mother despite danger.
 
 Amber's injury should get worse here. Ch. 20's hit was the moral proof; Ch. 21 is the actual physical cost.
@@ -131,7 +132,7 @@ Amber still has not rescued Ursaring.
 
 Amber, Alonso, and some/all of their Pokemon are trapped on the wrong side of the collapse.
 
-Amber and/or Alonso are injured. Armarouge may be too large to fit through smaller gaps, too needed to brace/stabilize the chamber, or too risky to send away.
+Amber and/or Alonso are injured. Alonso's larger/stronger Pokemon may be too needed to brace/stabilize the chamber, too visible to send through safely, or too risky to remove from the humans.
 
 This should feel like survival, not another battle.
 
@@ -209,15 +210,15 @@ Emotional end-state:
 
 - Do not make Ursaring a boss monster or villain.
 - Save Ditto-Arcanine for a future crisis.
-- Do not let Alonso solve everything. He can save, brace, protect, and inspire, but the chapter should require Amber, Teddy, Charcadet, Ditto, Armarouge, and Alonso to each matter.
+- Do not let Alonso solve everything. He can save, brace, protect, and inspire, but the chapter should require Amber, Teddy, the younger Charcadet, Ditto, Alonso's stronger Pokemon, and Alonso to each matter.
 - Do not make Charcadet's eventual choice instant. This chapter deepens the evidence it is gathering.
 
 ---
 
 ## Open Questions
 
-- Is the cave a true Mystery Dungeon, dungeon-adjacent anomaly, ordinary cave, or Rocket-modified hideout?
-- How exactly does Rocket force Ursaring's recall/removal during the almost-reunion?
+- Exact cave classification: current direction is dungeon-adjacent/unstable off-route cave, **not** a full Mystery Dungeon.
+- How exactly does Rocket force Ursaring's recall/removal during the almost-reunion, and how much is that enabled by ore-amplified restraint/control tech?
 - Who receives the small Pokemon's rescue signal?
 - How badly is Amber hurt, and what limitations carry into the Viridian aftermath?
 - Does Alonso stay with Amber through Viridian, Route 2, or Viridian Forest before parting?
