@@ -3,7 +3,7 @@ chapter: 3
 title: "[Chapter 3] Into the World of (Pocket) Monsters"
 status: published
 hidden: false
-updated: 2025-10-12
+updated: 2026-07-17
 ---
 
 # \[Chapter 3\] Into the World of (Pocket) Monsters
@@ -60,7 +60,7 @@ A wry smile formed on my lips as I smacked my head. "Of course, this would be th
 
 I refocused my attention on the TV.
 
-The Poliwrath's trainer, a weathered man who looked nothing like the pixel-perfect gym leaders I remembered, was already calling out his next command. His Pokemon's Water Gun carved channels in the arena floor, forcing the Sandslash to surface or drown. The camera zoomed in on the ground type's emergence, catching the moment its claws broke through the earth at an unexpected angle, spraying sand into its opponent's eyes.
+The Poliwrath's weathered looking trainer was already calling out his next command. His Pokemon's Water Gun carved channels in the arena floor, forcing the Sandslash to surface or drown. The camera zoomed in on the ground type's emergence, catching the moment its claws broke through the earth at an unexpected angle, spraying sand into its opponent's eyes.
 
 Ditto made a sound that might have been appreciation, transforming briefly into a miniature version of the Sandslash before melting back to its natural state, as if testing how that movement would feel.
 
@@ -100,7 +100,7 @@ I threw the sock again. This time, the Ditto-lamp tried to slide sideways, but i
 
 A laugh bubbled out of me.
 
-"Okay, new plan," I said, my mind racing, the gamer-strategist taking over completely. I first tried to confirm a few things. "What moves do you know besides transform? Do you know any normal moves like tackle?"
+"Okay, new plan." I set the sock aside. "What moves do you know besides transform? Do you know any normal moves like tackle?"
 
 Ditto's blobby form tilted, its simple face scrunching into an expression of pure confusion. (?\_?)
 
@@ -162,7 +162,7 @@ Inside, a row of ticket booths and turnstiles stretched along one wall. A machop
 
 But what caught my attention was the city map mounted between the booths and turnstiles. The bottom half was just low enough for me to study properly.
 
-I traced routes with a finger, trying to ignore the small, but steady stream of commuters flowing around me. Unlike the neat grid of the games, real Celadon sprawled in every direction, districts bleeding into each other in normal, city-like ways.
+I traced routes with a finger, trying to ignore the small, but steady stream of commuters flowing around me. Celadon sprawled in every direction, districts bleeding into each other in normal, city-like ways.
 
 I found 2 of the major landmarks of Celadon fairly easily.
 

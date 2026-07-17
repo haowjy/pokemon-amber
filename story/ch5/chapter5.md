@@ -3,14 +3,14 @@ chapter: 5
 title: "[Chapter 5] A Perfectly Normal Gym Session"
 status: published
 hidden: false
-updated: 2025-10-11
+updated: 2026-07-17
 ---
 
 # [Chapter 5] A Perfectly Normal Gym Session
 
 The afternoon sun had begun its descent, casting shadows in the opposite direction through the ginkgo trees that lined the path ahead. Their fan-shaped leaves caught the light like tiny golden coins, creating a dappled pathway that seemed to lead straight to... my steps slowed as the actual gym building came into view.
 
-The building ahead grew more imposing with each step, glass and steel rising up behind the ancient trees in a way that should have felt jarring but somehow worked. Like the games evolving from pixel art to modern graphics, there was something satisfying about the progression from natural to modern, from the Ginkgo arcade to the sleek facility beyond.
+The building ahead grew more imposing with each step, glass and steel rising behind the ancient trees. Their branches reflected across its sleek face, softening the transition from the ginkgo arcade to the facility beyond.
 
 The park grounds unfolded in carefully planned waves of green and color. Grass and dirt gave way to raised beds where Oddish-shaped topiaries stood guard over a stunning array of irises and wisteria, their petals trembling in the afternoon breeze. A small pond reflected the late sunlight, its surface occasionally broken by what could have been either decorative Magikarp or particularly playful Goldeen.
 

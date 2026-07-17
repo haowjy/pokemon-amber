@@ -3,7 +3,7 @@ chapter: 9
 title: "[Chapter 9] Side Quest: Trade Secrets"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2026-07-17
 ---
 
 # \[Chapter 9\] Side Quest: Trade Secrets
@@ -22,7 +22,7 @@ The rhythmic clack of wooden geta against polished floors faded down the hallway
 
 \\\[^.^\]/
 
-The Celadon Department Store had been my first digital pilgrimage in every playthrough. Five floors of pixelated paradise where I'd bankrupt a thousand fictional selves for TMs and evolution stones. Now, standing before its real-world counterpart---all concrete and weathered signage instead of clean pixel art---I fought the absurd urge to check my nonexistent pockets for cheat codes.
+The Celadon Department Store had been my first digital pilgrimage in every playthrough, five floors where I'd bankrupt a thousand fictional selves for TMs and evolution stones. Now its real-world counterpart towered over me in concrete and weathered signage.
 
 The automatic doors hissed like a disapproving librarian, freezing me in the threshold. Air conditioning slapped my face, carrying the citrus tang of cleaning chemicals and something earthier beneath---crushed herbs? Burnt ozone? My nose twitched. 
 
@@ -38,7 +38,7 @@ Ahead, a woman in a fur-trimmed coat that screamed 'old money' carried a Meowth 
 
 The Meowth swiveled and repeated the gesture to a passing couple arguing over a map. The man yelped, fumbling the paper as his partner giggled.
 
-Oh. It's just an asshole.' Relief flooded my veins like a cheap potion antidote.
+'Oh. It's just an asshole.' Relief loosened my shoulders.
 
 I caught Mary's eyebrow creeping upward as she watched me. 'Think rural. Think boring. Think-'
 
@@ -68,7 +68,7 @@ The atmosphere shifted as we crossed some invisible retail border. The hum of br
 
 While Mary handled the official inquiry, I drifted toward the vitamin displays like a moth to particularly expensive flames. The bottles stood in perfect formation, their certification seals catching the light---and their price tags catching my breath. ₽9,800 or $98 for a single small HP UP bottle of vitamins. The larger ones... I did some quick mental math and decided I didn't need that kind of existential crisis today.
 
-Each HP UP bore Celadon's Rainbow Badge seal like a designer logo, their green caps marking them as distinctly as a Gucci pattern. CALCIUM and IRON shared Pewter's Boulder Badge with their orange and yellow caps, carrying similarly painful price tags. PROTEIN, ZINC, and CARBOS bore unfamiliar badges I'd never seen rendered in pixel form, but their prices suggested they came from equally prestigious gyms.
+Each HP UP bore Celadon's Rainbow Badge seal like a designer logo, their green caps marking them as distinctly as a Gucci pattern. CALCIUM and IRON shared Pewter's Boulder Badge with their orange and yellow caps, carrying similarly painful price tags. PROTEIN, ZINC, and CARBOS bore unfamiliar badges, but their prices suggested they came from equally prestigious gyms.
 
 It was surreal seeing them as actual products instead of menu items. No simple "+1 to stats" here---just rows of identical bottles with gym seals and colored caps, not a single ingredient list or warning label in sight. The lack of fine print was almost unsettling after a lifetime of pharmaceutical novels compressed onto tiny bottles. I caught myself wondering if they'd work on humans before my brain helpfully reminded me that drinking mystery Pokemon supplements was probably a fantastic way to discover exactly why they kept those formulations secret---assuming I survived the experiment.
 
@@ -162,9 +162,9 @@ The shop was doing brisk business, exactly what you'd expect from a place near t
 
 For one frozen moment, we all stared at each other. Then the girl's eyes darted to the curtained back room, the shopkeeper's face went from nervous to terrified, and my caffeine-addled brain helpfully supplied that this was about to become a very different kind of afternoon.
 
-The girl bolted for the curtained doorway, golden spores trailing in her wake like some sort of sparkly breadcrumb trail. My coffee-addled brain helpfully supplied that this would be the part of a game where dramatic pursuit music would kick in. Reality was less orchestrated but way more chaotic-though being small finally had its advantages.
+The girl bolted for the curtained doorway, golden spores trailing in her wake like some sort of sparkly breadcrumb trail. Being small finally had its advantages.
 
-While Mary got tangled up with a precariously balanced display of evolution stones, I slipped through the narrow spaces between shelves like a Rattata in a maze. The back room opened into an alley that definitely wasn't on any official map of Celadon, real or game.
+While Mary got tangled up with a precariously balanced display of evolution stones, I slipped through the narrow spaces between shelves like a Rattata in a maze. The back room opened into an alley that definitely wasn't on any official map of Celadon.
 
 My legs pumped faster than they ever had in this small body, but physics was physics-the girl ahead might have been wheezing and sneezing with every step, spores glittering in her wake like some twisted version of Tinker Bell, but she still had twice my stride length. Each time I thought I was gaining ground, another sneeze would propel her forward in a panic, leaving me chasing golden sparkles and crushing realizations about the limitations of being child-sized.
 
@@ -176,7 +176,7 @@ Then Ditto bounced forward in what I generously assumed was meant to be a Tackle
 
 Then Mary's voice rang out behind me. "Bellsprout, trip her up!"
 
-"Bell!" A flash of green shot past me as Bellsprout's vine coiled around the girl's ankle with elegant precision. She went down in a tangle of limbs and sneezes, the cloth bag tumbling from her grasp. Golden spores drifted through the air like pixelated status effects come to life.
+"Bell!" A flash of green shot past me as Bellsprout's vine coiled around the girl's ankle with elegant precision. She went down in a tangle of limbs and sneezes, the cloth bag tumbling from her grasp. Golden spores drifted through the air, bright against the cobblestones.
 
 "No!" she cried, face pressed against the cobblestones.
 

@@ -3,7 +3,7 @@ chapter: 10
 title: "[Chapter 10] Side Quest: Complete!"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2026-07-17
 ---
 
 # \[Chapter 10\] Side Quest: Complete!
@@ -22,7 +22,7 @@ The girl's eyes darted between us, and then to her fallen bag. "You won't... you
 
 I stepped forward, suddenly very aware of how the oversized dress Dr. Fuji insisted I wear made me look even smaller than I was. "We want to understand. That's all."
 
-Kaede's red-rimmed eyes flickered to me for just a moment before sneezing and dismissing me entirely-the way you do with NPCs that aren't part of the current quest.
+Kaede's red-rimmed eyes flickered to me for just a moment, then slid past me to Mary.
 
 "I'm Kaede," she said, pushing herself to her feet. Another sneeze nearly sent her back down, but Mary caught her arm. "He's... he's still at my apartment."
 
@@ -78,7 +78,7 @@ The gym's ginkgo trees cast dappled shadows across the path, their leaves beginn
 
 We wound through the now-familiar hallways of the gym. The sounds of battle echoed from multiple directions-a complex symphony of trainers calling moves, pokemon responding, and the constant background rustle of various grass-types moving through their natural environment.
 
-Mary led us toward what seemed to be the main arena. It was divided in two by a large retractable wall, with many bleachers on each side, each somewhat filled with people. Two battles were running simultaneously, and I caught a glimpse of Erika directing a Weepinbell with a precision that made game commands like "Razor Leaf" seem absurdly simplistic. Mary paused at the edge of the window, her eyes tracking Weepinbell's movements with professional interest.
+Mary led us toward what seemed to be the main arena. It was divided in two by a large retractable wall, with many bleachers on each side, each somewhat filled with people. Two battles were running simultaneously, and I caught a glimpse of Erika directing a Weepinbell through a rapid exchange. Mary paused at the edge of the window, her eyes tracking Weepinbell's movements with professional interest.
 
 "We'll have to wait until she finishes with this challenger," Mary said, already moving toward a door marked 'Staff Only.' "It shouldn't be long."
 
@@ -86,7 +86,7 @@ My heart did a little skip at those words. A real life gym challenge... Not the 
 
 The narrow corridor curved around the arena's edge, and as we emerged onto the bleachers on Erika's side, I could finally see my first real gym challenge battle.
 
-Weepinbell moved with an almost dance-like grace, vines weaving patterns I'd never seen animated or described, while the challenger's Golbat darted through the air like a living shadow, each wingbeat so precise it made the hovering sprites or models from my games seem almost insulting in their simplicity.
+Weepinbell moved with an almost dance-like grace, vines weaving intricate patterns, while the challenger's Golbat darted through the air like a living shadow, each wingbeat turning its body with startling precision.
 
 Erika spared us a glance and a nod before quickly refocusing on her battle.
 
@@ -160,8 +160,6 @@ The challenger rushed forward to check on their fallen Pokemon, cradling it gent
 
 Erika nodded to her Tangela with a soft smile. "Thanks for the hard work." The Tangela responded with a happy "Tang!" before being returned to its pokeball in a flash of red light.
 
-The tangela responded happily, before Erika brought her pokeball up to return it.
-
 An attendant quickly appeared with a towel, which Erika accepted with a nod. As she wiped the sweat from her brow, her eyes met Mary's. Without a word, she gestured for us to follow, leading the way through a door marked "Staff."
 
 "I thought Erika was the gym leader?" I whispered to Mary as we walked to join Erika.
@@ -234,7 +232,7 @@ The evening train rattled through Celadon's entertainment district, neon signs f
 
 I let myself smile, the handful of coins from Mary-mostly spent on another day pass-warm in my palm. First quest reward earned in this world. First real adventure too and mostly finished with Celadon's main places of interest.
 
-My backpack sat heavy in my lap as the train rumbled beneath us, so different from just pressing buttons on a game console, but maybe better in its own way-
+My backpack sat heavy in my lap, rocking gently with the train.
 
 The train's brakes squealed at the Game Corner station. Through the window's neon-streaked glass stood Dr. Fuji, stark in his white coat.
 

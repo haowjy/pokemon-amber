@@ -3,7 +3,7 @@ chapter: 8
 title: "[Chapter 8] Start of an Unpaid Side Quest"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2026-07-17
 ---
 
 # \[Chapter 8\] Start of an Unpaid Side Quest
@@ -24,7 +24,7 @@ She ushered me into what could barely be called a security office-more like a co
 
 "Oh, uh, yeah. I did," Kayla mumbled, adjusting her glasses as she shook her monitor to consciousness with all the urgency of a hibernating Snorlax. I watched her hunt-and-peck through folders like someone's grandmother discovering computers for the first time, each uncertain click of the mouse adding another layer to the increasingly awkward silence.
 
-When she finally pulled up the video, I got to experience one of yesterday's greatest hits: starring me, the world's least subtle intruder. It was still jarring to see myself-this smaller anime-haired version that my brain refused to fully accept as 'me'-wandering into the greenhouse with all the situational awareness of a Psyduck. The grainy black-and-white feed reduced most of everything to abstract shapes moving through fog, like watching security footage from the original Game Boy era. Still, even through the visual soup, you could kinda tell it was me.
+When she finally pulled up the video, I got to experience one of yesterday's greatest hits: starring me, the world's least subtle intruder. It was still jarring to see myself-this smaller anime-haired version that my brain refused to fully accept as 'me'-wandering into the greenhouse with all the situational awareness of a Psyduck. The grainy black-and-white feed reduced most of everything to abstract shapes moving through fog. Still, even through the visual soup, you could kinda tell it was me.
 
 My stomach clenched as I watched Ditto transform. If Team Rocket somehow got their hands on this footage and gave it to Dr. Fuji, I would probably never be able to go on another adventure soon.
 
@@ -48,7 +48,7 @@ For a moment, all I could do was stare at her, my mouth slightly agape. The secu
 
 I stared at the screen instead of trying to defend myself, watching the girl's frantic dance with her pursuers. Something about her...
 
-"Wait! I think I recognize her," I said, the memory suddenly crystallizing like a Pokemon evolution cutscene. The collision, the mumbled apology, the knocked-out Oddish. Watching the footage now, every detail clicked into place like the world's most suspicious jigsaw puzzle.
+"Wait! I think I recognize her," I said as the memory snapped into focus. The collision, the mumbled apology, the knocked-out Oddish. Watching the footage now, every detail clicked into place like the world's most suspicious jigsaw puzzle.
 
 Everyone in the tiny room leaned forward slightly, even the diligent Tangela.
 
@@ -68,9 +68,7 @@ Mary's eyebrows rose slightly, but she nodded. "Go ahead."
 
 I pulled out Ditto's ball, the weight of everyone's attention making my hands clumsy. The security room felt even smaller now, crowded with anticipation. "Ditto, could you transform into the girl from last night? The one who ran into us yesterday?"
 
-Ditto emerged with its usual cheerful burble, and for a moment I saw puzzlement cross Mary's face. Then Ditto began to change. Kayla actually took a step back, her glasses slipping down her nose as she stared.
-
-Ditto emerged with its usual cheerful burble and hung there, its blob-like form wobbling slightly. Kayla did a double-take as she adjusted her glasses.
+Ditto emerged with its usual cheerful burble and hung there, its blob-like form wobbling slightly. Kayla took a step back, then adjusted her glasses and did a double-take.
 
 "A Grimer?"
 
@@ -100,7 +98,7 @@ Mary and Kayla bowed respectfully. I followed a beat late, managing to crack my 
 
 Erika laughed-not the polite gym leader laugh I'd imagined, but something warmer and more genuine. She crossed the room and actually patted my head, which was surreal enough to momentarily short-circuit my brain. "Oh please, none of that," she said, waving off the formality. Her eyes crinkled with genuine amusement as she looked down at me.
 
-I tried not to stare too obviously as she turned her attention to Mary's report, but it was hard not to notice the details games could never capture-the faint herbal scent that followed her movements, the soft rustle of her kimono, the quiet authority that made even Ditto straighten its borrowed spine.
+I tried not to stare too obviously as she turned her attention to Mary's report, but it was hard not to notice the faint herbal scent that followed her movements, the soft rustle of her kimono, or the quiet authority that made even Ditto straighten its borrowed spine.
 
 The formality melted away surprisingly fast after that. Here in the cramped security office, with no crowds or ceremonies, Erika felt less like an imposing Gym Leader and more like someone's capable older sister who just happened to run one of Kanto's most prestigious facilities. She perched on the edge of the desk while Mary walked her through the security footage, occasionally glancing my way with a smile.
 
