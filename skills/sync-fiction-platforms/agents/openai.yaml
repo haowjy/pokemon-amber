@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sync Fiction Platforms"
+  short_description: "Publish canonical chapters through browser dashboards"
+  default_prompt: "Use $sync-fiction-platforms to synchronize the chapters I authorize from this project's canonical source to its publishing platforms. Inventory first and verify every live save."
