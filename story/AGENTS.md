@@ -20,14 +20,27 @@ Not every folder has all four files:
 
 No underscore prefix. No numbering in non-prose filenames. The folder name carries the chapter number.
 
+## The Iceberg
+
+Three layers, each serving a different job:
+
+1. **Chapter prose** (`chapterX.md`) — tip of the iceberg. Stands alone. The reader never needs the wiki.
+2. **Chapter notes** (`notes.md`) — the bridge. Links out to wiki pages that support each scene. Explains *what matters for this chapter* without duplicating wiki content. When you sit down to draft, the notes tell you which wiki pages to load and why they matter here.
+3. **Wiki** (`$MERIDIAN_CONTEXT_KB_DIR/wiki/`) — the full iceberg beneath. Canon worldbuilding, systems, characters, lore. Source of truth. Notes link into it; prose never references it.
+
+Notes should link to specific wiki pages using [GitHub URLs][kb-base] (per root `AGENTS.md` link guidance). Group links by scene or topic so the relevant worldbuilding is findable at drafting time.
+
+[kb-base]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/
+
 ## Loading Context
 
 When drafting or critiquing a chapter, load in this order:
 
-1. **Style files** — `$MERIDIAN_CONTEXT_KB_DIR/styles/` (voice, tone, scene type)
-2. **Recent summaries** — `story/ch{N-2}/summary.md` through `story/ch{N}/summary.md` (last 2–3 chapters)
-3. **Current plan** — `story/ch{N}/plan.md` if drafting a new chapter
-4. **Character/lore pages** — `$MERIDIAN_CONTEXT_KB_DIR/wiki/characters/` and relevant lore as needed
+1. **Chapter notes** — `story/ch{N}/notes.md` (links to relevant wiki pages, author decisions, scene-specific context)
+2. **Style files** — `$MERIDIAN_CONTEXT_KB_DIR/styles/` (voice, tone, scene type)
+3. **Recent summaries** — `story/ch{N-2}/summary.md` through `story/ch{N}/summary.md` (last 2–3 chapters)
+4. **Current plan** — `story/ch{N}/plan.md` if drafting a new chapter
+5. **Wiki pages** — follow links from the notes; load character/lore pages as needed
 
 Do not load all summaries at once — load only the ones adjacent to the chapter being worked on.
 
