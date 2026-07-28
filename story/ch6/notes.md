@@ -15,21 +15,11 @@ Ch 6 contains two plants for Fuji's backstory. The violence plant is published. 
 
 **Violence (published, lines 43-45):** The arm-snap and Amber's instinctive flinch. The reader sees the reflex and doesn't yet know the history --- Fuji's domestic violence toward Delia, the alcohol-fueled escalation, the divorce. The flinch tells readers this isn't the first time.
 
-**Alcohol (revision):** At Domino's apartment, she offers Fuji a drink (wine, whiskey). He declines --- water is fine. Composed, professional. Then she hands him the surveillance folder: Delia with Stephen, the new life, fifteen years gone. He asks for the whiskey. Not a glass --- the implication is he wants the bottle or at least something stiff. The refusal-then-reversal shows the trigger: the photos break his composure, and the drink is right there.
+**Alcohol (revision):** Domino offers him a drink and he asks for water. She hands him the surveillance folder, he sees Delia with Stephen, and then he asks for the whiskey. What the reader can't know is that he'd been sober about twelve years --- he drank himself to rock bottom after Amber died, lost his marriage over it, and quit when Giovanni gave him a lab and the promise of resurrecting his daughter. So the water is him protecting something, and "give me the whiskey" is twelve years going down in one line. See [Dr. Fuji --- alcohol timeline][fuji-wiki].
 
-On reread after Ch 13 (the wine bottle on the log, Stephen's murder), both plants --- violence in the morning, alcohol at night --- sit in the same chapter. The arm-snap + the whiskey = the full pattern, visible only in hindsight.
+On the page it reads as a tired man changing his mind about a drink. Domino has no idea what she's watching and Amber isn't in the room. The weight arrives later, in Ch 13, when the same man drinks a bottle alone in the woods and kills someone.
 
-### What This Beat Actually Is
-
-**That whiskey is Fuji's first drink in about twelve years.**
-
-He drank himself to rock bottom after Amber died and it cost him his marriage. Then Giovanni gave him a lab and the promise of resurrecting his daughter, and he quit. He's been dry the whole time we've known him. See [Dr. Fuji --- alcohol timeline][fuji-wiki].
-
-So he asks for water because he's protecting something, and "give me the whiskey" is twelve years going down in one line of dialogue.
-
-The reader gets none of that. Domino doesn't know what she's watching, Amber isn't in the room, and the scene reads as a tired man changing his mind about a drink. The weight arrives later, in Ch 13, when the same man drinks a bottle alone in the woods and kills someone.
-
-**Consequence for drafting:** don't signal that this matters. No held beat before he answers, no trembling hands, no noticing the bottle earlier in the scene. If the line feels significant on a first read, it's overwritten and the Ch 13 payoff is already spent.
+On reread after Ch 13, both plants sit in the same chapter --- violence in the morning, alcohol at night. Only hindsight makes them a pattern.
 
 ### Revision Brief
 
@@ -39,15 +29,16 @@ The reader gets none of that. Domino doesn't know what she's watching, Amber isn
 
 2. **The reversal (after line 197).** Fuji snatches the folder, opens it, sees Delia with Stephen. The existing prose already has him tracing the photo edge, covering Stephen's face. After that beat --- after the composure cracks --- he asks for the whiskey. Domino doesn't comment. The scene moves on to him walking through the streets.
 
-**POV:** Fuji (3rd person limited). The refusal is casual --- he doesn't think about why he's declining. The reversal is also not examined internally. He doesn't think "I need a drink." He just asks for it. The reader connects the trigger (the photos) to the response (the whiskey).
+**POV:** Fuji (3rd person limited). The reader has to connect the trigger (the photos) to the response (the whiskey) without help from the narration.
 
 **Constraints:**
 - The offer/refusal is 2-3 sentences woven into the entry beat
 - The reversal is 1-2 sentences after the folder reveal
+- Give him no interiority around either the refusal or the reversal. He doesn't weigh it, justify it, or notice himself doing it. He asks for water, and later he asks for whiskey.
+- Don't signal that the moment matters --- no held beat before he answers, no unsteady hands, no noticing the bottle earlier in the scene. If it feels significant on a first read it's overwritten, and the Ch 13 payoff is spent early.
 - Domino doesn't react to the switch --- no smirk, no knowing look. She just pours or hands it over. She's a junior operative who did good work for a senior scientist and wants credit for it. She has no idea what she's looking at.
-- Fuji's drink of choice is whiskey. He reaches past the wine for the thing that burns. Whiskey stays his coping drink for the rest of the story. Wine is the separate Ch 11/13 thread --- the reunion-fantasy purchase, not the coping drink.
+- He picks whiskey over the wine. Whiskey stays his coping drink for the rest of the story; wine belongs to the separate Ch 11/13 reunion-gift thread.
 - Must not slow the scene's momentum. The folder is still the focus.
-- No internal acknowledgment of any kind. He doesn't decide, doesn't justify, doesn't notice. He asks.
 
 **Connects to:** [Ch 11 wine purchase](../ch11/notes.md), [Ch 13 wine on the log](../ch13/notes.md), [Dr. Fuji backstory][fuji-wiki]
 

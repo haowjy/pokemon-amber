@@ -42,7 +42,7 @@ One bottle over an afternoon leaves him blurred at the edges, inhibitions lowere
 
 ### "A Very Reasonable Man"
 
-The chapter title is his self-image. The alcohol lets him maintain the gap between "I just need him to understand" and what actually happens. A sober Fuji might have had the conversation he rehearsed. This Fuji drank the wine he bought for his wife and killed the man she chose instead.
+The chapter title is his self-image, and the alcohol is what lets him hold the gap between "I just need him to understand" and what he actually does. A sober Fuji might have had the conversation he rehearsed. This one drank the wine he bought for his wife and killed the man she chose instead.
 
 ### Revision Brief
 
@@ -54,7 +54,7 @@ Currently the scene opens:
 
 > A winding path cut through the trees on Pallet Town's outskirts. Dr. Fuji fidgeted on a fallen log, where he'd spent the afternoon, a manila folder gripped tightly in his lap.
 
-The wine bottle enters here --- beside him on the log, or at his feet, mostly empty. It should be present from the first paragraph. Not introduced later as a reveal; just *there*, the way the folder is just there.
+The wine bottle enters here, beside him on the log or at his feet, mostly empty. Put it in the first paragraph and treat it as furniture, the way the folder already is.
 
 **Key beats to revise or add:**
 
@@ -62,15 +62,15 @@ The wine bottle enters here --- beside him on the log, or at his feet, mostly em
 
 2. **The photo-ripping sequence (lines 17-24):** The bottle can punctuate the escalation. Between bouts of defacing photos, he drinks. The pen in one hand, the bottle in the other. The muttering gets looser as the wine disappears.
 
-3. **The wait for Stephen (lines 27-38):** By now the bottle should be empty or nearly empty. When he checks his watch and notes Stephen's routine, the narration can register his physical state --- not sloppy drunk, but slightly off. A word choice that's a little too sharp, hands that are steady enough but not quite right.
+3. **The wait for Stephen (lines 27-38):** The bottle should be empty or nearly so by now. When he checks his watch and notes Stephen's routine, let the narration register his state in physical specifics --- a word choice a little too sharp, hands steady enough but not quite right.
 
-4. **The confrontation (lines 39+):** When Stephen arrives, the bottle stays on the log. Fuji leaves it behind. The empty bottle, the photo confetti, the fallen flowers (already gone from Ch 11) --- the debris field of a man who spent the afternoon dismantling his own restraint.
+4. **The confrontation (lines 39+):** When Stephen arrives the bottle stays on the log. Fuji leaves it there, along with the photo confetti and the flowers already abandoned back in Ch 11.
 
 **Constraints:**
-- The bottle is never the focus. It's furniture --- present, mentioned in passing, never lingered on
-- No one comments on Fuji being drunk. He isn't drunk. He's slightly impaired --- "not drunk enough for it to be an excuse, just drunk enough for it to matter"
-- The wine should be identified as wine specifically (connecting back to Ch 11). Not generic "alcohol" or "a bottle." The reader who remembers Ch 11 needs to connect it.
-- Don't add Fuji thinking about Delia-and-the-wine. The reader makes that connection. The prose just shows the same bottle in a different context.
+- The bottle is never the focus. Mention it in passing, never linger on it.
+- Nobody comments on his drinking, and he never reads as drunk. See the margin described above --- impairment shows only in what he does, never in how the prose labels him.
+- Call the wine *wine*, not "alcohol" or "a bottle." A reader who remembers Ch 11 has to be able to connect them.
+- Don't have Fuji think about Delia-and-the-wine. Show the same bottle in a different context and let the reader do it.
 - **No relapse language.** He never thinks about being sober, having quit, falling off, or how long it's been. The twelve years are structure for the writer; the reader only ever sees a man who declined a drink in Ch 6 and is drinking alone by Ch 13.
 - The existing photo-ripping and muttering remain. The wine is additive, not replacing.
 

@@ -38,11 +38,9 @@ Based on Kaede from the manga "How I Became a Pokemon Card" ([Bulbapedia][bulbap
 
 ## Fuji's Wine & Flowers (Revision)
 
-Fuji stops at a store in Viridian and buys flowers and a bottle of wine. He thinks this is a family reunion --- flowers for Delia, wine for dinner. The hopeful version of himself.
+Fuji stops at a store in Viridian for flowers and a bottle of wine, because he believes he's walking into a family reunion. This is the hopeful version of himself. After the rejection the flowers get dropped or left behind, and the wine carries forward to Ch 13, where he drinks it on the log waiting for Stephen.
 
-After rejection, the flowers are dropped or left behind. The wine bottle carries forward to Ch 13 --- he drinks it on the log while waiting for Stephen.
-
-**The wine is a pretext and he doesn't know it.** Fuji quit drinking when Giovanni recruited him and stayed dry about twelve years, until Ch 6 --- one whiskey at Domino's apartment, after the photos. This is his second drink in over a decade, and buying wine "for dinner" lets him carry alcohol without deciding to. It's a gift for Delia, and it's completely reasonable. Neither he nor the chapter should register it as a step in a slide. See [Dr. Fuji --- alcohol timeline][fuji-wiki].
+**The wine is a pretext and he doesn't know it.** Fuji quit drinking when Giovanni recruited him and stayed dry about twelve years, until Ch 6 --- one whiskey at Domino's apartment, after the photos. This is his second drink in over a decade, and calling it a gift for Delia lets him carry alcohol without deciding to. Neither he nor the chapter should register it as a step in a slide. See [Dr. Fuji --- alcohol timeline][fuji-wiki].
 
 ### Revision Brief
 
@@ -62,7 +60,7 @@ The current doorstep beat is:
 
 > The car's brakes squealed. Before I could process the scene, Dr. Fuji's hand found my arm, pulling me from the car. Gravel crunched under my feet as I stumbled.
 
-Revise so he's juggling flowers + wine + Amber. The logistics matter: he can't grip her arm as hard if he's carrying things. This actually makes him more pathetic --- fumbling with props for a scene that only exists in his head.
+Revise so he's juggling flowers, wine, and Amber at once. The logistics do the work here: he can't grip her arm as hard while carrying things, so he arrives fumbling rather than menacing.
 
 **POV:** Amber (1st person). She doesn't understand the significance of the wine, but she registers it. She might notice the flowers are the kind you buy at a gas station, or that the wine label looks expensive against the rest of this day's grim aesthetic. Observations without interpretation --- she's thirteen and confused, not analyzing his alcoholism.
 
