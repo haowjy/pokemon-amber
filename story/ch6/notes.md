@@ -23,13 +23,13 @@ On reread after Ch 13 (the wine bottle on the log, Stephen's murder), both plant
 
 **That whiskey is Fuji's first drink in about twelve years.**
 
-He drank himself to rock bottom after Amber died, and it cost him Delia --- the violence escalated out of the drinking, not the other way around. Then Giovanni gave him a lab and the promise of resurrecting his daughter, and purpose displaced the bottle completely. Twelve years dry. Not "managed," not "invisible." Gone.
+He drank himself to rock bottom after Amber died and it cost him his marriage. Then Giovanni gave him a lab and the promise of resurrecting his daughter, and he quit. He's been dry the whole time we've known him. See [Dr. Fuji --- alcohol timeline][fuji-wiki].
 
-So the water isn't him being polite or professional. It's a man protecting something. And "give me the whiskey" is twelve years collapsing inside a single line of dialogue.
+So he asks for water because he's protecting something, and "give me the whiskey" is twelve years going down in one line of dialogue.
 
-None of this appears on the page. Domino doesn't know. Amber isn't there. The reader has no idea they just watched a relapse --- they see a tired man change his mind about a drink. The weight is retroactive: it lands in Ch 13, when the same man drinks a bottle alone in the woods and murders someone. See [Dr. Fuji --- alcohol timeline][fuji-wiki].
+The reader gets none of that. Domino doesn't know what she's watching, Amber isn't in the room, and the scene reads as a tired man changing his mind about a drink. The weight arrives later, in Ch 13, when the same man drinks a bottle alone in the woods and kills someone.
 
-**Consequence for drafting:** resist any writerly signal that this is A Moment. No held beat, no pause before he answers, no glass trembling, no noticing the bottle earlier in the scene. The prose must not know it's important. If the line reads as significant on a first pass, it's overwritten.
+**Consequence for drafting:** don't signal that this matters. No held beat before he answers, no trembling hands, no noticing the bottle earlier in the scene. If the line feels significant on a first read, it's overwritten and the Ch 13 payoff is already spent.
 
 ### Revision Brief
 

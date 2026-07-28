@@ -42,7 +42,7 @@ Fuji stops at a store in Viridian and buys flowers and a bottle of wine. He thin
 
 After rejection, the flowers are dropped or left behind. The wine bottle carries forward to Ch 13 --- he drinks it on the log while waiting for Stephen.
 
-**The wine is a pretext and he does not know it.** Fuji got sober when Giovanni recruited him and stayed sober about twelve years. Ch 6 broke that --- one whiskey at Domino's apartment, after the photos. This is the second time, and buying wine "for dinner" is how he gets to carry alcohol without deciding to. A gift for Delia. Entirely reasonable. The chapter should not know it's a step in a slide, and neither should he. See [Dr. Fuji --- alcohol timeline][fuji-wiki].
+**The wine is a pretext and he doesn't know it.** Fuji quit drinking when Giovanni recruited him and stayed dry about twelve years, until Ch 6 --- one whiskey at Domino's apartment, after the photos. This is his second drink in over a decade, and buying wine "for dinner" lets him carry alcohol without deciding to. It's a gift for Delia, and it's completely reasonable. Neither he nor the chapter should register it as a step in a slide. See [Dr. Fuji --- alcohol timeline][fuji-wiki].
 
 ### Revision Brief
 
@@ -72,15 +72,15 @@ Revise so he's juggling flowers + wine + Amber. The logistics matter: he can't g
 - The wine goes into a bag --- don't make it conspicuous. Amber might not even identify it as wine specifically. A paper bag, a bottle shape, something heavy.
 - The flowers should reappear at the doorstep. They're part of Fuji's delusion of normalcy.
 - After the rejection scene (lines 119+), the flowers need to end up on the ground or abandoned. The wine stays with Fuji --- he doesn't leave it behind. It goes back to the car, back to wherever he's staying. It survives to Ch 13.
-- Amber never sees him drink in this chapter. He doesn't open it. The bottle just doesn't get left behind the way the flowers do --- that asymmetry is the whole point, and it should pass without comment.
+- Amber never sees him drink here. He doesn't open it. The bottle simply doesn't get left behind the way the flowers do, and that asymmetry should pass without comment.
 
 ### Pays Off An Already-Published Line
 
 Ch 13 line 113, after the murder, has Fuji planning his return to Delia: *"First, he needed better clothes. Maybe some of the best wine. And dahlias... Do things right this time. **Do things right again.**"*
 
-As published, "again" has nothing to point at. This revision gives it one --- flowers and a bottle, staged once already and thrown off the property. The second attempt in Ch 13 is the same performance with Stephen's ash on his sleeve.
+As published, "again" has nothing to point at. This revision gives it flowers and a bottle, staged once already and thrown off the property, so the Ch 13 attempt becomes the same performance with Stephen's ash on his sleeve.
 
-Keep the Ch 11 flowers *cheap* for this reason. Gas-station bouquet here, dahlias-and-better-clothes there: the failure gets attributed to presentation, never to the fact that she left him. That's the delusion doing its work.
+Keep the Ch 11 flowers *cheap* for that reason. A gas-station bouquet here against dahlias-and-better-clothes there shows him blaming the presentation for the rejection. He never once considers that she left him.
 
 **Connects to:** [Ch 6 Domino drink](../ch6/notes.md), [Ch 13 wine on the log](../ch13/notes.md), [Dr. Fuji backstory][fuji-wiki]
 

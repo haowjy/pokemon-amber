@@ -28,17 +28,17 @@ See: `wiki/characters/ditto.md`
 
 ## Fuji's Alcohol and the Wine Bottle
 
-**Fuji is not a functional alcoholic in this chapter. He is nine chapters into a relapse.**
+**Fuji is seven chapters into a relapse here, not drinking out of habit.**
 
-He drank himself to rock bottom after Amber's death and lost Delia to it. Then Giovanni recruited him and he got sober --- roughly twelve years, because purpose displaced the bottle. Ch 6 is where that breaks: Domino's surveillance photos, and the whiskey he'd refused ten minutes earlier. Ch 13 is the same slide, further down.
+He hit rock bottom after Amber's death and lost Delia over it, then quit when Giovanni recruited him and stayed dry about twelve years. Ch 6 broke that --- Domino's surveillance photos, and the whiskey he'd refused ten minutes earlier. Ch 13 is further down the same slide. See [Dr. Fuji --- alcohol timeline][fuji-wiki].
 
-This matters for drafting. He has no tolerance built up and no rituals. He is not a man with a habit; he is a man who quit and is now losing the thing that let him quit. See [Dr. Fuji --- alcohol timeline][fuji-wiki].
+For drafting: he has no tolerance and no rituals around it. Nothing about how he drinks should look practiced.
 
 ### The Wine Bottle Thread (Ch 11 → Ch 13)
 
-Same bottle, two purposes. In Ch 11, it's a reunion gift --- wine for dinner with the wife he's reclaiming. Buying it is how he gets to hold alcohol without admitting he wants it. In Ch 13, it's what he drank alone on the log while waiting for the man he's about to kill. The pretext became the crutch.
+Same bottle, two purposes. In Ch 11 it's a reunion gift, wine for dinner with the wife he's reclaiming, and buying it lets him carry alcohol without admitting he wants it. In Ch 13 he drinks it alone on the log waiting for the man he's about to kill.
 
-One bottle over an afternoon leaves him slightly off. Judgment blurred at the edges, inhibitions a little lower --- and for someone twelve years dry, one bottle does considerably more than it would have in the basement years. Not drunk enough to be an excuse. Just drunk enough to matter: the difference between rehearsing the "reasonable discussion" and actually reaching for the Pokeball.
+One bottle over an afternoon leaves him blurred at the edges, inhibitions lowered, and it hits someone twelve years dry harder than it would have in the basement years. That's the margin the chapter turns on: enough to move him from rehearsing a reasonable discussion to reaching for the Pokeball, not enough to excuse it.
 
 ### "A Very Reasonable Man"
 
@@ -71,16 +71,16 @@ The wine bottle enters here --- beside him on the log, or at his feet, mostly em
 - No one comments on Fuji being drunk. He isn't drunk. He's slightly impaired --- "not drunk enough for it to be an excuse, just drunk enough for it to matter"
 - The wine should be identified as wine specifically (connecting back to Ch 11). Not generic "alcohol" or "a bottle." The reader who remembers Ch 11 needs to connect it.
 - Don't add Fuji thinking about Delia-and-the-wine. The reader makes that connection. The prose just shows the same bottle in a different context.
-- **No relapse language.** He never thinks about being sober, having quit, falling off, or how long it's been. A man in the middle of it doesn't narrate it. The twelve years are structure the reader will never be told --- they only see a man who declined a drink in Ch 6 and is drinking alone by Ch 13.
+- **No relapse language.** He never thinks about being sober, having quit, falling off, or how long it's been. The twelve years are structure for the writer; the reader only ever sees a man who declined a drink in Ch 6 and is drinking alone by Ch 13.
 - The existing photo-ripping and muttering remain. The wine is additive, not replacing.
 
 ### Already Published: The Second Reunion (line 113)
 
 After the murder, Fuji drives past Delia's house and plans his return: *"First, he needed better clothes. Maybe some of the best wine. And dahlias... Do things right this time. Do things right again."*
 
-That **"again"** currently has no referent in the text. The Ch 11 revision supplies it --- he staged this exact reunion once already, with flowers and a bottle, and was thrown off the property. Now he's staging it a second time with Stephen's ash on his sleeve.
+That **"again"** has no referent in the text right now. The Ch 11 revision supplies one --- he staged this same reunion once already, with flowers and a bottle, and got thrown off the property. Now he's doing it a second time with Stephen's ash on his sleeve.
 
-Do not revise line 113. It already works; it was just waiting for Ch 11 to give it a first term. Note also that he plans to buy *more* wine --- consistent, because the first bottle is empty on the log behind him.
+Leave line 113 alone. It works as written and was only ever missing its first term. He plans to buy *more* wine, which tracks, since the first bottle is empty on the log behind him.
 
 **Connects to:** [Ch 11 wine purchase](../ch11/notes.md), [Ch 6 Domino drink](../ch6/notes.md), [Dr. Fuji backstory][fuji-wiki]
 
