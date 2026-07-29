@@ -3,7 +3,7 @@ chapter: 10
 title: "[Chapter 10] Side Quest: Complete!"
 status: published
 hidden: false
-updated: 2026-07-17
+updated: 2026-07-28
 ---
 
 # \[Chapter 10\] Side Quest: Complete!
@@ -242,7 +242,9 @@ My smile froze.
 
 He stepped into the car of the train with careful, measured movements, his deep frown a stark contrast to the cheerful advertisements plastered on the walls.
 
-He reached out a palm, "Ditto?"I hesitated, glancing around the train, noting only a single person sleeping to the side.
+He reached out a palm, "Ditto?"
+
+I hesitated, glancing around the train, noting only a single person sleeping to the side.
 
 "Give me back Ditto," Dr. Fuji repeated icily.
 
@@ -250,7 +252,7 @@ I hesitantly placed the minimized Pokeball into his palm.
 
 The moment the Pokeball was placed into his hand, he pulled back and a stinging sensation filled my face as he slapped me.
 
-Neither of us spoke as he sat in the empty seat next to me.
+Neither of us spoke as he sat in the empty seat next to me, close enough to smell the alcohol on his breath.
 
 The train lurched forward, carrying us away from my brief taste of freedom. Away from the friends I'd just made in this new world.
 
