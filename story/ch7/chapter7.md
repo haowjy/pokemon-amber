@@ -100,7 +100,7 @@ I curiously inched toward the new notice, reading the bolded letters at the top:
 
 'Oddish? Hadn't I seen a Oddish bef---'
 
-"Ah!" The trainer's shout cracked through the center's buzz. Her small stack of notices scattered across the floor as she jumped back, pokeball appearing in her hand with practiced speed. The morning chatter died instantly. "It's you!"
+"Ah!" The trainer's shout cracked through the center's buzz. Her small stack of notices scattered across the floor as she jumped back, Pokeball appearing in her hand with practiced speed. The morning chatter died instantly. "It's you!"
 
 My heart jumped at the shout. That wasn't the polite surprise of someone remembering a brief encounter---it was the sharp accusation of someone who'd caught a thief. Which was ridiculous, because I hadn't done anything wrong.
 
@@ -110,15 +110,15 @@ My mind raced through yesterday's events: sneaking into the greenhouse (okay, th
 
 "I didn't do it," I said quickly, holding up my hands. The words came out too fast, too defensive. Great. Now I sounded exactly like someone who'd stolen something.
 
-The trainer lowered her pokeball slightly, but her stance remained ready. "You were in the greenhouse yesterday, right before the Oddish went missing." Her voice carried the tired weight of someone who'd been dealing with this situation for hours.
+The trainer lowered her Pokeball slightly, but her stance remained ready. "You were in the greenhouse yesterday, right before the Oddish went missing." Her voice carried the tired weight of someone who'd been dealing with this situation for hours.
 
 "I mean, yes, I was there, but---"
 
-"You have to come with me." It wasn't a request. The gym trainer's grip on her pokeball tightened, though she at least wasn't pointing it at me anymore. "I will need your statement."
+"You have to come with me." It wasn't a request. The gym trainer's grip on her Pokeball tightened, though she at least wasn't pointing it at me anymore. "I will need your statement."
 
 I glanced around the Center. The morning crowd had mostly gone silent, their attention locked on our little drama. Even the healing station's chime felt judgmental now.
 
-I nodded, making sure to keep Ditto's pokeball small. It felt impossibly heavy between my fingertips. 
+I nodded, making sure to keep Ditto's Pokeball small. It felt impossibly heavy between my fingertips. 
 
 The gym trainer gestured toward the door, not bothering to pick up the fallen notices, "After you."
 

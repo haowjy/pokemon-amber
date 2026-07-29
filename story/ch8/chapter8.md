@@ -60,7 +60,7 @@ I waved my hands frantically. "No, no. I really don't know her. It's all just a 
 
 We stared at each other for what felt like hours, though the timestamps clicking by on the screens said it was closer to ten seconds. 
 
-I glanced at my bag, where Ditto's pokeball rested inside. An idea started forming-the kind that either solved everything or made it monumentally worse. But hey, when you're already suspected of being an accomplice to Pokemon theft, how much worse could it get?
+I glanced at my bag, where Ditto's Pokeball rested inside. An idea started forming-the kind that either solved everything or made it monumentally worse. But hey, when you're already suspected of being an accomplice to Pokemon theft, how much worse could it get?
 
 "Um," I started, fingers trailing toward my bag. "I might be able to help with identifying her. Since you've already seen what my Ditto can do..." I looked at Mary hopefully. "Would it be okay if I used it? It's really good with faces."
 

@@ -240,17 +240,17 @@ My heart hammered against my ribs. "And... my Ditto?" I asked, before catching m
 
 Professor Oak didn't answer immediately. His gaze held mine for a long moment.
 
-Then, with a slight wince, he reached toward the bedside table where his personal effects were laid out---his Pokédex, his wallet, and a cluster of pokeballs. His fingers closed around one in particular.
+Then, with a slight wince, he reached toward the bedside table where his personal effects were laid out---his Pokédex, his wallet, and a cluster of Pokeballs. His fingers closed around one in particular.
 
 When he turned back to me, the curiosity in his eyes had been replaced by a gentle reassurance.
 
-"Safe," he said, his voice softening. He held out the pokeball. "It's unharmed."
+"Safe," he said, his voice softening. He held out the Pokeball. "It's unharmed."
 
 I stared at the red-and-white sphere in his bandaged hand, my breath catching.
 
 "A remarkable Ditto," he continued, his tone taking on that familiar professorial quality. "It transformed into my Dragonite with seemingly equal strength---something I thought impossible for Ditto transformations." He paused, as if choosing his words carefully. "But when the battle ended, it refused to fight further. Wouldn't even respond to Fuji's commands." His expression softened. "A rather gentle Pokemon at heart."
 
-Slowly, almost reverently, I reached out and took the pokeball from his hand. The smooth surface felt cool against my palm, but somehow reassuring. The weight of it---the knowledge that Ditto was inside, safe---made something tight in my chest finally loosen.
+Slowly, almost reverently, I reached out and took the Pokeball from his hand. The smooth surface felt cool against my palm, but somehow reassuring. The weight of it---the knowledge that Ditto was inside, safe---made something tight in my chest finally loosen.
 
 "Thank you," I whispered.
 

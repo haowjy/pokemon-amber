@@ -108,11 +108,11 @@ Now, all eyes were back on the struggle between the false dragon and the bull an
 
 "Ditto! Hyper Beam!" Fuji shouted.
 
-"Tauros, disengage as well!" Oak shouted as he raised his pokeball. A bead of sweat rolled down his forehead as he glanced at the evacuating crowd.
+"Tauros, disengage as well!" Oak shouted as he raised his Pokeball. A bead of sweat rolled down his forehead as he glanced at the evacuating crowd.
 
 Tauros attempted to break free, but its horns, meant to trap the Ditto-Dragonite, had ironically trapped itself.
 
-A blinding, white-hot torrent of pure energy erupted from Ditto-Dragonite's maw straight down, just as a red beam of the pokeball hit Tauros, whisking it back into its pokeball.
+A blinding, white-hot torrent of pure energy erupted from Ditto-Dragonite's maw straight down, just as a red beam of the Pokeball hit Tauros, whisking it back into its Pokeball.
 
 Ditto-Dragonite's massive chest heaved, its form flickering for a split second, threatening to dissolve back into its amorphous state before stabilizing. Wisps of smoke curled from its maw, the physical toll of the attack made manifest.
 
@@ -240,7 +240,7 @@ The blast, however, slammed into the neighboring house, which was now fully engu
 
 The half-Magmar instinctively threw a fire-coated punch, smashing the Tauros away, knocking it back into Delia's yard.
 
-Oak's hand instinctively slipped into his pocket, his fingers taking out a small, orange stone and another pokeball. However, he shook his head. *Not yet.*
+Oak's hand instinctively slipped into his pocket, his fingers taking out a small, orange stone and another Pokeball. However, he shook his head. *Not yet.*
 
 "Tauros, Earthquake!" Oak commanded, his voice sharp and clear. "Arcanine! Exeggutor! Jump!"
 
@@ -336,25 +336,25 @@ A choked sob tore from Fuji's throat. "I just wanted my daughter back," he whisp
 
 Oak stood over him, expression unreadable, and said nothing.
 
-Two pokeballs lay scattered on the asphalt near Fuji's torn coat, having fallen loose during the Psychic throw. Oak slowly bent down and picked them both up.
+Two Pokeballs lay scattered on the asphalt near Fuji's torn coat, having fallen loose during the Psychic throw. Oak slowly bent down and picked them both up.
 
 He walked back to the Ditto. The small pink Pokémon met his eyes.
 
-Oak held its gaze for a moment before raising the pokeball.
+Oak held its gaze for a moment before raising the Pokeball.
 
-The red beam lanced out. Ditto dissolved into light without resistance, the pokeball clicking shut with a soft chime.
+The red beam lanced out. Ditto dissolved into light without resistance, the Pokeball clicking shut with a soft chime.
 
-Oak's fingers closed around it for a moment before he turned toward the fallen half-Magmar, the second pokeball in hand.
+Oak's fingers closed around it for a moment before he turned toward the fallen half-Magmar, the second Pokeball in hand.
 
 He approached the crater where it lay buried. The pinkish-white flames had long since died. The grotesque cannon arm lay limp.
 
-Oak knelt at the crater's edge, pokeball still in hand. He waited, watching.
+Oak knelt at the crater's edge, Pokeball still in hand. He waited, watching.
 
 But something was wrong.
 
 There was no breathing. No rise and fall of its chest.
 
-Oak set the pokeball down and reached out, pressing two fingers to the side of Magmar's neck, searching for a pulse.
+Oak set the Pokeball down and reached out, pressing two fingers to the side of Magmar's neck, searching for a pulse.
 
 Nothing.
 

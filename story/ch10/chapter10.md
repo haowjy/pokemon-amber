@@ -30,7 +30,7 @@ As we followed Kaede deeper into the district, the electronic pulse of the Game 
 
 The mechanical drone of industrial fans began to fill the air, along with other sounds I couldn't quite identify. A cry echoed from somewhere above-maybe a Pokemon, maybe just the wind through the increasingly decrepit buildings.
 
-Either way, it made me walk a little closer to Mary, my fingers absently finding Ditto's pokeball and settling over the release button. I was grateful for Mary's steady presence and the watchful Bellsprout that moved silently alongside us.
+Either way, it made me walk a little closer to Mary, my fingers absently finding Ditto's Pokeball and settling over the release button. I was grateful for Mary's steady presence and the watchful Bellsprout that moved silently alongside us.
 
 The neon grew sicker the deeper we went, bleeding into puddles of color that reflected off grimy windows and collected in the corners of weathered concrete. Signs that had promised "MIRACLE CURES!" and "INSTANT HEALING!" gave way to bare wires and empty frames, their desperate promises fading into the growing shadows of late afternoon.
 
@@ -40,9 +40,9 @@ Kaede led us down a narrow passage between buildings, ducking under a web of pow
 
 The stairwell smell hit me like a physical force-a mix of mildew and something chemical that made my eyes water. Each step echoed off bare walls, creating a chorus of footfalls that seemed to mock how small we were in this space. Mary's Bellsprout wrapped one vine around the rusted railing as we climbed, like even it didn't trust the structural integrity of this place.
 
-I found myself counting steps, mapping out escape routes like I used to plan dungeon crawls. Three flights up, two back down, factor in child-sized legs and likely encounter zones... The gaming habits were probably ridiculous, but they were keeping the panic at bay. My thumb hadn't left Ditto's pokeball button since we'd entered the building, and right now I'd take whatever coping mechanisms I could get.
+I found myself counting steps, mapping out escape routes like I used to plan dungeon crawls. Three flights up, two back down, factor in child-sized legs and likely encounter zones... The gaming habits were probably ridiculous, but they were keeping the panic at bay. My thumb hadn't left Ditto's Pokeball button since we'd entered the building, and right now I'd take whatever coping mechanisms I could get.
 
-Kaede fumbled with her keys at a door that had definitely seen better decades, probably back when Kanto was still considering color TV. Each clank of metal against metal echoed through the hallway like a countdown, making my fingers twitch against Ditto's pokeball. The caffeine crash was hitting hard now, leaving me with the kind of headache that made me wonder if those "MIRACLE CURES!" shops from before could help.
+Kaede fumbled with her keys at a door that had definitely seen better decades, probably back when Kanto was still considering color TV. Each clank of metal against metal echoed through the hallway like a countdown, making my fingers twitch against Ditto's Pokeball. The caffeine crash was hitting hard now, leaving me with the kind of headache that made me wonder if those "MIRACLE CURES!" shops from before could help.
 
 The lock finally surrendered with a sound like grinding teeth, and the door creaked open to reveal... well, calling it an apartment felt generous. It was more like someone had taken the concept of "indoor space" and compressed it until only the bare essentials remained. A mattress occupied one corner, while a hot plate balanced precariously on a stack of milk crates served as the kitchen. The window-singular-was partially covered by cardboard, creating strips of late afternoon light that cut through the air like search beams.
 
@@ -158,7 +158,7 @@ But suddenly vines erupted from the floor behind Golbat, where they'd been quiet
 
 The challenger rushed forward to check on their fallen Pokemon, cradling it gently. "You fought amazingly," they murmured as he helped to put it on the stretcher.
 
-Erika nodded to her Tangela with a soft smile. "Thanks for the hard work." The Tangela responded with a happy "Tang!" before being returned to its pokeball in a flash of red light.
+Erika nodded to her Tangela with a soft smile. "Thanks for the hard work." The Tangela responded with a happy "Tang!" before being returned to its Pokeball in a flash of red light.
 
 An attendant quickly appeared with a towel, which Erika accepted with a nod. As she wiped the sweat from her brow, her eyes met Mary's. Without a word, she gestured for us to follow, leading the way through a door marked "Staff."
 
@@ -246,9 +246,9 @@ He reached out a palm, "Ditto?"I hesitated, glancing around the train, noting on
 
 "Give me back Ditto," Dr. Fuji repeated icily.
 
-I hesitantly placed the minimized pokeball into his palm.
+I hesitantly placed the minimized Pokeball into his palm.
 
-The moment the pokeball was placed into his hand, he pulled back and a stinging sensation filled my face as he slapped me.
+The moment the Pokeball was placed into his hand, he pulled back and a stinging sensation filled my face as he slapped me.
 
 Neither of us spoke as he sat in the empty seat next to me.
 

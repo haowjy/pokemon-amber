@@ -49,6 +49,11 @@ Use `meridian context kb` / `$MERIDIAN_CONTEXT_KB_DIR` for KB location; do not a
 
 **Spelling**
 - `Pokemon` — consistent within a file (ASCII or accented, not both)
+- `Pokeball` — one word, always capitalized. Never `poke ball` or `pokeball`.
+- `Pokedex`, `Potion`, and other manufactured items are capitalized the same way.
+
+This house style is deliberately not Nintendo's, which writes `Poké Ball` as
+two accented words. Don't "correct" it toward canon.
 
 **Content rules**
 - No inline author commentary in published prose

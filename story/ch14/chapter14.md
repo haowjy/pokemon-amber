@@ -286,7 +286,7 @@ The TV cut through our moment: "---and with that Ice Beam, Clair has knocked out
 
 "---Build to the final answer to win the problem!" I say, but Ash was already paying more attention to the real Pokémon battle.
 
-His pencil hovered above the next math question as Nolan's final pokeball burst open. A Hitmonchan materialized, already bouncing on its feet in a fighting stance.
+His pencil hovered above the next math question as Nolan's final Pokeball burst open. A Hitmonchan materialized, already bouncing on its feet in a fighting stance.
 
 We spent the next few hours like that-Ash bouncing between furious scribbling during commercials and complete absorption in the matches. His arithmetic was getting neater though, more methodical. Whether any of this would stick once the TV was off... Well... that was a different equation entirely.
 
