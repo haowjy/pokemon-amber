@@ -3,12 +3,12 @@ chapter: 13
 title: "[Chapter 13] A Very Reasonable Man"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2026-07-28
 ---
 
 # \[Chapter 13\] A Very Reasonable Man
 
-A winding path cut through the trees on Pallet Town's outskirts. Dr. Fuji fidgeted on a fallen log, where he'd spent the afternoon, a manila folder gripped tightly in his lap.
+A winding path cut through the trees on Pallet Town's outskirts. Dr. Fuji fidgeted on a fallen log, where he'd spent the afternoon, a manila folder gripped tightly in his lap. The wine stood upright in the leaf litter by his shoe, most of the way down.
 
 Through the branches, Oak's lab silhouetted against the afternoon sky. Champion Oak. Professor Oak now. The grant ceremony seemed a lifetime ago---Oak's firm handshake, flashing cameras, admiring looks. 
 
@@ -19,6 +19,8 @@ He spread the folder's contents across the damp bark: surveillance reports from 
 The newer photos captured Delia around her restaurant, in her garden, and walking through town. His fingers trembled slightly as he sifted through them. He found a few that stood out: Delia laughing at her garden gate, Stephen's arm draped her shoulders.
 
 "Just a reasonable discussion," he muttered, taking out his pen. The ink moved methodically across Stephen's face. "Man to man. You must understand that Delia and I..." His hand pressed harder, the pen tip catching on the glossy surface. "We kind of have a history."
+
+He reached down for the bottle without looking, drank, and set it back in the leaves.
 
 Another photo. Stephen and Delia at some local festival together. His pen dug into the paper, scratching violently until it tore through. "I'm not being unreasonable." The next one---their garden. His fingers seized the edge of Stephen's figure and ripped, the sound sharp in the quiet afternoon. "I just need you to understand..." He was tearing them now, hands shaking as pieces fell around his feet like strange confetti. "...that you're in the way of something bigger than yourself."
 
@@ -32,11 +34,13 @@ Last night's confrontation in Delia's garden replayed incessantly, each memory m
 
 He'd been tenured at Celadon University while Stephen was probably still fumbling with undergraduate chemistry sets, pioneering genetic research while this... this *lab assistant* was likely still trying to memorize the basic type chart.
 
-He'd spent the day here, watching Oak's lab through the trees, watching the path, shuffling through his photos until the edges went soft.
+He'd spent the day here, watching Oak's lab through the trees, watching the path, shuffling through his photos until the edges went soft. The bottle had been empty for an hour.
 
 That cheerful blue house of hers, with its wooden swing and carefully tended garden beds, kept swimming before his eyes. Such *pastoral mediocrity*. Yet she'd chosen that---chosen Stephen---over everything he'd accomplished, everything he'd promised her he'd do.
 
 The sound of footsteps along gravel pulled him from his spiral. Stephen was right on schedule, probably heading home to make dinner in that cozy kitchen. The sight of him sent a wave of static through Dr. Fuji's mind, drowning out the words he'd rehearsed all day. His hand found a Pokeball in his pocket, fingers trembling slightly.
+
+He stood. The bottle went over in the leaves behind him and he left it there.
 
 "Hey." Dr. Fuji's voice broke as he stepped onto the path. "We need to talk about Delia."
 

@@ -3,7 +3,7 @@ chapter: 11
 title: "[Chapter 11] Pallet Town"
 status: published
 hidden: false
-updated: 2025-10-12
+updated: 2026-07-28
 ---
 
 # \[Chapter 11\] Pallet Town
@@ -60,6 +60,12 @@ I eyed the cracked leather seats and the dust-filmed dashboard, wondering if thi
 
 Swallowing my questions, I clambered into the passenger seat, wincing as the ancient springs dug into my back.
 
+We made it four blocks before he pulled over.
+
+"Wait here." He was already out of the car, crossing to a storefront with buckets of flowers wilting under a faded awning. He came back with a cellophane-wrapped bouquet---dyed carnations and baby's breath, the kind you grab at a gas station when you've forgotten something---and a paper bag folded over at the top, heavy enough that he braced it against his chest to get the door open. He set both in the back seat like they might bruise.
+
+Then he sat with his hands on the wheel and didn't start the car. When he finally did, the agitation had drained out of him, and he checked himself in the rearview mirror twice before we cleared the city limits.
+
 As the city gave way to rolling hills and dense forests, I couldn't shake the feeling that we were driving straight into the past. The car's radio dial was frozen on a station that crackled out staticky old jazz tunes, and every bump in the road rattled the frame like it was one pothole away from shaking apart entirely.
 
 The southern road wound through rolling countryside, each hill revealing more of the landscape ahead. A laboratory complex appeared long before the town itself-a sprawling collection of windmills and research buildings perched atop the highest hill like something from a Studio Ghibli film. The setting sun painted the spinning blades in shades of amber and gold, their long shadows sweeping across the valley below like the hands of some giant clock counting down to... Pallet Town?
@@ -74,7 +80,7 @@ The Town emerged gradually: first scattered farms, then clusters of houses, and 
 
 We turned onto a narrow lane lined with neat gardens. A woman worked among the flower beds, and for a moment I didn't recognize her. But her auburn hair, pink dress, and dirt-stained apron, along with being in Pallet Town---this was obviously Delia Ketchum.
 
-The car's brakes squealed. Before I could process the scene, Dr. Fuji's hand found my arm, pulling me from the car. Gravel crunched under my feet as I stumbled.
+The car's brakes squealed. Dr. Fuji was out first, reaching into the back seat for the flowers and the bag, and by the time he came around to my door he had both wedged under one arm. His free hand closed on my wrist and pulled, and the grip was looser than it had been all day---he couldn't spare the strength for it. Gravel crunched under my feet as I stumbled after him, cellophane crackling against his coat with every step.
 
 In the yard, a dark-haired boy played with a Poliwag, his laughter carrying in the evening air. I froze---I knew that face from countless episodes, but seeing Ash Ketchum as a young child felt wrong.
 
@@ -88,7 +94,7 @@ I watched the woman at the garden freeze, trowel suspended mid-motion. This was 
 
 Even the boy and his Poliwag had gone quiet, sensing the shift in atmosphere.
 
-"I brought---" He pushed me forward like a prize specimen. "I brought her back. I did it, Delia. I brought our daughter back."
+"I brought---" He pushed me forward like a prize specimen, the bouquet coming up in his other hand, held out at the exact angle of a man arriving for dinner. "I brought her back. I did it, Delia. I brought our daughter back."
 
 The garden tools lay forgotten among the flowers, their shadows stretching long across the carefully tended earth. In the dying light, I watched Delia's face go completely still, as if she'd forgotten how to breathe. Her eyes fixed on me with an expression I couldn't read-something between disbelief and dawning horror.
 
@@ -126,13 +132,15 @@ That word---cancer---carried the weight of years of grief. The setting sun caugh
 
 A breeze stirred the flowers, carrying the scent of freshly turned earth and something that might have been dinner cooking inside that cheerful blue house. Some other version of this evening existed where they'd all be sitting down to eat right now, if we hadn't shown up to shatter their peace.
 
-Dr. Fuji's fingers dug so deep into my shoulder that I could feel each individual digit trembling. Not with grief or shame, but with that particular kind of desperate anger that comes when someone's carefully constructed reality starts to crack. "You don't understand," he said, his voice rising to match the wind. "I did it. I actually did it! While you were here playing house with---" he published my shoulder to jab a finger at Ash's father, "---with some *lab assistant*," he spat the words like they tasted foul, "I brought our daughter back! I did what everyone said was impossible! This is what I promised you, what you never believed I could---"
+Dr. Fuji's fingers dug so deep into my shoulder that I could feel each individual digit trembling. Not with grief or shame, but with that particular kind of desperate anger that comes when someone's carefully constructed reality starts to crack. "You don't understand," he said, his voice rising to match the wind. "I did it. I actually did it! While you were here playing house with---" he pushed my shoulder to jab a finger at Ash's father, "---with some *lab assistant*," he spat the words like they tasted foul, "I brought our daughter back! I did what everyone said was impossible! This is what I promised you, what you never believed I could---"
 
 "Get off my property." Delia's voice cut through his rant like a knife. Her shadow stretched long across her garden, merging with the darkness gathering at the edges of this broken family tableau. "Before I call Officer Jenny."
 
 The silence stretched between them like a thread pulled too tight. I looked up at Dr. Fuji, watching shadows crawl across his face as the sun sank lower, dreading the moment something-
 
 His hand suddenly lifted from my shoulder. The absence of pressure was so unexpected I stumbled slightly, catching myself just as he spun on his heel. No words, no final desperate plea-he simply stormed back to the car in sharp, angry steps that sent gravel flying.
+
+The bouquet lay where he'd let it drop, cellophane catching the last of the light among Delia's own flowers. The bag went back to the car with him.
 
 The engine roared to life, gears protesting as he threw it into reverse. Only then did it hit me: he was leaving. Actually leaving me here, surrounded by the fragments of a family I both did and didn't know, in a world that kept refusing to match my memories. 
 

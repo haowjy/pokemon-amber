@@ -3,7 +3,7 @@ chapter: 6
 title: "[Chapter 6] Scientist Fuji"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2026-07-28
 ---
 
 # \[Chapter 6\] Scientist Fuji
@@ -186,7 +186,11 @@ Domino opened the door in exercise clothes, a gym towel around her neck. Sweat g
 
 He followed her into an apartment that was notably sparse---a few pieces of furniture, no personal items visible. Exercise equipment dominated one corner, news with captions playing silently on the TV.
 
-"Trying to track down your wife after, what, fifteen years?" Domino grabbed a water bottle, her tone playful.
+"Drink? Wine, whiskey. Water." Domino was already in the kitchen, pulling a bottle from the fridge for herself.
+
+"Water's fine."
+
+She brought him one and cracked her own. "Trying to track down your wife after, what, fifteen years?" Her tone was playful.
 
 "The timing is right," Fuji said quietly. "Everything is finally in place."
 
@@ -201,5 +205,9 @@ Inside the folder, time had continued without him. A more recent photo stared up
 "It's natural, you know," Domino said, "For her to want companionship after all this time."
 
 He nodded slowly, still staring at the half-covered photo. The anger he'd expected didn't come---just a strange, hollow certainty that this too was temporary. Just another obstacle to overcome.
+
+"The whiskey," he said.
+
+Domino poured him a glass and went back to her water. He drank it with the folder still open in his other hand.
 
 As he walked back through the darkening city streets, he whispered her name like a hypothesis waiting to be proven: "Delia..."
