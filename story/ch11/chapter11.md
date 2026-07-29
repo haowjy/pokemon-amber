@@ -124,7 +124,7 @@ Dr. Fuji's fingers dug so deep into my shoulder that I could feel each individua
 
 The silence stretched between them like a thread pulled too tight. I looked up at Dr. Fuji, watching shadows crawl across his face as the sun sank lower, dreading the moment something-
 
-His hand suddenly lifted from my shoulder. The absence of pressure was so unexpected I stumbled slightly, catching myself just as he spun on his heel. No words, no final desperate plea-he simply stormed back to the car in sharp, angry steps that sent gravel flying, the flowers still under his arm.
+His hand suddenly lifted from my shoulder. The absence of pressure was so unexpected I stumbled slightly, catching myself just as he spun on his heel. No words, no final desperate plea-he simply stormed back to the car in sharp, angry steps that sent gravel flying, the flowers and the bottle still under his arm.
 
 The engine roared to life, gears protesting as he threw it into reverse. Only then did it hit me: he was leaving. Actually leaving me here, surrounded by the fragments of a family I both did and didn't know, in a world that kept refusing to match my memories. 
 
