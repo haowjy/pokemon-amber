@@ -3,7 +3,7 @@ chapter: 12
 title: "[Chapter 12] Sweet Home"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2026-07-29
 ---
 
 # \[Chapter 12\] Sweet Home
@@ -142,7 +142,7 @@ I traced a scratch in the kitchen table's surface, following its path through th
 
 The question caught me off guard. I stared at the scratch on the table, finger frozen, about to turn a corner along its path. 
 
-A couple weeks ago, in my dorm room, I would've just said time---more time to play Pokémon games. But now that I was in one... I wasn't sure what I needed anymore.
+A couple weeks ago, in my dorm room, I would've just said time---more time to play Pokémon games.
 
 "I don't know," I muttered.
 
