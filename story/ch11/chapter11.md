@@ -3,7 +3,7 @@ chapter: 11
 title: "[Chapter 11] Pallet Town"
 status: published
 hidden: false
-updated: 2026-07-28
+updated: 2026-07-29
 ---
 
 # \[Chapter 11\] Pallet Town
@@ -16,23 +16,9 @@ The apartment air pressed down, stale with unsaid things. Ditto stood by my door
 
 Silence. Just yesterday we'd celebrated my first reward, a handful of suddenly meaningless coins. Now Ditto just... watched. Back to being the proper guardian. A wall between us.
 
-In the kitchen, wrongness piled up. Cold tea in a forgotten mug. An empty chair where Dr. Fuji should be. And there, the empty space by the kettle where Ditto's Poké Ball used to sit, a glaring absence.
+In the kitchen, wrongness piled up. Cold tea in a forgotten mug. An empty chair where Dr. Fuji should be. And there, the empty space by the kettle where Ditto's Pokeball used to sit, a glaring absence.
 
-Would anyone notice I was gone? Mary, Kaede, Erika---our whirlwind adventure felt like a lifetime ago, but it had only been a day. We hadn't made concrete plans, but surely they'd wonder where I'd disappeared to. Wouldn't they?
-
-I poked at soggy cereal, too aware of Ditto watching from the doorway. "So... about yesterday---"
-
-Nothing. Not a ripple. Just that steady, neutral gaze that made my skin prickle. I forced down another sand-dry bite. Some reward. Trapped with a friend who couldn't be one anymore.
-
-Watching Ditto's cold distance reminded me of another set of lost friends---the ones from my old life. 
-
-My college friends were probably still reeling. No dramatic farewell, not even a proper game over screen---just me, a semi-truck, and that last desperate message about Shadow Mewtwo. Their final memory of me would be an empty dorm room and a string of "where are you?" texts that would never get answers.
-
-The morning dragged on, an endless stretch of mindless channel surfing. Battle tournaments, contest highlights, documentaries on the migratory patterns of Beautifly... None of it could hold my interest. 
-
-How could it, after the heart-pounding reality of my own battles? The rush of working in sync with Ditto, the pride of overcoming challenges together, the promise of a real bond-the TV offered only pale imitations. Just flashy spectacles without the personal stakes that had made my brief adventure feel so meaningful.
-
-And through it all, Ditto watched me, still as a statue. No excited trills at the battles, no curious head tilts at the contests. Just that wary, too-knowing gaze. A silent reminder of how much had changed overnight.
+The morning dragged on, an endless stretch of mindless channel surfing. Battle tournaments, contest highlights, documentaries on the migratory patterns of Beautifly.
 
 The knock, when it finally came, shattered the suffocating silence. Dr. Fuji burst through the door, not waiting for a response. He'd shed his usual lab coat for a crisp brown vest over a neatly pressed button-down shirt. Despite the formal attire, there was something strange in his manner---a taut energy that made his usual composed demeanor feel like a mask about to slip.
 
@@ -48,39 +34,39 @@ Dr. Fuji pulled me through the barely-contained bedlam, his grip never loosening
 
 Words lay fossilized on my tongue as he manhandled me into the harness, each buckle a tiny shackle. The liftoff ripped the air from my lungs, leaving my stomach far below.
 
-I'd always imagined this-skimming through clouds, marveling at the bird's-eye view of the world below. But as Kanto smeared into a blur of color, a single morbid thought knocked around my skull: how many trainers had the unforgiving sky swallowed up, never to be seen again?
+I'd always imagined this-skimming through clouds, marveling at the bird's-eye view of the world below.
 
-The question chased me long after we landed. Dr. Fuji hustled me through Viridian's winding streets, backtracking twice with a muttered curse. When he finally veered into a narrow alley, the car lot waiting at the end sent a fresh jolt of surprise through me.
+Dr. Fuji hustled me through Viridian's winding streets, backtracking twice with a muttered curse. When he finally veered into a narrow alley, the car lot waiting at the end sent a fresh jolt of surprise through me.
 
 Cars were a rarity in Celadon, and I'd barely spared them a glance, too caught up in the thrill of real Pokémon. But now, faced with the rusted husks slouching in this forgotten lot, I couldn't look away. They seemed to belong to another era entirely, all boxy frames and chrome grilles as if from the 1950s.
 
 After Dr. Fuji paid for a day's rental, he yanked open the passenger door and ordered, "Get in."
 
-I eyed the cracked leather seats and the dust-filmed dashboard, wondering if this was some kind of elaborate prank. But Dr. Fuji's expression held no hint of humor as he drummed his fingers against the roof, his whole body coiled with barely suppressed agitation.
-
-Swallowing my questions, I clambered into the passenger seat, wincing as the ancient springs dug into my back.
+I eyed the cracked leather seats and the dust-filmed dashboard. Dr. Fuji drummed his fingers against the roof, his whole body coiled with barely suppressed agitation.
 
 We made it four blocks before he pulled over.
 
-"Wait here." He was already out of the car, crossing to a storefront with buckets of flowers wilting under a faded awning. He came back with a cellophane-wrapped bouquet---dyed carnations and baby's breath, the kind you grab at a gas station when you've forgotten something---and a paper bag folded over at the top, heavy enough that he braced it against his chest to get the door open. He set both in the back seat like they might bruise.
+"Wait here." He was already out of the car, crossing to a florist with its window banked in cut flowers.
 
-Then he sat with his hands on the wheel and didn't start the car. When he finally did, the agitation had drained out of him, and he checked himself in the rearview mirror twice before we cleared the city limits.
+He came back with an arrangement of roses that took both hands, wrapped in stiff paper and tied off with a ribbon. He set it in the back seat like it might bruise.
 
-As the city gave way to rolling hills and dense forests, I couldn't shake the feeling that we were driving straight into the past. The car's radio dial was frozen on a station that crackled out staticky old jazz tunes, and every bump in the road rattled the frame like it was one pothole away from shaking apart entirely.
+Six blocks later he pulled over again. He didn't say anything this time.
 
-The southern road wound through rolling countryside, each hill revealing more of the landscape ahead. A laboratory complex appeared long before the town itself-a sprawling collection of windmills and research buildings perched atop the highest hill like something from a Studio Ghibli film. The setting sun painted the spinning blades in shades of amber and gold, their long shadows sweeping across the valley below like the hands of some giant clock counting down to... Pallet Town?
+He came back with a bottle of wine.
 
-With its proximity to Viridian City and the iconic windmills of Professor Oak's lab seemingly pulled from the cartoons, this was clearly Pallet Town.
+He sat with his hands on the wheel a while before starting the car. Twice on the way out of the city he checked himself in the rearview mirror.
+
+The city gave way to rolling hills and dense forests. The car's radio dial was frozen on a station that crackled out staticky old jazz tunes, and every bump in the road rattled the frame like it was one pothole away from shaking apart entirely.
+
+A laboratory complex appeared long before the town itself-a sprawling collection of windmills and research buildings perched atop the highest hill like something from a Studio Ghibli film. The setting sun painted the spinning blades in shades of amber and gold, their long shadows sweeping across the valley below like the hands of some giant clock counting down to... Pallet Town?
 
 My hands twisted in my lap as questions I'd been avoiding crashed through my mind: Why Pallet Town? Was this even the same timeline as the games? Or was it the anime? ...Manga? Did Ash exist here? Red? Both? Neither?
-
- The reality of this world kept diverging further from everything I thought I knew, and each difference felt like another crack in whatever remained of my certainty.
 
 The Town emerged gradually: first scattered farms, then clusters of houses, and finally the town proper. It was smaller than I'd imagined, barely more than a collection of homes wrapped around the base of Oak's lab's hill.
 
 We turned onto a narrow lane lined with neat gardens. A woman worked among the flower beds, and for a moment I didn't recognize her. But her auburn hair, pink dress, and dirt-stained apron, along with being in Pallet Town---this was obviously Delia Ketchum.
 
-The car's brakes squealed. Dr. Fuji was out first, reaching into the back seat for the flowers and the bag, and by the time he came around to my door he had both wedged under one arm. His free hand closed on my wrist and pulled, and the grip was looser than it had been all day---he couldn't spare the strength for it. Gravel crunched under my feet as I stumbled after him, cellophane crackling against his coat with every step.
+The car's brakes squealed. Dr. Fuji was out first, and by the time he came around to my door he had the flowers and the bottle wedged under one arm. The hand that closed on my wrist was looser than it had been all day. Gravel crunched under my feet as I stumbled after him, the paper crackling against his coat with every step.
 
 In the yard, a dark-haired boy played with a Poliwag, his laughter carrying in the evening air. I froze---I knew that face from countless episodes, but seeing Ash Ketchum as a young child felt wrong.
 
@@ -94,7 +80,7 @@ I watched the woman at the garden freeze, trowel suspended mid-motion. This was 
 
 Even the boy and his Poliwag had gone quiet, sensing the shift in atmosphere.
 
-"I brought---" He pushed me forward like a prize specimen, the bouquet coming up in his other hand, held out at the exact angle of a man arriving for dinner. "I brought her back. I did it, Delia. I brought our daughter back."
+"I brought---" He pushed me forward like a prize specimen, the flowers coming up in his other hand, held out at the exact angle of a man arriving for dinner. "I brought her back. I did it, Delia. I brought our daughter back."
 
 The garden tools lay forgotten among the flowers, their shadows stretching long across the carefully tended earth. In the dying light, I watched Delia's face go completely still, as if she'd forgotten how to breathe. Her eyes fixed on me with an expression I couldn't read-something between disbelief and dawning horror.
 
@@ -120,7 +106,7 @@ I watched him hesitate, caught in that peculiar childhood moment of sensing adul
 
 Dr. Fuji's fingers dug deeper into my shoulder. "This doesn't concern you." His voice had taken on a strange, dreamy quality that made my skin crawl. "You've played your part, offering comfort while I was away. But now I've succeeded. Our daughter---" he pushed me forward again, "---is back. We can be a proper family again. A brilliant family. Not this..." he gestured at the modest blue house, the neat rows of flowers, "...pastoral mediocrity."
 
-The garden tools lay scattered where Delia had dropped them, their metal surfaces catching the last rays of sunlight. She stood very still, and I wondered if this was how she'd looked when Dr. Fuji first told her about his plans to clone their daughter-that perfect balance between fury and heartbreak.
+She stood very still, and I wondered if this was how she'd looked when Dr. Fuji first told her about his plans to clone their daughter-that perfect balance between fury and heartbreak.
 
 "Pastoral mediocrity?" Her voice trembled with the weight of years. "While you were hiding in your lab trying to play god, I built something real. Something whole." She swept her arm toward the cheerful blue house behind her, the carefully tended garden beds, the wooden swing hanging from the old oak tree. "But you wouldn't understand that, would you? Some of us chose to live instead of---"
 
@@ -128,22 +114,20 @@ The garden tools lay scattered where Delia had dropped them, their metal surface
 
 "That's not---that's not Amber." Delia's words fell like broken glass. "Whatever you've done, whatever you've created..." She forced herself to look at me, really look, like someone pressing on a bruise to prove it hurts. When she finally spoke again, her voice cracked. "Our daughter is gone, and this---" her hand trembled as she gestured at me, "this is just another experiment. Another way to avoid facing what happened. The cancer---"
 
-That word---cancer---carried the weight of years of grief. The setting sun caught in her hair, painting her in shades of gold that made the whole scene feel like some twisted memorial photo.
+The setting sun caught in her hair, painting her in shades of gold that made the whole scene feel like some twisted memorial photo.
 
 A breeze stirred the flowers, carrying the scent of freshly turned earth and something that might have been dinner cooking inside that cheerful blue house. Some other version of this evening existed where they'd all be sitting down to eat right now, if we hadn't shown up to shatter their peace.
 
-Dr. Fuji's fingers dug so deep into my shoulder that I could feel each individual digit trembling. Not with grief or shame, but with that particular kind of desperate anger that comes when someone's carefully constructed reality starts to crack. "You don't understand," he said, his voice rising to match the wind. "I did it. I actually did it! While you were here playing house with---" he pushed my shoulder to jab a finger at Ash's father, "---with some *lab assistant*," he spat the words like they tasted foul, "I brought our daughter back! I did what everyone said was impossible! This is what I promised you, what you never believed I could---"
+Dr. Fuji's fingers dug so deep into my shoulder that I could feel each individual digit trembling. "You don't understand," he said, his voice rising to match the wind. "I did it. I actually did it! While you were here playing house with---" he pushed my shoulder to jab a finger at Ash's father, "---with some *lab assistant*," he spat the words like they tasted foul, "I brought our daughter back! I did what everyone said was impossible! This is what I promised you, what you never believed I could---"
 
 "Get off my property." Delia's voice cut through his rant like a knife. Her shadow stretched long across her garden, merging with the darkness gathering at the edges of this broken family tableau. "Before I call Officer Jenny."
 
 The silence stretched between them like a thread pulled too tight. I looked up at Dr. Fuji, watching shadows crawl across his face as the sun sank lower, dreading the moment something-
 
-His hand suddenly lifted from my shoulder. The absence of pressure was so unexpected I stumbled slightly, catching myself just as he spun on his heel. No words, no final desperate plea-he simply stormed back to the car in sharp, angry steps that sent gravel flying.
-
-The bouquet lay where he'd let it drop, cellophane catching the last of the light among Delia's own flowers. The bag went back to the car with him.
+His hand suddenly lifted from my shoulder. The absence of pressure was so unexpected I stumbled slightly, catching myself just as he spun on his heel. No words, no final desperate plea-he simply stormed back to the car in sharp, angry steps that sent gravel flying, the flowers still under his arm.
 
 The engine roared to life, gears protesting as he threw it into reverse. Only then did it hit me: he was leaving. Actually leaving me here, surrounded by the fragments of a family I both did and didn't know, in a world that kept refusing to match my memories. 
 
-First my old life, then Ditto, and now even the man who'd caused all of this-all of them slipping away like water through cupped hands.
+First Ditto, and now him.
 
 I stood frozen, conflicted, in the lengthening shadows of Delia's garden, listening to the sound of tires on dirt fade into the distance.
