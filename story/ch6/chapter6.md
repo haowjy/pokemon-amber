@@ -186,11 +186,7 @@ Domino opened the door in exercise clothes, a gym towel around her neck. Sweat g
 
 He followed her into an apartment that was notably sparse---a few pieces of furniture, no personal items visible. Exercise equipment dominated one corner, news with captions playing silently on the TV.
 
-"Drink? Wine, whiskey. Water." Domino was already in the kitchen, pulling a bottle from the fridge for herself.
-
-"Water's fine."
-
-She brought him one and cracked her own. "Trying to track down your wife after, what, fifteen years?" Her tone was playful.
+"Trying to track down your wife after, what, fifteen years?" Domino pulled the towel from her neck, her tone playful.
 
 "The timing is right," Fuji said quietly. "Everything is finally in place."
 
@@ -200,14 +196,24 @@ She held it just out of reach, smile sharpening. "New address, a few photos, som
 
 Fuji nodded, snatching the folder out of her hand.
 
+"Do you want anything?" Domino called from the kitchen. "Wine, whiskey?"
+
+"Water is fine." He had it open already.
+
 Inside the folder, time had continued without him. A more recent photo stared up from the top of the stack. Her auburn hair was pulled back in that familiar ponytail, barely touched by gray. She was crouched among the freshly planted garden, laughing at something off-camera, her face as youthful and bright as he remembered. His fingers traced the edge of the frame, carefully covering the man standing beside her.
 
-"It's natural, you know," Domino said, "For her to want companionship after all this time."
+Domino set a glass of water by his elbow.
+
+"Actually, pour me some whiskey."
+
+He went through the rest without putting the first one down. Delia behind the counter of a restaurant he'd never seen, sleeves pushed to the elbow. Delia at some local festival, paper lanterns strung above her. Delia at her garden gate, and the man's arm across her shoulders.
+
+"It's natural, you know." Domino set the whiskey down next to the water. "For her to want companionship after all this time."
 
 He nodded slowly, still staring at the half-covered photo. The anger he'd expected didn't come---just a strange, hollow certainty that this too was temporary. Just another obstacle to overcome.
 
-"The whiskey," he said.
+He drank half the glass and coughed into his fist. "Been a while," he muttered.
 
-Domino poured him a glass and went back to her water. He drank it with the folder still open in his other hand.
+The glass came down harder than he meant. Whiskey went across the coffee table and pooled against the water he hadn't touched.
 
-As he walked back through the darkening city streets, he whispered her name like a hypothesis waiting to be proven: "Delia..."
+As he walked back through the darkening city streets, he whispered her name. "Delia..."

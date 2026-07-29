@@ -36,7 +36,7 @@ On reread after Ch 13, both plants sit in the same chapter --- violence in the m
 - The reversal is 1-2 sentences after the folder reveal
 - Give him no interiority around either the refusal or the reversal. He doesn't weigh it, justify it, or notice himself doing it. He asks for water, and later he asks for whiskey.
 - Don't signal that the moment matters --- no held beat before he answers, no unsteady hands, no noticing the bottle earlier in the scene. If it feels significant on a first read it's overwritten, and the Ch 13 payoff is spent early.
-- Domino doesn't react to the switch --- no smirk, no knowing look. She just pours or hands it over. She's a junior operative who did good work for a senior scientist and wants credit for it. She has no idea what she's looking at.
+- Domino clocks the switch and shows nothing --- no smirk, no knowing look, no comment. She pours. Reading people is the skill that eventually makes her 009, so she notices; she just has no access to the twelve sober years, and what she files is "Fuji drinks." See [Domino][domino-wiki].
 - He picks whiskey over the wine. Whiskey stays his coping drink for the rest of the story; wine belongs to the separate Ch 11/13 reunion-gift thread.
 - Must not slow the scene's momentum. The folder is still the focus.
 
@@ -47,4 +47,5 @@ On reread after Ch 13, both plants sit in the same chapter --- violence in the m
 Already in this chapter (published): Giovanni asks Fuji about creating another Mewtwo, "one more amenable to our goals." Fuji's internal reaction: "another chance at perfection. Another Amber, one who wouldn't tug at her dress or roll her eyes or hold her chopsticks wrong." This is the seed for the entire clone family project (Mewtwo #2, starter clones, new Ambertwo). See [Giovanni --- The Clone Family][clone-family].
 
 [clone-family]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/characters/giovanni.md#the-clone-family
+[domino-wiki]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/characters/domino.md
 [fuji-wiki]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/characters/dr-fuji.md
