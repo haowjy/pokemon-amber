@@ -54,7 +54,21 @@ The Ch 11 → Ch 13 break covers a night and a morning and needs nothing written
 
 **Ch 13 and Ch 14 are the same day, opposite POVs.** Stephen makes pancakes in Ch 14's morning and dies in Ch 13's late afternoon --- which is why Delia spends Ch 14's dinner checking the clock, and why Fuji reaches that door the same night. Anything inserted into either chapter has to hold against the other.
 
-Open: does Delia still grow dahlias? One clause in Ch 12 decides whether Ch 14's *"your favorite flowers, your namesake"* is obscene or delusional.
+### Delia's Garden Is Never Specified --- Keep It That Way
+
+Ch 11 through Ch 14 give her *flower beds*, *neat rows of flowers*, *your mother's
+flowers*. No species, four chapters running. Every dahlia in the story is Fuji's:
+the greenhouse hybrid here in Ch 13, the bouquet at the door in Ch 14, the crushed
+stems and the petal in his pocket in Ch 15.
+
+So *"your favorite flowers, your namesake"* is his claim and nothing else. She never
+confirms it, never denies it, and the narration never backs him. Putting dahlias in
+her garden would validate him. Leave the beds unnamed.
+
+Ch 13 has him planning *"something suitable"* from a Viridian florist rather than his
+own hybrid, and Ch 15 delivers *"variously colored dahlias"* --- mixed commercial
+stock. He could not obtain the flower he invented for her and presented a florist's
+assortment as her favorite. Do not clean that up.
 
 ### "A Very Reasonable Man"
 
