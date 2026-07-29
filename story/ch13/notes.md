@@ -40,6 +40,22 @@ Same bottle, two purposes. In Ch 11 it's a reunion gift, wine for dinner with th
 
 One bottle over an afternoon leaves him blurred at the edges, inhibitions lowered, and it hits someone twelve years dry harder than it would have in the basement years. That's the margin the chapter turns on: enough to move him from rehearsing a reasonable discussion to reaching for the Pokeball, not enough to excuse it.
 
+Where the bottle is, each time it appears:
+
+| | |
+|---|---|
+| Ch 6 | Declines wine or whiskey, takes water. Sees Domino's photos. *"Actually, pour me some whiskey."* Half a glass, a cough, *"Been a while."* Spills it into the untouched water. |
+| Ch 10 | Amber smells it on his breath on the evening train. |
+| Ch 11 | Two stops. Roses from a florist, announced. Wine six blocks later, silent. Both go into Delia's garden and both leave with him. Still sealed. |
+| Ch 13 | *Most of the way down* → one drink shown → *empty for an hour* → goes over in the leaves as he stands to kill Stephen. |
+| Ch 14 | No alcohol. He plans *"some of the best wine"* at the end of Ch 13 and it never appears. *Maybe* is doing the work; leave it. |
+
+The Ch 11 → Ch 13 break covers a night and a morning and needs nothing written into it. The bottle's state reports the drinking. The absent roses and the dahlia shopping list report the flowers.
+
+**Ch 13 and Ch 14 are the same day, opposite POVs.** Stephen makes pancakes in Ch 14's morning and dies in Ch 13's late afternoon --- which is why Delia spends Ch 14's dinner checking the clock, and why Fuji reaches that door the same night. Anything inserted into either chapter has to hold against the other.
+
+Open: does Delia still grow dahlias? One clause in Ch 12 decides whether Ch 14's *"your favorite flowers, your namesake"* is obscene or delusional.
+
 ### "A Very Reasonable Man"
 
 The chapter title is his self-image, and the alcohol is what lets him hold the gap between "I just need him to understand" and what he actually does. A sober Fuji might have had the conversation he rehearsed. This one drank the wine he bought for his wife and killed the man she chose instead.
