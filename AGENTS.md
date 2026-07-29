@@ -40,7 +40,8 @@ Use `meridian context kb` / `$MERIDIAN_CONTEXT_KB_DIR` for KB location; do not a
 
 **Point of View**
 - Default: Amber's 1st person
-- 3rd person: Ch 6 (Fuji), Ch 13 (Fuji), Ch 16 (Fuji and Oak)
+- 3rd person limited: Ch 6 (Fuji), Ch 13 (Fuji)
+- 3rd person near-omniscient, not really a POV: Ch 16
 
 **Punctuation**
 - Em dash: `---` (three hyphens)

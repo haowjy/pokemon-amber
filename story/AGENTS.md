@@ -48,10 +48,10 @@ Do not load all summaries at once — load only the ones adjacent to the chapter
 
 Default: Amber's **1st person** perspective.
 
-Exceptions (3rd person limited):
-- Ch 6 — Fuji
-- Ch 13 — Fuji
-- Ch 16 — Fuji and Oak, alternating
+Exceptions (3rd person):
+- Ch 6 — Fuji, limited
+- Ch 13 — Fuji, limited
+- Ch 16 — near-omniscient, not really anchored to a POV
 
 When drafting, confirm the POV for the chapter from the plan or notes before writing.
 
