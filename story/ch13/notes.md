@@ -64,7 +64,7 @@ The wine bottle enters here, beside him on the log or at his feet, mostly empty.
 
 3. **The wait for Stephen (lines 27-38):** The bottle should be empty or nearly so by now. When he checks his watch and notes Stephen's routine, let the narration register his state in physical specifics --- a word choice a little too sharp, hands steady enough but not quite right.
 
-4. **The confrontation (lines 39+):** When Stephen arrives the bottle stays on the log. Fuji leaves it there, along with the photo confetti and the flowers already abandoned back in Ch 11.
+4. **The confrontation (lines 39+):** When Stephen arrives the bottle stays on the log. Fuji leaves it there, along with the photo confetti.
 
 **Constraints:**
 - The bottle is never the focus. Mention it in passing, never linger on it.
@@ -78,7 +78,7 @@ The wine bottle enters here, beside him on the log or at his feet, mostly empty.
 
 After the murder, Fuji drives past Delia's house and plans his return: *"First, he needed better clothes. Maybe some of the best wine. And dahlias... Do things right this time. Do things right again."*
 
-That **"again"** has no referent in the text right now. The Ch 11 revision supplies one --- he staged this same reunion once already, with flowers and a bottle, and got thrown off the property. Now he's doing it a second time with Stephen's ash on his sleeve.
+That **"again"** has no referent in the text right now. The Ch 11 revision supplies one --- he staged this same reunion once already, with roses and a bottle of wine, and got thrown off the property. Roses, not dahlias: he diagnoses the failure as execution rather than premise, so the second attempt corrects the flower, the clothes, and the wine. Now he's doing it a second time with Stephen's ash on his sleeve.
 
 Leave line 113 alone. It works as written and was only ever missing its first term. He plans to buy *more* wine, which tracks, since the first bottle is empty on the log behind him.
 

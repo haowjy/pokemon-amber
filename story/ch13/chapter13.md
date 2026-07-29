@@ -3,12 +3,12 @@ chapter: 13
 title: "[Chapter 13] A Very Reasonable Man"
 status: published
 hidden: false
-updated: 2026-07-28
+updated: 2026-07-29
 ---
 
 # \[Chapter 13\] A Very Reasonable Man
 
-A winding path cut through the trees on Pallet Town's outskirts. Dr. Fuji fidgeted on a fallen log, where he'd spent the afternoon, a manila folder gripped tightly in his lap. The wine stood upright in the leaf litter by his shoe, most of the way down.
+A winding path cut through the trees on Pallet Town's outskirts. Dr. Fuji fidgeted on a fallen log, where he'd spent the afternoon, a manila folder gripped tightly in his lap. The wine stood in the leaf litter by his shoe, most of the way down.
 
 Through the branches, Oak's lab silhouetted against the afternoon sky. Champion Oak. Professor Oak now. The grant ceremony seemed a lifetime ago---Oak's firm handshake, flashing cameras, admiring looks. 
 
@@ -20,7 +20,7 @@ The newer photos captured Delia around her restaurant, in her garden, and walkin
 
 "Just a reasonable discussion," he muttered, taking out his pen. The ink moved methodically across Stephen's face. "Man to man. You must understand that Delia and I..." His hand pressed harder, the pen tip catching on the glossy surface. "We kind of have a history."
 
-He reached down for the bottle without looking, drank, and set it back in the leaves.
+He reached for the bottle without looking, drank, and set it back in the leaves.
 
 Another photo. Stephen and Delia at some local festival together. His pen dug into the paper, scratching violently until it tore through. "I'm not being unreasonable." The next one---their garden. His fingers seized the edge of Stephen's figure and ripped, the sound sharp in the quiet afternoon. "I just need you to understand..." He was tearing them now, hands shaking as pieces fell around his feet like strange confetti. "...that you're in the way of something bigger than yourself."
 
@@ -40,7 +40,7 @@ That cheerful blue house of hers, with its wooden swing and carefully tended gar
 
 The sound of footsteps along gravel pulled him from his spiral. Stephen was right on schedule, probably heading home to make dinner in that cozy kitchen. The sight of him sent a wave of static through Dr. Fuji's mind, drowning out the words he'd rehearsed all day. His hand found a Pokeball in his pocket, fingers trembling slightly.
 
-He stood. The bottle went over in the leaves behind him and he left it there.
+He stood, and the bottle went over in the leaves behind him.
 
 "Hey." Dr. Fuji's voice broke as he stepped onto the path. "We need to talk about Delia."
 
