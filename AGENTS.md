@@ -48,8 +48,8 @@ Use `meridian context kb` / `$MERIDIAN_CONTEXT_KB_DIR` for KB location; do not a
 - Quotes: plain ASCII `"` and `'`
 
 **Spelling**
-- `Pokemon` — consistent within a file (ASCII or accented, not both)
-- `Pokeball` — one word, capitalized. Same for `Pokedex`, `Potion`, other items.
+- `Pokeball`, `Pokedex`, `Potion`
+- `Pokemon` or `Pokémon`, never both in one file
 
 **Content rules**
 - No inline author commentary in published prose

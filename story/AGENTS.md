@@ -48,10 +48,10 @@ Do not load all summaries at once — load only the ones adjacent to the chapter
 
 Default: Amber's **1st person** perspective.
 
-Exceptions (3rd person):
-- Ch 6 — Fuji, limited
-- Ch 13 — Fuji, limited
-- Ch 16 — alternates between Fuji and Oak. Amber is present but is not the camera.
+Exceptions (3rd person limited):
+- Ch 6 — Fuji
+- Ch 13 — Fuji
+- Ch 16 — Fuji and Oak, alternating
 
 When drafting, confirm the POV for the chapter from the plan or notes before writing.
 
@@ -61,7 +61,8 @@ See root `AGENTS.md` for full style rules. Key points:
 - Em dash: `---` (three hyphens)
 - Ellipsis: `...` (three periods, no unicode)
 - Quotes: plain ASCII `"` and `'`
-- `Pokemon` — consistent within a file (ASCII or accented)
+- `Pokeball`, `Pokedex`, `Potion`
+- `Pokemon` or `Pokémon`, never both in one file
 - No inline author commentary in published prose
 
 ## Linking to Story Files
