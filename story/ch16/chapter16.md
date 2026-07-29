@@ -138,7 +138,7 @@ Fuji's head snapped toward Oak, a wild, almost gleeful light entering his eyes.
 
 "So you do remember!" he exclaimed, a high-pitched, almost giddy laugh escaping his lips. "Dr. Fuji, yes! The one and only! The esteemed Champion Oak... you handed me my first major research grant yourself, you know. At Celadon University!"
 
-Oak nodded slowly, his eyes never leaving Fuji's. "I think I recall," he said, his tone carefully neutral. "A paper on the cellular structures of Pokémon. And an attempted method to clone a pokemon. Which resulted in Ditto."
+Oak nodded slowly, his eyes never leaving Fuji's. "I think I recall," he said, his tone carefully neutral. "A paper on the cellular structures of Pokémon. And an attempted method to clone a Pokémon. Which resulted in Ditto."
 
 Oak glanced at Ditto-Dragonite. "Although I remember the Ditto transformations were always flawed..."
 
@@ -312,7 +312,7 @@ Arcanine stood over the fallen half-Magmar, its chest heaving, fur scorched and 
 
 And then there was Ditto.
 
-The small, pink blob sat in the middle of the scorched yard, trembling. It made no move toward Oak's Pokemon. No attempt to transform. No sign of aggression.
+The small, pink blob sat in the middle of the scorched yard, trembling. It made no move toward Oak's Pokémon. No attempt to transform. No sign of aggression.
 
 It simply sat there, quivering.
 
@@ -338,7 +338,7 @@ Oak stood over him, expression unreadable, and said nothing.
 
 Two pokeballs lay scattered on the asphalt near Fuji's torn coat, having fallen loose during the Psychic throw. Oak slowly bent down and picked them both up.
 
-He walked back to the Ditto. The small pink Pokemon met his eyes.
+He walked back to the Ditto. The small pink Pokémon met his eyes.
 
 Oak held its gaze for a moment before raising the pokeball.
 

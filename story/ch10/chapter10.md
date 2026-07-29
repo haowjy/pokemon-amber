@@ -76,7 +76,7 @@ I woke to Mary gently shaking my shoulder, the afternoon sun casting long shadow
 
 The gym's ginkgo trees cast dappled shadows across the path, their leaves beginning to take on that golden late-afternoon glow. Instead of being stopped at the entrance, Mary led us straight through a side door I hadn't even noticed during my previous visits. A familiar greenhouse scents of soil and sweet grass filled my nose.
 
-We wound through the now-familiar hallways of the gym. The sounds of battle echoed from multiple directions-a complex symphony of trainers calling moves, pokemon responding, and the constant background rustle of various grass-types moving through their natural environment.
+We wound through the now-familiar hallways of the gym. The sounds of battle echoed from multiple directions-a complex symphony of trainers calling moves, Pokemon responding, and the constant background rustle of various grass-types moving through their natural environment.
 
 Mary led us toward what seemed to be the main arena. It was divided in two by a large retractable wall, with many bleachers on each side, each somewhat filled with people. Two battles were running simultaneously, and I caught a glimpse of Erika directing a Weepinbell through a rapid exchange. Mary paused at the edge of the window, her eyes tracking Weepinbell's movements with professional interest.
 

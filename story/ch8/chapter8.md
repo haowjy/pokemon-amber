@@ -74,7 +74,7 @@ Ditto emerged with its usual cheerful burble and hung there, its blob-like form 
 
 "No, its..." I trailed off as I waited for Ditto to transform.
 
-"Oh!" Kayla exclaimed, "it's that transforming pokemon! You're that girl that Mary caught first!"
+"Oh!" Kayla exclaimed, "it's that transforming Pokemon! You're that girl that Mary caught first!"
 
 I resisted the urge to point out that this revelation probably shouldn't have been surprising, given that we'd just spent ten minutes watching me bumble around their greenhouse in glorious security-cam-o-vision.
 

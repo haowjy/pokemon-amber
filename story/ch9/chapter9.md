@@ -148,7 +148,7 @@ I nodded, fighting the urge to bounce on my toes. The coffee might have worn off
 
 Shop number twelve looked like it had been squeezed between its neighbors as an afterthought. Before Mary could reach for the door, voices drifted through the thin walls.
 
-"-can't believe you actually did it," the man's voice, somewhere between awe and horror. "You actually stole a pokemon from the gym?"
+"-can't believe you actually did it," the man's voice, somewhere between awe and horror. "You actually stole a Pokemon from the gym?"
 
 "You said Oddish was the key ingredient," a girl's voice, followed by a sneeze and a huge sniffle, "That if I had the gym's Oddish's spores he might---"
 

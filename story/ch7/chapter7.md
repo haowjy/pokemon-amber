@@ -76,7 +76,7 @@ However, straight ahead, a separate lobby stretched out. A cluster of trainers, 
 
 I debated between the two sides before ultimately turning toward the unfamiliar section straight ahead. In the games, Pokemon Centers were just hospitals and sometimes item shops. There was nothing like this in any of the games.
 
-The bulletin board loomed before me, a maze of paper and possibility that made my knowledge of the pokemon games suddenly feel inadequate. "A... job board?" I muttered, caught between fascination and confusion. The papers pinned to cork seemed almost archaic compared to the Center's otherwise modern aesthetic. It almost seemed like the job boards for the mystery dungeon games... but that wasn't a game with any humans in it, besides the protagonist.
+The bulletin board loomed before me, a maze of paper and possibility that made my knowledge of the Pokemon games suddenly feel inadequate. "A... job board?" I muttered, caught between fascination and confusion. The papers pinned to cork seemed almost archaic compared to the Center's otherwise modern aesthetic. It almost seemed like the job boards for the mystery dungeon games... but that wasn't a game with any humans in it, besides the protagonist.
 
 I reached for one of the sheets before catching myself, suddenly aware of how out of place I must look. Around me, trainers moved with the easy confidence of people who'd done this a thousand times, scanning notices and occasionally plucking papers free with practiced motions. Meanwhile, I stood frozen like a tourist at a museum.
 

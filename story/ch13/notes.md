@@ -48,7 +48,7 @@ The chapter title is his self-image, and the alcohol is what lets him hold the g
 
 **Insert location:** The opening log scene (lines 11-39). The wine bottle weaves into what's already there --- Fuji on the log with the manila folder, the surveillance photos, the rehearsed lines. The bottle is a new prop in an existing scene.
 
-**POV:** Oak (3rd person limited). Oak isn't present for the log scene --- this section is written as if the narrator has access to Fuji's perspective directly. The wine bottle should be treated the same way the folder and photos are treated: physical detail that reveals psychology.
+**POV:** Fuji (3rd person limited), same as Ch 6. Treat the wine bottle the way the folder and photos are already treated: physical detail that reveals psychology.
 
 Currently the scene opens:
 

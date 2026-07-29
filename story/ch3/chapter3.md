@@ -122,11 +122,11 @@ The Ditto-TV seemed to blush before it melted back into a puddle. A moment later
 
 "Yes! That's it!" I cheered, jumping up and down, the childish energy finally finding its proper outlet.
 
-That set the pattern for the next hour. Once the battle broadcast ended, I'd flick through channels, pointing out different Pokemon and items for Ditto to mimic. We practiced transforming into various pokemon and items shown in the commercials. I didn't want to try to test out any moves inside, however.
+That set the pattern for the next hour. Once the battle broadcast ended, I'd flick through channels, pointing out different Pokemon and items for Ditto to mimic. We practiced transforming into various Pokemon and items shown in the commercials. I didn't want to try to test out any moves inside, however.
 
 It was chaotic, clumsy, and mostly ended in Ditto collapsing into a confused puddle. But with each attempt, I could feel a new connection forming between us---not of a girl and her guardian, but of a trainer and her partner.
 
-Finally, exhausted in a way that felt satisfying and earned, I collapsed onto the floor, spread-eagled. Ditto flowed down beside me, equally "spent," its form a relaxed puddle. Three days. Three days of watching real pokemon battles through a TV.
+Finally, exhausted in a way that felt satisfying and earned, I collapsed onto the floor, spread-eagled. Ditto flowed down beside me, equally "spent," its form a relaxed puddle. Three days. Three days of watching real Pokemon battles through a TV.
 
 But now, I was a Pokemon trainer.
 

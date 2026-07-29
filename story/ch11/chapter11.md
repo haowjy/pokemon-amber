@@ -84,7 +84,7 @@ A twig snapped under Dr. Fuji's shoe. The woman turned, brushing hair from her f
 
 "Delia." Dr. Fuji's voice cracked on the name like thin ice. "It's... it's been a while."
 
-I watched the woman at the garden freeze, trowel suspended mid-motion. This was Delia—Ash Ketchum's mother—but something was wrong. In all my hours of Pokémon games and shows, I'd never heard of any connection between her and Dr. Fuji. The garden tool trembled in her grip, dark soil falling like black snow.
+I watched the woman at the garden freeze, trowel suspended mid-motion. This was Delia---Ash Ketchum's mother---but something was wrong. In all my hours of Pokémon games and shows, I'd never heard of any connection between her and Dr. Fuji. The garden tool trembled in her grip, dark soil falling like black snow.
 
 Even the boy and his Poliwag had gone quiet, sensing the shift in atmosphere.
 

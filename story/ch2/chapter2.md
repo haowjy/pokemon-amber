@@ -204,13 +204,13 @@ The excitement that had bubbled up moments ago fizzled out like a Pokeball that 
 
 "Okay," I said quietly. "I get it."
 
-And I did get it. Sort of. Pokemon weren't just cute mascots that existed to be petted—they were living creatures with their own boundaries, their own comfort zones. Like... an animal. I'd watched enough nature documentaries to know you didn't just walk up and touch wild things, even if they looked soft and friendly.
+And I did get it. Sort of. Pokemon weren't just cute mascots that existed to be petted---they were living creatures with their own boundaries, their own comfort zones. Like... an animal. I'd watched enough nature documentaries to know you didn't just walk up and touch wild things, even if they looked soft and friendly.
 
 Maybe Ditto was just shy. Or didn't know me yet. Or had bad experiences with strangers.
 
 That made sense, right?
 
-This was the dream, wasn't it? The one every kid had. Waking up in a world where Pokemon were real, where you could reach out and touch them, where they existed as more than pixels on a screen. I'd wished for this a thousand times—on shooting stars, on birthday candles, during boring lectures when I'd stare out windows and imagine Pidgey landing on the sill.
+This was the dream, wasn't it? The one every kid had. Waking up in a world where Pokemon were real, where you could reach out and touch them, where they existed as more than pixels on a screen. I'd wished for this a thousand times---on shooting stars, on birthday candles, during boring lectures when I'd stare out windows and imagine Pidgey landing on the sill.
 
 And now I was here. I'd touched a real Pokemon. Felt its warmth, its texture, the way it rippled under my fingertips like living rubber.
 

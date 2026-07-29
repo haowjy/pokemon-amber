@@ -137,7 +137,7 @@ The middle-aged man I assumed to be Dr. Fuji nodded and wiped his tears, though 
 
 Dr. Fuji nodded warmly and pulled me closer. "Yes, you are Amber. My Amber."
 
-A psychic shockwave rippled through the air above us, and I looked up to see Mewtwo preparing another attack—but this time its gaze swept across the laboratory floor, across the fleeing scientists. Violet energy began to coalesce around its form, and I didn't need to be a Pokemon expert to recognize the charging of something catastrophic.
+A psychic shockwave rippled through the air above us, and I looked up to see Mewtwo preparing another attack---but this time its gaze swept across the laboratory floor, across the fleeing scientists. Violet energy began to coalesce around its form, and I didn't need to be a Pokemon expert to recognize the charging of something catastrophic.
 
 "Dr. Fuji! We have to get out of here!" someone shouted at us.
 

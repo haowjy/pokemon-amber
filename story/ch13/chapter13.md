@@ -52,11 +52,11 @@ Stephen stopped, briefcase shifting in his grip. His expression was guarded, but
 
 His hands clenched into claws at his sides, tendons bulging. For a moment, only his ragged breathing filled the air. When he spoke again, his voice stripped bare of any pretense.
 
-"Ditto!" The Pokéball arced through the air, exploding with red light, and releasing a small pink blob. "Protocol Five."
+"Ditto!" The Pokeball arced through the air, exploding with red light, and releasing a small pink blob. "Protocol Five."
 
 The pink blob erupted upward like a geyser, twisting and contorting until a massive serpentine form blocked out the afternoon sun.
 
-Stephen stumbled backward, fumbling in his pockets for a Pokéball. "Poliwag, help---"
+Stephen stumbled backward, fumbling in his pockets for a Pokeball. "Poliwag, help---"
 
 The tiny tadpole materialized, looking pitifully fragile under Ditto-Gyarados's coiled form. A tremor shook the great serpent's body---hesitation, or resistance?---but Dr. Fuji's next words cut through the air like a knife:
 

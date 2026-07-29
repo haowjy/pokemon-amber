@@ -248,7 +248,7 @@ When he turned back to me, the curiosity in his eyes had been replaced by a gent
 
 I stared at the red-and-white sphere in his bandaged hand, my breath catching.
 
-"A remarkable Ditto," he continued, his tone taking on that familiar professorial quality. "It transformed into my Dragonite with seemingly equal strength---something I thought impossible for Ditto transformations." He paused, as if choosing his words carefully. "But when the battle ended, it refused to fight further. Wouldn't even respond to Fuji's commands." His expression softened. "A rather gentle Pokémon at heart."
+"A remarkable Ditto," he continued, his tone taking on that familiar professorial quality. "It transformed into my Dragonite with seemingly equal strength---something I thought impossible for Ditto transformations." He paused, as if choosing his words carefully. "But when the battle ended, it refused to fight further. Wouldn't even respond to Fuji's commands." His expression softened. "A rather gentle Pokemon at heart."
 
 Slowly, almost reverently, I reached out and took the pokeball from his hand. The smooth surface felt cool against my palm, but somehow reassuring. The weight of it---the knowledge that Ditto was inside, safe---made something tight in my chest finally loosen.
 

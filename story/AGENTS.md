@@ -48,10 +48,10 @@ Do not load all summaries at once — load only the ones adjacent to the chapter
 
 Default: Amber's **1st person** perspective.
 
-Exceptions (3rd person limited):
-- Ch 6 — Fuji POV
-- Ch 13 — Oak POV
-- Ch 16 — 3rd person for a critical moment Amber doesn't witness
+Exceptions (3rd person):
+- Ch 6 — Fuji, limited
+- Ch 13 — Fuji, limited
+- Ch 16 — alternates between Fuji and Oak. Amber is present but is not the camera.
 
 When drafting, confirm the POV for the chapter from the plan or notes before writing.
 
