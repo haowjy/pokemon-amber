@@ -3,7 +3,7 @@ chapter: 6
 title: "[Chapter 6] Scientist Fuji"
 status: published
 hidden: false
-updated: 2026-07-28
+updated: 2026-07-29
 ---
 
 # \[Chapter 6\] Scientist Fuji
@@ -164,7 +164,7 @@ The afternoon dragged on all the way into night. Status updates from field opera
 
 "Funding? Half our containment specialists are dead---"
 
-"If we could replicate even a fraction of Mewtwo's power level---"
+"That power level alone would justify the entire budget---"
 
 "Did you see what it did to the psychic dampeners? They melted---"
 

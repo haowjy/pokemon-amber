@@ -14,7 +14,7 @@ The apartment air pressed down, stale with unsaid things. Ditto stood by my door
 
 "Good morning?" I tried.
 
-Silence. Just yesterday we'd celebrated my first reward, a handful of suddenly meaningless coins. Now Ditto just... watched. Back to being the proper guardian. A wall between us.
+Silence. Just yesterday we'd celebrated my first quest reward, a handful of suddenly meaningless coins. Now Ditto just... watched. Back to being the proper guardian. A wall between us.
 
 In the kitchen, wrongness piled up. Cold tea in a forgotten mug. An empty chair where Dr. Fuji should be. And there, the empty space by the kettle where Ditto's Pokeball used to sit, a glaring absence.
 
@@ -28,7 +28,7 @@ Without ceremony, he recalled Ditto. The Pokeball vanished into his pocket. Then
 
 The Pidgeot Express airfield sprawled across the outskirts of Celadon, but would likely have been prime real estate. No neat rows of houses here---just an expanse of trampled grass and wooden platforms where massive birds perched like living aircraft. 
 
-The morning formation swooped overhead---seven Pidgeots cutting through dawn in perfect V-formation, each wingbeat sending visible ripples through the morning mist. In another life, that sight would have brought me to tears of joy. Now all I could think about was how each of those wings could generate hurricane-force winds with a single flap, how its razor-sharp beak could tear through flesh, and how the games never mentioned what happened to passengers who fell from the height of their flight.
+A formation swooped overhead---seven Pidgeots in perfect V, each wingbeat sending visible ripples through the air. In another life, that sight would have brought me to tears of joy. Now all I could think about was how each of those wings could generate hurricane-force winds with a single flap, how its razor-sharp beak could tear through flesh, and how the games never mentioned what happened to passengers who fell from the height of their flight.
 
 Dr. Fuji pulled me through the barely-contained bedlam, his grip never loosening. "Looks like good weather at least," he remarked, but the lightness rang hollow. Forced. "Clear skies to Viridian."
 

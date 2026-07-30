@@ -9,17 +9,17 @@ title: "Chapter 12 Summary"
 description: "Brief plot summary for Chapter 12."
 status: draft
 created: 2025-09-21
-updated: 2025-10-12
+updated: 2026-07-29
 ---
 
 # Chapter 12 - Summary
 
-Amber bonds with Delia, Stephen, and Ash; domestic life unfolds; Ash trains Poliwag; Stephen's trainer past is hinted as family warmth grows.
+Stephen and Ash take Amber in; Ash trains Poliwag; Stephen's trainer past is hinted at. **Delia stays outside in the garden the entire chapter and never speaks to Amber.**
 
 - Story: [Chapter 12](./chapter12.md)
 
 ## What happens:
-### 1. A New Home and Family:
+### 1. Taken In by Stephen:
 *   Stephen, Delia's partner, guides Amber into their Pallet Town home, where she immediately notices a display of eight gym badges above the fireplace.
 *   Amber, hungry, accepts leftover curry from Stephen, observing his Poké Ball worn as a necklace, hinting at his past as a trainer.
 *   Ash, Delia's son, confronts Amber about eating a cookie, leading Amber to share it with him, initiating a bonding moment.

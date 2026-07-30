@@ -26,13 +26,11 @@ Steam still fogged the lids, suggesting dinner had only recently ended. As he as
 
 I shrugged, watching as he placed the plate in the microwave.
 
-Through the kitchen window, I could see Delia's shadow stretching across her garden beds, growing longer as the sun sank lower.
-
 As the plate rotated slowly behind the glass, my eyes drifted to those badges gleaming above the fireplace. The question slipped out before I could stop it: "Were you a trainer?"
 
 Stephen's hand briefly touched something under his shirt collar before dropping away. "A lifetime ago," he said quietly, something haunted crossing his face.
 
-"What happened?" The question slipped out before I could stop myself.
+"What happened?"
 
 His eyes lifted to the badge display's reflection in the kitchen window. For a moment, something raw and grief-stricken crossed his face. Then he shook his head, shoulders slumping slightly. "I wasn't a good enough trainer back then. But I think now we..."
 
@@ -64,7 +62,7 @@ Ash's eyes widened, anger forgotten in the face of cookie diplomacy. He glanced 
 
 The cookie turned to dust in my mouth. Such a simple question---the kind you're supposed to answer without thinking. But my name... was it the one from college? From my previous life? The identity Dr. Fuji had tried to force on me? Or something new entirely?
 
-Through the window, I could see Delia's shadow growing longer across her flowerbeds. The evening light caught her garden shears, making them flash like warning signals as she worked.
+Through the window, I could see Delia's shadow growing longer across her flowerbeds.
 
 "She's had a long day, Ash," Stephen cut in smoothly, saving me from drowning in my own thoughts. "Why don't you tell her about that new move you've been teaching Poliwag instead?"
 
@@ -101,8 +99,6 @@ Poliwag was already bouncing forward, too excited to wait for actual commands. T
 Behind us, I heard Stephen and Delia talking in low voices. Their words were lost to the evening breeze, probably discussing me. 
 
 I focused instead on Ash's increasingly chaotic "special moves" demonstration, each attempt ending in more splashing and laughter.
-
-"I'm gonna be the greatest Pokémon Master ever!" Ash declared between Water Gun attempts, fist pumped toward the orange sky. "Once I'm old enough, me and Poliwag will travel everywhere and catch 'em all!"
 
 The sunset painted everything in deepening shades of orange, turning water droplets into tiny prisms as they caught the light. Looking at this soaking wet kid with impossible dreams, I couldn't help but smile. 
 
