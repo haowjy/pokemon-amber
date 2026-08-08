@@ -3,7 +3,7 @@ chapter: 14
 title: "[Chapter 14] Flowers for Delia"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2026-08-07
 ---
 
 # \[Chapter 14\] Flowers for Delia
@@ -364,6 +364,6 @@ I started to breathe again-
 
 The night lit up red. The door exploded inward in a burst of flames and splinters, framing Dr. Fuji in the doorway. 
 
-His white suit was immaculate, not a wrinkle or scorch mark. Pink and yellow petals scattered at his feet as a Magmar's flames illuminated his face from below, casting strange shadows across his empty smile.
+His white suit was immaculate, not a wrinkle or scorch mark. He held a bottle of wine at his side. Pink and yellow petals scattered at his feet as a Magmar's flames illuminated his face from below, casting strange shadows across his empty smile.
 
 "Delia?"
