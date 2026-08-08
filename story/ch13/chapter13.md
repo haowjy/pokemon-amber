@@ -3,7 +3,7 @@ chapter: 13
 title: "[Chapter 13] A Very Reasonable Man"
 status: published
 hidden: false
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 # \[Chapter 13\] A Very Reasonable Man
@@ -34,7 +34,7 @@ Last night's confrontation in Delia's garden replayed incessantly, each memory m
 
 He'd been tenured at Celadon University while Stephen was probably still fumbling with undergraduate chemistry sets, pioneering genetic research while this... this *lab assistant* was likely still trying to memorize the basic type chart.
 
-He'd spent the day here, watching Oak's lab through the trees, watching the path, shuffling through his photos until the edges went soft. The bottle had been empty for an hour.
+He'd spent the day here, watching Oak's lab through the trees, watching the path, shuffling through his photos until the edges went soft. The bottle beside his shoe was empty.
 
 That cheerful blue house of hers, with its wooden swing and carefully tended garden beds, kept swimming before his eyes. Such *pastoral mediocrity*. Yet she'd chosen that---chosen Stephen---over everything he'd accomplished, everything he'd promised her he'd do.
 
@@ -66,9 +66,7 @@ The tiny tadpole materialized, looking pitifully fragile under Ditto-Gyarados's 
 
 "Dragon Rage."
 
-The pink-purple flames roared through the evening air. The Poliwag tried to dodge, but the attack's ferocity left nowhere to go. The blast engulfed the area, kicking up dust and debris.
-
-Pink-purple flames roared through the evening air, superheating the atmosphere with a thunderous crack. The Poliwag tried to dodge, its tiny legs scrambling against scorched earth, but the attack's ferocity left nowhere to go. The blast engulfed the area with a small explosion, sending debris and superheated air rolling outward in a devastating wave.
+The pink-purple flames roared through the afternoon air. The Poliwag tried to dodge, but the attack's ferocity left nowhere to go. The blast engulfed the area, kicking up dust and debris.
 
 When the dust cleared, Poliwag lay motionless in a scorched crater. Stephen was already running forward, reaching for his fallen Pokémon. "Poliwag! Are you---"
 
