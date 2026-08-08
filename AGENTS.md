@@ -49,12 +49,7 @@ Use `meridian context kb` / `$MERIDIAN_CONTEXT_KB_DIR` for KB location; do not a
 - Quotes: plain ASCII `"` and `'`
 
 **Spelling**
-- `Pokeball`, `Pokedex`, `Potion`
-- `Pokemon` or `Pokémon`, never both in one file
-
-**Content rules**
-- No inline author commentary in published prose
-- Update `updated:` date on chapter frontmatter when making substantive edits
+- `Pokeball`, `Pokedex`, `Potion`, `Pokemon`
 
 ## Key Writing Aids
 
