@@ -25,7 +25,7 @@ Primary purposes:
    - The chapter is allowed to be a mid-story lore dump, but it should be framed by an active scene so it does not become pure exposition.
 3. Introduce/establish Madam.
    - Madam is Giovanni's mother.
-   - Madam is above Giovanni in the family/Rocket hierarchy, or at least has authority/power that can override him.
+   - Madam leads an autonomous, rival Rocket finance faction and can act independently against Fuji.
 4. Clarify Giovanni's relationship to the Fuji problem.
    - Giovanni is hesitant to kill/remove Fuji because Fuji is still useful.
    - Madam sees Giovanni's hesitation and acts herself.
@@ -143,8 +143,8 @@ He does not forgive Fuji. He assesses Fuji as unstable, exposed, dangerous, but 
 Important characterization:
 
 - Giovanni is hesitant to kill/remove Fuji because Fuji is uniquely valuable.
-- This hesitation is what Madam notices and overrides.
-- Giovanni may realize Fuji still has value for Mewtwo / cloning / future controlled creations.
+- Madam sees the hesitation and acts independently against Fuji.
+- Giovanni may realize Fuji still has value for Mewtwo #2 / cloning / a future loyal clone household.
 
 ### 5. Madam's message
 
@@ -164,7 +164,7 @@ But default should stay close to the author's line unless prose polish is needed
 
 This message establishes:
 
-- Madam is taking control.
+- Madam is acting on her own authority.
 - Giovanni hesitated.
 - Fuji is being removed/killed/extracted by someone other than Giovanni.
 - The action is already underway or too late to stop.
@@ -276,4 +276,4 @@ But current preferred version is simpler:
 
 ## Specific chapter function summary
 
-Chapter 17.5 should be a lore-dump interlude disguised as a custody/interrogation scene. It should explain Fuji's backstory and the war's role, introduce Madam as Giovanni's mother and higher family authority, then end with Madam overriding Giovanni's hesitation and causing/ordering an explosion that the public later hears about as a gas-line leak. The final effect should be that the world thinks Dr. Fuji is dead, while readers are meant to question it.
+Chapter 17.5 should be a lore-dump interlude disguised as a custody/interrogation scene. It should explain Fuji's backstory and the war's role, introduce Madam as Giovanni's mother and an autonomous Rocket faction leader, then end with her acting independently after Giovanni hesitates and causing/ordering an explosion that the public later hears about as a gas-line leak. The final effect should be that the world thinks Dr. Fuji is dead, while readers are meant to question it.
