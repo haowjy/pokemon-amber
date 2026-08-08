@@ -1,10 +1,9 @@
 [dependencies.creative-writing-skills]
 url = "https://github.com/haowjy/creative-writing-skills"
 
+[dependencies.meridian-prompter]
+url = "https://github.com/haowjy/meridian-prompter"
+
 [settings]
-targets = [
-    ".claude",
-    ".codex",
-    ".opencode",
-]
+targets = [".codex"]
 models_cache_ttl_hours = 24
