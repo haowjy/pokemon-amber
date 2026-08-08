@@ -58,12 +58,18 @@ When drafting, confirm the POV for the chapter from the plan or notes before wri
 ## Prose Conventions
 
 See root `AGENTS.md` for full style rules. Key points:
+- **Selective detail:** Do not inventory scenes. Foregrounded details create reader expectations; omit incidental measurements and logistics unless they matter.
 - Em dash: `---` (three hyphens)
 - Ellipsis: `...` (three periods, no unicode)
 - Quotes: plain ASCII `"` and `'`
 - `Pokeball`, `Pokedex`, `Potion`
 - `Pokemon` or `Pokémon`, never both in one file
 - No inline author commentary in published prose
+
+## Revision Workflow
+
+- For requested prose revisions, edit the story file directly and leave changes uncommitted for author review.
+- After editing, show the diff and justify every changed word or phrase. Commit only with explicit author approval.
 
 ## Linking to Story Files
 
