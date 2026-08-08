@@ -3,7 +3,7 @@ chapter: 1
 title: "[Chapter 1] Truck-kun Strikes Again"
 status: published
 hidden: false
-updated: 2025-09-20
+updated: 2026-08-08
 ---
 
 # [Chapter 1] Truck-kun Strikes Again
@@ -12,92 +12,9 @@ The world beyond my container was a blur of orange-tinted shadows. For what seem
 
 Sound reached me in waves, distorted and strange. Everything felt muffled except for the deep vibrations that traveled through the fluid itself, pressing against skin that felt too new, too small, like clothes that had shrunk in the wash.
 
-I couldn't remember how long I'd been here. Was I dead? Was I alive? I didn't know. I didn't know anything. How did I get here?
+I couldn't remember how long I'd been here. The last thing I remembered was a Shadow Mewtwo raid ticking down on my phone. A horn. Headlights. Then nothing.
 
--[?.?]-
-
-'Fuck,' I thought, hunched over my phone in the fading afternoon light. My fingers hovered over the screen as if I could somehow intimidate the numbers into change.
-
-My Gyarados---level 40, carefully trained, survivor of multiple gym battles and approximately eight thousand random Pidgey and Mankey encounters---was down to just a sliver of health. Across the battlefield, a level 37 Vulpix stared back with pixels that somehow managed to look smug. It had probably practiced that look in the mirror.
-
-I'd already lost two good Pokemon this past hour. My box was only down to shitty Pokemon. I couldn't lose another. Not now.
-
-The Pokemon Mansion sprawled across my phone screen in all its 8-bit glory, a maze of broken tiles and forgotten experiments. Outside my dorm window, campus life continued its usual Sunday afternoon rhythm---distant voices, someone practicing guitar badly, and the occasional burst of laughter. None were aware I was one critical hit away from losing weeks of careful training.
-
-Gyarados had been with me since Route 6. Just a Magikarp then, making the same old investment that everyone knows pays off---except this time, with perma-death rules, each level had felt like holding my breath underwater.
-
-I could switch in Charizard---my starter, my ace---but the damn thing was already at the level cap. One more fight and it'd be benched until after Blaine. Kadabra might one-shot it with Psychic---if it didn't get bodied first. My Dugtrio was a speed stat with hit points at this point, and Nidoking was still fucked up from that double-battle ambush earlier. Then there was the Growlithe I'd caught an hour ago, but sending it in would be straight-up murder.
-
-Five options. Five ways to lose a teammate. Five---
-
-A Discord notification slid down from the top of my screen. My thumb twitched instinctively to swipe it away, but the message caught my eye before I could dismiss it.
-
-```
-
-BigDKarp: @everyone SHADOW MEWTWO RAID AT LIBRARY GYM
-
-BigDKarp: @EVERYONE 10 MIN WINDOW GET HERE NOW
-
-```
-
-Curious, I tapped the notification to see what the fuss was all about.
-
-```
-
-[March 22, 2024]
-
-RaidenMain2: Hey, anyone hear about the shadow mewtwo event?
-
-ProfOaksFavStudent: starts next week right?
-
-RaidenMain2: Does anyone want to head downtown for it?
-
-MissingNo404: Down, what time does the event start?
-
-[March 30, 2024]
-
-BigDKarp: @everyone SHADOW MEWTWO RAID AT LIBRARY GYM
-
-RaidenMain2: holy shit it's on campus?
-
-BigDKarp: @EVERYONE 10 MIN WINDOW GET HERE NOW
-
-BigDKarp: @everyone SHADOW MEWTWO AT LIBRARY
-
-RaidenMain2: @everyone LETS GOOOOO
-
-BigDKarp: TEN MINS LEFT
-
-ProfOaksFavStudent: @AlexTheGreat where u at? we need ur Darkrai  
-```
-
-I briefly swiped back to the emulator, hesitating over my next move before quickly tapping the menu and saving my state.
-
-'I'll deal with this later,' I decided. Shadow Mewtwo just sounded too cool and the battle wasn't going anywhere. The early spring air bit at my face as I burst from the dorm building, nearly colliding with a cluster of freshmen who hadn't learned that campus sidewalks have their own unwritten rules of navigation.
-
-The library stood sentinel across University Avenue. The crosswalk's red hand blinked its warning---a traffic signal I'd normally respect. But the street stretched empty in both directions.
-
-My phone buzzed again.
-
-```
-
-RaidenMain2: @AlexTheGreat where u at??
-
-BigDKarp: 2 min until the raid @everyone HURRY IF YOU WANT SHADOW MEWTWO
-
-```
-
-My phone's screen painted my face in blue light as I jogged, the little avatar shuffling across a simplified version of my world---one minute forty-five seconds. The library's Pokestop spun with casual indifference, promising digital treasures that suddenly seemed far less important as a deep mechanical groan vibrated through my bones.
-
-A shadow fell across my phone. I looked up---too late, too slow---as steel and chrome filled my vision. Physics asserted itself with elegant simplicity: mass plus velocity equals the end.
-
-My last thoughts weren't deep or meaningful. Nothing about family, nothing about wasted potential, not even the cosmic irony of dying for a mobile game. Instead, I thought about my Gyarados, frozen in time with that sliver of health, waiting for a command that would never come.
-
-Then darkness. Not the dramatic fade-to-black of movies or the peaceful drift of sleep, but a sudden cessation of input, like someone yanked the cartridge out mid-game.
-
-\\[@.@]/
-
-Except the game hadn't ended.
+Was I dead? Was I alive? I didn't know. How did I get here?
 
 A tremor rippled through my container, and another, each one stronger than the last. Then came a sound that defied description---something between a roar and a thought-given voice, so deep it seemed to resonate in bones I wasn't sure were mine anymore.
 

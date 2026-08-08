@@ -4,6 +4,10 @@ Substantive revisions to published chapter prose. Contains spoilers. Newest chan
 
 Omit frontmatter-only changes, notes-only updates, and routine typo or formatting fixes unless they alter meaning or continuity.
 
+## 2026-08-08
+
+- **Chapter 1:** Compressed the old-world death sequence to a few remembered fragments, preserving the Shadow Mewtwo echo while moving directly from the tank awakening into the laboratory escape.
+
 ## 2026-08-07
 
 - **Chapter 14:** Fuji now arrives with wine as well as the white suit and dahlias planned at the end of Chapter 13.
