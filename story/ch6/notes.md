@@ -15,7 +15,7 @@ Ch 6 contains two plants for Fuji's backstory. The violence plant is published. 
 
 **Violence (published, lines 43-45):** The arm-snap and Amber's instinctive flinch. The reader sees the reflex and doesn't yet know the history --- Fuji's domestic violence toward Delia, the alcohol-fueled escalation, the divorce. The flinch tells readers this isn't the first time.
 
-**Alcohol (revision):** Domino offers him a drink and he asks for water. She hands him the surveillance folder, he sees Delia with Stephen, and then he asks for the whiskey. What the reader can't know is that he'd been sober about twelve years --- he drank himself to rock bottom after Amber died, lost his marriage over it, and quit when Giovanni gave him a lab and the promise of resurrecting his daughter. So the water is him protecting something, and "give me the whiskey" is twelve years going down in one line. See [Dr. Fuji --- alcohol timeline][fuji-wiki].
+**Alcohol (revision):** Domino offers him a drink and he asks for water. She hands him the surveillance folder, he sees Delia with Stephen, and then he asks for the whiskey. What the reader can't know is that he'd been sober about twelve years --- he drank himself to rock bottom after Amber died, lost his marriage over it, and quit when Giovanni gave him a lab, funding, and latitude that knowingly permitted his resurrection work. So the water is him protecting something, and "give me the whiskey" is twelve years going down in one line. See [Dr. Fuji --- alcohol timeline][fuji-wiki].
 
 On the page it reads as a tired man changing his mind about a drink. Domino has no idea what she's watching and Amber isn't in the room. The weight arrives later, in Ch 13, when the same man drinks a bottle alone in the woods and kills someone.
 
