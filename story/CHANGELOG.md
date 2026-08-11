@@ -4,6 +4,10 @@ Substantive revisions to published chapter prose. Contains spoilers. Newest chan
 
 Omit frontmatter-only changes, notes-only updates, and routine typo or formatting fixes unless they alter meaning or continuity.
 
+## 2026-08-11
+
+- **Chapter 16:** Reworked Oak and Fuji's mid-battle exchange after later planning established that Oak neither knows Fuji personally nor knows about Mega Evolution. Oak now fails to recognize the attacker, Fuji frames Oak as a wartime traitor and recalls only their forgotten Celadon grant ceremony, and Fuji's condemnation of all Dittos as his failures visibly affects Ditto. Removed the orange-stone Mega Evolution hint so Oak can encounter that research later.
+
 ## 2026-08-08
 
 - **Chapter 1:** Compressed the old-world death sequence to a few remembered fragments, preserving the Shadow Mewtwo echo while moving directly from the tank awakening into the laboratory escape.
