@@ -7,6 +7,7 @@ Omit frontmatter-only changes, notes-only updates, and routine typo or formattin
 ## 2026-08-08
 
 - **Chapter 1:** Compressed the old-world death sequence to a few remembered fragments, preserving the Shadow Mewtwo echo while moving directly from the tank awakening into the laboratory escape.
+- **Chapter 3:** Clarified that Amber's backpack belonged to the original Amber rather than the narrator's former-world life.
 
 ## 2026-08-07
 

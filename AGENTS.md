@@ -38,6 +38,33 @@ Use `meridian context kb` / `$MERIDIAN_CONTEXT_KB_DIR` for KB location; do not a
 
 ## Writing Style
 
+**Sentence rhythm**
+- Vary sentence length, structure, and paragraph shape to mirror the emotional movement of the scene and the intended impact of each beat.
+- Use variety purposefully, not as a mechanical pattern.
+
+**Purposeful prose**
+- Every word, phrase, line, action, and paragraph must serve the narrative, tone, character, chapter, or current story beat. Remove anything without a specific purpose.
+- Keep that reasoning out of the published prose. After writing or revising, explain the purpose of each choice to the author.
+
+**Humor**
+- Prefer deadpan delivery: describe ridiculous situations in the same serious, matter-of-fact voice used for everything else, and let the incongruity create the humor.
+- Do not announce, explain, or emphasize the joke.
+
+**Section breaks**
+- Use kaomoji section breaks, such as `\[@.@]/`, `\[^.^]/`, or `-[?.?]-`, where a visible scene break is needed.
+
+**Hedging**
+- Cut habitual qualifiers such as `probably`, `kind of`, and `maybe`. Keep them only when the uncertainty or hesitation itself matters.
+
+**Dialogue**
+- Distinguish speakers through their priorities, information choices, syntax, and actions under pressure. Do not use repeated verbal tics or stock gestures as substitutes for character.
+- Use an action beat when the action changes the exchange, reveals information, or reorients the reader.
+
+**Tonal range**
+- Under pressure or grief, favor shorter sentences, concrete sensory detail, and restrained figurative language.
+- In lighter scenes, sentences may lengthen and carry more playfulness or sensory enthusiasm.
+- Let tonal changes happen in the prose without announcing them.
+
 **Point of View**
 - Default: Amber's 1st person
 - 3rd person limited: Ch 6 (Fuji), Ch 13 (Fuji)
@@ -47,6 +74,7 @@ Use `meridian context kb` / `$MERIDIAN_CONTEXT_KB_DIR` for KB location; do not a
 - Em dash: `---` (three hyphens)
 - Ellipsis: `...` (three periods, no unicode)
 - Quotes: plain ASCII `"` and `'`
+- Italics: move names, emphasis, and emotionally charged direct thought
 
 **Spelling**
 - `Pokeball`, `Pokedex`, `Potion`, `Pokemon`

@@ -112,7 +112,7 @@ His eyes found Fuji, who had finally looked up from his papers. The two men rega
 
 "My investment?" Giovanni asked, staring at Fuji.
 
-"Your investment," Fuji echoed, meeting Giovanni's gaze with the same detached interest he'd shown in his papers, "exceeded all parameters. The enhanced clone demonstrated power levels beyond anything in recorded history."
+"This investment," Fuji echoed, meeting Giovanni's gaze with the same detached interest he'd shown in his papers, "exceeded all parameters. The enhanced clone demonstrated power levels beyond anything in recorded history."
 
 "What about its personality? You mixed some human DNA, correct?" Giovanni's question carried a weight that seemed to thicken the air.
 

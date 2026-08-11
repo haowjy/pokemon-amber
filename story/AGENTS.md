@@ -69,7 +69,7 @@ See root `AGENTS.md` for full style rules. Key points:
 ## Revision Workflow
 
 - For requested prose revisions, edit the story file directly and leave changes uncommitted for author review.
-- After editing, show the diff and justify every changed word or phrase. Commit only with explicit author approval.
+- After editing, show the diff and justify every changed word, phrase, line, action, and paragraph. Explain what each choice contributes to the narrative, tone, character, chapter, or current story beat, including how structure and rhythm support the intended emotion or impact. Commit only with explicit author approval.
 - Update `CHANGELOG.md` with substantive published-prose revisions. Record the resulting reader-visible change, not the editing process; omit routine metadata, notes, formatting, and typo fixes.
 
 ## Linking to Story Files

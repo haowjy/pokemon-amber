@@ -3,7 +3,7 @@ chapter: 3
 title: "[Chapter 3] Into the World of (Pocket) Monsters"
 status: published
 hidden: false
-updated: 2026-07-17
+updated: 2026-08-08
 ---
 
 # \[Chapter 3\] Into the World of (Pocket) Monsters
@@ -140,7 +140,7 @@ Ditto straightened its form, instantly recovering from its "fatigue," and tilted
 
 A few days later, I watched from behind a curtain as Dr. Fuji hurried down the street, his white lab coat catching the morning light like a beacon. Fifteen minutes crept by as I counted his steps, then another five to be absolutely certain. Only then did I dare to move.
 
-The ancient backpack---a relic of Amber's past life---sat awkwardly on my shoulders, its straps adjusted as tight as they would go. Inside was food for me and Ditto and a spare set of keys. Not exactly survival gear, but it would have to do. The shiny black patent leather shoes were already starting to pinch.
+The ancient backpack---a relic of the original Amber's childhood---sat awkwardly on my shoulders, its straps adjusted as tight as they would go. Inside was food for me and Ditto and a spare set of keys. Not exactly survival gear, but it would have to do. The shiny black patent leather shoes were already starting to pinch.
 
 "Wait," I murmured to Ditto, holding out its Pokeball. "I don't even know the rules about Pokemon in the city. Better stay in the ball until we're clear, okay?" It dissolved into red light without protest, though I could have sworn it rolled its eyes first. For all I knew, there could be restrictions about unleashed Pokemon, or licenses needed, or who knows what else.
 

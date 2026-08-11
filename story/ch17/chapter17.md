@@ -102,13 +102,11 @@ Gary, Ash and I jogged after the two adults as well.
 
 After checking in, a nurse with a kind but weary face met us just inside and led us through the quiet hospital corridors to Professor Oak's room. 
 
-Her pink hair was neatly pinned into its signature twin loops, but a few stray strands had escaped, and the shoulders of her crisp white uniform seemed to carry the weight of the entire night. It was unmistakably a Nurse Joy, though it looked like she hadn't slept last night.
-
 Gary, his earlier bravado returning with proximity to his grandfather, burst through the door first with a happy, "Gramps!" but froze mid-stride.
 
 The room was sterile and white, filled with the soft, rhythmic beeping of a heart monitor. Professor Oak lay in the bed, propped up by several pillows. He was covered from the neck down in a shocking amount of white bandages, with more wrapped around his head, leaving only his face, a few tufts of gray hair, and his kind eyes visible.
 
-Seeing our stunned faces, Professor Oak let out a hearty, if slightly pained, laugh that ended in a wince. "Don't worry!" he boomed, his voice raspy. "It looks much worse than it actually is!"
+Seeing our stunned faces, Professor Oak let out a hearty laugh. "Don't worry!" he boomed. "It looks much worse than it actually is!"
 
 Gary rushed to his bedside, and even Ash managed a small, watery smile. After a few moments of relieved chatter, Officer Jenny, who had followed us in, cleared her throat.
 
@@ -116,9 +114,9 @@ Gary rushed to his bedside, and even Ash managed a small, watery smile. After a 
 
 Professor Oak nodded, his expression turning serious. He looked past the children, his gaze settling on Delia. "Delia, I think you should stay for the questioning as well."
 
-Delia nodded, and Officer Jenny gestured to Nurse Joy, who then ushered Ash, Gary, and me out of the room.
+Delia nodded, and Officer Jenny gestured to the nurse, who then ushered Ash, Gary, and me out of the room.
 
-The door clicked shut, leaving the three of us in the sterile quiet of the hallway under Nurse Joy's watch.
+The door clicked shut, leaving the three of us in the sterile quiet of the hallway under the nurse's watch.
 
 Minutes stretched into an eternity. Gary, his nervous energy having no other outlet, began to poke at Ash, who was sulking against the opposite wall.
 
@@ -130,19 +128,19 @@ Gary, surprised by the ferocity, yelped and darted away.
 
 Ash, blinded by tears and rage, swung his fists wildly as he careened down the corridor. Gary, quicker on his feet, weaved and dodged, his taunting laughter echoing off the sterile walls. "Can't catch me! Gonna cry, Ashy-boy?"
 
-"Boys, please!" the poor Nurse Joy pleaded, scurrying after them, her sensible shoes squeaking on the polished floor. "Stop this instant! This is a hospital!"
+"Boys, please!" the poor nurse pleaded, scurrying after them, her sensible shoes squeaking on the polished floor. "Stop this instant! This is a hospital!"
 
-They rounded a corner at the end of the hall, their shouts and the nurse's frantic pleas disappearing from view. I heard a muffled thud, a final, sharp yelp from Gary, and then Nurse Joy's stern voice, "That is quite enough!"
+They rounded a corner at the end of the hall, their shouts and the nurse's frantic pleas disappearing from view. I heard a muffled thud, a final, sharp yelp from Gary, and then the nurse's stern voice, "That is quite enough!"
 
 A moment later, the three returned. 
 
-Nurse Joy, her signature pink hair slightly askew, marched back into view, dragging a red-faced, sniffling Ash firmly by the arm.
+The nurse marched back into view, dragging a red-faced, sniffling Ash firmly by the arm.
 
 Trailing behind them, beaming with the smug satisfaction of a victor, was Gary. A faint, reddish mark was already beginning to blossom on his cheek, but he wore it like a trophy.
 
 "You finally landed one," Gary gloated, puffing out his chest and pointing to the mark. "Too bad it felt like a Caterpie. What's the matter, Ashy-boy? Gonna cry some more?"
 
-"That is enough out of you, young man," Nurse Joy cut in, her voice sharp with professional disapproval. She gave Gary a stern look. "Your friend is clearly upset. The least you could do is try to be a little kinder."
+"That is enough out of you, young man," the nurse cut in, her voice sharp with professional disapproval. She gave Gary a stern look. "Your friend is clearly upset. The least you could do is try to be a little kinder."
 
 Gary had the decency to look away, muttering something under his breath.
 
@@ -234,13 +232,13 @@ A wry, pained smile touched his lips. "He put up quite a fight," he admitted, hi
 
 *Overheat*, I thought, my mind instinctively supplying the data. *A 130 base power special attack. He took that head-on and is just... bandaged? Maybe people are just more durable in this world.*
 
-He sighed, a heavy, weary sound. "To be honest, I don't remember the very end. The last thing I saw was the blast. When I came to, Officer Jenny was there, and Fuji was... subdued. My Pokemon..." He paused, a flicker of immense pride in his eyes. "They don't take kindly to their trainer being attacked. I suspect they finished the fight for me."
+He sighed, a heavy, weary sound. "To be honest, I don't remember the very end. The last thing I saw was the blast. When I came to, Officer Jenny was there, and Fuji was... subdued." He paused, a flicker of immense pride in his eyes. "My Pokemon don't take kindly to their trainer being attacked."
 
 My heart hammered against my ribs. "And... my Ditto?" I asked, before catching myself. "His Ditto?"
 
 Professor Oak didn't answer immediately. His gaze held mine for a long moment.
 
-Then, with a slight wince, he reached toward the bedside table where his personal effects were laid out---his Pokédex, his wallet, and a cluster of Pokeballs. His fingers closed around one in particular.
+Then, he reached toward the bedside table where his personal effects were laid out---his Pokédex, his wallet, and a cluster of Pokeballs. His fingers closed around one in particular.
 
 When he turned back to me, the curiosity in his eyes had been replaced by a gentle reassurance.
 

@@ -36,7 +36,7 @@ Mid-flight, Dragonite spun. A shimmering, emerald shield materialized around its
 
 The shield quickly flickered and died. Oak glanced at the crowd that had formed across the street, and the additional policemen that had pulled up. With a grim face, Oak made a split-second decision.
 
-"Dragonite, get them far to safety! Send them back to my house, now!" he ordered.
+"Dragonite, get them far to safety!" he ordered.
 
 Before the Pokémon could fully protest, Oak pushed off its back, leaping into the open air several feet above the ground. Dragonite let out a sorrowful cry, a rumbling protest that was lost in the roar of the fire, before banking sharply and slowly flying away from the battle, carrying the children toward the distant lights of the professor's lab.
 
@@ -90,7 +90,7 @@ But the transformed Ditto didn't budge. It planted its feet, muscles coiling und
 
 A shimmering, invisible force slammed into the Ditto-Dragonite, trying to crush it, to force it to submit. The ground beneath its feet cracked under the combined pressure, but still, it held its ground, roaring in defiance as it fought to stand against the Tauros and Gravity.
 
-Oak's eyes widened in astonishment. "Even its strength is copied?" he murmured, his mind racing. "I thought Ditto transformations were always incomplete..."
+Oak's eyes widened in astonishment.
 
 Fuji tore his gaze away from the stalemate in favor of the other battle. "Magmar, Smog! Then Poison Jab!"
 
@@ -116,7 +116,7 @@ A blinding, white-hot torrent of pure energy erupted from Ditto-Dragonite's maw 
 
 Ditto-Dragonite's massive chest heaved, its form flickering for a split second, threatening to dissolve back into its amorphous state before stabilizing. Wisps of smoke curled from its maw, the physical toll of the attack made manifest.
 
-Across the ruined yard, Oak republished Tauros.
+Across the ruined yard, Oak tossed Tauros out once more.
 
 Tauros shook its massive head, the smell of burnt hide sharp in the air. It let out a defiant snort, pawing the ground, but its movements were stiff, favoring one side.
 
@@ -128,41 +128,39 @@ Exeggutor's heads swayed slowly, a silent, psychic pressure aimed at the vulnera
 
 It was Fuji who broke the silence, his voice a venomous hiss that cut through the night.
 
-"Recalling a Pokémon in the middle of a battle," he let out a short, incredulous laugh, a sound devoid of any humor. "Is this the honor of a former Champion?"
+"Recalling a Pokemon in the middle of a battle," Fuji said with a contemptuous laugh. "Is this the honor of a former Champion?"
 
-"It's harder than it looks," Oak stated simply. "Besides, I'm no longer the Champion."
+"The war taught me there is no honor in wasting lives," Oak replied. "Besides, I'm no longer Champion."
 
-He took a single, deliberate step forward, his expression unreadable as he took control of the confrontation and continued, "Are you Dr. Fuji?"
+"No. You abandoned us and hide in your laboratory, cosplaying a scientist."
 
-Fuji's head snapped toward Oak, a wild, almost gleeful light entering his eyes.
+Oak's jaw tightened. "I ended the war."
 
-"So you do remember!" he exclaimed, a high-pitched, almost giddy laugh escaping his lips. "Dr. Fuji, yes! The one and only! The esteemed Champion Oak... you handed me my first major research grant yourself, you know. At Celadon University!"
+"Traitor."
 
-Oak nodded slowly, his eyes never leaving Fuji's. "I think I recall," he said, his tone carefully neutral. "A paper on the cellular structures of Pokémon. And an attempted method to clone a Pokémon. Which resulted in Ditto."
+Oak took a deliberate step forward. "Who are you?"
 
-Oak glanced at Ditto-Dragonite. "Although I remember the Ditto transformations were always flawed..."
+Fuji stared at him before letting out an incredulous laugh. "Of course you don't remember. Celadon University. The grant ceremony. You shook my hand beneath a dozen cameras, then forgot me the moment you walked away."
 
-"Flawed?" Fuji scoffed, waving a dismissive hand as if swatting away an ancient, irrelevant theory. "Champion Oak, science always marches on. While you were retiring to catalog Pidgeys and hand out starter Pokémon to children, I was pushing the very boundaries of life itself."
+Oak studied the false Dragonite. "I've never seen a Ditto transform without some flaw. The face, the proportions, something. But yours copied Dragonite perfectly." His eyes narrowed. "Even its strength."
 
-A faint, almost nostalgic smile touched Professor Oak's lips. "Ah, but there is so much to learn from Pidgey," he said, his tone turning scholarly. "Even a Pidgey, if trained, can become a mighty Pidgeot."
+"That thing?" Fuji scoffed. "A failure. Every last one of them. Dittos are living proof of my failures."
 
-Fuji let out another short, sharp laugh, this one filled with genuine contempt. "Training?" he sneered. "Who needs training when you can just *create* the strongest Pokémon?"
+Oak glanced toward Ditto-Dragonite. It flinched. Its massive body shrank slightly, sunset-colored scales rippling pink before settling back into place. Its wings drooped.
 
-"Like your Ditto?" Oak asked, his gaze shifting to the panting Dragonite-form.
+Fuji did not look at it.
 
-Fuji's eyes also flickered to the Ditto-Dragonite, a flash of disgust crossing his features. "That thing?" he scoffed. "A successful proof of concept, perhaps, but a failure in the end. It can mimic the form, but it could never hope to replicate the power of its original source material or the final success..."
+"While you retired to catalogue Pidgeys and hand out starter Pokemon to children, I pushed beyond the limits of life itself. I created the strongest Pokemon alive. I even brought back---"
 
-"And what was that original source material?" Oak pressed, the smile no longer present, "What was your final success?"
+His voice caught.
 
-Fuji's mouth opened to answer, but just as he was about to speak, the word "success" echoed in his mind. A little girl in a white sundress. His daughter. Amber.
+Amber.
 
-His head snapped up, his gaze piercing the darkness where Dragonite had vanished before his demeanor turned icy.
+Fuji's head snapped toward the empty sky. Dragonite had disappeared into the night sky.
 
-"You..." he hissed, the word dripping with venom as he turned his furious glare back on Oak. "You're stalling for time. For your Dragonite to return."
+"You..." His furious gaze returned to Oak. "You're buying time."
 
-He didn't wait for an answer. His hand shot into his coat pocket and ripped out a syringe filled with a sickly, glowing pink liquid. The needle glinted in the firelight.
-
-"No more talk," Fuji snarled, his voice a low, dangerous growl. "No more of your clever mind games."
+His hand shot into his coat pocket and ripped out a syringe filled with a sickly, glowing pink liquid. The needle glinted in the firelight.
 
 "Exeggutor! Psychic! Stop him!" Oak commanded. He quickly surveyed the surroundings again, and luckily, didn't seem to see anyone nearby.
 
@@ -239,8 +237,6 @@ Tauros attempted to roll clear upon hearing the command. A blinding, five-pronge
 The blast, however, slammed into the neighboring house, which was now fully engulfed in the expanding destruction.
 
 The half-Magmar instinctively threw a fire-coated punch, smashing the Tauros away, knocking it back into Delia's yard.
-
-Oak's hand instinctively slipped into his pocket, his fingers taking out a small, orange stone and another Pokeball. However, he shook his head. *Not yet.*
 
 "Tauros, Earthquake!" Oak commanded, his voice sharp and clear. "Arcanine! Exeggutor! Jump!"
 
