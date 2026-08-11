@@ -6,7 +6,7 @@ spoilers: true
 status: planning
 hidden: true
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-08-11
 ---
 
 # Chapter 18 Plan: Departure (Working Title)
@@ -84,7 +84,7 @@ The chapter should breathe. Quiet, understated, voice-forward. Sets the tonal re
 - Oak usually advocates STAYING in school — breadth of knowledge, understanding, science before journey. He's famous for this.
 - He's letting Amber skip a year. This breaks his own rules.
 - He's too relaxed about it. Too certain. His ease is slightly disproportionate to what she's shown as a 13-year-old.
-- He's already seen her in action — 40 years ago, as young Sam. He can't say this.
+- He's already seen her in action — about 47 years ago, as young Sam. He can't say this.
 - His certainty reads as trust that hasn't been fully earned in the visible timeline. The gap is the tell.
 
 **The conversation shape:**
