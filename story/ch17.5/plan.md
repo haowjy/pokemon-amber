@@ -1,279 +1,536 @@
 ---
 chapter: 17.5
-title: "Chapter 17.5 Fuji Interlude Plan"
+title: "Chapter 17.5 Interlude Plan"
 status: planning
 hidden: true
 created: 2026-07-05
-updated: 2026-07-17
+updated: 2026-08-11
 ---
 
-# Chapter 17.5 — Fuji Interlude Plan
+# Chapter 17.5 Interlude — Full Beat Outline
 
-- Story: ./chapter17.5.md (not yet written)
+- Story: `./chapter17.5.md` (not yet written)
+- Placement: after Chapter 17 and before the next main Amber POV chapter
+- Approximate timing: several days after the Pallet attack; exact count remains flexible
+- POV mode: third-person near-omniscient / camera, moving between Oak, Lance, and Fuji without entering Amber's POV
 
-## Author intent
+## Reader journey
 
-This interlude sits after Chapter 17 and before the next main Amber POV chapter.
+By the end of the interlude, the reader should understand that:
 
-Primary purposes:
+1. The Pallet attack exposed a new method of weaponizing Pokemon evolution.
+2. Oak recognizes that reproducible forced evolution could destabilize the balance of power even though he has never seen this specific threat before.
+3. Oak carries guilt over leading Kanto and then ending the separatist war.
+4. Lance has secretly been exhausted by an unrelated but potentially greater crisis.
+5. Fuji's name and research may connect to a larger pattern of vanished scientists and Team Rocket activity.
+6. Giovanni can reach a supposedly secure prisoner through Viridian's institutions.
+7. Fuji is officially presumed dead after the Viridian jail is destroyed.
+8. The timing is too convenient for Lance or the reader to trust the official story.
 
-1. Make readers question whether Dr. Fuji is alive.
-   - Spoiler/author truth: Dr. Fuji is still alive.
-   - Public/readers-in-world version: he may be dead, probably due to an explosion blamed on a gas line leak.
-2. Introduce this version of Dr. Fuji's backstory.
-   - Include the war as part of the lore dump.
-   - The chapter is allowed to be a mid-story lore dump, but it should be framed by an active scene so it does not become pure exposition.
-3. Introduce/establish Madam.
-   - Madam is Giovanni's mother.
-   - Madam leads an autonomous, rival Rocket finance faction and can act independently against Fuji.
-4. Clarify Giovanni's relationship to the Fuji problem.
-   - Giovanni is hesitant to kill/remove Fuji because Fuji is still useful.
-   - Madam sees Giovanni's hesitation and acts herself.
+The interlude must **not** confirm that Fuji survives. Author truth remains that Giovanni makes Fuji publicly dead and retains him off-books.
 
-## Hard requirements / author-provided quotes to preserve
+---
 
-Use these as close to exact as possible. These are the author's intended beats/phrases, not placeholders.
+# Passage 1 — Oak and Lance
 
-- "madam is giovanni's mom"
-- "I'm taking it into my own hands to remove Dr. Fuji since you're so hesitant."
-- "gas line leaked"
-- "Persian, Protec---"
-- "Giovanni walks right in rather than teleports in"
-- "he is a gym leader after all, he could just talk the warden"
-- "fight should break out within the cell... and its left ambiguous who won" --- possible alternate version, not currently the cleanest version.
-- "explosion cut, and cut to tv"
+## Scene function
 
-From handwritten outline / earlier extraction, likely useful Fuji lines:
+- Reintroduce Oak as a former wartime Champion, not merely a professor.
+- Show respectful but politically uneasy history between Oak and Lance.
+- Transfer the Pallet evidence to Lance.
+- Establish Fuji's name only as information learned after the arrest.
+- Make the forced evolution and abnormal Ditto feel like signs of a new arms race.
+- End with Oak choosing to gather his former partners.
 
-- "She wasn't my daughter."
-- "The research was perfect. Everything was perfect. She looked just like her."
-- "But she just didn't behave."
-- "No! Not my daughter! A failure! A dud! Nothing like my daughter!"
-- "The war took away my time and resources, so I never really got a chance to know her. And then she died."
-- "Dr. Fuji was found dead in his cell."
-- "Nobody knows how he got a rope." --- old possible suspicious-death version; likely replaced by gas-line explosion cover story.
+## Beat 1: Oak alone at night
 
-## Crossed-out / de-emphasized material from handwritten notes
+- Open inside Professor Oak's laboratory at night.
+- The laboratory is empty except for Oak.
+- Use the anime-inspired laboratory geography:
+  - tall windows;
+  - enormous computer/video screen;
+  - machinery humming along the walls;
+  - shelves packed with books and carefully labeled Pokeballs;
+  - no sinister specimen tanks.
+- Oak sits beneath the large screen with his head bowed.
+- Between his fingers, he turns a small vial containing the last drops of Fuji's pink serum.
+- Do not imply Oak can identify the serum by sight or has already analyzed it successfully.
+- The image should be a tired scientist carrying a problem alone, not an evil researcher studying a specimen.
 
-Treat crossed-out material as discarded unless it clearly reappears in a cleaner form.
+## Beat 2: Lance returns Oak's call
 
-Likely cut or avoid:
+- The computer chimes.
+- Oak answers through one of Bill's recently developed video phones.
+- Lance appears seated on the other side.
+- Describe him before Oak names him:
+  - wild red hair;
+  - sharp but tired eyes;
+  - dark high-collared clothing with gold trim;
+  - red diamond-patterned front;
+  - broad navy cape with pale lining;
+  - seated, not standing ceremonially;
+  - no generic Indigo uniform.
+- Lance greets him respectfully as Professor Oak.
+- Oak calls him Lance rather than emphasizing the title immediately.
 
-- Normal guard-yelling entrance like "Get up! Someone important is here to see you!"
-- Quippy Giovanni dialogue such as "Fancy meeting you."
-- Long Delia exposition inside the interrogation if it stalls the scene.
-- Psychic/teleport entrance for Giovanni unless needed later.
-- Overly explicit assassination dialogue if the TV/gas-line cover can imply it.
+## Beat 3: Lance's concealed exhaustion
 
-## Current preferred scene structure
+Dialogue anchor:
 
-### 1. Giovanni arrives openly
+> "Lance. You certainly took your time."
 
-Giovanni should not teleport in.
+- Lance presses two fingers to his temple.
+- He apologizes and says he has been busy for the past few weeks.
+- He does not explain what occupied him.
 
-He walks into the holding facility as Giovanni, Viridian Gym Leader / important Kanto figure. His public legitimacy gets him through the door. This is more grounded than teleportation and makes his power feel institutional.
+Hidden author knowledge:
 
-Key note:
+- Lance has been investigating repeated, overwhelming psychic disturbances.
+- These disturbances and their physical destruction come from clashes between Mewtwo and Team Rocket operatives attempting to recapture it.
+- Rocket and Lance are independently following the same incidents for different reasons.
+- Lance may have encountered battle aftermaths or survived direct contact, but the scene does not confirm which.
+- Oak is not entitled to this classified information, so Lance does not mention Mewtwo, Team Rocket, Cinnabar, or a psychic trail.
 
-> Giovanni walks right in rather than teleports in.
+## Beat 4: Former Champion and current Champion
 
-Reason:
+- Oak lightly asks whether being Champion is difficult.
+- Lance laughs and admits that it is.
+- Lance wonders why Oak ever wanted the position when he lacked a powerful clan behind him.
+- The wording should ask **why**, not how, so Oak's answer is logically aligned.
 
-> He is a gym leader after all, he could just talk the warden.
+Dialogue anchors:
 
-Persian should be with him. Persian remains Giovanni's signature and should own the later interrupted Protect command.
+> "Being Champion isn't easy, is it?"
 
-### 2. Private access to Dr. Fuji
+> "Ha! No, it isn't. I still don't understand why you ever wanted the position, especially without a clan behind you."
 
-Giovanni talks the warden into giving him access to Fuji.
+- Oak's grin fades.
+- He looks down at his hands rather than at the vial.
+- His fingers tremble slightly.
+- The hands imply responsibility, bloodshed, and memories of the war.
+- Do not explain the symbolism.
 
-The warden can be nervous, procedural, or reluctant, but ultimately lets Giovanni in because Giovanni has public authority and quiet pressure.
+Dialogue anchor:
 
-Possible function of warden:
+> "Neither do I. Arrogance, perhaps."
 
-- Show Giovanni does not need to sneak.
-- Show Pallet Town / League systems are overwhelmed after Oak's injury and the fire.
-- Set up later TV cover story and institutional confusion.
+- Oak gathers himself and returns to the present.
 
-### 3. Fuji interrogation / lore dump
+## Beat 5: Oak introduces the Pallet incident
 
-Giovanni questions Fuji about what happened in Pallet Town and why Fuji broke down.
+- Oak should not say only, "I was attacked," because that centers him and makes the incident sound personally targeted at Oak.
+- He reports that there was an attack in Pallet.
+- One of his assistants was killed.
+- Oak fought the attacker while protecting Amber, Ash, Delia, and the neighborhood.
+- The attacker was arrested alive.
+- After the arrest, police identified him as **Dr. Fuji**.
+- Oak did not recognize Fuji during the battle.
+- The name may have stirred a distant memory afterward of a Celadon University grant ceremony: flashing cameras and a handshake. It does not give Oak knowledge of Fuji's research.
+- Oak tells Lance that Fuji was transferred to a holding facility in Viridian.
+- Lance hears the name and location but shows no meaningful recognition yet.
+- His lack of reaction comes from exhaustion and the fact that Fuji is one name among many investigative files, not because the name is meaningless.
 
-Fuji's answer begins with Amber, not logistics:
+## Beat 6: The abnormal Ditto
 
-> "She wasn't my daughter."
+- Oak first explains the attacker possessed an extraordinary Ditto.
+- Establish the ordinary limitation clearly:
+  - Ditto transformations normally retain some flaw in the copied body: face, proportions, detail, or another visible imperfection;
+  - copying an appearance is not the same as reproducing the original Pokemon's full developed strength.
+- Fuji's Ditto copied Dragonite without an obvious physical flaw.
+- More importantly, it appeared to reproduce Dragonite's strength.
+- Oak believed that degree of reproduction was impossible.
+- Lance should register the detail even if he does not explain why it matters.
+- Possible later significance: unusual Dittos have appeared around some Rocket-linked crimes or facilities. This remains a corroborating clue, not settled dialogue.
+- Oak may also mention that the Ditto refused Fuji's final order to kill him.
+- This emotional detail is relevant to Amber and Ditto, but the call should not linger on it if it slows the investigative movement.
 
-Fuji's backstory should include:
+## Beat 7: The pink serum
 
-- His early science background.
-- The war.
-- His relationship to Oak / Celadon / early cloning research, if useful.
-- Delia and Amber.
-- The way war/research consumed him.
-- Amber's death.
-- Why he sees death as something to engineer around.
-- Why the cloned/recreated Amber failed in his eyes.
+- Oak raises the vial toward the camera while explaining where it came from.
+- Lance cannot identify a clear pink liquid through a video screen.
+- Do not have Oak ask, "Do you know what this is?" as if visual recognition were possible.
+- Oak explains:
+  - Fuji injected the serum directly into Magmar;
+  - Magmar underwent a sudden and agonizing transformation;
+  - only part of its body completed the change;
+  - one arm developed into a mortar-like cannon;
+  - its flames changed;
+  - the resulting power was enough to break through Oak's defense even after Magmar had suffered multiple attacks;
+  - Magmar did not survive.
+- Oak was hurt but remained functional because of his own trained durability/aura. Do not explain the aura system explicitly here.
+- Oak may say he spent one night in the hospital if Lance asks, but the scene should not dwell on medical detail.
 
-Use Chapter 6 characterization as the anchor: Fuji fixates on concrete details and calls personhood a flaw when it does not match the past.
+## Beat 8: Was it evolution?
 
-Important repeated details/logic:
+- Lance asks whether Oak is certain the serum caused evolution.
+- Oak cannot be certain because:
+  - Magmar's change never completed;
+  - the result was asymmetrical;
+  - Magmortar is not yet known to Oak;
+  - Oak does not know whether the destination was natural, engineered, or unstable mutation.
 
-- Dress.
-- Chopsticks.
-- Cartoons / behavior.
-- Records/paperwork.
-- "Everything was perfect" except she did not behave like his daughter.
+Dialogue anchor:
 
-Likely Fuji line sequence:
+> "Maybe. It was certainly some kind of evolution..."
 
-> "The research was perfect. Everything was perfect. She looked just like her."
+- Do not have Oak coin the name Magmortar.
+- Do not call this forced Mega Evolution.
+- It is forced regular evolution or an incomplete attempt at it.
+
+## Beat 9: What Lance does not reveal
+
+- Lance does not identify the serum.
+- Lance does not reveal Project X, Mega Evolution, Kalos stones, or any solid evolution catalyst.
+- Oak does not accuse Lance of creating the attack.
+- Remove the current Dragonite-versus-Dragonite video standoff.
+- Remove Lance's threat to enforce Oak's pardon.
+- Remove the line that Project X uses "the opposite of liquids."
+- Remove any implication that Oak participates in Project X.
+
+If a trace of Lance's secret work remains at all, it should be limited to Lance treating the evolution report with unusual seriousness. No mechanism is disclosed.
+
+## Beat 10: Oak's warning
+
+- Oak turns from the individual attack to what the technology could become.
+- He has no established earlier event to compare it with and should not claim that it resembles the beginning of the old war.
+- His reasoning is prospective:
+  - if the serum can be reproduced, it changes how quickly Pokemon can be made battle-ready;
+  - a power like that will attract Leagues, clans, researchers, and criminal organizations;
+  - even if Fuji acted alone, other people will try to copy, steal, purchase, or mass-produce the work;
+  - the current Champion needs to know before the technology spreads.
+- Oak does not know whether Fuji acted alone, for Team Rocket, for separatists, or for another organization.
+- Lance takes the warning seriously because of the evidence itself, not because Oak invents a direct historical parallel.
+- The old war remains emotional and political context between the men; it is not a precedent for forced-evolution serum.
+
+Possible exchange:
+
+> "You believe there is more of it?"
 >
-> "But she just didn't behave."
+> "I believe there will be."
 
-Potential emotional rupture:
+## Beat 11: Intelligence bargain and task-force offer
 
-> "No! Not my daughter! A failure! A dud! Nothing like my daughter!"
+- Oak asks Lance to determine whether more serum exists and to inform him if it appears again.
+- Lance agrees to investigate, then pauses before deciding to use Oak's request as leverage.
+- Several regional Leagues and the International Police have already been discussing a new joint task force for threats that exceed ordinary local authority:
+  - cross-regional organized crime;
+  - increasing Mystery Dungeon disturbances;
+  - legendary Pokemon incidents;
+  - other unusually powerful international threats.
+- Lance had already debated approaching Oak before this call. Fuji's serum does not inspire the task force; it gives Lance an opportunity to recruit Oak.
+- Lance does not fully trust Oak. This remains subtext. He offers intelligence only through formal participation and institutional oversight rather than giving a private former Champion unrestricted classified access.
+- Lance's bargain:
 
-### 4. Giovanni sees value in Fuji
+> "Join it, and I'll ensure you get whatever we have about Dr. Fuji and the serum."
 
-Giovanni's reaction should be controlled and practical.
+- Oak asks whether joining would allow him to rebuild his former Champion team.
+- The League, not a separate council, controls the relevant postwar restrictions.
+- Oak retained some Pokemon, including Dragonite, Arcanine, Tauros, and Exeggutor, but his pardon prevents him from formally reassembling or deploying his complete wartime roster.
+- Some former partners may be dispersed, roaming, or under League supervision; exact custody remains open.
+- Lance cannot promise unilateral approval. He pauses and says he will bring the request to the League or think about what authorization can be granted.
+- This is the decision at the end of the call: Oak considers or accepts formal reentry under the proposed task force in exchange for intelligence and a path toward restoring his team.
 
-He does not forgive Fuji. He assesses Fuji as unstable, exposed, dangerous, but still useful.
+## Beat 12: End of the call
 
-Important characterization:
+- Do **not** end with "Let's go find our old friends." Oak does not yet have authorization to reassemble the team.
+- Oak also does not release Dragonite merely for a closing pose.
+- End Passage 1 on the unresolved bargain, the black video screen, or Oak alone with the vial and the question of whether he will accept League oversight.
+- The next passage remains with Lance so the reader sees how completely exhaustion had been hidden during the call.
 
-- Giovanni is hesitant to kill/remove Fuji because Fuji is uniquely valuable.
-- Madam sees the hesitation and acts independently against Fuji.
-- Giovanni may realize Fuji still has value for Mewtwo #2 / cloning / a future loyal clone household.
+---
 
-### 5. Madam's message
+# Passage 2 — Lance After the Call
 
-Madam does not physically need to appear.
+## Scene function
 
-She sends Giovanni a message. The message should be directly about removing Fuji, not a poetic hint about the gas line.
+- Reveal how exhausted Lance was beneath his formal presentation.
+- Preserve the cause of that exhaustion as an information gap.
+- Allow Fuji's name and the evidence to resurface after rest.
+- Send Lance toward Viridian before Rocket can finish erasing the trail.
 
-Message text to preserve closely:
+## Beat 13: The screen goes dark on Lance's side
 
-> "I'm taking it into my own hands to remove Dr. Fuji since you're so hesitant."
+- After the call disconnects, remain with Lance.
+- His posture collapses once Oak can no longer see him.
+- He releases a long breath.
+- More sweat runs down his neck or temple.
+- His Dragonite remains nearby and may watch him with concern.
+- Do not explain the psychic disturbances.
+- Do not use a flashback to Mewtwo.
 
-Cleaner possible exact version, still preserving author intent:
+## Beat 14: Lance reaches his quarters
 
-> "You have hesitated long enough. I am taking the matter into my own hands. Dr. Fuji will be removed."
+- Lance rises with visible effort.
+- His cape and formal clothing now feel burdensome rather than majestic.
+- He walks to his private room at the Plateau.
+- Keep this transition short.
+- The purpose is exhaustion, not a tour of Champion accommodations.
 
-But default should stay close to the author's line unless prose polish is needed.
+## Beat 15: Bath and collapse
 
-This message establishes:
+- Lance takes a bath to wash away sweat, grime, and the strain of the previous weeks.
+- Physical marks may imply recent dangerous work, but do not identify their source.
+- Avoid luxuriating in bathing description.
+- He is so tired that he reaches bed and falls asleep almost immediately.
+- His failure to connect Fuji's name that night must feel like cognitive exhaustion rather than incompetence.
 
-- Madam is acting on her own authority.
-- Giovanni hesitated.
-- Fuji is being removed/killed/extracted by someone other than Giovanni.
-- The action is already underway or too late to stop.
+## Beat 16: Morning recollection
 
-### 6. Giovanni reacts half a second too late
+- After real sleep, Lance wakes with the prior conversation returning in pieces:
+  - Dr. Fuji;
+  - Celadon or another research institution;
+  - missing scientists;
+  - advanced biological research;
+  - the abnormal Ditto;
+  - the forced-evolution serum;
+  - Viridian custody.
+- The pieces align.
+- Lance remembers seeing Fuji's name in an investigation involving missing, recruited, coerced, or compromised scientists.
+- Exact institutional ownership remains open:
+  - an international missing-scientist investigation;
+  - an Indigo investigation into Team Rocket;
+  - early International Police intelligence;
+  - an overlap among them.
+- The realization should not prove Fuji is Rocket. It tells Lance that the prisoner is too important to remain in ordinary local custody.
 
-Giovanni reads the message, looks at Fuji, and immediately understands the danger.
+## Beat 17: Immediate departure
 
-The key interrupted command:
+- Lance does not waste time arranging a long meeting.
+- He calls Dragonite.
+- He leaves the Plateau for Viridian immediately.
+- He may attempt to contact the facility during flight, but whether the call fails or is answered is optional.
+- Do not show him learning about the explosion before arrival; the ruined jail should be the visual payoff.
 
-> "Persian, Protec---"
+---
 
-Then the explosion hits before the command completes.
+# Passage 3 — Giovanni, Blaine, and Fuji
 
-This is important because:
+## Scene function
 
-- Persian is Giovanni's signature Pokemon.
-- The interrupted Protect creates ambiguity over who survived.
-- It is the first visible crack in Giovanni's composure.
+- Show that Giovanni can penetrate or command Viridian institutions without a theatrical infiltration.
+- Confirm Fuji has become a liability while preserving his scientific value.
+- Make the apparent execution frightening but ambiguous.
+- Set up the destruction of the holding facility without showing exactly how Fuji survives.
 
-### 7. Explosion cut
+## Beat 18: Fuji in custody
 
-Do not fully show the aftermath in the cell.
+- Cut to the Viridian holding facility while Lance is traveling or shortly before his departure.
+- Fuji is injured, exhausted, and confined after the Pallet battle.
+- He has been publicly identified and processed as Dr. Fuji.
+- Do not give Fuji another long autobiographical monologue.
+- The cell should feel ordinary and institutional, not like a secret Rocket dungeon.
 
-Cut on the explosion.
+## Beat 19: Giovanni arrives openly
 
-Core author beat:
+- Giovanni enters with Persian at his side.
+- Persian should habitually remain with Giovanni.
+- Blaine accompanies them.
+- Blaine brings a Magmar. This is not the Magmar killed in Chapter 16.
+- No teleportation.
+- No elaborate stealth operation.
+- No long conversation with guards.
+- Giovanni gains access because he is Viridian's Gym Leader, an important public figure, and a man with influence over local institutions. Rocket infiltration may reinforce that authority invisibly.
 
-> explosion cut, and cut to tv
+## Beat 20: Blaine's anger
 
-The explosion should destroy certainty. The reader should not see clearly whether Fuji, Giovanni, Persian, guards, or anyone else survived in that moment.
+- Blaine is angry about the Magmar lost during Fuji's attack.
+- His reaction should not become sentimental exposition unless later characterization requires it.
+- His presence communicates that Fuji's recklessness cost Rocket personnel, Pokemon, research secrecy, and political safety.
+- The replacement/other Magmar's presence creates immediate physical danger inside the cell.
 
-### 8. TV/news cut
+## Beat 21: Brief interrogation
 
-Immediately cut to a TV/news report.
+Giovanni and Blaine question Fuji about the operational failure:
 
-The official cover story:
+- Why did he go to Pallet?
+- Why did he expose the serum?
+- Why did he allow himself to be arrested?
+- What did Oak see?
+- What evidence did police recover?
+- Can the serum and cloning research be reproduced?
 
-> "gas line leaked"
+Fuji's answers should remain filtered through his obsession:
 
-or:
+- Amber was not behaving like his daughter.
+- He was trying to reclaim or correct what belonged to him.
+- He may call the recreated Amber a failure.
+- He minimizes the deaths and exposure compared with his personal loss.
 
-> "A gas line leaked beneath the holding facility..."
+Do not repeat his entire history with Delia, Amber's cancer, the war, and the clone project. Readers already possess enough of that history.
 
-The TV report should imply/present that Dr. Fuji died or is believed dead, but avoid proving it.
+## Beat 22: Giovanni evaluates Fuji
 
-Suggested public wording:
+- Giovanni remains controlled.
+- He sees that Fuji is unstable and publicly compromised.
+- He also recognizes that Fuji remains uniquely valuable:
+  - cloning;
+  - Mewtwo research;
+  - biological enhancement;
+  - forced evolution;
+  - creation of unusually capable Dittos.
+- Giovanni does not forgive Fuji.
+- His decision is pragmatic: Fuji cannot remain publicly alive, but killing him would waste irreplaceable expertise.
+- Do not reveal that full calculation to the reader.
 
-- "Dr. Tenma Fuji is believed to be among the dead."
-- "The suspect involved in last night's Pallet Town incident was being held for questioning when the explosion occurred."
-- "Officials are calling it a gas line leak."
-- "The body has not been independently confirmed" / "full casualty list pending" / similar ambiguity.
+## Beat 23: The apparent death order
 
-Important: The TV report is the public lie. Madam's message is the private truth.
+- Giovanni turns responsibility over to Blaine.
 
-## Ambiguity goals
+Dialogue anchor:
 
-The chapter should leave readers unsure of the outcome.
+> "Get rid of him."
 
-Possible interpretations to preserve:
+- The command should sound like an execution order.
+- Its hidden meaning is that Fuji must be made **as if he were dead**.
+- Giovanni may leave or turn away. Do not explain the alternate meaning.
 
-1. Madam killed Fuji.
-2. Madam tried to kill Fuji but failed.
-3. Madam extracted Fuji and made him legally/publicly dead.
-4. Giovanni's Persian's Protect saved Giovanni and possibly Fuji.
-5. A fight broke out in the cell and the winner is unclear.
-6. The TV report is incomplete or deliberately false.
+## Beat 24: Magmar approaches
 
-Author truth:
+- Blaine releases or gestures to Magmar.
+- Magmar approaches Fuji inside the cell.
+- Its claws press into or dig against Fuji's face.
+- Keep Fuji's survival uncertain.
+- Cut before showing whether Magmar burns him, kills him, intimidates him, or participates in extraction.
+- Do not show Fuji escaping.
+- Do not show a substitute body being prepared.
 
-- Dr. Fuji is still alive.
+---
 
-Reader-facing truth at the end of 17.5:
+# Passage 4 — Viridian Aftermath
 
-- Dr. Fuji is reported/presumed dead after a gas-line explosion.
-- Something about the report should feel too neat or suspicious.
-- The reader should question whether he is alive.
+## Scene function
 
-## Alternative version to keep in reserve
+- Pay off Lance's urgency with failure.
+- Publicly kill Fuji without proving his biological death.
+- Establish the scale of Rocket's access and willingness to erase evidence.
+- Turn a local detention failure into a regional or international scandal.
 
-A fight breaks out inside the cell and it is left ambiguous who won.
+## Beat 25: Lance approaches Viridian
 
-This can be combined with the explosion only if it does not clutter the ending.
+- Lance and Dragonite reach Viridian after a fast flight.
+- Smoke or emergency activity becomes visible before the holding facility itself.
+- Lance realizes something has happened before landing.
 
-Potential version:
+## Beat 26: The destroyed holding facility
 
-- Madam's agent arrives or is already in place.
-- Giovanni realizes the danger.
-- Persian begins Protect.
-- Explosion / cell chaos starts.
-- Security feed dies.
-- TV later reports gas-line explosion and Fuji presumed dead.
+- The jail/holding facility has been devastated by a huge explosion.
+- The official initial cause is a gas-line leak beneath or beside the facility.
+- Firefighters, police, medical personnel, and onlookers crowd the area.
+- The destruction is extensive enough that bodies cannot immediately be identified.
+- Records, cells, and physical evidence have been destroyed or compromised.
 
-But current preferred version is simpler:
+## Beat 27: Public cost and scandal
 
-- Message.
-- Giovanni looks at Fuji.
-- "Persian, Protec---"
-- Explosion.
-- TV cut.
+- Reports indicate that prisoners, staff, guards, and possibly innocent detainees were killed.
+- Some detainees may have been awaiting trial rather than convicted.
+- The phrase "innocent people" may appear in public outrage or reporting, but the exact casualty list remains uncertain.
+- This becomes a scandal because:
+  - a major prisoner died or vanished while in state custody;
+  - bodies cannot be identified;
+  - infrastructure supposedly failed at the most convenient possible moment;
+  - Viridian authorities cannot provide a trustworthy account.
 
-## Tone notes
+Open moral decision:
 
-- Do not make Madam poetic or cute. Her message should be direct.
-- Do not overcomplicate the entrance with teleportation unless later draft needs it.
-- Do not make Giovanni cartoonishly angry. His panic should show only in how fast he reacts.
-- Do not make Fuji explain everything in clean therapy language. He should sound clinical, obsessive, and broken.
-- Keep lore dump anchored in interrogation/backstory, not wiki exposition.
+- Whether Giovanni knowingly permits real mass casualties remains unsettled.
+- The facility may have been partially evacuated, records may be falsified, or the public casualty estimate may be wrong.
+- Do not accidentally settle this in prose until Giovanni's intended moral threshold is chosen.
 
-## Specific chapter function summary
+## Beat 28: Fuji presumed dead
 
-Chapter 17.5 should be a lore-dump interlude disguised as a custody/interrogation scene. It should explain Fuji's backstory and the war's role, introduce Madam as Giovanni's mother and an autonomous Rocket faction leader, then end with her acting independently after Giovanni hesitates and causing/ordering an explosion that the public later hears about as a gas-line leak. The final effect should be that the world thinks Dr. Fuji is dead, while readers are meant to question it.
+- Lance confirms that Dr. Fuji was listed among the prisoners present.
+- Authorities presume he died in the explosion.
+- No body can be independently identified as Fuji.
+- The official story gives Lance no living prisoner to question and no reliable remains to examine.
+
+## Beat 29: Lance recognizes the erasure
+
+- Lance compares the timing:
+  - Fuji is arrested with unprecedented biological technology;
+  - Oak reports him to the Champion;
+  - Lance recognizes the name and immediately travels to Viridian;
+  - the facility is destroyed before he arrives.
+- He cannot prove coordination, but the coincidence is intolerable.
+- The scene should leave him suspicious of:
+  - Team Rocket or another criminal organization;
+  - corruption inside Viridian;
+  - an organization capable of monitoring police custody;
+  - deliberate destruction of evidence.
+
+## Beat 30: End state
+
+Reader-facing truth:
+
+- Dr. Fuji is presumed dead.
+- A gas-line explosion destroyed the place holding him.
+- The body cannot be verified.
+- Someone may have erased him before Lance could reach him.
+
+Author truth, not disclosed:
+
+- Fuji survives.
+- Giovanni retains him off-books.
+- Fuji will later contribute to further cloning and the second Mewtwo project.
+
+Potential final image:
+
+- Lance standing before the smoking ruin while Dragonite waits behind him.
+- He has arrived as Champion and still has no authority over the truth buried beneath Viridian.
+
+Do not end with a direct declaration that Team Rocket did it or that Fuji escaped.
+
+---
+
+# Continuity requirements
+
+- Chapter 13 retains Fuji's memory of Oak shaking his hand at a Celadon grant ceremony.
+- Chapter 16 now establishes:
+  - Oak does not recognize Fuji;
+  - Fuji knows Oak as a public former Champion;
+  - Fuji calls Oak a traitor over the old war;
+  - Oak asks, "Who are you?";
+  - Fuji rants about the forgotten Celadon ceremony but does not give his name;
+  - Oak observes the extraordinary Ditto;
+  - Fuji calls all Dittos living proof of his failures;
+  - Ditto visibly flinches and shrinks;
+  - Fuji realizes Oak is buying Dragonite time and injects Magmar;
+  - the orange stone / Mega Evolution hint has been removed.
+- Chapter 17 establishes the immediate family and legal aftermath of the Pallet attack.
+- Chapter 17.5 must not contradict what the police currently know about Stephen's death; if Chapter 17 leaves his death unconfirmed, establish that confirmation occurred during the intervening days before Oak states it as fact.
+
+# Material explicitly removed
+
+Do not restore without a new author decision:
+
+- Madam as the person ordering Fuji's removal.
+- Madam's message to Giovanni.
+- Giovanni being trapped in the explosion.
+- Persian's interrupted "Protec---" command.
+- A cell battle between Giovanni and Madam's faction.
+- Giovanni teleporting into custody.
+- A long warden or guard conversation.
+- Oak recognizing Fuji during Chapter 16.
+- Oak personally knowing the substance of Fuji's research.
+- Oak possessing a Mega Stone or knowing Mega Evolution.
+- Oak participating in Project X.
+- Oak accusing Lance of creating Fuji's serum.
+- The Dragonite-versus-Dragonite video-call standoff.
+- Lance revealing that Project X uses stones or "the opposite of liquids."
+- Oak naming the incomplete evolution Magmortar.
+- A full repeated Fuji backstory monologue in the cell.
+- A television cut replacing Lance's arrival at the ruined facility.
+
+# Open decisions before prose is finalized
+
+1. What exact investigation contains Fuji's name?
+   - international missing-scientist case;
+   - Indigo investigation into Rocket;
+   - early International Police intelligence;
+   - combined case.
+2. How much does Lance already know about Rocket-associated Dittos?
+3. Who orders and carries out the jail explosion?
+4. How many real casualties occur, and how many are fabricated?
+5. Does Giovanni remain present while Blaine handles Fuji, or leave after giving the order?
+6. What exact evidence of Fuji survives the explosion?
+7. Does Lance tell Oak about the explosion within this interlude or only later?
+8. Does the chapter end on Lance at the ruins, an official announcement, or another image?

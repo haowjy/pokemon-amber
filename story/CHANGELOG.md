@@ -6,6 +6,7 @@ Omit frontmatter-only changes, notes-only updates, and routine typo or formattin
 
 ## 2026-08-11
 
+- **Chapters 1 and 15:** Restored the college-student, Pokemon Go, and truck context behind Amber's death while keeping her former identity ungendered in both the opening and her confession to Fuji.
 - **Chapter 16:** Reworked Oak and Fuji's mid-battle exchange after later planning established that Oak neither knows Fuji personally nor knows about Mega Evolution. Oak now fails to recognize the attacker, Fuji frames Oak as a wartime traitor and recalls only their forgotten Celadon grant ceremony, and Fuji's condemnation of all Dittos as his failures visibly affects Ditto. Removed the orange-stone Mega Evolution hint so Oak can encounter that research later.
 
 ## 2026-08-08

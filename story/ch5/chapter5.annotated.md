@@ -1,0 +1,129 @@
+---
+chapter: 5
+title: "[Chapter 5] A Perfectly Normal Gym Session"
+status: published
+hidden: false
+updated: 2026-07-17
+---
+
+# [Chapter 5] A Perfectly Normal Gym Session
+
+The afternoon sun had begun its descent, casting shadows in the opposite direction through the ginkgo trees that lined the path ahead. Their fan-shaped leaves caught the light like tiny golden coins, creating a dappled pathway that seemed to lead straight to... my steps slowed as the actual gym building came into view.
+
+The building ahead grew more imposing with each step, glass and steel rising behind the ancient trees. Their branches reflected across its sleek face, softening the transition from the ginkgo arcade to the facility beyond.
+
+The park grounds unfolded in carefully planned waves of green and color. Grass and dirt gave way to raised beds where Oddish-shaped topiaries stood guard over a stunning array of irises and wisteria, their petals trembling in the afternoon breeze. A small pond reflected the late sunlight, its surface occasionally broken by what could have been either decorative Magikarp or particularly playful Goldeen.
+
+A lone figure caught my eye, breaking the perfect symmetry of the scene. An elderly man sat on a bench between two trees, his eyes nearly closed but somehow still managing to track my movement. As our gazes met, his face split into a grin that belonged in a different kind of game entirely, the kind that little girls should avoid at all costs.
+
+Ditto tightened slightly around my neck, a silent agreement that perhaps we should speed up our stately progression down Ginkgo Tree Ave. The trees' shadows suddenly felt less majestic and more like convenient hiding spots for things that smiled too widely.
+
+'Oookay then,' I thought, picking up my pace while trying to look like I absolutely belonged here and was not at all creeped out by the local bench cryptid. 'Time to see what's behind door number one.'
+
+The automatic doors whispered open with blessed modernity, trading filtered sunlight for fluorescent clarity and the weight of ancient trees for climate-controlled certainty. Ditto shifted against my neck---still playing the part of a perfectly normal scarf---as my eyes found the price board mounted on the sleek reception desk.
+
+```
+
+League Spectator Pass: ₽10,000
+
+Training Facilities Day Pass: ₽4,000
+
+```
+
+I hesitated, then edged up to the counter. The polished surface sat at that annoying height where resting my arms on it felt slightly awkward, not quite comfortable.
+
+"Hi," I said, aiming for casual and landing somewhere closer to small and earnest. "How do you... challenge the gym for a badge?"
+
+The receptionist blinked once, her expression shifting to something between polite and uncertain. "Do you have a trainer ID?"
+
+"No."
+
+Her expression softened further. "Are your parents with you?"
+
+I shook my head.
+
+"Sorry," she said gently. "You will first need a trainer ID first..."
+
+She gestured toward the price board. "If you'd still like to spend time here today, we have spectator pass to watch the battles?"
+
+"Oh..." I sighed disappointedly.
+
+The doors whispered open again as I retreated, and the ginkgo path garden stretched before me once more, though now it felt less like a cathedral and more like a very scenic route to nowhere. Clusters of late-blooming irises lined the path, their purple heads nodding in silent sympathy.
+
+I drifted away from the gym's entrance, deliberately choosing a direction that would avoid the creepy bench-dweller. I let my feet carry me wherever they wanted along the winding garden paths, past bursts of wisteria that draped overhead like purple rain. A breeze stirred the ginkgo leaves, sending a fresh shower of golden fans spiraling down around me.
+
+"I don't suppose you know any get-rich-quick schemes for the Pokemon world?" I murmured to Ditto. The living scarf offered no advice beyond a sympathetic tightening. "Yeah, didn't think so."
+
+My path meandered away from the gym and its pristine gardens back to the regular grass and dirt training fields where battles had wound down for the day, then back to other sections of garden, though not as maintained as the ones near the gym. 
+
+Out of the corner of my eye, I spotted a neat little greenhouse, its glass panels catching the sunset in ways that made it look almost molten. Azaleas clustered around its base, their fading blooms still adding splashes of color to the approaching evening. I didn't know where I was, but something about its warm glow drew me closer.
+
+The greenhouse door handle resisted when I pulled, stiff from humidity or disuse. I had to brace myself and yank harder to get it open. It scraped with a sound that felt too loud in the quiet evening air, releasing a wave of warm, humid air that carried the rich scent of earth and growing things. I hesitated for a moment, one foot over the threshold, caught between the fading daylight behind and the green-tinted shadows ahead, but ultimately stepped inside.
+
+A path wound between beds of ferns and clusters of what looked suspiciously like the berries I'd spent countless hours farming in various games. The reality was messier, less orderly than their pixel versions. Leaves overlapped and intertwined, creating patches of shadow that seemed to shift and move in ways that...
+
+I froze. One of the shadows was moving.
+
+A Gloom waddled out from behind a large pot, regarding us with an expression that managed to be both melancholy and curious at the same time. It was smaller than I'd expected, barely coming up to my body's waist, but somehow its presence filled the narrow path between the plants. Neither of us moved for a long moment, caught in a standoff that felt like those tense seconds before a wild Pokemon battle would start in the games.
+
+Except no battle music began. No options appeared. The Gloom just... blinked at us, then yawned, displaying an impressive set of teeth that the games had definitely never rendered in such detail.
+
+"Um, hi?" I offered, my voice coming out in Amber's higher pitch. The word hung in the humid air between us like another drop of condensation.
+
+The Gloom considered this for a moment, then made a sound somewhere between a sigh and a gurgle. It was probably the most accurate representation of its name I'd ever heard. Before I could decide if this was a good sign or not, I felt Ditto begin to slide down my arm.
+
+"Wait, what are you---" I started, but Ditto had already pooled on the ground and was beginning to reshape itself. I watched, fascinated despite my nerves, as it quickly twisted and grew until a second Gloom stood before me, matching the first down to the slightly droopy flower on its head.
+
+The original Gloom perked up immediately, its perpetually sad expression lifting into something approaching delight. It tottered forward, circling Ditto-Gloom with obvious interest. Ditto, for its part, seemed equally fascinated, mimicking the other Pokemon's movements in a sort of impromptu dance.
+
+I quickly glanced around the greenhouse, searching for any witnesses to Ditto's transformation. Nothing but plants and condensation-streaked glass. A relieved sigh escaped me---the last thing I needed was more attention drawn to me.
+
+A beam of late sunlight cut through the glass above, catching the moisture in the air and creating a rainbow that seemed to dance between the leaves. Gloom and Ditto Gloom happily danced together in the sun, the warm rays of light invigorating them both.
+
+"Hey!"
+
+A sudden shout broke the peacefulness and scared Gloom into hiding behind a shadow.
+
+I whipped my head around, Amber's shoulder-length hair swinging with the motion. A girl stood in the doorway, her silhouette sharp against the amber light of sunset. Her purple hair was pulled back in a neat ponytail, accentuating the clean lines of her Celadon Gym uniform-a forest green kimono-style top with darker trim that caught the dying light. The asymmetrical closure and embroidered rainbow badge on her chest marked her as part of the Celadon gym. A Bellsprout swayed beside her, its vine-like neck moving with an alien grace.
+
+"What are you doing in here?" She couldn't have been more than fifteen, but her voice carried the weight of practiced authority. The Bellsprout's head bobbed in a rhythmic counterpoint to her words.
+
+"I..." The explanation died somewhere between my brain and my mouth. The humid air felt heavier suddenly, pressing down with the weight of being caught for... caught for what exactly? Watching two Pokemon play? The absurdity of it almost made me laugh, but something in her stance suggested that might not be the wisest response.
+
+The girl stepped forward, her gym uniform crisp despite the greenhouse humidity. "This is a restricted area," she continued, eyes narrowing as she looked between me and the remaining Gloom. Then she paused, something clicking behind her eyes. "Wait. That's not one of our Gloom, is it?"
+
+As if betrayed by the very words, Ditto's perfect Gloom form wavered, a ripple of pink breaking through the illusion like a blush spreading across someone's cheeks. The real Gloom, still half-hidden in shadow, made a sound somewhere between disappointment and embarrassment.
+
+The gym trainer's eyes widened, all pretense of authority momentarily forgotten. "What... what kind of Pokemon is that?" She took half a step forward, then caught herself. She shook her head, visibly forcing herself back into her official role, though her eyes kept darting to Ditto's now pink form with poorly concealed fascination.
+
+"There are signs everywhere saying 'Do Not Enter' and 'Staff Only,'" she said, gesturing vaguely behind her, though her stern tone had lost its edge. Then her eyes tracked down to my height, really seeing me for the first time, and something in her expression softened.
+
+"I'm sorry," I managed, the words coming out smaller than intended. "We were just..." Just what? Playing? Exploring? Breaking and entering? None of those explanations seemed likely to help our case.
+
+The girl's expression shifted, authority melting into something closer to concern. "Where are your parents?" she asked, her voice gentler now. The Bellsprout beside her swayed less aggressively, its head tilting in curiosity.
+
+'Parents.' The word hit like a punch to the gut. In my head, I was old enough that the question felt absurd, but the reflection in the greenhouse glass told a different story. A small girl with shoulder-length hair, looking very much like she should, in fact, have a parent nearby.
+
+"My father is..." I started, then stopped. What could I say? 'My father's a genetics researcher who thinks I'm his resurrected daughter because technically I am, just with a bonus hitchhiking consciousness from another dimension, and left me in an apartment alone with instructions not to leave but I left anyway because I wanted to explore this brand new world'? Even in a world with Pokemon, that felt like a stretch.
+
+The girl sighed, absently adjusting her purple ponytail. "Listen," she said, "I didn't mean to scare you. Just... if you see a sign that says 'Do Not Enter,' please don't enter, okay? This is a restricted area. These Pokemon aren't used to visitors."
+
+I nodded slowly while backing away, motioning for Ditto to follow. Internally, I was screaming at myself. How could I have just walked into a restricted area?
+
+The greenhouse door felt miles away, each step weighted with embarrassment. I grabbed the handle and shoved it open, cool evening air rushing in to break the greenhouse's humid spell.
+
+It wasn't until we were several steps away that I finally looked back and saw it---the 'RESTRICTED: DO NOT ENTER' sign, half-hidden behind overgrown wisteria vines on the greenhouse's side wall.
+
+Not my fault if they let their signage get eaten by plants.
+
+The trees cast longer shadows now, their leaves turning from gold to deep amber in the setting sun. I shuffled away from the greenhouse, trying to maintain some dignity while essentially fleeing the scene of my latest misadventure. Ditto kept pace beside me, its amorphous form somehow managing to convey both sympathy and mild judgment.
+
+"Ah-CHOO!"
+
+The sound barely registered before something slammed into me from behind. The world tilted, and suddenly I was studying the leaves from ground level, my back pressed against the cold stone path. Through watering eyes, I caught a glimpse of someone scrambling to collect a fallen Pokemon-an Oddish, its leafy sprouts drooping and wilted, round body curled defensively, and its red eyes swirling from the fall.
+
+"S-sorry!" came a strangled voice, followed by another explosive sneeze. The girl---maybe fourteen or fifteen---only glanced at me for a moment before she hurriedly gathered up her unconscious Pokemon. Her face was flushed, eyes red and running, and she vanished around a corner before I could even push myself to a sitting position.
+
+Ditto oozed closer, helping me up with a concerned ripple through its body. I brushed dirt from my dress, wincing at the brown stains that would definitely require an explanation later.
+
+"Time to go home," I sighed to Ditto, though 'home' still felt like the wrong word for Dr. Fuji's apartment. "Today's been a fruitfully long day of adventure."

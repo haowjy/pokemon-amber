@@ -12,7 +12,8 @@ Pokemon: Ambertwo — a fanfiction about an isekai'd adult consciousness inhabit
 pokemon-amber/
 ├── story/                # Chapter prose. One folder per chapter.
 │   └── chX/
-│       ├── chapterX.md   # Published prose
+│       ├── chapterX.annotated.md # Editable prose source with invisible craft comments
+│       ├── chapterX.md           # Generated commentless prose for reading/publishing
 │       ├── summary.md    # What happened (load for context)
 │       ├── notes.md      # Author craft notes
 │       └── plan.md       # Planning for unwritten chapters
@@ -29,7 +30,8 @@ Use `meridian context kb` / `$MERIDIAN_CONTEXT_KB_DIR` for KB location; do not a
 ## File Naming
 
 - **Chapter folders:** `story/chX/` (e.g., `story/ch10/`)
-- **Chapter prose:** `chapterX.md` — number in filename so editor tabs are readable
+- **Annotated chapter source:** `chapterX.annotated.md` — edit this when present
+- **Compiled chapter prose:** `chapterX.md` — generated commentless reading/publishing copy; do not edit directly when an annotated source exists
 - **summary.md** — what happened; load for context before writing adjacent chapters
 - **notes.md** — author craft notes, character research, decisions
 - **plan.md** — planning for unwritten chapters
@@ -44,7 +46,7 @@ Use `meridian context kb` / `$MERIDIAN_CONTEXT_KB_DIR` for KB location; do not a
 
 **Purposeful prose**
 - Every word, phrase, line, action, and paragraph must serve the narrative, tone, character, chapter, or current story beat. Remove anything without a specific purpose.
-- Keep that reasoning out of the published prose. After writing or revising, explain the purpose of each choice to the author.
+- During drafting and revision, record useful line-level reasoning beside the prose in HTML comments inside `chapterX.annotated.md`. Compile the commentless `chapterX.md` before reading, validating, or publishing.
 
 **Humor**
 - Prefer deadpan delivery: describe ridiculous situations in the same serious, matter-of-fact voice used for everything else, and let the incongruity create the humor.

@@ -8,15 +8,14 @@ One folder per chapter. Folders are named `chX` (e.g., `ch10`).
 
 ```
 story/ch10/
-  chapter10.md    ← published prose
+  chapter10.annotated.md ← editable source with craft comments, when used
+  chapter10.md           ← generated commentless prose for reading/publishing
   summary.md      ← what happened (load this for context before writing)
   notes.md        ← author craft notes, research, decisions
   plan.md         ← planning / what to write next (unwritten chapters)
 ```
 
-Not every folder has all four files:
-- **Published chapters** (ch1–ch17): `chapterX.md` + `summary.md` + `notes.md`
-- **In-progress chapters** (ch17.5, ch18–ch20): `plan.md` + optional `notes.md`, no `chapterX.md` yet
+Not every folder has every file. Chapters using line-level annotation have both `chapterX.annotated.md` and its compiled `chapterX.md`; older chapters may have only `chapterX.md` until they enter this workflow.
 
 No underscore prefix. No numbering in non-prose filenames. The folder name carries the chapter number.
 
@@ -24,7 +23,7 @@ No underscore prefix. No numbering in non-prose filenames. The folder name carri
 
 Three layers, each serving a different job:
 
-1. **Chapter prose** (`chapterX.md`) — tip of the iceberg. Stands alone. The reader never needs the wiki.
+1. **Chapter prose** (`chapterX.annotated.md` source; compiled `chapterX.md`) — tip of the iceberg. The compiled prose stands alone. The reader never needs the wiki.
 2. **Chapter notes** (`notes.md`) — the bridge. Links out to wiki pages that support each scene. Explains *what matters for this chapter* without duplicating wiki content. When you sit down to draft, the notes tell you which wiki pages to load and why they matter here.
 3. **Wiki** (`$MERIDIAN_CONTEXT_KB_DIR/wiki/`) — the full iceberg beneath. Canon worldbuilding, systems, characters, lore. Source of truth. Notes link into it; prose never references it.
 
@@ -55,6 +54,44 @@ Exceptions (3rd person):
 
 When drafting, confirm the POV for the chapter from the plan or notes before writing.
 
+## Annotated Prose and Compilation
+
+When `chapterX.annotated.md` exists, it is the **only editable prose source**. Never revise its generated `chapterX.md` directly.
+
+Place reasoning immediately after the paragraph or dialogue unit it supports:
+
+```md
+Oak studied him with a grin. "Being Champion isn't easy, is it?"
+
+<!-- Establishes shared experience while letting Oak test how Lance is carrying the office. -->
+```
+
+Annotation rules:
+
+- Explain function; do not merely paraphrase the prose.
+- Annotate decisions worth preserving, not every self-evident sentence. If a line has no defensible purpose, revise or delete it instead of inventing a justification.
+- Update or delete an annotation whenever its prose changes.
+- Keep comments out of `chapterX.md`; the compiler removes every HTML comment.
+
+Compile one or more annotated chapters with:
+
+```sh
+python3 scripts/compile_chapter.py story/ch17.5/chapter17.5.annotated.md
+```
+
+Use `--check` to verify that generated prose is current without rewriting it:
+
+```sh
+python3 scripts/compile_chapter.py --check story/ch17.5/chapter17.5.annotated.md
+```
+
+Compile or check every annotated chapter at once:
+
+```sh
+python3 scripts/compile_chapter.py --all
+python3 scripts/compile_chapter.py --all --check
+```
+
 ## Prose Conventions
 
 See root `AGENTS.md` for full style rules. Key points:
@@ -64,12 +101,11 @@ See root `AGENTS.md` for full style rules. Key points:
 - Quotes: plain ASCII `"` and `'`
 - `Pokeball`, `Pokedex`, `Potion`
 - `Pokemon` or `Pokémon`, never both in one file
-- No inline author commentary in published prose
 
 ## Revision Workflow
 
-- For requested prose revisions, edit the story file directly and leave changes uncommitted for author review.
-- After editing, show the diff and justify every changed word, phrase, line, action, and paragraph. Explain what each choice contributes to the narrative, tone, character, chapter, or current story beat, including how structure and rhythm support the intended emotion or impact. Commit only with explicit author approval.
+- For requested prose revisions, edit `chapterX.annotated.md` when it exists, compile `chapterX.md`, and leave both uncommitted for author review. If no annotated source exists, edit `chapterX.md` directly until that chapter is migrated.
+- Record important line-level reasoning in the annotated source while revising. Report what changed and any unresolved concern to the author; do not duplicate every annotation in chat unless asked. Commit only with explicit author approval.
 - Update `CHANGELOG.md` with substantive published-prose revisions. Record the resulting reader-visible change, not the editing process; omit routine metadata, notes, formatting, and typo fixes.
 
 ## Linking to Story Files
