@@ -371,16 +371,16 @@ Possible exchange:
 
 ## Beat 21: Fuji in custody
 
-- Mark the temporal shift clearly as several hours earlier on the same day.
+- Mark the temporal shift clearly as a short while earlier on the same evening. The cell is dark except for long bars of setting sunlight entering through a narrow high window; iron bars rattle before the lock turns and Giovanni appears.
 - Fuji is injured, exhausted, and confined after the Pallet battle.
 - He has been publicly identified and processed as Dr. Fuji.
 - The cell is ordinary and institutional, not a secret Rocket dungeon.
-- Do not give Fuji another long autobiographical monologue.
+- Fuji gives an emotionally selective account of his history after Giovanni asks why he went to Pallet. The account should ramble as Fuji grows convinced that Giovanni is genuinely listening, but it should remain anchored to Fuji's justification rather than becoming a neutral biography.
 
 ## Beat 22: Giovanni arrives openly
 
 - Giovanni enters with Persian at his side.
-- Blaine accompanies them with a Magmar that is not the one killed in Chapter 16.
+- Blaine carries a second Magmar's Pokeball but does not release it upon entering. Magmar appears only after Giovanni's apparent death order.
 - No teleportation, elaborate stealth operation, or long conversation with guards.
 - Giovanni gains access through his public status as Viridian Gym Leader and his influence over local institutions; invisible Rocket infiltration may reinforce that access.
 
@@ -388,35 +388,63 @@ Possible exchange:
 
 - Blaine is angry about the Magmar lost during Fuji's attack.
 - His presence communicates that Fuji's recklessness cost Rocket personnel, Pokemon, research secrecy, and political safety.
-- The other Magmar creates immediate physical danger without sentimental exposition.
+- Blaine's hand moving toward the second Magmar's Pokeball creates the initial physical danger. Giovanni stops him and makes him wait until Fuji has finished speaking.
 
-## Beat 24: Brief interrogation
+## Beat 24: Giovanni lets Fuji talk
 
-Giovanni and Blaine question Fuji about the operational failure:
+Giovanni begins with:
 
-- Why did he go to Pallet?
-- Why did he expose the serum?
-- Why was he arrested?
-- What did Oak see?
-- What evidence did police recover?
-- Can the serum and cloning research be reproduced?
+> "Why did you go to Pallet Town?"
 
-Fuji's answers remain filtered through his obsession:
+Fuji answers:
 
-- Amber was not behaving like his daughter.
-- He was trying to reclaim or correct what belonged to him.
-- He minimizes the deaths and exposure compared with his personal loss.
+> "The clone was a failure."
 
-Do not repeat his entire history with Delia, Amber's cancer, the war, and the clone project.
+Giovanni does not run through an interrogation checklist. He listens, leaves silence for Fuji to fill, and uses short prompts drawn from Fuji's own words. Fuji gradually volunteers:
 
-## Beat 25: Giovanni evaluates Fuji
+- Fuji has already accepted that the recreated Amber is not literally his daughter. He calls her the clone and regards her independent identity as a technical failure that might still be corrected.
+- the physical reconstruction was exact, but her chopsticks, dresses, cartoons, speech, and relationship to him were wrong;
+- he sacrificed his university career and family life to Project Chimera during the war;
+- original Amber died in a collateral civilian disaster during the Kanto-Johto war while Fuji was away working on Project Chimera;
+- he rebuilt Chimera and spent twelve years trying to defeat that failure;
+- he believed Delia and Pallet had turned the recreated Amber against him;
+- he minimizes Stephen's murder, the attack, and the exposure as interference with restoring his family.
+
+The account repeats only the concrete details needed to expose Fuji's logic. It is not a neutral recap of every prior chapter.
+
+## Beat 25: Blaine's early outburst
+
+- Blaine interrupts midway through Fuji's wartime account because he has no patience for Fuji's self-justifying history: "Just get to the point alrea---"
+- Giovanni raises one hand, and Blaine stops without Giovanni looking away from Fuji. Giovanni tells Fuji to continue. This first interruption demonstrates Giovanni's effortless authority and his deliberate willingness to hear the whole account.
+- Blaine's more personal anger about Magmar comes later, when Fuji describes Magmar as the only creation that still obeyed him.
+- Blaine already knew that the forced-evolution serum existed and had approved its emergency use. He does not object to the transformation itself. He condemns Fuji for taking one of his trusted partners into a private family feud and continuing the fight until it died.
+- Blaine reaches inside his lab coat for the second Magmar's Pokeball.
+- Giovanni catches his wrist and says, "Not yet."
+- Giovanni persuades Blaine to wait by reminding him that he came for an answer: "Let him finish."
+- Fuji resumes exactly where Blaine interrupted him, explains Giovanni's patronage and the twelve subsequent years of work, then admits that he still failed. Giovanni's control of the interruption allows the confession to reach its decisive point.
+- Persian remains still throughout. Giovanni's ability to control the room should be more frightening than overt violence.
+
+## Beat 26: Giovanni leads Fuji to the next conclusion
+
+- After Fuji's full account ends with "I still failed," Giovanni returns to Fuji's insistence that the clone's body was physically perfect and asks what actually failed.
+- Fuji reaches the wrong conclusion himself: **the mind** was the defect. He assumed memory, preference, identity, and loyalty would follow naturally from a correct body; now he believes they must be shaped separately.
+- Only after that conclusion does Giovanni return to the Pallet operation, the approved emergency serum, and what happened with Magmar. Fuji insists nothing went wrong because the evolution and combat enhancement succeeded. Giovanni acknowledges both its lethal cost and its unprecedented result rather than choosing Blaine's or Fuji's framing.
+- Fuji admits the serum cannot be reproduced correctly without him.
+- Giovanni expands Fuji's conclusion across the other creations through questions:
+  - Ditto copied Dragonite's form and power but retained independent judgment;
+  - Mewtwo's body and power succeeded, but its mind developed before Rocket could shape it.
+- Fuji states the resulting research direction: the problem is not creating life but controlling what that life becomes.
+- Giovanni's faint smile reveals that Fuji has finally produced the useful conclusion Giovanni was guiding him toward.
+- Fuji begins proposing conditioning, cognitive correction, a more receptive second Mewtwo, and another attempt to correct the clone. His obsessive drive remains intact.
+
+## Beat 27: Giovanni evaluates Fuji
 
 - Giovanni sees that Fuji is unstable and publicly compromised but remains uniquely valuable for cloning, Mewtwo research, biological enhancement, forced evolution, and unusually capable Dittos.
 - Giovanni does not forgive Fuji.
 - His pragmatic conclusion is that Fuji cannot remain publicly alive, but killing him would waste irreplaceable expertise.
 - Do not reveal that full calculation to the reader.
 
-## Beat 26: The apparent death order
+## Beat 28: The apparent death order
 
 - Giovanni turns responsibility over to Blaine.
 
@@ -428,8 +456,9 @@ Dialogue anchor:
 - Its hidden meaning is that Fuji must be made **as if he were dead**.
 - Giovanni may leave or turn away. Do not explain the alternate meaning.
 
-## Beat 27: Magmar approaches
+## Beat 29: Magmar approaches
 
+- Only after Giovanni leaves does Blaine release the second Magmar.
 - Magmar approaches Fuji inside the cell.
 - Its claws press into or dig against Fuji's face.
 - Cut before showing whether it burns him, kills him, intimidates him, or participates in extraction.
@@ -446,7 +475,7 @@ Dialogue anchor:
 - Establish the scale of Rocket's access and willingness to erase evidence.
 - Turn a local detention failure into a regional or international scandal.
 
-## Beat 28: Public cost and official account
+## Beat 30: Public cost and official account
 
 - Resume the present after Lance's arrival.
 - Firefighters, police, medical personnel, reporters, and onlookers surround the collapsed facility.
@@ -460,14 +489,14 @@ Open moral decision:
 - The facility may have been partially evacuated, records may be falsified, or the public casualty estimate may be wrong.
 - Do not settle this accidentally before Giovanni's intended moral threshold is chosen.
 
-## Beat 29: Fuji presumed dead and the erasure recognized
+## Beat 31: Fuji presumed dead and the erasure recognized
 
 - Lance asks who occupied the destroyed east wing and learns only then that Fuji was listed among the prisoners present.
 - Authorities presume him dead, but no body can be independently identified as Fuji.
 - Lance connects only what he personally knows: Oak named Fuji the previous night, and chance carried Lance over Viridian at the moment the facility holding Fuji exploded.
 - He cannot prove coordination or identify an organization. The timing merely makes the gas-line explanation difficult for him to accept without investigation.
 
-## Beat 30: End state
+## Beat 32: End state
 
 Reader-facing truth:
 

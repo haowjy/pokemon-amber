@@ -1,12 +1,12 @@
 ---
 chapter: 17.5
-title: "[Chapter 17.5] Fault Lines"
+title: "[Chapter 17.5] Warning Signs"
 status: draft
 hidden: true
 updated: 2026-08-12
 ---
 
-# \[Chapter 17.5\] Fault Lines
+# \[Chapter 17.5\] Warning Signs
 
 The laboratory was empty except for Professor Oak.
 
@@ -207,180 +207,122 @@ Lance leaned over the saddle. "Down!"
 
 \[!.!\]/
 
-Several hours earlier, Dr. Fuji sat on the narrow bunk with his injured arm bound against his chest.
+A short while earlier, Dr. Fuji sat alone on the narrow bunk, his injured arm resting in a sling.
 
-It was a reinforced cell, gray beneath fluorescent light. One of Fuji's eyes had swollen nearly shut. Dried blood darkened the collar of the shirt the police had returned to him after processing.
+Most of the cell had already fallen into darkness. The last of the afternoon sun slipped through a narrow window high in the wall, laying long golden bars across the floor. One of Fuji's eyes had swollen nearly shut. Dried blood darkened the collar of the shirt the police had returned to him after processing.
 
-Locks opened beyond the door.
+The iron bars rattled open.
 
 Fuji raised his head.
 
-A guard opened the cell without being asked twice. Giovanni stood behind him in a black suit and long brown coat, Persian close enough that its pale shoulder brushed his leg.
+Two men stepped through the golden streaks of afternoon light. The first wore a finely tailored charcoal suit with a deep red tie. A Persian moved at his side, its pale shoulder nearly brushing his leg. The second was older and bald, with a thick white mustache and round dark glasses. His lab coat hung open over a dark shirt and a flame-patterned tie, the dying sunlight burning across his lenses.
 
-"Leader Giovanni," the guard said. "We'll be outside."
+Fuji looked up at them. "Giovanni... Blaine..." he said weakly.
 
-Giovanni entered as if the cell belonged to his Gym. Blaine followed, his dark glasses reflecting the fluorescent panel. A Magmar filled the doorway behind him.
+Blaine moved to the wall opposite the bunk and crossed his arms.
 
-Not Fuji's Magmar. This one stood unscarred and steady, its fire burning the proper orange. It never looked away from Fuji.
+Giovanni stopped in front of Fuji, his shadow blocking half of the sun from reaching Fuji anymore.
 
-The guard shut the door.
+"Why did you attack Pallet Town?"
 
-Fuji looked from Giovanni to Blaine. "So they sent both of you."
+Fuji's good hand tightened around the edge of the bunk.
 
-"No one sent me," Giovanni said.
+"The clone was a failure."
 
-Blaine moved to the wall opposite the bunk. The Magmar remained beside him, claws flexing once against its palms.
+Giovanni didn't respond and let Fuji continue.
 
-Giovanni stopped in front of Fuji. "Why did you go to Pallet?"
+"The research was perfect. Every DNA sequence. Every measurement. I reconstructed her exactly as she had been. She looked like her. She sounded like her. Even the birthmark beneath her left shoulder was in precisely the right place. Her brain was the same."
 
-"You know why."
+He looked down at his open hand.
 
-"I know what you were permitted to do. I asked what you did."
+"But she held her chopsticks incorrectly. She hated the dresses her mother made for her. She stared at the cartoons she used to love as if she had never seen them before." His fingers curled. "She spoke like someone else. Sometimes she looked at me as if I were the stranger."
 
-Fuji's good hand tightened around the edge of the bunk. "She was wrong. She had his habits, his vulgar little expressions. She looked at me as if I were a stranger."
+"But why Pallet Town?" Giovanni asked.
 
-"Amber," Giovanni said.
+Fuji looked up quickly. "Delia... Her mother... I thought... I thought we could be a family again..."
 
-"The copy." Fuji's mouth twisted. "She wasn't behaving like my daughter."
+"But..." Fuji trembled as he gazed daggers at the window. "She chose that lab assisstant. A stupid lab assisstant over me. Over her own daughter. And then they corrupted her. They corrupted my sweet little Amber and filled her with evil thoughts."
 
-Blaine's mouth hardened. "So you burned three houses, exposed our research, and killed a Magmar correcting her manners."
+Giovanni waited.
 
-"The transformation killed it."
+The words came faster.
 
-"You put the needle in its body."
+"She blamed me," Fuji said. "She looked at me as if I had abandoned them. But I was serving Kanto. Chimera was supposed to end the war. I left them because I thought it would keep them safe." His voice caught. "When I came home, Amber was dead. Johto called our surrender peace, and Delia looked at me as though I had killed our daughter myself."
 
-Fuji turned toward him. "It was necessary. Oak was interfering."
+His good hand struck his knee.
 
-The Magmar took one step forward. Heat pressed into the cell.
+"I tried to bring her back on my own. I tried until there was nothing left."
 
-Giovanni raised two fingers. The Pokemon stopped.
+"Just get to the point alrea---"
 
-"What did Oak see?" he asked.
+Giovanni raised one hand.
 
-"Ditto's transformation. The serum. An incomplete evolution."
+Blaine stopped. His jaw worked beneath his mustache, but he said nothing more.
 
-"What did the police recover?"
+"Continue," Giovanni said. "You tried until nothing was left?"
 
-"The syringe broke. They searched my coat, my bag, the street." Fuji lifted one shoulder. "Ask your people in their evidence room."
+Fuji looked between them. "Yes... Then you found me. You gave me the funding I needed. But even still, Giovanni, even still..."
 
-"And why did you allow them to put you in this cell?"
+"Can't she see how much time and effort I've put in? How much I love her... How much I love them both... Why..." Fuji gritted his teeth before releasing them. "What's the point? Even if I clone another Amber, she wouldn't be the same. It wouldn't be the same... without... Delia..."
 
-"Allow?" Fuji's bound arm shifted against his chest. "Oak's Pokemon attacked me after he fell. Ditto refused a direct order. I was unconscious when the police arrived."
+"Why not replace Delia?"
 
-Giovanni's expression did not change. "So you lost control of the operation and your own creation."
+"..." Fuji glanced up at Giovanni, a faint tremor of hope in his eyes before he shook his head. "I could recreate Delia's body. But her mind? Her memories? How do you clone memories?"
 
-"Can the serum be reproduced?"
+Giovanni stepped back with a faint smile.
 
-At that, Fuji looked up.
+Silence filled the cell as Fuji sat, deep in thought.
 
-"Of course it can."
+Fuji finally sighed, "Memories aren't cells..."
 
-"Without you?"
+Giovanni's brow furrowed at the final mutter before he turned to Blaine.
 
-The answer took longer.
+"Lets just make him disappear for now."
 
-"Not correctly."
+Fuji was shaken from his musings. "G-Giovanni..."
 
-Blaine let out one hard laugh. "The dead one might dispute your definition of correctly."
+Giovanni walked out without answering. Persian followed at his side.
 
-"It was an emergency dose administered under combat conditions. The pathway was unstable, the subject was already injured, and the process was interrupted. Given a controlled environment---"
+Blaine watched them leave with a twisted smile. Then he drew a Pokeball from inside his coat.
 
-"You had controlled environments," Blaine said. "You left them."
+"That Magmar was mine," he said.
 
-Fuji's voice rose. "Amber belonged with me. Everything was for her. The first body failed, so I corrected it. If this one has failed too, I will correct her again."
+The Pokeball opened. White light flooded the cell, and a Magmar took shape between them. Its flames drove back the darkness and turned the golden bars on the floor red.
 
-"The clone can be recreated?" Giovanni asked.
+Blaine removed his glasses. His face twisted as he looked down at Fuji.
 
-Fuji went still.
+"And you wasted him on a stupid tantrum."
 
-"With the proper material," he said. His voice had become careful again. Professional. "The work can always be improved."
+Magmar crossed the cell. Fuji backed into the bunk, his good hand rising too late. One hot claw closed around his cheek. Another pressed beneath his swollen eye.
 
-"And the Ditto?"
-
-"A byproduct."
-
-"One that matched a Champion's Dragonite."
-
-"A byproduct," Fuji repeated.
-
-Persian's tail passed once over Giovanni's polished shoe. Giovanni looked at Blaine.
-
-"Get rid of him."
-
-Fuji stared.
-
-Giovanni turned for the door. Persian followed without looking back.
-
-"Giovanni." Fuji stood too quickly and struck the wall with his bound shoulder. Pain folded him, but he caught himself. "You need me. You know what I made. You know what I can still make."
-
-The lock closed behind Giovanni.
-
-Blaine removed his glasses. His eyes were red-rimmed and dry.
-
-"You always were careless with lives that weren't yours," he said.
-
-He tipped his chin.
-
-Magmar crossed the cell. Fuji backed into the bunk, his good hand rising too late. One hot claw settled against his cheek. Another hooked beneath his swollen eye and pressed until the skin broke.
-
-Fuji screamed.
+"I won't make this quick," Blaine said.
 
 \[x.x\]/
 
-Water hissed against the wreckage. The central block had collapsed into a burning hollow. One exterior wall leaned over the street with three cell doors still set into it, all opening onto empty air. Firefighters poured water into the wreckage while police pushed a growing crowd behind temporary barriers. Ambulances stood in two rows. Some had their rear doors open. Some were already leaving.
+The detention block was still collapsing when Dragonite struck the road. Smoke rolled across the street as another section of the roof folded inward, carrying a shower of sparks into the evening sky. Somewhere inside, an alarm began to shriek. People stumbled from the neighboring buildings. Others stood frozen where the blast had thrown them.
 
-Dragonite landed hard enough to scatter ash across the road.
+Lance dropped from Dragonite's back. An officer staggered through the smoke with one sleeve smoldering. She saw him and tried to straighten.
 
-Lance dismounted before anyone could approach. The nearest officer recognized him and straightened. Her salute faltered.
+"C-Champion Lance!"
 
-"Champion."
+"What happened?"
 
-"When?"
+"I don't know! T-the east wing---"
 
-"Minutes ago. We think a gas main beneath the east wing ruptured. The first explosion took the cells, then the fire reached the administrative block."
+The building groaned behind her.
 
-"You think."
+"Dragonite, Twister! Blow away the fire!"
 
-"That's the preliminary cause."
+Dragonite beat its wings. A spiraling wind tore through the shattered entrance and drove the flames back into the ruined block. Smoke and embers climbed above the rooftops.
 
-A stretcher passed them under a white sheet. The shape beneath it was too small to identify from where Lance stood.
+Something moved at the edge of Lance's vision.
 
-"How many?" he asked.
+A man's shadow slipped around the corner of the building and into a narrow alley.
 
-The officer looked toward the ruin. "We don't know. The shift roster and intake records were inside. There may have been a partial evacuation before the second collapse, but nobody agrees on when it began. Staff, guards, prisoners awaiting trial..." She stopped. "Recovery teams haven't reached the lower cells."
+Lance ran after it.
 
-"Who was held in the east wing?"
+He rounded the corner seconds later and stopped. The alley ended at a windowless brick wall. There were no doors, no fire escapes, and no sign of the man. Only ash turning slowly in Dragonite's wind.
 
-The officer swallowed. "Among the others... Dr. Tenma Fuji. The man arrested after the Pallet attack. Cell E-seven."
+"Viridian is only one route north of Pallet Town..." Lance muttered as he looked back toward the burning detention block.
 
-Lance's eyes narrowed. "Fuji."
-
-"He was listed as present at the last count."
-
-"Which remains are his?"
-
-"No one from that wing has been identified."
-
-"Then his death hasn't been confirmed."
-
-The officer hesitated. "The incident commander has listed everyone in the east wing as presumed dead. The heat... Champion, some of the remains may never be separated."
-
-Behind the barriers, reporters called questions over one another. How many dead? Why had detainees not been evacuated? Had the city known about the gas leak? One voice shouted Fuji's name. Another demanded to know how a prisoner accused in the Pallet disaster had died in Viridian custody.
-
-Lance walked past the officer.
-
-Heat rolled from the wreckage despite the water. The blast had thrown paper, concrete, twisted bars, and pieces of office furniture across the yard, then burned most of them past use. A police evidence crate lay split near the fence. Its numbered bags had melted together into a colorless mass.
-
-Dragonite followed until a firefighter raised an arm and pointed them back from the unstable wall.
-
-Lance stopped.
-
-Several nights earlier, Oak had placed Fuji's name beside an impossible transformation, a dead Magmar, and a vial of pink liquid. Lance had buried it beneath eleven other calls and days of negotiations. Now chance had carried him over Viridian as the prison exploded.
-
-A gas main had failed beneath the right cell at the right hour, taking the prisoner, the records, the evidence, and an unknown number of people with it.
-
-Across the street, an official repeated the preliminary finding to the cameras. Gas-line explosion. Dr. Fuji presumed dead. Casualties unconfirmed.
-
-Lance looked through the steam and smoke at the three cell doors hanging in the broken wall. None of them led anywhere now.
-
-Behind him, Dragonite waited. In front of him, the hoses washed gray ash into the gutters, and whatever had happened inside the cells went with it.
+"Could it be...?"

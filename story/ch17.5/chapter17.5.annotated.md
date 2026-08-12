@@ -1,15 +1,15 @@
 ---
 chapter: 17.5
-title: "[Chapter 17.5] Fault Lines"
+title: "[Chapter 17.5] Warning Signs"
 status: draft
 hidden: true
 updated: 2026-08-12
 ---
 
-# \[Chapter 17.5\] Fault Lines
+# \[Chapter 17.5\] Warning Signs
 
 <!--
-Foreshadowing junction: Oak's wartime failure, Lance's emerging international role, Rocket's evolution research, Giovanni's institutional reach, and Fuji's apparent death all meet here. The passage should connect those threads without explaining them.
+Foreshadowing junction: Oak's wartime failure, Lance's emerging international role, Rocket's evolution research, Giovanni's institutional reach, and Fuji's disappearance all meet here. The chapter should connect those threads without explaining their eventual outcomes.
 
 KB:
 https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/professor-oak.md
@@ -23,8 +23,6 @@ Outside the tall windows, the sky had gone dark. Machines hummed along the walls
 
 <!--
 This occurs a few days after Chapter 17.
-
-KB: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/professor-oak.md
 -->
 
 The computer gave a sharp electronic chime.
@@ -155,11 +153,9 @@ Lance sighed and selected it. "This won't be nearly as interesting."
 A stern-faced official appeared and began explaining a dispute over Tauros grazing routes.
 
 <!--
-Oak's call was one callback in a queue Lance was already processing. Once the call ends, Lance's unfinished thought remains focused on Oak and their personal history rather than on recognizing Fuji. The backlog also seeds the expanding jurisdictional, criminal, and Mystery Dungeon pressures surrounding the new Champion.
+Oak's call was one callback in a queue Lance was already processing. His clenched fist belongs to his unresolved history with Oak, not to recognition of Fuji. The abrupt return to routine administration shows how easily an important warning can disappear beneath the new Champion's workload.
 
-KB:
-https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/lance.md
-https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/organizations/international-police.md
+KB: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/lance.md
 -->
 
 A few hours later, when Lance finally reached his room, he collapsed face-first onto the bed, his cape still fastened around his shoulders.
@@ -197,7 +193,11 @@ Dragonite landed outside the Sinnoh League's conference wing. Lance threw open t
 Lance's eyes swept across the room. Pryce. Palmer. A Blackthorn elder. Officers and League representatives from four regions.
 
 <!--
-This session is held in Sinnoh while the region formally joins the International Police network. Lance takes Oak's video call from Indigo, where the wired video-phone network can carry it, and flies to Sinnoh the following morning. Interregional video communication does not yet depend on satellites and should not be treated as effortless; maintaining physical routes remains essential. A senior member of the Officer Jenny clan chairs the meeting, reflecting the clan's central role in creating the International Police. The room also includes Lys, Lance, Pryce, one of Lance's senior Blackthorn relatives, other International Police personnel, a few government and regional delegates, and Sinnoh's delegation. Palmer is Sinnoh's reigning Champion. Cynthia is Sinnoh's unusually young Elite Four member and attends because her mythological research may help interpret activity around ancient ruins and unidentified golem-like Pokemon; she later succeeds Palmer as Champion. Brandon is currently only an exceptionally capable Ace Trainer. After capturing one of the three golem-like Pokemon, he was invited to assist the International Police as an auxiliary field operative whenever available. This begins his eventual association with all three Regis rather than presenting him as an already established legendary explorer or Frontier Brain. Steven Stone is not present. Most attendees remain unnamed in prose because their identities are background continuity, not the scene's immediate work. Spatial disturbances do not begin until Cyrus's later meddling and should not be foreshadowed as a present crisis.
+Sinnoh hosts the negotiations later known as the Sinnoh Accords. Palmer is the reigning Sinnoh Champion. The old officer is a senior member of the Jenny clan and chairs the meeting because that clan's cross-regional network helped establish the International Police. Pryce and the Blackthorn elder place Johto's older power structures in the room without turning the arrival into a complete attendee inventory.
+
+Lance took Oak's call from Indigo and crossed to Sinnoh physically the next morning. Interregional communication and travel are improving, but neither should feel effortless; securing physical routes is still the purpose of the negotiations.
+
+KB: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/organizations/international-police.md
 -->
 
 Lance stopped inside the doorway and bowed to the room. "Lance, Champion of Indigo. Please forgive my late arrival."
@@ -258,6 +258,7 @@ The presentation has three movements: natural disasters and famine; legendary di
 KB:
 https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/world/phenomena/mystery-dungeons.md
 https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/mystery-dungeon-instability.md
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/organizations/team-rocket.md
 -->
 
 The negotiations consumed the next several days. The final session did not adjourn until late afternoon.
@@ -278,220 +279,157 @@ Lance does not remember Fuji during the meeting and is not travelling to Viridia
 
 \[!.!\]/
 
-Several hours earlier, Dr. Fuji sat on the narrow bunk with his injured arm bound against his chest.
+A short while earlier, Dr. Fuji sat alone on the narrow bunk, his injured arm resting in a sling.
 
-It was a reinforced cell, gray beneath fluorescent light. One of Fuji's eyes had swollen nearly shut. Dried blood darkened the collar of the shirt the police had returned to him after processing.
+Most of the cell had already fallen into darkness. The last of the afternoon sun slipped through a narrow window high in the wall, laying long golden bars across the floor. One of Fuji's eyes had swollen nearly shut. Dried blood darkened the collar of the shirt the police had returned to him after processing.
 
-Locks opened beyond the door.
+The iron bars rattled open.
 
 Fuji raised his head.
 
-A guard opened the cell without being asked twice. Giovanni stood behind him in a black suit and long brown coat, Persian close enough that its pale shoulder brushed his leg.
+Two men stepped through the golden streaks of afternoon light. The first wore a finely tailored charcoal suit with a deep red tie. A Persian moved at his side, its pale shoulder nearly brushing his leg. The second was older and bald, with a thick white mustache and round dark glasses. His lab coat hung open over a dark shirt and a flame-patterned tie, the dying sunlight burning across his lenses.
+
+Fuji looked up at them. "Giovanni... Blaine..." he said weakly.
 
 <!--
-Giovanni enters openly because his public office and private influence already reach Viridian's institutions. That is more important than a covert Rocket infiltration: his later political power grows from institutions treating his commands as normal.
+Giovanni's access is deliberately presented as ordinary rather than as a covert Rocket infiltration. The omitted mechanics leave open how much comes from his public office, local influence, or hidden Rocket control. That ambiguity foreshadows political power exercised through institutions rather than outside them.
 
 KB:
 https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/giovanni.md
 https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/places/kanto/viridian-gym.md
 -->
 
-"Leader Giovanni," the guard said. "We'll be outside."
+Blaine moved to the wall opposite the bunk and crossed his arms.
 
-Giovanni entered as if the cell belonged to his Gym. Blaine followed, his dark glasses reflecting the fluorescent panel. A Magmar filled the doorway behind him.
+Giovanni stopped in front of Fuji, his shadow blocking half of the sun from reaching Fuji anymore.
 
-Not Fuji's Magmar. This one stood unscarred and steady, its fire burning the proper orange. It never looked away from Fuji.
+"Why did you attack Pallet Town?"
 
-The guard shut the door.
+Fuji's good hand tightened around the edge of the bunk.
 
-Fuji looked from Giovanni to Blaine. "So they sent both of you."
+"The clone was a failure."
 
-"No one sent me," Giovanni said.
+Giovanni didn't respond and let Fuji continue.
 
-Blaine moved to the wall opposite the bunk. The Magmar remained beside him, claws flexing once against its palms.
+"The research was perfect. Every DNA sequence. Every measurement. I reconstructed her exactly as she had been. She looked like her. She sounded like her. Even the birthmark beneath her left shoulder was in precisely the right place. Her brain was the same."
 
-Giovanni stopped in front of Fuji. "Why did you go to Pallet?"
+He looked down at his open hand.
 
-"You know why."
+"But she held her chopsticks incorrectly. She hated the dresses her mother made for her. She stared at the cartoons she used to love as if she had never seen them before." His fingers curled. "She spoke like someone else. Sometimes she looked at me as if I were the stranger."
 
-"I know what you were permitted to do. I asked what you did."
+"But why Pallet Town?" Giovanni asked.
 
-Fuji's good hand tightened around the edge of the bunk. "She was wrong. She had his habits, his vulgar little expressions. She looked at me as if I were a stranger."
+Fuji looked up quickly. "Delia... Her mother... I thought... I thought we could be a family again..."
 
-"Amber," Giovanni said.
+"But..." Fuji trembled as he gazed daggers at the window. "She chose that lab assisstant. A stupid lab assisstant over me. Over her own daughter. And then they corrupted her. They corrupted my sweet little Amber and filled her with evil thoughts."
 
-"The copy." Fuji's mouth twisted. "She wasn't behaving like my daughter."
+Giovanni waited.
 
-Blaine's mouth hardened. "So you burned three houses, exposed our research, and killed a Magmar correcting her manners."
+The words came faster.
 
-"The transformation killed it."
+"She blamed me," Fuji said. "She looked at me as if I had abandoned them. But I was serving Kanto. Chimera was supposed to end the war. I left them because I thought it would keep them safe." His voice caught. "When I came home, Amber was dead. Johto called our surrender peace, and Delia looked at me as though I had killed our daughter myself."
 
-"You put the needle in its body."
+His good hand struck his knee.
 
-Fuji turned toward him. "It was necessary. Oak was interfering."
+"I tried to bring her back on my own. I tried until there was nothing left."
 
-The Magmar took one step forward. Heat pressed into the cell.
+"Just get to the point alrea---"
 
-Giovanni raised two fingers. The Pokemon stopped.
+Giovanni raised one hand.
 
-"What did Oak see?" he asked.
+Blaine stopped. His jaw worked beneath his mustache, but he said nothing more.
 
-"Ditto's transformation. The serum. An incomplete evolution."
+"Continue," Giovanni said. "You tried until nothing was left?"
 
-"What did the police recover?"
+Fuji looked between them. "Yes... Then you found me. You gave me the funding I needed. But even still, Giovanni, even still..."
 
-"The syringe broke. They searched my coat, my bag, the street." Fuji lifted one shoulder. "Ask your people in their evidence room."
-
-"And why did you allow them to put you in this cell?"
-
-"Allow?" Fuji's bound arm shifted against his chest. "Oak's Pokemon attacked me after he fell. Ditto refused a direct order. I was unconscious when the police arrived."
-
-Giovanni's expression did not change. "So you lost control of the operation and your own creation."
-
-"Can the serum be reproduced?"
-
-At that, Fuji looked up.
-
-"Of course it can."
-
-"Without you?"
-
-The answer took longer.
-
-"Not correctly."
+"Can't she see how much time and effort I've put in? How much I love her... How much I love them both... Why..." Fuji gritted his teeth before releasing them. "What's the point? Even if I clone another Amber, she wouldn't be the same. It wouldn't be the same... without... Delia..."
 
 <!--
-This is the information Giovanni needs. Fuji is too unstable to remain publicly alive but too scientifically valuable to kill. The pause sets up the hidden transfer and his later work on a second Mewtwo.
+Fuji's account is self-justification, not neutral history. Original Amber died in a collateral civilian disaster during the Kanto-Johto war while Fuji was away working on Project Chimera. Fuji converts that grief into blame: Johto killed Amber, Delia failed to appreciate his sacrifice, and the recreated Amber's independence proves the experiment failed.
+
+KB:
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/dr-fuji.md
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/delia-ketchum.md
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/world/history/kanto-johto-unification-war.md
+-->
+
+"Why not replace Delia?"
+
+"..." Fuji glanced up at Giovanni, a faint tremor of hope in his eyes before he shook his head. "I could recreate Delia's body. But her mind? Her memories? How do you clone memories?"
+
+Giovanni stepped back with a faint smile.
+
+Silence filled the cell as Fuji sat, deep in thought.
+
+Fuji finally sighed, "Memories aren't cells..."
+
+<!--
+Giovanni does not resolve Fuji's grief or debate the nature of love. He listens until Fuji exposes the remaining scientific problem himself: a reconstructed body does not reproduce identity or memory. Giovanni's faint smile marks Fuji as potentially useful despite his instability and foreshadows later cloning and Mewtwo work without confirming that Fuji survives this scene.
 
 KB:
 https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/00-perfect-family/giovanni-fuji-jail.md
 https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/mewtwo-ambertwo.md
 -->
 
-Blaine let out one hard laugh. "The dead one might dispute your definition of correctly."
+Giovanni's brow furrowed at the final mutter before he turned to Blaine.
 
-"It was an emergency dose administered under combat conditions. The pathway was unstable, the subject was already injured, and the process was interrupted. Given a controlled environment---"
+"Lets just make him disappear for now."
 
-"You had controlled environments," Blaine said. "You left them."
+Fuji was shaken from his musings. "G-Giovanni..."
 
-Fuji's voice rose. "Amber belonged with me. Everything was for her. The first body failed, so I corrected it. If this one has failed too, I will correct her again."
+Giovanni walked out without answering. Persian followed at his side.
 
-"The clone can be recreated?" Giovanni asked.
+Blaine watched them leave with a twisted smile. Then he drew a Pokeball from inside his coat.
 
-Fuji went still.
+"That Magmar was mine," he said.
 
-"With the proper material," he said. His voice had become careful again. Professional. "The work can always be improved."
+The Pokeball opened. White light flooded the cell, and a Magmar took shape between them. Its flames drove back the darkness and turned the golden bars on the floor red.
 
-"And the Ditto?"
+Blaine removed his glasses. His face twisted as he looked down at Fuji.
 
-"A byproduct."
+"And you wasted him on a stupid tantrum."
 
-"One that matched a Champion's Dragonite."
+Magmar crossed the cell. Fuji backed into the bunk, his good hand rising too late. One hot claw closed around his cheek. Another pressed beneath his swollen eye.
 
-"A byproduct," Fuji repeated.
-
-Persian's tail passed once over Giovanni's polished shoe. Giovanni looked at Blaine.
-
-"Get rid of him."
-
-<!--
-Reader-facing meaning: execution. Hidden meaning: make Fuji officially dead and retain him off-books. The KB jail page still mandates the older wording "Make him disappear quietly," so that conflict must be resolved before finalization.
-
-KB: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/00-perfect-family/giovanni-fuji-jail.md
--->
-
-Fuji stared.
-
-Giovanni turned for the door. Persian followed without looking back.
-
-"Giovanni." Fuji stood too quickly and struck the wall with his bound shoulder. Pain folded him, but he caught himself. "You need me. You know what I made. You know what I can still make."
-
-The lock closed behind Giovanni.
-
-Blaine removed his glasses. His eyes were red-rimmed and dry.
-
-"You always were careless with lives that weren't yours," he said.
-
-He tipped his chin.
-
-Magmar crossed the cell. Fuji backed into the bunk, his good hand rising too late. One hot claw settled against his cheek. Another hooked beneath his swollen eye and pressed until the skin broke.
-
-Fuji screamed.
+"I won't make this quick," Blaine said.
 
 \[x.x\]/
 
-Water hissed against the wreckage. The central block had collapsed into a burning hollow. One exterior wall leaned over the street with three cell doors still set into it, all opening onto empty air. Firefighters poured water into the wreckage while police pushed a growing crowd behind temporary barriers. Ambulances stood in two rows. Some had their rear doors open. Some were already leaving.
+The detention block was still collapsing when Dragonite struck the road. Smoke rolled across the street as another section of the roof folded inward, carrying a shower of sparks into the evening sky. Somewhere inside, an alarm began to shriek. People stumbled from the neighboring buildings. Others stood frozen where the blast had thrown them.
 
 <!--
-Open decision: the real casualty count determines Giovanni's moral threshold. Do not settle whether he knowingly killed detainees and staff, partially evacuated the facility, or falsified the roster until that choice is made.
+Open decision: the real casualty count determines Giovanni's moral threshold. Do not settle whether he knowingly killed detainees and staff, partially evacuated the facility, or falsified the roster until that choice is made. This is the immediate aftermath, so no official cause, casualty count, or presumption of Fuji's death has been established yet.
 -->
 
-Dragonite landed hard enough to scatter ash across the road.
+Lance dropped from Dragonite's back. An officer staggered through the smoke with one sleeve smoldering. She saw him and tried to straighten.
 
-Lance dismounted before anyone could approach. The nearest officer recognized him and straightened. Her salute faltered.
+"C-Champion Lance!"
 
-"Champion."
+"What happened?"
 
-"When?"
+"I don't know! T-the east wing---"
 
-"Minutes ago. We think a gas main beneath the east wing ruptured. The first explosion took the cells, then the fire reached the administrative block."
+The building groaned behind her.
 
-"You think."
+"Dragonite, Twister! Blow away the fire!"
 
-"That's the preliminary cause."
+Dragonite beat its wings. A spiraling wind tore through the shattered entrance and drove the flames back into the ruined block. Smoke and embers climbed above the rooftops.
 
-A stretcher passed them under a white sheet. The shape beneath it was too small to identify from where Lance stood.
+Something moved at the edge of Lance's vision.
 
-"How many?" he asked.
+A man's shadow slipped around the corner of the building and into a narrow alley.
 
-The officer looked toward the ruin. "We don't know. The shift roster and intake records were inside. There may have been a partial evacuation before the second collapse, but nobody agrees on when it began. Staff, guards, prisoners awaiting trial..." She stopped. "Recovery teams haven't reached the lower cells."
+Lance ran after it.
 
-"Who was held in the east wing?"
+He rounded the corner seconds later and stopped. The alley ended at a windowless brick wall. There were no doors, no fire escapes, and no sign of the man. Only ash turning slowly in Dragonite's wind.
 
-The officer swallowed. "Among the others... Dr. Tenma Fuji. The man arrested after the Pallet attack. Cell E-seven."
+"Viridian is only one route north of Pallet Town..." Lance muttered as he looked back toward the burning detention block.
 
-Lance's eyes narrowed. "Fuji."
-
-"He was listed as present at the last count."
-
-"Which remains are his?"
-
-"No one from that wing has been identified."
-
-"Then his death hasn't been confirmed."
+"Could it be...?"
 
 <!--
-This is the chapter's evidentiary boundary. Authorities may presume Fuji dead, but neither Lance nor the narration confirms an identifiable body.
+The shadow is intentionally unidentifiable. Lance's suspicion comes from the proximity between Viridian and Pallet and from Oak's call, not from knowing that Fuji was held in this facility. The chapter ends before confirming who Lance saw, whether Fuji survived, or what caused the explosion.
+
+KB: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/00-perfect-family/giovanni-fuji-jail.md
 -->
-
-The officer hesitated. "The incident commander has listed everyone in the east wing as presumed dead. The heat... Champion, some of the remains may never be separated."
-
-Behind the barriers, reporters called questions over one another. How many dead? Why had detainees not been evacuated? Had the city known about the gas leak? One voice shouted Fuji's name. Another demanded to know how a prisoner accused in the Pallet disaster had died in Viridian custody.
-
-<!--
-The scandal foreshadows Giovanni's information strategy: his power will depend not only on hiding Rocket evidence, but on making an official explanation more credible than his opponents.
-
-KB: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/giovanni-team-rocket.md
--->
-
-Lance walked past the officer.
-
-Heat rolled from the wreckage despite the water. The blast had thrown paper, concrete, twisted bars, and pieces of office furniture across the yard, then burned most of them past use. A police evidence crate lay split near the fence. Its numbered bags had melted together into a colorless mass.
-
-Dragonite followed until a firefighter raised an arm and pointed them back from the unstable wall.
-
-Lance stopped.
-
-Several nights earlier, Oak had placed Fuji's name beside an impossible transformation, a dead Magmar, and a vial of pink liquid. Lance had buried it beneath eleven other calls and days of negotiations. Now chance had carried him over Viridian as the prison exploded.
-
-A gas main had failed beneath the right cell at the right hour, taking the prisoner, the records, the evidence, and an unknown number of people with it.
-
-Across the street, an official repeated the preliminary finding to the cameras. Gas-line explosion. Dr. Fuji presumed dead. Casualties unconfirmed.
-
-Lance looked through the steam and smoke at the three cell doors hanging in the broken wall. None of them led anywhere now.
-
-<!--
-Final image: Lance possesses the highest visible authority in Indigo, but every official route to the truth has been destroyed. This points toward both the international task force and his later conflict with Giovanni's hidden institutional power.
--->
-
-Behind him, Dragonite waited. In front of him, the hoses washed gray ash into the gutters, and whatever had happened inside the cells went with it.
