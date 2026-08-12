@@ -8,9 +8,24 @@ updated: 2026-08-12
 
 # \[Chapter 17.5\] Fault Lines
 
+<!--
+Foreshadowing junction: Oak's wartime failure, Lance's emerging international role, Rocket's evolution research, Giovanni's institutional reach, and Fuji's apparent death all meet here. The passage should connect those threads without explaining them.
+
+KB:
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/professor-oak.md
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/lance.md
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/00-perfect-family/giovanni-fuji-jail.md
+-->
+
 The laboratory was empty except for Professor Oak.
 
 Outside the tall windows, the sky had gone dark. Machines hummed along the walls, and every shelf between them was packed with books or carefully labeled Pokeballs. Oak sat beneath the laboratory's enormous computer screen with his head bowed. Between his fingers, he slowly turned a small vial. The last few drops of a certain pink serum clung to the bottom.
+
+<!--
+This occurs a few days after Chapter 17.
+
+KB: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/professor-oak.md
+-->
 
 The computer gave a sharp electronic chime.
 
@@ -22,29 +37,47 @@ Oak pressed a key with his free hand to answer the call. A young man sat straigh
 
 Lance scratched the back of his head. "My apologies. I've been rather busy these past few weeks."
 
+<!--
+Lance has been following the destruction left by Team Rocket's attempts to recapture Mewtwo. He does not disclose that classified problem to Oak. His exhaustion should foreshadow a larger off-page crisis without identifying it.
+
+KB:
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/continuity/events/1-mewtwo-escape.md
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/mewtwo-ambertwo.md
+-->
+
 Oak studied him with a grin. "Being Champion isn't easy, is it?"
 
-Lance laughed. "Ha! No, it isn't. I still don't understand why you ever wanted the position, especially without a clan behind you."
+Lance laughed. "Ha! No, it isn't. I still don't know how you ever managed without a clan behind you."
 
 Oak's grin faded. He looked down at his hands. His fingers had begun to tremble.
 
-"Neither do I," he said quietly. "Arrogance, perhaps."
+"I didn't," he said quietly. "I failed as Champion. Arrogance merely kept me from realizing it sooner."
+
+<!--
+Lance means the burden of governing without institutional backing. Oak rejects the compliment because he judges his political leadership by the secession war, not by winning the title. His shaking hands imply responsibility for bloodshed without explaining it.
+
+KB:
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/world/history/kanto-johto-unification-war.md
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/world/society/clan-system.md
+-->
 
 He drew a slow breath and looked back at Lance. "But that isn't why I called."
 
 Lance's expression sobered.
 
-"There was an attack in Pallet."
+"There was an attack in Pallet Town. One of my good assistants was killed," Oak continued. "And the killer didn't hesitate to face me either."
 
-"..."
+"Ha! Even if you weren't a former Champion, people shouldn't take Professors as easy targets."
 
-"One of my good assistants was killed," Oak said. "The man responsible didn't hesitate to attack me either."
+"That's the thing... he could match me," Oak said as he lifted the vial. "He injected this into a Magmar. It caused some kind of evolution. Do you know anything about it? Perhaps... a certain pet project of the Indigo League?"
 
-Lance brought a hand to his chin. "Didn't hestitate to attack a former champion? Because of the evolution?"
+<!--
+Oak is alluding to Project X, a secret international compact whose members pool combat knowledge and jointly investigate Mega Evolution. Oak was excluded because Lance and Blackthorn consider him dangerous, but he learned that the project exists through an undisclosed source. He does not know its methods or membership, and Fuji's serum is unrelated to its Mega Evolution research.
 
-Oak nodded and lifted the vial. "I couldn't recover much. Do you know anything about it? Perhaps... a certain pet project of the Indigo League?"
+KB: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/organizations/project-x.md
+-->
 
-Lance gave a strained chuckle. "An evolution serum for Magmar... I can't say I've heard of anything like it."
+Lance gave a strained chuckle. "An evolution for Magmar... I can't say I've heard of anything like it."
 
 Oak's eyes narrowed. A draft moved through the laboratory, stirring the loose papers across his desk.
 
@@ -52,17 +85,48 @@ Lance's smile faded. He met Oak's gaze through the screen.
 
 Oak lowered the vial. "I hope not."
 
-"And I hope you don't pry any further, Professor. You may have been the champion in the past, but right now, you are merely a Pokemon Professor."
+For several seconds, neither man spoke.
 
-For several seconds, neither man spoke as they glared at each other.
+Oak was the first to break the silence. He lowered his head and sighed. "The attack seemed personally motivated. I just fear it might not be the last we see of this."
 
-Oak was the first to break as he lowered his head and sighed, "The attack seemed personally motivated this time, but I fear what can happen if such a drug is mass produced. I trust you are regulating this properly? And if you will, let me know if it turns up again."
+"Who attacked you?" Lance asked.
 
-"I'll note it down. I wouldn't gaurentee you will be informed."
+"Tenma Fuji. A young Kantoan prodigy. He was a Celadon University researcher before the war. I haven't been able to find anything recent about him, though. I would appreciate any unofficial information regarding him."
 
-"As long as you guys are doing your jobs," Oak sighed. He then spun the few drops of liquid in the serum for a moment as if debating something before continuing, "If I could pull in a favor, I would like you to look into the attacker, Dr. Fuji. Aparently, he was a Celadon University researcher... I think from before the war. He studied cloning."
+Lance's eyes narrowed. "A Kantoan scientist, huh? I'll note it down. Send over the sample. I'll have League scientists examine it."
 
-"Dr. Fuji... cloning... that sounds familiar. I'll let you know if I can," Lance nodded after thinking for a solid second. "Is that everything?"
+"Thank you. I'll send it tonight."
+
+Oak turned the vial between his fingers. "There is one other matter."
+
+Lance waited.
+
+"I won't ask you to confirm anything about the project I mentioned. But between this serum and the increasing natural disasters and increasing crime, I would like to formally request the League's permission to reassemble my old team."
+
+The exhaustion vanished from Lance's face.
+
+"No."
+
+When Oak raised his eyes to the screen, Lance's stare met him like a blade.
+
+"The terms of your pardon have not changed."
+
+Oak held his gaze for a moment, then sighed. "I understand."
+
+"Is that all?"
+
+Oak nodded.
+
+"Then goodbye, Oak." Lance paused. When he continued, some of the coldness had left his voice. "I'm sorry for your loss."
+
+Oak lowered his head.
+
+<!--
+Lance rejects the request immediately because Oak's former Champion team is inseparable from the secession war. Oak led the opposing forces when Lance's shunned older brother died; Blackthorn regarded the brother's death as good riddance, but Lance loved him and privately holds Oak responsible. Renewed disasters make Lance more afraid of Oak remilitarizing, not less.
+
+KB: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/lance.md
+-->
+
 
 \[?.?\]/
 
@@ -92,6 +156,15 @@ Lance sat up.
 
 The name belonged to a file he had read months ago, then seen again in an International Police digest: researchers in advanced biology who had vanished from universities, private firms, and League laboratories. Some were missing. Some had resigned for positions that could not be verified. Several names surfaced again at the edges of investigations into Team Rocket facilities and procurement fronts.
 
+<!--
+Fuji becomes one clue in Rocket's larger scientific recruitment and procurement network. Whether this file belongs to Indigo, the newly forming International Police, or a combined investigation remains open.
+
+KB:
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/organizations/international-police.md
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/organizations/team-rocket.md
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/dr-fuji.md
+-->
+
 Fuji had been one of them.
 
 Not proof. Not even an accusation. A name carried from one incomplete report to another until it disappeared beneath newer emergencies.
@@ -119,6 +192,14 @@ Locks opened beyond the door.
 Fuji raised his head.
 
 A guard opened the cell without being asked twice. Giovanni stood behind him in a black suit and long brown coat, Persian close enough that its pale shoulder brushed his leg.
+
+<!--
+Giovanni enters openly because his public office and private influence already reach Viridian's institutions. That is more important than a covert Rocket infiltration: his later political power grows from institutions treating his commands as normal.
+
+KB:
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/giovanni.md
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/places/kanto/viridian-gym.md
+-->
 
 "Leader Giovanni," the guard said. "We'll be outside."
 
@@ -184,6 +265,14 @@ The answer took longer.
 
 "Not correctly."
 
+<!--
+This is the information Giovanni needs. Fuji is too unstable to remain publicly alive but too scientifically valuable to kill. The pause sets up the hidden transfer and his later work on a second Mewtwo.
+
+KB:
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/00-perfect-family/giovanni-fuji-jail.md
+https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/mewtwo-ambertwo.md
+-->
+
 Blaine let out one hard laugh. "The dead one might dispute your definition of correctly."
 
 "It was an emergency dose administered under combat conditions. The pathway was unstable, the subject was already injured, and the process was interrupted. Given a controlled environment---"
@@ -209,6 +298,12 @@ Fuji went still.
 Persian's tail passed once over Giovanni's polished shoe. Giovanni looked at Blaine.
 
 "Get rid of him."
+
+<!--
+Reader-facing meaning: execution. Hidden meaning: make Fuji officially dead and retain him off-books. The KB jail page still mandates the older wording "Make him disappear quietly," so that conflict must be resolved before finalization.
+
+KB: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/00-perfect-family/giovanni-fuji-jail.md
+-->
 
 Fuji stared.
 
@@ -240,6 +335,10 @@ Or what remained of it.
 
 The central block had collapsed into a burning hollow. One exterior wall leaned over the street with three cell doors still set into it, all opening onto empty air. Firefighters poured water into the wreckage while police pushed a growing crowd behind temporary barriers. Ambulances stood in two rows. Some had their rear doors open. Some were already leaving.
 
+<!--
+Open decision: the real casualty count determines Giovanni's moral threshold. Do not settle whether he knowingly killed detainees and staff, partially evacuated the facility, or falsified the roster until that choice is made.
+-->
+
 Dragonite landed hard enough to scatter ash across the road.
 
 Lance dismounted before anyone could approach. The nearest officer recognized him and straightened. Her salute faltered.
@@ -270,9 +369,19 @@ The officer looked toward the ruin. "We don't know. The shift roster and intake 
 
 "Then his death hasn't been confirmed."
 
+<!--
+This is the chapter's evidentiary boundary. Authorities may presume Fuji dead, but neither Lance nor the narration confirms an identifiable body.
+-->
+
 The officer hesitated. "The incident commander has listed everyone in the east wing as presumed dead. The heat... Champion, some of the remains may never be separated."
 
 Behind the barriers, reporters called questions over one another. How many dead? Why had detainees not been evacuated? Had the city known about the gas leak? One voice shouted Fuji's name. Another demanded to know how a prisoner accused in the Pallet disaster had died in Viridian custody.
+
+<!--
+The scandal foreshadows Giovanni's information strategy: his power will depend not only on hiding Rocket evidence, but on making an official explanation more credible than his opponents.
+
+KB: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/giovanni-team-rocket.md
+-->
 
 Lance walked past the officer.
 
@@ -291,5 +400,9 @@ Or a gas main had failed beneath the right cell at the right hour, taking the pr
 Across the street, an official repeated the preliminary finding to the cameras. Gas-line explosion. Dr. Fuji presumed dead. Casualties unconfirmed.
 
 Lance looked through the steam and smoke at the three cell doors hanging in the broken wall. None of them led anywhere now.
+
+<!--
+Final image: Lance possesses the highest visible authority in Indigo, but every official route to the truth has been destroyed. This points toward both the international task force and his later conflict with Giovanni's hidden institutional power.
+-->
 
 Behind him, Dragonite waited. In front of him, the hoses washed gray ash into the gutters, and whatever had happened inside the cells went with it.

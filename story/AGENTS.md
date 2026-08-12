@@ -58,12 +58,14 @@ When drafting, confirm the POV for the chapter from the plan or notes before wri
 
 When `chapterX.annotated.md` exists, it is the **only editable prose source**. Never revise its generated `chapterX.md` directly.
 
-Place reasoning immediately after the paragraph or dialogue unit it supports:
+Place reasoning in a standalone comment block after the paragraph or dialogue unit it supports. The `<!--` opener must begin on its own line; never append it to prose:
 
 ```md
 Oak studied him with a grin. "Being Champion isn't easy, is it?"
 
-<!-- Establishes shared experience while letting Oak test how Lance is carrying the office. -->
+<!--
+Establishes shared experience while letting Oak test how Lance is carrying the office.
+-->
 ```
 
 Annotation rules:

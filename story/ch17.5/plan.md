@@ -208,33 +208,22 @@ Possible exchange:
 >
 > "I believe there will be."
 
-## Beat 11: Intelligence bargain and task-force offer
+## Beat 11: Fuji inquiry and Oak's rejected request
 
-- Oak asks Lance to determine whether more serum exists and to inform him if it appears again.
-- Lance agrees to investigate, then pauses before deciding to use Oak's request as leverage.
-- Several regional Leagues and the International Police have already been discussing a new joint task force for threats that exceed ordinary local authority:
-  - cross-regional organized crime;
-  - increasing Mystery Dungeon disturbances;
-  - legendary Pokemon incidents;
-  - other unusually powerful international threats.
-- Lance had already debated approaching Oak before this call. Fuji's serum does not inspire the task force; it gives Lance an opportunity to recruit Oak.
-- Lance does not fully trust Oak. This remains subtext. He offers intelligence only through formal participation and institutional oversight rather than giving a private former Champion unrestricted classified access.
-- Lance's bargain:
-
-> "Join it, and I'll ensure you get whatever we have about Dr. Fuji and the serum."
-
-- Oak asks whether joining would allow him to rebuild his former Champion team.
-- The League, not a separate council, controls the relevant postwar restrictions.
-- Oak retained some Pokemon, including Dragonite, Arcanine, Tauros, and Exeggutor, but his pardon prevents him from formally reassembling or deploying his complete wartime roster.
-- Some former partners may be dispersed, roaming, or under League supervision; exact custody remains open.
-- Lance cannot promise unilateral approval. He pauses and says he will bring the request to the League or think about what authorization can be granted.
-- This is the decision at the end of the call: Oak considers or accepts formal reentry under the proposed task force in exchange for intelligence and a path toward restoring his team.
+- Oak identifies Tenma Fuji as a former Celadon University researcher and asks for unofficial information about his missing recent history.
+- Lance agrees to note the name and asks Oak to send the serum sample for League scientists to examine.
+- Oak connects the serum, the secret international evolution project he has heard about, and increasing natural disasters into a broader fear for the future.
+- Oak asks permission to reassemble his former Champion team so he can prepare for those threats.
+- Lance rejects the request immediately.
+- The League's postwar restrictions and the terms of Oak's pardon prevent him from formally reassembling or deploying his complete wartime roster.
+- Lance's refusal is both institutional and personal: Oak's wartime forces are associated with the death of Lance's older brother.
+- Increasing instability makes Lance more afraid of Oak remilitarizing, not less willing to restore his power.
 
 ## Beat 12: End of the call
 
-- Do **not** end with "Let's go find our old friends." Oak does not yet have authorization to reassemble the team.
-- Oak also does not release Dragonite merely for a closing pose.
-- End Passage 1 on the unresolved bargain, the black video screen, or Oak alone with the vial and the question of whether he will accept League oversight.
+- Oak accepts the refusal without resolving the underlying conflict.
+- Lance ends the call, refers obliquely to the apparent natural disaster he has been chasing, and offers condolences for Oak's assistant.
+- Oak promises to report anything else he discovers.
 - The next passage remains with Lance so the reader sees how completely exhaustion had been hidden during the call.
 
 ---

@@ -24,27 +24,23 @@ Lance scratched the back of his head. "My apologies. I've been rather busy these
 
 Oak studied him with a grin. "Being Champion isn't easy, is it?"
 
-Lance laughed. "Ha! No, it isn't. I still don't understand why you ever wanted the position, especially without a clan behind you."
+Lance laughed. "Ha! No, it isn't. I still don't know how you ever managed without a clan behind you."
 
 Oak's grin faded. He looked down at his hands. His fingers had begun to tremble.
 
-"Neither do I," he said quietly. "Arrogance, perhaps."
+"I didn't," he said quietly. "I failed as Champion. Arrogance merely kept me from realizing it sooner."
 
 He drew a slow breath and looked back at Lance. "But that isn't why I called."
 
 Lance's expression sobered.
 
-"There was an attack in Pallet."
+"There was an attack in Pallet Town. One of my good assistants was killed," Oak continued. "And the killer didn't hesitate to face me either."
 
-"..."
+"Ha! Even if you weren't a former Champion, people shouldn't take Professors as easy targets."
 
-"One of my good assistants was killed," Oak said. "The man responsible didn't hesitate to attack me either."
+"That's the thing... he could match me," Oak said as he lifted the vial. "He injected this into a Magmar. It caused some kind of evolution. Do you know anything about it? Perhaps... a certain pet project of the Indigo League?"
 
-Lance brought a hand to his chin. "Didn't hestitate to attack a former champion? Because of the evolution?"
-
-Oak nodded and lifted the vial. "I couldn't recover much. Do you know anything about it? Perhaps... a certain pet project of the Indigo League?"
-
-Lance gave a strained chuckle. "An evolution serum for Magmar... I can't say I've heard of anything like it."
+Lance gave a strained chuckle. "An evolution for Magmar... I can't say I've heard of anything like it."
 
 Oak's eyes narrowed. A draft moved through the laboratory, stirring the loose papers across his desk.
 
@@ -52,17 +48,42 @@ Lance's smile faded. He met Oak's gaze through the screen.
 
 Oak lowered the vial. "I hope not."
 
-"And I hope you don't pry any further, Professor. You may have been the champion in the past, but right now, you are merely a Pokemon Professor."
+For several seconds, neither man spoke.
 
-For several seconds, neither man spoke as they glared at each other.
+Oak was the first to break the silence. He lowered his head and sighed. "The attack seemed personally motivated. I just fear it might not be the last we see of this."
 
-Oak was the first to break as he lowered his head and sighed, "The attack seemed personally motivated this time, but I fear what can happen if such a drug is mass produced. I trust you are regulating this properly? And if you will, let me know if it turns up again."
+"Who attacked you?" Lance asked.
 
-"I'll note it down. I wouldn't gaurentee you will be informed."
+"Tenma Fuji. A young Kantoan prodigy. He was a Celadon University researcher before the war. I haven't been able to find anything recent about him, though. I would appreciate any unofficial information regarding him."
 
-"As long as you guys are doing your jobs," Oak sighed. He then spun the few drops of liquid in the serum for a moment as if debating something before continuing, "If I could pull in a favor, I would like you to look into the attacker, Dr. Fuji. Aparently, he was a Celadon University researcher... I think from before the war. He studied cloning."
+Lance's eyes narrowed. "A Kantoan scientist, huh? I'll note it down. Send over the sample. I'll have League scientists examine it."
 
-"Dr. Fuji... cloning... that sounds familiar. I'll let you know if I can," Lance nodded after thinking for a solid second. "Is that everything?"
+"Thank you. I'll send it tonight."
+
+Oak turned the vial between his fingers. "There is one other matter."
+
+Lance waited.
+
+"I won't ask you to confirm anything about the project I mentioned. But between this serum and the increasing natural disasters and increasing crime, I would like to formally request the League's permission to reassemble my old team."
+
+The exhaustion vanished from Lance's face.
+
+"No."
+
+When Oak raised his eyes to the screen, Lance's stare met him like a blade.
+
+"The terms of your pardon have not changed."
+
+Oak held his gaze for a moment, then sighed. "I understand."
+
+"Is that all?"
+
+Oak nodded.
+
+"Then goodbye, Oak." Lance paused. When he continued, some of the coldness had left his voice. "I'm sorry for your loss."
+
+Oak lowered his head.
+
 
 \[?.?\]/
 

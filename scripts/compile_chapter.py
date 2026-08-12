@@ -11,6 +11,11 @@ from pathlib import Path
 
 ANNOTATED_SUFFIX = ".annotated.md"
 HTML_COMMENT = re.compile(r"<!--.*?-->", flags=re.DOTALL)
+STANDALONE_HTML_COMMENT = re.compile(
+    r"(?m)^[ \t]*<!--.*?-->[ \t]*(?:\n|$)",
+    flags=re.DOTALL,
+)
+SEPARATED_HTML_COMMENT = re.compile(r"\n<!--.*?-->\n", flags=re.DOTALL)
 
 
 def output_path(source: Path) -> Path:
@@ -25,7 +30,15 @@ def compile_text(text: str, source: Path) -> str:
     if starts != complete:
         raise ValueError(f"unclosed HTML comment in {source}")
 
-    return HTML_COMMENT.sub("", text)
+    standalone = len(STANDALONE_HTML_COMMENT.findall(text))
+    if standalone != complete:
+        raise ValueError(f"HTML comments must begin on their own line in {source}")
+
+    separated = len(SEPARATED_HTML_COMMENT.findall(text))
+    if separated != complete:
+        raise ValueError(f"HTML comments must be separated from prose by a blank line in {source}")
+
+    return SEPARATED_HTML_COMMENT.sub("", text)
 
 
 def process(source: Path, check: bool) -> bool:
