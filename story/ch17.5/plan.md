@@ -22,7 +22,7 @@ By the end of the interlude, the reader should understand that:
 2. Oak recognizes that reproducible forced evolution could destabilize the balance of power even though he has never seen this specific threat before.
 3. Oak carries guilt over leading Kanto and then ending the separatist war.
 4. Lance has secretly been exhausted by an unrelated but potentially greater crisis.
-5. Fuji's name and research may connect to a larger pattern of vanished scientists and Team Rocket activity.
+5. The agreements later known as the Sinnoh Accords respond to disrupted trade, famine, Mystery Dungeons, and legendary disturbances while authorities possess only limited evidence about Team Rocket.
 6. Giovanni can reach a supposedly secure prisoner through Viridian's institutions.
 7. Fuji is officially presumed dead after the Viridian jail is destroyed.
 8. The timing is too convenient for Lance or the reader to trust the official story.
@@ -126,9 +126,9 @@ Dialogue anchor:
 - After the arrest, police identified him as **Dr. Fuji**.
 - Oak did not recognize Fuji during the battle.
 - The name may have stirred a distant memory afterward of a Celadon University grant ceremony: flashing cameras and a handshake. It does not give Oak knowledge of Fuji's research.
-- Oak tells Lance that Fuji was transferred to a holding facility in Viridian.
-- Lance hears the name and location but shows no meaningful recognition yet.
-- His lack of reaction comes from exhaustion and the fact that Fuji is one name among many investigative files, not because the name is meaningless.
+- Oak gives Lance Fuji's name but does not know or report where the police transferred him.
+- Lance hears the name but shows no meaningful recognition yet.
+- The name means nothing to Lance at this point. He does not recognize it, although Oak asks for unofficial information and Lance promises to note the matter for a later inquiry.
 
 ## Beat 6: The abnormal Ditto
 
@@ -208,10 +208,11 @@ Possible exchange:
 >
 > "I believe there will be."
 
-## Beat 11: Fuji inquiry and Oak's rejected request
+## Beat 11: Evidence transfer and Oak's rejected request
 
-- Oak identifies Tenma Fuji as a former Celadon University researcher and asks for unofficial information about his missing recent history.
-- Lance agrees to note the name and asks Oak to send the serum sample for League scientists to examine.
+- Oak reports that police identified the attacker as Tenma Fuji, apparently a former Celadon University researcher. Oak cannot find anything recent about him and requests unofficial information.
+- Lance shows no recognition of Fuji's name, but his eyes narrow when Oak identifies the attacker as a Kantoan scientist. That detail touches Indigo's separatist history and Oak's political past. Lance promises to note the inquiry and asks Oak to send the serum sample for League scientists to examine.
+- The promise does not produce an immediate investigation or trigger the following day's meeting. Lance's backlog swallows it until the prison explosion makes Fuji relevant again.
 - Oak connects the serum, the secret international evolution project he has heard about, and increasing natural disasters into a broader fear for the future.
 - Oak asks permission to reassemble his former Champion team so he can prepare for those threats.
 - Lance rejects the request immediately.
@@ -228,140 +229,194 @@ Possible exchange:
 
 ---
 
-# Passage 2 — Lance After the Call
+# Passage 2 — Lance's Backlog
 
 ## Scene function
 
 - Reveal how exhausted Lance was beneath his formal presentation.
-- Preserve the cause of that exhaustion as an information gap.
-- Allow Fuji's name and the evidence to resurface after rest.
-- Send Lance toward Viridian before Rocket can finish erasing the trail.
+- Keep Lance's unfinished thought after Oak's call focused on their personal history rather than on Fuji.
+- Establish that Oak's call was one callback within a backlog Lance was already working through.
+- Show Lance losing the thought when he returns to that existing backlog, not because another incoming call interrupts him.
+- End with Lance collapsing into bed after continuing to work.
 
 ## Beat 13: The screen goes dark on Lance's side
 
 - After the call disconnects, remain with Lance.
 - His posture collapses once Oak can no longer see him.
 - He releases a long breath.
-- More sweat runs down his neck or temple.
-- His Dragonite remains nearby and may watch him with concern.
-- Do not explain the psychic disturbances.
-- Do not use a flashback to Mewtwo.
+- Dragonite watches him with concern.
+- Once Oak is gone, Lance complains that nobody warned him how much being Champion involves talking to random people.
+- "My old man" refers to Lance's father, not Dragonite.
+- He admits Oak's call was at least interesting.
+- Thinking about Oak makes Lance begin an unfinished thought about finally having his revenge; his fist closes before he stops himself, opens his hand, and returns to work. Do not complete or explain the thought.
+- Do not reveal the older-brother history here.
+- Do not explain the psychic disturbances or use a Mewtwo flashback.
 
-## Beat 14: Lance reaches his quarters
+## Beat 14: Return to the missed-call backlog
 
-- Lance rises with visible effort.
-- His cape and formal clothing now feel burdensome rather than majestic.
-- He walks to his private room at the Plateau.
-- Keep this transition short.
-- The purpose is exhaustion, not a tour of Champion accommodations.
+- Lance glances at the remaining missed calls and messages on the screen.
+- Oak was one callback in this existing queue; Lance had already been working through it before their conversation.
+- No new call interrupts him. Lance returns to the next missed call: the Council of Agriculture.
+- He complains that this call will not be as interesting as Oak's before answering it.
+- Compress the work rather than staging several complete conversations.
+- The callbacks may imply League administration, international crime, Mystery Dungeon incidents, legendary disturbances, and other demands on the new Champion.
+- Each callback leads into another report or decision until Oak and the serum leave Lance's immediate thoughts.
+- The sequence should characterize Lance as overworked and responsible, not distractible or incompetent.
 
-## Beat 15: Bath and collapse
+## Beat 15: Collapse into sleep
 
-- Lance takes a bath to wash away sweat, grime, and the strain of the previous weeks.
-- Physical marks may imply recent dangerous work, but do not identify their source.
-- Avoid luxuriating in bathing description.
-- He is so tired that he reaches bed and falls asleep almost immediately.
-- His failure to connect Fuji's name that night must feel like cognitive exhaustion rather than incompetence.
-
-## Beat 16: Morning recollection
-
-- After real sleep, Lance wakes with the prior conversation returning in pieces:
-  - Dr. Fuji;
-  - Celadon or another research institution;
-  - missing scientists;
-  - advanced biological research;
-  - the abnormal Ditto;
-  - the forced-evolution serum;
-  - Viridian custody.
-- The pieces align.
-- Lance remembers seeing Fuji's name in an investigation involving missing, recruited, coerced, or compromised scientists.
-- Exact institutional ownership remains open:
-  - an international missing-scientist investigation;
-  - an Indigo investigation into Team Rocket;
-  - early International Police intelligence;
-  - an overlap among them.
-- The realization should not prove Fuji is Rocket. It tells Lance that the prisoner is too important to remain in ordinary local custody.
-
-## Beat 17: Immediate departure
-
-- Lance does not waste time arranging a long meeting.
-- He calls Dragonite.
-- He leaves the Plateau for Viridian immediately.
-- He may attempt to contact the facility during flight, but whether the call fails or is answered is optional.
-- Do not show him learning about the explosion before arrival; the ruined jail should be the visual payoff.
+- Hours later, Lance finally stops working and reaches his quarters.
+- His cape and formal clothing feel burdensome rather than majestic.
+- Remove the bath. He is too exhausted to stop for one.
+- He collapses face-first into bed with his cape still fastened.
+- He complains that he did not finish enough calls and wonders why so many officials answered so late, calling them workaholics without recognizing the irony.
+- He falls asleep immediately afterward.
 
 ---
 
-# Passage 3 — Giovanni, Blaine, and Fuji
+# Passage 3 — International Police Briefing and Viridian
 
 ## Scene function
 
+- Begin the following day as relatively normal rather than with a sudden revelation.
+- Survey the expanding international crisis without bending the meeting toward Fuji.
+- Let the reader notice the recurring red-R uniforms without having the authorities identify them.
+- Place Lance over Viridian by chance during his scheduled return flight.
+- Show the prison exploding before revealing what happened there several hours earlier.
+
+## Beat 16: A normal following day
+
+- Dragonite wakes Lance by nudging him and pointing to the clock.
+- Lance realizes he is late for the International Police meeting and blames Dragonite for not waking him sooner; Dragonite's stare carries the obvious rebuttal.
+- The session is hosted in Sinnoh while the region formally joins the International Police network. Lance took Oak's call from Indigo the previous night and was supposed to depart early the following morning.
+- Video phones currently rely on wired infrastructure rather than satellites. Oak and Lance can speak while both are within Indigo's network, but easy interregional video communication is not yet established.
+- Lance fastens his cape while mounting Dragonite and flies across the sea to Sinnoh. He arrives after the meeting has begun, with the sun already high.
+- He barges into the conference room, stops at the doorway, formally identifies himself as Indigo's Champion, bows to the room, and apologizes for arriving late. He does not presume to tell the chair to continue.
+- On entering, Lance briefly scans the politically meaningful faces: Pryce, Palmer, a Blackthorn elder, and representatives from four regions. Avoid a complete attendee inventory.
+- The background roster includes Lys, Lance, Pryce, one senior Blackthorn relative of Lance, International Police personnel, an Officer Jenny representative, a few government or regional delegates, a small Sinnoh delegation, and Brandon.
+- Sinnoh is being welcomed into the International Police network. Palmer is its reigning Champion; Cynthia is its unusually young Elite Four member and attends because her mythology research may help interpret activity around ancient ruins and unidentified golem-like Pokemon. She later succeeds Palmer as Champion.
+- Lance and Palmer have met before. They recognize each other without the senior officer explaining their acquaintance or prompting Palmer. As Sinnoh's Champion and the host, Palmer takes the initiative, stands, formally welcomes Lance on behalf of the Sinnoh League, and congratulates him on recently becoming Champion.
+- Interregional League etiquette here is based on Japanese formal culture: Palmer and Lance bow rather than shake hands. Keep the gesture natural and restrained rather than explaining the custom in narration.
+- Brandon is currently a highly capable but otherwise ordinary Ace Trainer, not yet an established legendary explorer or Frontier Brain. He recently captured one of three golem-like Pokemon sighted near the newly exposed ruin. That feat earned him an invitation to serve as an auxiliary International Police field operative whenever available. His pursuit of the remaining two begins his eventual association with all three Regis.
+- Do not introduce spatial disturbances yet. Those belong to Cyrus's later meddling, not the present rise in Mystery Dungeon activity.
+- Steven Stone is not present. Most attendees should remain unnamed in prose; preserve the roster in annotation and planning rather than interrupting the briefing with introductions.
+- Oak's call is not foremost in his thoughts.
+- The meeting remains unrelated to Fuji. Lance learns Fuji was imprisoned in Viridian only after the explosion.
+
+## Beat 17: International disturbance briefing
+
+- Structure the presentation in three clear movements: natural disasters and famine, legendary disturbances, and human groups complicating the response. The old officer announces each transition naturally in conversation; do not render slide headings or formal section labels in the prose.
+- The first presentation movement covers food supplies and trade routes:
+  - falling food production, rising prices, several member regions rationing food supplies, and warnings of famine;
+  - the visual evidence then reveals the recurring cause: increasing Mystery Dungeons;
+  - Dungeons swallow cultivated fields and roads, forcing caravans onto longer and less protected routes;
+  - they are also appearing progressively closer to cities, with recent outbreaks contained near city limits.
+- The crisis report is the preamble to the meeting's true purpose: negotiating a collection of practical agreements. Participants do not call them the **Sinnoh Accords** during these opening negotiations; that historical name is applied afterward because the agreements were settled in Sinnoh. The name does not imply Sinnoh leads the four regions; Johto may still dominate the resulting institutions politically.
+- The proposed alliance is meant to keep interregional trade alive through the crisis: share intelligence, coordinate protection for caravans and shipping, secure replacement routes, and move food from surplus regions to those facing shortages. International cooperation is necessary because no region can survive prolonged isolation and famine alone.
+- The unresolved treaty details include responsibility for particular routes, food-sharing obligations, cross-border authority for officers, escort rotations, shipping quotas, and division of costs.
+- Negotiating the Sinnoh Accords takes several days rather than one meeting. The Jenny clan serves as mediator between the regional delegations, using its existing cross-regional presence and institutional neutrality to keep negotiations moving.
+- The second presentation movement covers legendary activity. Regional reports broaden the pattern without confirming one shared cause:
+  - clustered sightings of Raikou, Entei, and Suicune in Johto, including near settlements;
+  - ancient sealed ruins opening in both Hoenn and Sinnoh, with three unidentified golem-like Pokemon sighted across the two regions. Brandon has captured one and says securing the other two will require more work. None of the sites is Snowpoint Temple, and the report does not identify or introduce Regigigas.
+  - an unidentified Psychic-type Pokemon with legendary-level power appearing across Kanto.
+- Do not imply Groudon or Kyogre activity in Hoenn yet. Their later disturbances arise from Team Magma and Team Aqua's actions during the Hoenn arc; early storms, tides, or volcanic tremors here would prematurely begin that plot.
+- The International Police do not yet know whether these problems share a cause.
+- The third presentation movement covers human interference. When an official asks whether the legendary incidents are connected, the old officer answers, "Maybe," uses the question to transition, and presents the only recurring evidence: trainers in dark uniforms marked by a red R.
+- Kanto's primary legendary disturbance is an unidentified Psychic-type Pokemon with legendary-level power. Include it in the same compact regional list rather than announcing Kanto as a special category.
+- The International Police infer from the evidence that it is a Psychic type whose measured power is consistent with a legendary. Do not burden the report with an exact incident count.
+- Lance and the International Police do not yet know the Pokemon's species or the name Mewtwo.
+- Authorities know these trainers call themselves Team Rocket and have seen them near legendary disturbances across the participating regions.
+- Team Rocket remains legally insulated: appearing near a legendary sighting is not itself a crime, and officials have no chargeable evidence that its trainers provoked the disturbances.
+- Someone suggests they may merely be legendary-chasing fanatics. The old officer concedes the possibility but emphasizes that Rocket always arrives ahead of every League and the Jenny clan, raising the fear that it may already have captured legendary Pokemon nobody else discovered.
+- The immediate instruction is observation rather than arrest: every region should watch for the red R and report sightings.
+- The Kanto Pokemon's origin and motives remain unknown. Do not single Kanto out for an additional warning or evidence sequence after the regional list.
+- Generic crime belongs in this third movement as a human consequence of the disasters and famine:
+  - smuggling, poaching, Pokemon theft, and food or medicine being stolen in transit;
+  - local police becoming overwhelmed;
+  - some offenders steal necessities to survive, while others exploit weakened routes and easier victims.
+- After Team Rocket and generic crime, the presentation briefly identifies two other human disruptions:
+  - followers of a religious liberation movement from Unova are entering the four regions, stealing trained Pokemon, and releasing them into the wild in the name of freedom;
+  - environmental groups in Hoenn are obstructing Mystery Dungeon surveys and route-clearing operations. Most protest peacefully, but radical participants destroy equipment or drive researchers away.
+- Officials have no evidence that Team Rocket, the Unovan liberation movement, and Hoenn's environmental radicals work together. Treat them as separate emerging problems.
+- Do not seed an active Sinnoh evil team here. Team Galactic and Cyrus's spatial meddling belong later.
+- This can establish the early operational relationship between Lance and the International Police without turning the scene into an institutional lecture.
+
+## Beat 18: The meeting ends
+
+- Fuji never comes up during the meeting. Lance does not remember or investigate him there.
+- After the crisis overview, negotiations continue for several days through maps, quotas, escort rotations, jurisdiction, costs, and repeated revisions to the accords. The final session adjourns normally in the afternoon.
+- Lance mounts Dragonite for his scheduled return to Indigo rather than departing in response to Fuji.
+
+## Beat 19: The return flight
+
+- Dragonite carries Lance from Sinnoh toward Indigo. The crossing takes most of the day, and the sun is setting by the time Kanto appears beneath them.
+- Their normal route carries them over Viridian; Lance is not intentionally travelling to the holding facility.
+
+## Beat 20: The explosion
+
+- While Viridian is passing beneath them, its central detention facility explodes near the city's western edge.
+- Lance sees the flash first; several seconds later, the sound reaches them and Dragonite banks. Fire and debris punch through the roof against the setting sun before Lance orders Dragonite down.
+- Cut immediately to Giovanni and Blaine approaching Fuji's cell several hours earlier, before Lance lands or receives an explanation.
+
+---
+
+# Passage 4 — Several Hours Earlier: Giovanni, Blaine, and Fuji
+
+## Scene function
+
+- Turn the already-seen fire into dread: the reader now watches the prisoner visit knowing the facility will be destroyed.
 - Show that Giovanni can penetrate or command Viridian institutions without a theatrical infiltration.
 - Confirm Fuji has become a liability while preserving his scientific value.
 - Make the apparent execution frightening but ambiguous.
-- Set up the destruction of the holding facility without showing exactly how Fuji survives.
 
-## Beat 18: Fuji in custody
+## Beat 21: Fuji in custody
 
-- Cut to the Viridian holding facility while Lance is traveling or shortly before his departure.
+- Mark the temporal shift clearly as several hours earlier on the same day.
 - Fuji is injured, exhausted, and confined after the Pallet battle.
 - He has been publicly identified and processed as Dr. Fuji.
+- The cell is ordinary and institutional, not a secret Rocket dungeon.
 - Do not give Fuji another long autobiographical monologue.
-- The cell should feel ordinary and institutional, not like a secret Rocket dungeon.
 
-## Beat 19: Giovanni arrives openly
+## Beat 22: Giovanni arrives openly
 
 - Giovanni enters with Persian at his side.
-- Persian should habitually remain with Giovanni.
-- Blaine accompanies them.
-- Blaine brings a Magmar. This is not the Magmar killed in Chapter 16.
-- No teleportation.
-- No elaborate stealth operation.
-- No long conversation with guards.
-- Giovanni gains access because he is Viridian's Gym Leader, an important public figure, and a man with influence over local institutions. Rocket infiltration may reinforce that authority invisibly.
+- Blaine accompanies them with a Magmar that is not the one killed in Chapter 16.
+- No teleportation, elaborate stealth operation, or long conversation with guards.
+- Giovanni gains access through his public status as Viridian Gym Leader and his influence over local institutions; invisible Rocket infiltration may reinforce that access.
 
-## Beat 20: Blaine's anger
+## Beat 23: Blaine's anger
 
 - Blaine is angry about the Magmar lost during Fuji's attack.
-- His reaction should not become sentimental exposition unless later characterization requires it.
 - His presence communicates that Fuji's recklessness cost Rocket personnel, Pokemon, research secrecy, and political safety.
-- The replacement/other Magmar's presence creates immediate physical danger inside the cell.
+- The other Magmar creates immediate physical danger without sentimental exposition.
 
-## Beat 21: Brief interrogation
+## Beat 24: Brief interrogation
 
 Giovanni and Blaine question Fuji about the operational failure:
 
 - Why did he go to Pallet?
 - Why did he expose the serum?
-- Why did he allow himself to be arrested?
+- Why was he arrested?
 - What did Oak see?
 - What evidence did police recover?
 - Can the serum and cloning research be reproduced?
 
-Fuji's answers should remain filtered through his obsession:
+Fuji's answers remain filtered through his obsession:
 
 - Amber was not behaving like his daughter.
 - He was trying to reclaim or correct what belonged to him.
-- He may call the recreated Amber a failure.
 - He minimizes the deaths and exposure compared with his personal loss.
 
-Do not repeat his entire history with Delia, Amber's cancer, the war, and the clone project. Readers already possess enough of that history.
+Do not repeat his entire history with Delia, Amber's cancer, the war, and the clone project.
 
-## Beat 22: Giovanni evaluates Fuji
+## Beat 25: Giovanni evaluates Fuji
 
-- Giovanni remains controlled.
-- He sees that Fuji is unstable and publicly compromised.
-- He also recognizes that Fuji remains uniquely valuable:
-  - cloning;
-  - Mewtwo research;
-  - biological enhancement;
-  - forced evolution;
-  - creation of unusually capable Dittos.
+- Giovanni sees that Fuji is unstable and publicly compromised but remains uniquely valuable for cloning, Mewtwo research, biological enhancement, forced evolution, and unusually capable Dittos.
 - Giovanni does not forgive Fuji.
-- His decision is pragmatic: Fuji cannot remain publicly alive, but killing him would waste irreplaceable expertise.
+- His pragmatic conclusion is that Fuji cannot remain publicly alive, but killing him would waste irreplaceable expertise.
 - Do not reveal that full calculation to the reader.
 
-## Beat 23: The apparent death order
+## Beat 26: The apparent death order
 
 - Giovanni turns responsibility over to Blaine.
 
@@ -373,100 +428,65 @@ Dialogue anchor:
 - Its hidden meaning is that Fuji must be made **as if he were dead**.
 - Giovanni may leave or turn away. Do not explain the alternate meaning.
 
-## Beat 24: Magmar approaches
+## Beat 27: Magmar approaches
 
-- Blaine releases or gestures to Magmar.
 - Magmar approaches Fuji inside the cell.
 - Its claws press into or dig against Fuji's face.
-- Keep Fuji's survival uncertain.
-- Cut before showing whether Magmar burns him, kills him, intimidates him, or participates in extraction.
-- Do not show Fuji escaping.
-- Do not show a substitute body being prepared.
+- Cut before showing whether it burns him, kills him, intimidates him, or participates in extraction.
+- Do not show Fuji escaping or a substitute body being prepared.
 
 ---
 
-# Passage 4 — Viridian Aftermath
+# Passage 5 — Return to the Viridian Aftermath
 
 ## Scene function
 
-- Pay off Lance's urgency with failure.
+- Return to Lance at the fire after the earlier-hours revelation.
 - Publicly kill Fuji without proving his biological death.
 - Establish the scale of Rocket's access and willingness to erase evidence.
 - Turn a local detention failure into a regional or international scandal.
 
-## Beat 25: Lance approaches Viridian
+## Beat 28: Public cost and official account
 
-- Lance and Dragonite reach Viridian after a fast flight.
-- Smoke or emergency activity becomes visible before the holding facility itself.
-- Lance realizes something has happened before landing.
-
-## Beat 26: The destroyed holding facility
-
-- The jail/holding facility has been devastated by a huge explosion.
-- The official initial cause is a gas-line leak beneath or beside the facility.
-- Firefighters, police, medical personnel, and onlookers crowd the area.
-- The destruction is extensive enough that bodies cannot immediately be identified.
-- Records, cells, and physical evidence have been destroyed or compromised.
-
-## Beat 27: Public cost and scandal
-
-- Reports indicate that prisoners, staff, guards, and possibly innocent detainees were killed.
-- Some detainees may have been awaiting trial rather than convicted.
-- The phrase "innocent people" may appear in public outrage or reporting, but the exact casualty list remains uncertain.
-- This becomes a scandal because:
-  - a major prisoner died or vanished while in state custody;
-  - bodies cannot be identified;
-  - infrastructure supposedly failed at the most convenient possible moment;
-  - Viridian authorities cannot provide a trustworthy account.
+- Resume the present after Lance's arrival.
+- Firefighters, police, medical personnel, reporters, and onlookers surround the collapsed facility.
+- The preliminary cause remains a gas-line leak beneath or beside the facility.
+- Records, cells, physical evidence, and bodies have been destroyed or compromised.
+- Reports may include prisoners, staff, guards, and detainees awaiting trial.
 
 Open moral decision:
 
-- Whether Giovanni knowingly permits real mass casualties remains unsettled.
+- Whether Giovanni knowingly permitted real mass casualties remains unsettled.
 - The facility may have been partially evacuated, records may be falsified, or the public casualty estimate may be wrong.
-- Do not accidentally settle this in prose until Giovanni's intended moral threshold is chosen.
+- Do not settle this accidentally before Giovanni's intended moral threshold is chosen.
 
-## Beat 28: Fuji presumed dead
+## Beat 29: Fuji presumed dead and the erasure recognized
 
-- Lance confirms that Dr. Fuji was listed among the prisoners present.
-- Authorities presume he died in the explosion.
-- No body can be independently identified as Fuji.
-- The official story gives Lance no living prisoner to question and no reliable remains to examine.
-
-## Beat 29: Lance recognizes the erasure
-
-- Lance compares the timing:
-  - Fuji is arrested with unprecedented biological technology;
-  - Oak reports him to the Champion;
-  - Lance recognizes the name and immediately travels to Viridian;
-  - the facility is destroyed before he arrives.
-- He cannot prove coordination, but the coincidence is intolerable.
-- The scene should leave him suspicious of:
-  - Team Rocket or another criminal organization;
-  - corruption inside Viridian;
-  - an organization capable of monitoring police custody;
-  - deliberate destruction of evidence.
+- Lance asks who occupied the destroyed east wing and learns only then that Fuji was listed among the prisoners present.
+- Authorities presume him dead, but no body can be independently identified as Fuji.
+- Lance connects only what he personally knows: Oak named Fuji the previous night, and chance carried Lance over Viridian at the moment the facility holding Fuji exploded.
+- He cannot prove coordination or identify an organization. The timing merely makes the gas-line explanation difficult for him to accept without investigation.
 
 ## Beat 30: End state
 
 Reader-facing truth:
 
-- Dr. Fuji is presumed dead.
-- A gas-line explosion destroyed the place holding him.
-- The body cannot be verified.
+- Fuji is presumed dead in a gas-line explosion.
+- His body cannot be verified.
 - Someone may have erased him before Lance could reach him.
 
 Author truth, not disclosed:
 
 - Fuji survives.
 - Giovanni retains him off-books.
-- Fuji will later contribute to further cloning and the second Mewtwo project.
+- Fuji later contributes to further cloning and the second Mewtwo project.
 
 Potential final image:
 
-- Lance standing before the smoking ruin while Dragonite waits behind him.
+- Lance stands before the smoking ruin while Dragonite waits behind him.
 - He has arrived as Champion and still has no authority over the truth buried beneath Viridian.
 
-Do not end with a direct declaration that Team Rocket did it or that Fuji escaped.
+Do not directly declare that Team Rocket caused the explosion or that Fuji escaped.
 
 ---
 
@@ -511,15 +531,9 @@ Do not restore without a new author decision:
 
 # Open decisions before prose is finalized
 
-1. What exact investigation contains Fuji's name?
-   - international missing-scientist case;
-   - Indigo investigation into Rocket;
-   - early International Police intelligence;
-   - combined case.
-2. How much does Lance already know about Rocket-associated Dittos?
-3. Who orders and carries out the jail explosion?
-4. How many real casualties occur, and how many are fabricated?
-5. Does Giovanni remain present while Blaine handles Fuji, or leave after giving the order?
-6. What exact evidence of Fuji survives the explosion?
-7. Does Lance tell Oak about the explosion within this interlude or only later?
-8. Does the chapter end on Lance at the ruins, an official announcement, or another image?
+1. Who orders and carries out the jail explosion?
+2. How many real casualties occur, and how many are fabricated?
+3. Does Giovanni remain present while Blaine handles Fuji, or leave after giving the order?
+4. What exact evidence of Fuji survives the explosion?
+5. Does Lance tell Oak about the explosion within this interlude or only later?
+6. Does the chapter end on Lance at the ruins, an official announcement, or another image?

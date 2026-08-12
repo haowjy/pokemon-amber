@@ -20,7 +20,7 @@ Oak pressed a key with his free hand to answer the call. A young man sat straigh
 
 "Lance," Oak replied. "You certainly took your time calling me back."
 
-Lance scratched the back of his head. "My apologies. I've been rather busy these past few weeks."
+Lance scratched the back of his head. "My apologies. I've been rather busy these past few weeks. I'm due in Sinnoh tomorrow, and half of Indigo still seems to be waiting for me to call back."
 
 Oak studied him with a grin. "Being Champion isn't easy, is it?"
 
@@ -54,7 +54,7 @@ Oak was the first to break the silence. He lowered his head and sighed. "The att
 
 "Who attacked you?" Lance asked.
 
-"Tenma Fuji. A young Kantoan prodigy. He was a Celadon University researcher before the war. I haven't been able to find anything recent about him, though. I would appreciate any unofficial information regarding him."
+"Tenma Fuji. The police identified him after the arrest. Apparently, he was a Celadon University researcher before the war. I haven't been able to find anything recent about him. I would appreciate any information you can find."
 
 Lance's eyes narrowed. "A Kantoan scientist, huh? I'll note it down. Send over the sample. I'll have League scientists examine it."
 
@@ -87,53 +87,129 @@ Oak lowered his head.
 
 \[?.?\]/
 
-On the other side of the call, Lance sagged into his chair.
+Oak vanished from the screen, leaving Lance with his own dim reflection.
 
-The breath he released shook on the way out. Sweat slipped from his hairline and ran beneath the high collar he had fastened before calling Oak. Dragonite lifted its head from beside the wall and gave a low, worried rumble.
+For several seconds, Lance remained perfectly still. Then his shoulders sagged, and he sank into his chair.
 
-"I'm fine," Lance said.
+"No one told me being Champion meant talking to so many people all night."
 
-Dragonite continued to stare at him.
+Dragonite gave a low rumble beside him.
 
-"I will be."
+"At least Oak had something interesting to say."
 
-He pushed himself upright. The cape caught beneath one arm, several yards of dead weight. He freed it with an irritated pull and crossed the short corridor to his rooms.
+His other hand curled into a fist.
 
-Steam filled the bath. Hot water found fresh scrapes along his shoulder and a dark bruise beneath his ribs, drawing a hiss between his teeth. He scrubbed sweat and grit from his hair, stayed only until the water cooled, and left the formal clothes where they fell.
+Twenty-eight calls still waited beneath Oak's name.
 
-He was asleep almost as soon as he reached the bed.
+The Council of Agriculture was next.
 
-Morning light woke him.
+Lance sighed and selected it. "This won't be nearly as interesting."
 
-For a few seconds he lay still, one hand over his eyes, while the previous night returned without order: Oak's vial. A cannon where a Magmar's arm had been. A Ditto wearing the full strength of a Dragonite.
+A stern-faced official appeared and began explaining a dispute over Tauros grazing routes.
 
-Dr. Tenma Fuji.
+A few hours later, when Lance finally reached his room, he collapsed face-first onto the bed, his cape still fastened around his shoulders.
 
-Lance sat up.
+"I didn't finish," he mumbled into the blankets. "Why did they all answer this late? Damn workaholics."
 
-The name belonged to a file he had read months ago, then seen again in an International Police digest: researchers in advanced biology who had vanished from universities, private firms, and League laboratories. Some were missing. Some had resigned for positions that could not be verified. Several names surfaced again at the edges of investigations into Team Rocket facilities and procurement fronts.
+He was asleep before Dragonite nudged the door open behind him.
 
-Fuji had been one of them.
+\[u.u\]/
 
-Not proof. Not even an accusation. A name carried from one incomplete report to another until it disappeared beneath newer emergencies.
+Dragonite nudged Lance's shoulder.
 
-Now the same man had been arrested with an impossible Ditto and a drug that could force a Pokemon's body across the boundary of evolution.
+He buried his face deeper in the blankets.
 
-In Viridian.
+Dragonite nudged him again.
 
-Lance was out of bed before the thought had finished settling.
+"Five more minutes."
 
-Dragonite met him on the terrace. Lance fastened his cape at the throat with one hand and climbed onto its back.
+Dragonite growled and pointed toward the clock beside the bed.
 
-"Viridian," he said.
+Lance opened one eye.
 
-Dragonite launched them into the cold morning air.
+Then both.
+
+"Why didn't you wake me sooner?"
+
+Dragonite stared at him.
+
+Lance was still fastening his cape when Dragonite launched from the terrace.
+
+The sun was already high when Sinnoh's coast appeared beneath them.
+
+Dragonite landed outside the Sinnoh League's conference wing. Lance threw open the meeting-room doors, and every head around the long table turned toward him.
+
+Lance's eyes swept across the room. Pryce. Palmer. A Blackthorn elder. Officers and League representatives from four regions.
+
+Lance stopped inside the doorway and bowed to the room. "Lance, Champion of Indigo. Please forgive my late arrival."
+
+At the head of the table, an old officer gave him a long look. Her faded blue hair was gathered into two short loops above her ears, and deep wrinkles lined her face.
+
+Palmer caught Lance's eye, then rose and bowed.
+
+"On behalf of the Sinnoh League, welcome to Sinnoh," he said. "We are honored to host these negotiations. I would also like to formally congratulate you on becoming Champion, though my congratulations are rather late."
+
+Lance returned the bow. "Thank you, Champion Palmer."
+
+Palmer sat, and Lance took the last empty chair.
+
+The old officer tapped a control. The screen behind her filled with harvest totals, food reserves, and current prices from each region.
+
+"Let's begin with food supplies and trade routes. Production is falling. Prices are rising. Several of our regions have already begun rationing food, and some warn that famine will follow."
+
+The screen filled with photographs of farmland. Neat rows of crops ended against warped forests, stone corridors, and stretches of land that did not belong in the country surrounding them.
+
+"The primary cause is the increasing number of Mystery Dungeons. They are swallowing fields and roads, forcing caravans onto longer routes, and opening closer to cities. Rangers from each region contained two outbreaks near city limits last month."
+
+The old officer changed slides. "The second issue is legendary activity. Johto reports Raikou, Entei, and Suicune near settlements. Hoenn and Sinnoh report three unknown golem-like Pokemon emerging from ancient ruins. Kanto reports an unidentified Psychic type with power comparable to a legendary."
+
+"Are these incidents connected?" an official asked.
+
+The old officer paused before changing slides. "Maybe. That brings me to the third issue: human interference. There is one detail common to every incident."
+
+Grainy photographs appeared behind her. Distant figures near the ruins. Dark uniforms. A red **R** across each chest.
+
+"They call themselves Team Rocket. We have seen them near every legendary disturbance, but nothing at those sites gives us grounds to detain them. As far as the law is concerned, they are trainers responding to the same sightings as everyone else. We suspect they may be provoking these Pokemon, but suspicion is not evidence."
+
+"Maybe they're just legendary-chasing fanatics," someone said.
+
+"Maybe. But they are always one step ahead of every Pokemon League and the Jenny clan. We do not know how, or whether they have already captured a legendary none of us knows about. If that red R appears, report it."
+
+The old officer changed slides again. Incident reports from ports, roads, and city precincts filled the screen.
+
+"The disasters have also driven ordinary crime. Smuggling. Poaching. Pokemon theft. Food and medicine stolen before they reach the cities. Some steal to survive. Others have simply found easier prey."
+
+The next photograph showed strangers opening stolen Pokeballs at the edge of a forest.
+
+"A religious movement from Unova has begun sending followers into our regions. They steal trained Pokemon and release them into the wild. They claim they are freeing them."
+
+Another photograph showed protesters surrounding a survey team at the edge of a Mystery Dungeon.
+
+"In Hoenn, environmental groups have blocked Dungeon surveys and route-clearing work. Most have remained peaceful. Others have destroyed equipment or driven researchers away."
+
+"Are they working together?" someone asked.
+
+"We have no evidence of that. Treat them as separate problems."
+
+The old officer switched off the screen and faced the room. "That's why we're here. Over the next several days, we need to agree on who protects which routes, how we share our food reserves, when foreign trainers may operate across regional borders, and how we pay for all of it."
+
+The negotiations consumed the next several days. The final session did not adjourn until late afternoon.
+
+Hours later, Dragonite crossed into Kanto beneath a fading sky. Viridian slid below his left wing, its windows beginning to glow in the dusk.
+
+The western edge of the city flashed white.
+
+For a moment, the explosion made no sound.
+
+Then the boom reached them. Dragonite banked sharply as the roof of Viridian's central detention facility opened beneath a tower of fire. Glass and burning debris climbed into the darkening sky.
+
+Lance leaned over the saddle. "Down!"
 
 \[!.!\]/
 
-Dr. Fuji sat on the narrow bunk with his injured arm bound against his chest.
+Several hours earlier, Dr. Fuji sat on the narrow bunk with his injured arm bound against his chest.
 
-It was an ordinary municipal cell, gray beneath fluorescent light. One of Fuji's eyes had swollen nearly shut. Dried blood darkened the collar of the shirt the police had returned to him after processing.
+It was a reinforced cell, gray beneath fluorescent light. One of Fuji's eyes had swollen nearly shut. Dried blood darkened the collar of the shirt the police had returned to him after processing.
 
 Locks opened beyond the door.
 
@@ -251,15 +327,7 @@ Fuji screamed.
 
 \[x.x\]/
 
-Smoke marked Viridian before the city itself came into view.
-
-Dragonite drove harder at Lance's command, wings hammering the air. The black column rose beyond the morning haze near the southern government quarter. Emergency aircraft circled below it, their lights pulsing red against the smoke.
-
-The holding facility appeared between Dragonite's wingbeats.
-
-Or what remained of it.
-
-The central block had collapsed into a burning hollow. One exterior wall leaned over the street with three cell doors still set into it, all opening onto empty air. Firefighters poured water into the wreckage while police pushed a growing crowd behind temporary barriers. Ambulances stood in two rows. Some had their rear doors open. Some were already leaving.
+Water hissed against the wreckage. The central block had collapsed into a burning hollow. One exterior wall leaned over the street with three cell doors still set into it, all opening onto empty air. Firefighters poured water into the wreckage while police pushed a growing crowd behind temporary barriers. Ambulances stood in two rows. Some had their rear doors open. Some were already leaving.
 
 Dragonite landed hard enough to scatter ash across the road.
 
@@ -269,7 +337,7 @@ Lance dismounted before anyone could approach. The nearest officer recognized hi
 
 "When?"
 
-"Less than an hour ago. We think a gas main beneath the east wing ruptured. The first explosion took the cells, then the fire reached the administrative block."
+"Minutes ago. We think a gas main beneath the east wing ruptured. The first explosion took the cells, then the fire reached the administrative block."
 
 "You think."
 
@@ -281,9 +349,13 @@ A stretcher passed them under a white sheet. The shape beneath it was too small 
 
 The officer looked toward the ruin. "We don't know. The shift roster and intake records were inside. There may have been a partial evacuation before the second collapse, but nobody agrees on when it began. Staff, guards, prisoners awaiting trial..." She stopped. "Recovery teams haven't reached the lower cells."
 
-"Dr. Tenma Fuji was being held here."
+"Who was held in the east wing?"
 
-"Cell E-seven. He was listed as present at the midnight count."
+The officer swallowed. "Among the others... Dr. Tenma Fuji. The man arrested after the Pallet attack. Cell E-seven."
+
+Lance's eyes narrowed. "Fuji."
+
+"He was listed as present at the last count."
 
 "Which remains are his?"
 
@@ -303,11 +375,9 @@ Dragonite followed until a firefighter raised an arm and pointed them back from 
 
 Lance stopped.
 
-Hours earlier, Fuji had been one neglected name in an old intelligence digest. Then Oak had placed an impossible transformation, a dead Magmar, and a vial of pink liquid beside it. Lance had slept. He had remembered. He had come directly to Viridian.
+Several nights earlier, Oak had placed Fuji's name beside an impossible transformation, a dead Magmar, and a vial of pink liquid. Lance had buried it beneath eleven other calls and days of negotiations. Now chance had carried him over Viridian as the prison exploded.
 
-Someone else had been faster.
-
-Or a gas main had failed beneath the right cell at the right hour, taking the prisoner, the records, the evidence, and an unknown number of people with it.
+A gas main had failed beneath the right cell at the right hour, taking the prisoner, the records, the evidence, and an unknown number of people with it.
 
 Across the street, an official repeated the preliminary finding to the cameras. Gas-line explosion. Dr. Fuji presumed dead. Casualties unconfirmed.
 
