@@ -27,172 +27,58 @@ The chapter should breathe. Quiet, understated, voice-forward. Sets the tonal re
 
 ## Scene 1: Last Day of School
 
-**Entry:** Amber appears disengaged from class: asleep at her desk, distracted by her private notebook, or both in quick succession. When challenged, she answers correctly. Her teachers and classmates already know the contradiction: she looks inattentive, struggles to care about repetitive lessons, and remains one of the strongest students in the school.
+- The chapter opens during final classroom cleanup. Amber throws away ordinary school debris and keeps only the private notebook containing remembered Pokemon knowledge from her old life, now marked by three years of corrections.
+- Reid asks whether Oak is sponsoring her. Amber recognizes his face but cannot remember his name, establishing that she shared a classroom without building friendships there.
+- Reid challenges Amber to battle once they receive their starters. Nora identifies Amber as Oak's unknown third sponsored graduate.
+- Amber reveals that Ditto is already her partner. Nora calls Ditto weak because it can only become what it faces; Amber answers that every Pokemon has more potential than people think and that her Ditto is already strong.
+- Amber accepts Reid's challenge for the finals at Indigo Plateau, turning a casual challenge into a long-term rivalry promise.
+- Ms. Mori sends everyone back to cleaning. The class leaves without a sentimental farewell.
+- Delia waits outside while Ash and Gary race out of their younger class. The four walk to Oak's lab.
 
-**The notebook:** Amber keeps a private notebook of everything she remembers — Pokemon stats, move lists, timelines, future events. She studies it religiously. She's extremely protective of it because the contents are inexplicable for a middle-school student. The notebook is her edge AND her vulnerability. Possible interlude material: semi-AI-generated doodles/notes from its pages released between chapters.
+## Scene 2: Graduation Party at Oak's Lab
 
-**The cohort:** Reid and Nora are known classmates with shared school history, not anonymous setup devices. Reid is the fiery Pallet contemporary and the only newly introduced conventional recurring/tournament rival currently promised. Nora is the analytical academic foil and a fellow Oak-sponsored graduate; she may recur, but Chapter 18 does not promise her as a major battle rival or tournament fixture. Their starter Pokemon, teams, careers, exact rankings, and valedictorian status remain open.
+- Delia brings Amber, Ash, and Gary from school to the laboratory.
+- Oak, his assistants, Ditto, and the research Pokemon welcome Amber with party poppers and cake.
+- The assistants give Amber practical journey equipment: Rapidash Athletics trail runners, a Silph Co. spatial bag, Potions, Pokeballs, a Town Map, rope, a freshness case with berries, Pokemon food, Lava Cookies, and money for the road.
+- Delia asks Amber to remain a few more days. Amber refuses because she cannot wait to begin her own Pokemon adventure.
+- Oak presents the prototype Pokedex. It scans image, estimated height, weight, and type; every scan is saved as field data. It does not yet identify species, provide descriptions, or speak.
+- Amber's expectation of a spoken description gives Oak that idea. Oak entrusts her with gathering scans across Kanto.
+- Amber promises to "catch them all" before Oak reminds her that indiscriminate catching is illegal. Her current carry limit is three Pokemon until she earns two badges.
 
-**The interruption:** Amber didn't invite it. Reid asks whether Professor Oak is sponsoring her, loudly enough that the room hears. Nora supplies or tests a detail in the discussion instead of joining Reid's competitive posture. Amber's first instinct is to snap the notebook shut: physical guard before social guard.
+## Scene 3: Ranch and Laboratory Walk
 
-**The swarm:** The cohort is graduating together. Their energy is curiosity and journey excitement, not shock at an early exception.
-- "Oak is sponsoring you?"
-- "Who's your partner?" / journey-fantasy questions
-- Confusion when Amber answers Ditto
-- Questions that reveal THEIR assumptions, not her reality
-- The questions pile up until the teacher sends everyone back to cleaning. Amber gives minimal answers while internally cataloguing with dry commentary.
+- After a section break, Amber crosses Oak's inhabited ranch. Dragonite acknowledges her from beneath a tree shared with resting Nidoran; Tauros grazes while Pidgey follow its disturbed ground.
+- Amber's prior college experience left her with little common ground at school. Most afternoons, weekends, and breaks were spent at Oak's lab, where unusual knowledge earned harder work instead of social suspicion.
+- Nidorino's eye-drop memory proves patient Pokemon care. The labeled Pokeball wall proves daily familiarity with individual residents. The workbench proves practical laboratory training and difficult world-specific coursework.
+- An unlabeled marble-like object on Oak's workbench is the only unfamiliar item. Amber recognizes it as a Mega Stone but cannot identify its species association.
+- Ash calls her back for cake before she can investigate. Amber retains the question; she cannot ask Oak without explaining how she recognized the stone.
+- The stone's exact provenance remains unsettled. Chapter 18 does not state that Rowan sent it.
 
-**What this shows:**
-- Amber is academically exceptional without behaving like a model student. Her previous college education gives her an advantage, but Oak's accelerated coursework has still made her work.
-- The notebook helps explain her isolation: she protects it, works on material nobody else understands, and rarely redirects that attention toward classmates.
-- Amber belongs to a real graduating cohort even though she has not built close friendships within it. Reid and Nora know her through years of shared school life, and she knows them.
-- Reid's conventional rivalry seed and Nora's academic contrast are different functions. Do not turn Nora into a second promised battle rival or use the classroom to prebuild a future tournament bracket.
-- The disconnect: she's mentally 23, can't say it, and her annoyance is slightly too dry for a 14-year-old
-- What she's leaving behind is thin. This is WHY leaving is easy.
+## Scene 4: Photograph, Cake, and Goals
 
-**What Amber feels:** Annoyed. Not sad, not nostalgic. These people weren't interested in HER — they're interested in the news. Her guard is up (notebook) and her patience is low. Externally minimal, internally sharp.
+- Oak gathers the assistants, family, and research Pokemon for a photograph before the cake is cut.
+- Ditto complicates the photograph by becoming Oak and then Amber.
+- Amber makes the first cut.
+- Ash asks whether Amber intends to become a Pokemon Master. Amber says she wants to travel, meet Pokemon, see unfamiliar places, and perhaps challenge Gyms.
+- Gary calls that goal lame and declares that he will become Champion. Ash immediately claims the same goal; Gary reminds him that he wanted to become a Pokemon Master.
+- The party winds down through evening checks rather than another farewell speech.
 
-**Ditto:** Not at school. Pokemon not allowed (or at least not hers). She's alone here — no partner, no buffer. School-Amber is isolated in a way journey-Amber won't be.
+## Scene 5: Oak's Private Farewell
 
-**Exit:** After cleanup, she leaves without a dramatic goodbye. Notebook back in her bag, close to her body. School evaporates from her mind. She's already thinking about what's next.
+- Oak joins Amber and Ditto on the terrace after the party.
+- Amber still has not found a safe way to ask about the Mega Stone.
+- Oak admits he would prefer another year of preparation but accepts that Amber passed every standard he set.
+- His trust rests on observed behavior: Amber notices when Pokemon disagree rather than noticing only obedience.
+- He tells Amber to trust her own judgment while allowing her Pokemon to challenge it. Ditto immediately pulls him off balance.
+- Oak asks Amber to send Pokedex scans and return with questions.
 
-**Length:** Short. 1-2 pages max. Punchy, voice-forward. Establish the cohort and show why Amber can leave it without nostalgia.
+## Scene 6: Sunrise Departure
 
-**Craft notes (writing-principles):**
-- Trust the reader: don't explain the disconnection or loneliness. The notebook posture + minimal answers + fast exit do it.
-- Economy: Reid and Nora's contributions should establish their distinct functions while the class questions reveal assumptions and Amber's non-engagement.
-- Social simulation: Amber's annoyance through behavior and narration rhythm, not labels.
-- Don't summarize feelings at scene end. Don't reflect. She just goes.
-
----
-
-## Scene 2: Oak's Lab
-
-**Entry:** Amber goes straight to Oak's lab after school. The laboratory is familiar ground after three years of learning and working there, and Ditto is waiting for her.
-
-**Ditto:** Here. Greets her. The one relationship that's fully easy. A small beat of reunion/comfort before the Oak conversation.
-
-**Setting:** Afternoon, ~3pm. The laboratory is familiar because Amber has spent much of the last three years learning and working here. Oak's current research centers on the bonds between people and Pokemon. The room should reflect shared routines and sustained teaching rather than secret equipment Amber does not understand.
-
-**Hidden Rowan context:** During the time skip, Professor Rowan has privately brought Oak sanitized questions and observations from Project X's Mega Evolution research. Rowan studies the evolutionary mechanism; Oak studies the bond variable that Project X cannot explain without him. Lance does not know Rowan is consulting Oak. Chapter 18 should not explain this arrangement or display an obvious Mega Stone. If it leaves any surface trace, use ordinary-looking bond research, synchronization records, or routine correspondence from Rowan that gains significance only later.
-
-**Oak's attention:** Oak has taught Amber extensively and trusted her with meaningful work throughout the time skip. His attention today is not a rare interruption in years of busyness. He trusts Amber's character because he remembers the future Amber he met as young Sam, but he does not treat that memory as proof that fourteen-year-old Amber is ready for the road.
-
-Amber may have assisted with ordinary bond observations and training exercises, but Oak has not secretly used her or Ditto as experimental subjects. The research should deepen his teaching rather than make him echo Fuji.
-
-**The readiness bar:** Oak's sponsorship supports Amber's normal post-graduation start; it is not an early-departure exception. He required college-level courses and examinations across the fundamental subjects rather than relying on ordinary middle-school marks. Amber struggled with parts of that program, especially material specific to this world, but performed well enough to demonstrate broad competence. He also required Pokemon care, trainer law, emergency response, and practical preparation. His approval is evidence-based, not relaxed confidence produced by foreknowledge.
-
-**What Oak provides:** Gear/funds have been handled over weeks of preparation. This isn't the supply handoff — that's already done. Maybe confirming a final detail (Pokedex? Oak's Letter?) but the practical stuff is background noise.
-
-**The Sam subtext (invisible to Amber, visible to attentive readers):**
-- Oak advocates breadth of knowledge, understanding, and science before a journey. Amber's normal graduation and rigorous preparation follow that principle rather than breaking it.
-- He has made her meet a standard beyond the ordinary license requirements.
-- He's already seen her in action — about 47 years ago, as young Sam. He can't say this.
-- His hidden certainty concerns Amber's character and potential. Her demonstrated work establishes present readiness. Neither substitutes for the other.
-- The reread clue is the scale of his investment and the personal seriousness with which he prepared her, not casual confidence about her safety.
-
-**The conversation shape:**
-1. Amber arrives. Ditto. Comfort. Oak is there, casual.
-2. Oak treats passing his tests and receiving a license as evidence of readiness, not proof that the road is safe or that she has nothing left to learn.
-3. Amber's excitement at finally starting her journey carries the scene. Any final advice should arise from what Oak actually taught her rather than sound prophetic. A brief moment of unusual familiarity can preserve the Sam subtext without making him relaxed about the danger.
-
-**Craft notes:**
-- Trust the reader: the Sam subtext is in BEHAVIOR (ease, certainty, odd warmth, truncated speech) not in narration explaining "something about his gaze suggested..."
-- Economy: Oak's dialogue does triple duty — surface advice + Sam subtext + character (who he is as a mentor)
-- Don't make the subtext too loud. Amber doesn't understand it. First-time readers won't catch it. Re-readers will.
-
----
-
-## Scene 3: The Ranch
-
-**Setting:** Oak's ranch, late afternoon. Amber moves from the laboratory to the ranch. This is the warm, physical, light part of the chapter.
-
-**What happens:**
-- Amber says goodbye to the ranch Pokemon. She's known them for years — this is where she's spent her real time.
-- Gary is there doing chores, annoyed as hell. Last day of school and he still has to muck stalls or whatever Oak makes him do. Mouthy about it.
-- Ash tags along (followed Amber, wants to be near Ditto and the action).
-- Ditto plays with ranch Pokemon — transforms into one, comedy beat. Light and fun.
-
-**The jealousy beat lives here (both boys are 12, both stuck waiting):**
-- Ash: "You're leaving?! I have TWO MORE YEARS!"
-- Gary: also jealous but won't admit it — channels it into unsolicited advice and criticism
-- Amber: "I don't even want to be Pokemon Master."
-- Ash: genuine incomprehension. What else would you DO?
-- Gary and Ash argue about what THEY'LL do — Amber is already forgotten as they bicker
-- Comedy and warmth.
-
-**Tone:** The lightest scene in the chapter. Physical, noisy, Pokemon everywhere, kids arguing. Amber is engaged and giving energy back.
-
----
-
-## Scene 4: Going-Away Party at Delia's
-
-**Setting:** Evening. Delia's kitchen/dining room. A big meal.
-
-**Who's there:** Delia, Oak, Amber, Ash, Gary, Ditto.
-
-**The surface:** Lively, noisy, warm. Delia participates naturally as host and as someone who cares that Amber is leaving. Oak praises the food, everyone digs in. This is a proper send-off meal even if nobody calls it that.
-
-**Chatter topics (the noise that fills the room):**
-- Which gym should Amber challenge first? (Gary has STRONG opinions)
-- Pokemon type debates ("Water beats Fire, that's basic" / "Not if—")
-- Route 1 speculation/rumors
-- Gary insisting he'd do everything better when his turn comes / still salty about chores
-- Ash and Gary arguing (rivals-in-waiting energy, both 12, both jealous)
-- Oak dropping dry comments, mostly listening, enjoying the table
-- Journey strategy, what to pack, what Pokemon she might catch
-- Amber actually engaged — debating, answering, warm
-
-**What Amber feels:** Warmth from the table and impatience for morning. The party is part of the adventure beginning, not a diagnosis of who matters to her.
-
----
-
-## Scene 5: Packing / Quiet Close
-
-**Setting:** Amber's room at Delia's house. Night. Everyone's gone home or gone to bed.
-
-**The room:** Her room after three years in the rebuilt house. Keep description selective; the scene is about packing for tomorrow, not using decor to diagnose the household.
-
-**What happens:**
-- Amber packs. Gear from Oak's lab already organized — this is final assembly. Practical, competent.
-- The notebook goes in the bag. Her most important possession. Close to her body.
-- Ditto is with her (came home from the ranch). The one comfortable presence.
-- A moment of stillness: the house is quiet around her. Tomorrow this room is empty.
-
-**What she feels:** Not nostalgia. Not anxiety. Anticipation. The calm of someone who's been ready for months and the bureaucracy finally caught up. Tomorrow she's herself.
-
-**Length:** Short. Half a page to a page. The quietness IS the content. Let it breathe.
-
-**Craft notes:**
-- The notebook going into the bag is a callback to Scene 1 (snapping it shut at school). Her private world, portable now.
-- Ditto's presence = she's not lonely. She has what she needs.
-
----
-
-## Scene 6: Sunrise Farewell
-
-**Setting:** Morning. Delia's front door → Route 1.
-
-**Entry:** Sunrise. Pack on her back. Ditto on her shoulder (or in blob form, or as scarf). Oak, Delia, Ash, Gary, and other familiar Pallet people see her off; Gary waves casually and Ash is still sleepy.
-
-**What matters:** It's legitimate. Licensed. Nobody is chasing her. Nobody is stopping her. The door closes and she walks toward Route 1.
-
-**Possible small beats:**
-- Delia's sadness belongs to an ordinary farewell between people who care about each other. If she asks Amber to stay another day, keep the request brief and let Amber's eagerness for the road answer it; cut the beat if it slows the departure.
-- The physical sensation of the pack, the morning air, the road opening up.
-- Ditto doing something small — shifting, settling, a familiar weight.
-- The transition from Pallet's residential quiet to Route 1's edge.
-
-**What she feels:** Joy and forward motion. She is finally beginning the grand adventure she has imagined and prepared for.
-
-**End of chapter:** Something small that signals momentum. Not grand. Not a declaration. A step, a breath, a shift in the quality of light. The beginning of something real.
-
-**Craft notes:**
-- Resist the urge to make this a Big Moment. The whole chapter has been building to this — the departure doesn't need to announce itself. The quieter it is, the more it lands.
-- No reflective summary ("And so I left Pallet Town, the place that had been..."). She just walks.
-- The kaomoji section break could return here — signaling to the reader that we're in lighter territory now. Arc 1 begins.
-
----
+- Amber leaves from the path below Oak's laboratory with the Silph bag and Ditto.
+- Delia adds breakfast, repeats that Amber must eat before Viridian, and embraces her.
+- Oak, the lab assistants, Arcanine, Gary, and a sleepy Ash see her off.
+- Ditto travels beside Amber rather than being carried.
+- Amber looks back once at Pallet, waves until the path curves, and continues north with the sunrise behind her.
 
 ## What This Chapter Is NOT
 

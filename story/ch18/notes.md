@@ -14,9 +14,9 @@
 - The formal graduation ceremony is the following day. Attendance is ceremonial: Amber's graduation is already certified, and her Oak-sponsored Trainer License becomes valid that morning. She plans to leave at sunrise rather than attend.
 - Oak normally sponsors three Pallet graduates each year. Reid and Nora are publicly known as two of this year's three; Amber has not told her classmates that she is the third.
 - Reid approaches Amber about Professor Oak sponsoring her. Nora confirms that this makes Amber the unknown third. The exchange should establish Reid and Nora as real members of Amber's cohort without presenting the class as a prebuilt future tournament field.
-- Classmates ask about Amber's partner. Amber answers Ditto. They are confused because Ditto's apparent ceiling depends on what it can copy; Amber does not need to defend or explain Ditto before the teacher sends everyone back to cleaning.
-- Oak's lab hosts a private graduation celebration and journey send-off that afternoon. Amber wears her issued graduation gown for party poppers, cake, congratulations from Oak's assistants, and a photograph with Delia and Ash. The party lets her community celebrate the ceremony she intends to miss.
-- During the celebration, Delia asks Amber to stay for the formal ceremony, then asks whether she could remain a few more weeks. The request is ordinary reluctance to say goodbye, not conflict. Amber shakes her head; she has waited too long and cannot wait to begin her journey.
+- Nora questions Ditto's apparent ceiling. Amber answers that every Pokemon has more potential than people think and that her Ditto is already strong, then accepts Reid's challenge for the finals at Indigo Plateau.
+- Oak's lab hosts a private graduation celebration and journey send-off that afternoon, with party poppers, cake, gifts, and a photograph shared by Amber's actual Pallet community.
+- During the celebration, Delia asks Amber to remain a few more days and rest. The request is ordinary reluctance to say goodbye, not conflict. Amber shakes her head; she cannot wait to begin her journey.
 - When someone asks Amber's goal, she says she wants to experience the world of Pokemon. She is motivated by discovery rather than a title.
 - Gary calls that goal lame and declares that he will become Pokemon Champion when his turn comes. Ash immediately talks over him and insists that he will become Champion instead. Gary answers, "I thought you wanted to become a Pokemon Master." Ash treats becoming Champion as part of that larger goal. Their argument supplies the louder, conventional ambition surrounding Amber's quieter goal.
 - Amber, Reid, and Nora's exact class rankings and any valedictorian status remain unsettled.
@@ -36,9 +36,17 @@
 - She may recur, but the story does not promise her as a major battle rival, recurring tournament opponent, or tournament fixture.
 - Her starter, team, trainer path, career, degree of recurrence, and any tournament participation remain unsettled.
 
+### Lab Sendoff, Pokedex, and Mega Stone (August 2026)
+
+- Oak's assistants give Amber the practical journey supplies shown in the draft, including the Rapidash Athletics Stormweave trail runners and Silph Co. spatial bag.
+- Oak's prototype Pokedex derives image, estimated height, weight, and type from each scan and stores the result as field data. It does not yet identify species by name, provide descriptions, or speak. Amber accidentally gives Oak the idea for a spoken description.
+- Amber recognizes an unlabeled Mega Stone on Oak's workbench but cannot identify its species association. She does not forget it; she delays asking because explaining her recognition would expose knowledge she should not have.
+- The Mega Stone's provenance remains unsettled. Do not state that Rowan sent it until that decision is made.
+- Oak's private farewell establishes that his trust is evidence-based: Amber passed his standards and consistently notices when Pokemon disagree rather than valuing obedience alone.
+
 ### License & Registration
 
-- Amber's Trainer License was obtained offscreen during the 3-4 years in Pallet. Oak sponsored and handled it as part of her normal post-graduation journey.
+- Amber's Trainer License was obtained offscreen during her years in Pallet. Oak sponsored and handled it as part of her normal post-graduation journey.
 - She starts Ch 18 with the license already in hand. Carry limit: 3 Pokemon (Ditto + 2 open slots).
 - The competency test, paperwork, and bureaucracy are not shown. None of it is story.
 - Existing [trainer licensing worldbuilding][licensing] supports this: no age restriction on Trainer ID, Trainer License is a separate "more substantive" evaluation, and Oak's sponsorship is the equivalent of a full scholarship.

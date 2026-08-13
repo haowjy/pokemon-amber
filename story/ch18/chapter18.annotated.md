@@ -72,7 +72,7 @@ Nora responds to Amber's announcement with the practical contradiction everyone 
 
 "Ditto?" Nora adjusted her glasses. "That's kind of weak, isn't it? At best, it only becomes what it's fighting."
 
-"Every Pokemon has more potential than people think," I smirked. "My Ditto is already strong."
+I smirked. "Every Pokemon has more potential than people think. My Ditto is already strong."
 
 I turned to Reid and made a fist. "And I'll take that battle. In the finals at Indigo Plateau."
 
@@ -136,7 +136,7 @@ I opened it again and stared inside. "This is awesome."
 
 Then I swung it onto one shoulder. Even packed, it rested lightly against my back.
 
-"Seriously, thank you, everyone. For the gifts, and for letting me help around the lab all these years," I smiled.
+"Seriously, thank you, everyone. For the gifts, and for letting me help around the lab all these years." I smiled.
 
 "Amber, make sure to come and visit us sometime!"
 
@@ -150,7 +150,7 @@ I shook my head. "I can't wait even one more day. I'm finally starting my very o
 The two major gifts receive enough space to establish what they do: the trail runners introduce Rapidash Athletics and Stormweave, while the Silph bag's expanded interior is demonstrated with the shoebox. The remaining practical supplies are paraphrased so the celebration keeps moving. Amber's second look into the packed bag makes the marvel hers rather than leaving the spatial effect as detached description; settling it lightly against her back confirms that the bag also reduces its contents' effective carrying weight. The assistants' invitation and the Pokemon cries turn Amber's thanks into a shared farewell. Delia offers comfort rather than expressing fear or conflict, while Amber's refusal comes entirely from excitement for the journey.
 -->
 
-Professor Oak laughed and stepped forward, holding a red device small enough for one hand. A round camera lens sat above its dark screen, and a shallow scratch crossed the otherwise spotless case.
+Professor Oak laughed and stepped forward, holding a red device small enough for one hand. A round camera lens sat above its dark screen.
 
 "Since you're so eager, I have one final gift for you." He held out the device. "This is a prototype of something I call a Pokedex."
 
@@ -158,7 +158,7 @@ My eyes lit up. "A Pokedex? Really? A real Pokedex? You never told me about this
 
 "It's been a side project of mine, and it isn't complete yet." Oak flipped it open and pointed the lens at Ditto. "But that's where you come in."
 
-He pressed a button. A red beam washed over Ditto for several seconds, then disappeared. Then, he handed it to me.
+He pressed a button. A red beam washed over Ditto for several seconds, then disappeared.
 
 The screen displayed a picture of Ditto, along with its estimated height, weight, and type.
 
@@ -170,7 +170,7 @@ Nothing.
 
 Oak rubbed his chin. "A talking description... You could listen without taking your eyes off a wild Pokemon." His face brightened. "That's a good idea! I knew you'd be perfect for this mission."
 
-I immediately shut my mouth. I felt like I had revealed something I shouldn't have... I took a deep breath. "What mission?"
+I felt like I had revealed something I shouldn't have. I took a deep breath. "What mission?"
 
 He handed me the Pokedex. "It automatically records data on every Pokemon you scan! It's a high-tech encyclopedia! Well... not yet. I still need more data, so I want you to help me complete it while you travel."
 
@@ -188,16 +188,42 @@ I wiped my eyes. "Right. Scan them all. Only catch Pokemon I intend to train, an
 Oak turns Amber's eagerness into the reveal of his final gift. The demonstration establishes that a scan produces an image, estimated physical measurements, and type; it does not identify the Pokemon by name or supply a written description. Amber's expectation of the familiar voice accidentally gives Oak the idea for an audio description, connecting her old-world knowledge to the Pokedex's future form. Oak's mission is simple: collect scans of different Pokemon so the raw field data can become an encyclopedia. Amber's emotional promise pays off her years of waiting, while Oak's legal correction turns "catch them all" into a brief deadpan joke and restates her current three-Pokemon limit without extending the scene into a licensing lecture.
 -->
 
-The laboratory had never been designed for parties. Extension cords ran where chairs wanted to go, one wall hummed with refrigerated storage, and every flat surface came with at least one warning label. We opened the doors to the ranch instead. Warm air moved through the room, carrying cut grass and the low calls of Pokemon settling near the terrace to investigate.
+\[^.^\]/
 
-Arcanine lay across the threshold so nobody could pass without acknowledging him. I scratched behind his left ear on my way back. He leaned with perfect confidence and nearly put me on the floor.
+Dragonite rested beneath the broadest tree on the ranch, its back against the trunk and its wings spread through the grass. Two Nidoran slept against its side. Farther out, Tauros grazed across the field while several Pidgey followed behind him, pecking at whatever his hooves disturbed.
 
-"Still cheating," I told him.
+I waved as I passed. Dragonite opened one eye and lifted a claw.
 
-His tail struck the doorframe in a slow, satisfied rhythm.
+Most afternoons, weekends, and school breaks had brought me here. I had already finished college once. Sitting through school again had left me with very little to say to children experiencing everything for the first time.
+
+Professor Oak had solved that problem by giving me harder work.
+
+A Nidorino raised his head near the recovery fence. Three years ago, he had refused his eye drops from every adult in the building. He accepted them from me after I let him smell the bottle and waited for him to lower his head. For the next six mornings, he had been standing beside the gate before I arrived.
+
+I whistled. He huffed once and returned to the grass.
+
+The side door took me back into the laboratory. Rows of Pokeballs covered the storage wall. I knew which held residents who preferred quiet, which belonged to field teams, and which latch would earn you a lecture from a very old Fearow if you opened it before breakfast. A fresh strip of red tape beneath his ball read: NOT BEFORE BREAKFAST.
+
+At least the new assistants had been warned.
+
+I passed the long workbench where Professor Oak had taught me to prepare slides without trapping air beneath the glass. College had helped with the mathematics and chemistry. It had been considerably less useful for trainer law and the circulatory system of a creature with eighty tentacles.
+
+Professor Oak's workbench stood at the far end. I recognized the microscope, the scale, and the stacks of bond-observation forms. The marble near the back was new.
+
+Up close, it was round and polished, with two bands of color curling through its center. There was no label.
+
+A Mega Stone.
+
+I reached toward it, then stopped. Three years in a laboratory had taught me not to touch unidentified samples. Knowing exactly what it was probably did not count as permission.
+
+"Amber! Cake!" Ash shouted from the other room.
+
+I left the stone where it was and headed back. Before I crossed the doorway, I looked over my shoulder once more.
+
+Why did Professor Oak have a Mega Stone?
 
 <!--
-The lab remains a working place even during celebration, preserving its identity. Amber's exact knowledge of Arcanine's preferred ear and his expectation of attention show reciprocal familiarity without declaring the lab home.
+The ranch and laboratory form one continuous record of Amber's life during the time skip. Dragonite's casual greeting and the Pokemon using the pasture as a shared habitat establish belonging before the narration contrasts Amber's prior adulthood with her thin connection to school. Nidorino proves patient care; the Pokeball wall proves daily familiarity; the workbench joins Oak's academic demands to practical research. The unfamiliar marble interrupts that accumulated familiarity. Amber recognizes it only as a Mega Stone, respects the laboratory rule against touching it, and carries the unanswered question back into the celebration rather than forgetting the discovery.
 -->
 
 Oak clapped his hands. "Before anyone touches the cake, we need a photograph."
@@ -224,182 +250,32 @@ The photograph makes the whole lab community share one frame before the celebrat
 
 Delia examined the photograph, nodded, and offered me the cake knife. "Amber, make the first cut."
 
-Everyone looked at me.
-
 I cut through the first row of piped icing. Ash cheered as if the difficult part had been in doubt.
 
 <!--
 Delia's invitation gives Amber the place of honor without claiming that cutting the cake is a universal graduation ritual. Ash treating the simple cut like an accomplishment keeps the brief ceremony playful.
 -->
 
-Delia finished dividing the cake and put the first slice in front of me. Ditto became a fork.
+Delia finished dividing the cake. Ash took the chair closest to it. Gary sat between Ash and the remaining slices.
 
-Becoming a fork did not make it better at eating cake. It corrected this by becoming a second Amber.
-
-"Absolutely not," Delia said, moving the remaining cake farther away.
-
-My copy gave her a wounded look.
-
-"That face doesn't work when either of you uses it."
-
-"Good to know," I said.
-
-<!--
-The first served piece carries the honor through to Amber without dwelling on ceremony. Ditto's failed utensil solution lets Delia parent both of them with the same practical authority.
--->
-
-Ash had claimed the chair closest to the cake. Gary had claimed the chair that placed him between Ash and the cake.
-
-"It's not fair," Ash announced as soon as I sat down. "You get to leave tomorrow, and we have two more years."
-
-"You are one year younger than I am."
-
-"Exactly. That's only one year."
-
-"And Amber is leaving one year early," Oak said. "One plus one remains two, Ash."
-
-Ash frowned at the table, betrayed by arithmetic.
-
-<!--
-The boys' seating expresses their rivalry before dialogue begins. Ash reduces the issue to immediate unfairness, while Oak's literal arithmetic lets adult patience and humor coexist.
--->
-
-Gary folded his arms. "If she can leave early, I can too."
-
-"Certainly," Oak said.
-
-Gary blinked.
-
-Oak reached behind him and set a thick packet on the table. "You may sit the same evaluation battery. If you pass, I will sponsor your early departure under the same terms."
-
-"Fine." Gary pulled it toward himself. "How hard could it---"
-
-He turned the first page.
-
-Then the second.
-
-On the third, his eyes stopped moving.
-
-I knew that page. It had taken me three attempts, two weeks of review, and a conversation with Oak that began with him confiscating my calculator.
-
-<!--
-Oak answers Gary's territorial jealousy with an equal, evidence-based offer. Amber's remembered failures reveal that her prior education helped without making the qualification effortless.
--->
-
-"This has matrices," Gary said.
-
-"Yes."
-
-"Trainers don't need matrices."
-
-"Mathematics is only one section."
-
-Gary flipped ahead and found comparative Pokemon anatomy. His confidence recovered for three pages, then met a diagram of a Tentacruel's circulatory system and suffered a second, quieter death.
-
-That section had been worse for me than the matrices. Prior college did not help much when the circulatory system belonged to a creature with eighty tentacles and two poison sacs. Oak had made me take it again too.
-
-"This test is stupid," he declared. "I'm waiting on principle."
-
-"A principled decision," Oak agreed, taking the packet back.
-
-<!--
-The single college-level mathematics example fulfills the proof of rigor without listing a curriculum. Amber's comparison makes her prior-college advantage explicit but limited, and the retake proves she struggled with world-specific material rather than passing effortlessly. Gary's retreat remains sibling-like rather than humiliating.
--->
-
-"I could pass it," Ash said.
-
-Gary looked at him. "You thought one plus one was one."
-
-"I did not!"
-
-"You just argued with it."
-
-"I don't need a test anyway. I'm going to be a Pokemon Master. Pokemon Masters don't need..." Ash glanced suspiciously at the packet. "Whatever that was."
-
-"Circulation," I said.
-
-"Pokemon Masters need blood?"
-
-"Generally."
-
-<!--
-Ash's aspiration absorbs the previous subject and produces absurdity from his current want. Amber's straight answers preserve the project's deadpan register and keep the boys warm rather than foolishly caricatured.
--->
-
-Ash pointed at me. "Are you going to be a Pokemon Master?"
-
-"I don't know."
-
-Three heads turned toward me. Ditto lifted itself from my shoulder too.
-
-"Then why are you going?" Ash asked.
+"What's your goal?" Ash asked. "Are you going to be a Pokemon Master?"
 
 For the road north. For cities I had only seen flattened onto screens. For wild Pokemon that would not wait in tall grass for their turn to attack. For the chance to reach a fork and choose a direction because I wanted to know what was there.
 
-"I want to travel," I said. "I want to meet Pokemon. See places I've never seen. I'll challenge Gyms if we want to."
+"I want to travel," I said. "Meet Pokemon. See places I've never seen. Maybe challenge some Gyms along the way."
 
 I touched two fingers to Ditto's side. It curled around them.
 
-"That can be the goal?"
+"That's lame," Gary said. "I'm going to become Champion."
 
-"It is mine."
+"No, I am!" Ash said.
 
-<!--
-Ash's sincere incomprehension invites Amber to define her journey. Her inner list converts remembered franchise abstractions into physical desires, and Ditto's touch makes the goal collective without turning it into a speech.
--->
+Gary frowned at him. "I thought you wanted to become a Pokemon Master."
 
-Ash considered this with unusual seriousness.
-
-"I'm still going to be a Pokemon Master."
-
-"I know."
-
-"Before Gary."
-
-"You have to leave Pallet first," Gary said.
-
-They were arguing about whose future Squirtle could beat whose future Charmander before I could point out that neither of them had a future starter yet.
-
-Oak leaned toward me. "You see why I added the mathematics section."
+"I'll become Champion first."
 
 <!--
-Ash returns unchanged to his defining ambition, keeping Amber's different goal from becoming a correction of his. The rivalry immediately reclaiming both boys gives Oak and Amber a small shared joke.
--->
-
-
-
-While Delia started collecting plates, I escaped the center table for what I told myself was one last inspection.
-
-Nobody stopped me this time.
-
-I passed the long workbench where I had learned to prepare slides without trapping air beneath the glass. Three stools down, a chipped drawer still stuck unless it was lifted before pulling. Beyond it stood the recovery pen where a Nidorino had once refused his eye drops from every adult in the building. He had accepted them from me after I let him smell the bottle and waited for him to lower his head. For six mornings afterward, he had been waiting beside the gate before I arrived.
-
-<!--
-The Pokedex handoff sends Amber through the place where she learned to observe. One procedural memory and Nidorino's choice prove sustained practical experience and patient attention without summarizing the three-year gap.
--->
-
-The Nidorino was out on the ranch now. At my whistle, he raised his head beyond the fence. I lifted a hand. He huffed once and went back to nosing through the grass.
-
-Near the storage wall, rows of Pokeballs rested in labeled slots. I knew which held residents who preferred quiet, which belonged to field teams, and which latch would earn you a lecture from a very old Fearow if you released him before breakfast. His ball had a fresh strip of red tape beneath it: NOT BEFORE BREAKFAST.
-
-At least the new assistant had been warned.
-
-<!--
-Nidorino's understated response avoids sentimental performance while confirming recognition. Amber reads the Pokeball wall as individual preferences and work practices; the fresh warning shows how the lab passes that practical knowledge forward.
--->
-
-Ditto slid down my arm and bounced beside me. It paused at the low tank where a Horsea watched the room through the glass. Three years ago, the Horsea had sprayed me every time I recorded its feeding response. Now it spat one precise stream over the rim and hit the center of my shirt.
-
-"You waited all day for that."
-
-Horsea sank below the water, bubbles streaming from its snout.
-
-Ditto copied Horsea on dry land and sprayed nothing at all. It seemed delighted with itself.
-
-I wiped my shirt with the cloth beside the tank and returned to the table.
-
-<!--
-Horsea's continuing prank gives Amber a relationship history that is affectionate without being solemn. Ditto's useless copy keeps the circuit playful, and Amber returns to the celebration without introducing a second plot thread into the farewell.
+Ash asks for the conventional title behind Amber's journey, giving her a reason to state the exploratory desire that has carried the chapter. Ditto's touch makes the goal collective. Gary's dismissal and the boys' competing ambitions preserve their familiar rivalry without reviving the discarded early-departure test sequence.
 -->
 
 It was a good cake. Light sponge, Oran cream, and enough sugar to keep Ash and Gary arguing through sunset. The assistants drifted back to evening checks one at a time. The last one stopped at the ranch door. "Field notes. More than *interesting bite marks* this time."
@@ -410,109 +286,53 @@ It was a good cake. Light sponge, Oran cream, and enough sugar to keep Ash and G
 The assistants return to work gradually, so the celebration remains part of the lab's daily life rather than sealing itself off from it. One shared joke carries their working history without assigning profiles the chapter does not need.
 -->
 
-Outside the open doors, the ranch darkened from green to blue. The old Fearow moved from the cabinet to the weather mast. Arcanine remained across the threshold, because a doorstop with opinions was still a doorstop.
-
-Nobody asked me to make a speech. This was another kindness.
-
-I talked until my throat hurt anyway.
+Outside the open doors, the ranch darkened from green to blue.
 
 <!--
-Fearow's move from the crowded room to the weather mast carries the lab from noisy welcome into evening routine; Arcanine's continued occupation of the threshold keeps the last beat playful. Amber's relief at avoiding a formal speech followed by voluntary conversation shows that she is neither isolated nor emotionally withholding here.
+The fading light carries the celebration into evening without inventorying every departure or adding another farewell speech.
 -->
 
 \[@.@\]/
 
-Oak found me on the terrace after the last plates had been carried inside. Ditto had spread itself across my lap, warm and heavy from stolen crumbs.
+Oak found me on the terrace after the last plates had been carried inside. Ditto had spread itself across my lap.
 
-Oak rested both hands on the terrace railing.
+The Mega Stone was somewhere beyond the open doors. I still had not figured out how to ask about it without explaining why I recognized it.
 
-"Tomorrow," he said.
+Oak rested both hands on the railing and looked toward Route 1.
 
-"Tomorrow."
-
-For a moment, he looked past me toward the dark line of Route 1.
-
-"What do you intend to do?"
-
-"Reach Viridian. After that, see what happens. Travel. Train. Catch Pokemon if they choose me. Maybe challenge the Gym."
-
-<!--
-The terrace conversation arises after the party rather than replacing it. Oak looks toward the road Amber will take while her answer repeats her flexible goal in practical terms.
--->
-
-"And when what happens is not what you planned?"
-
-"Make a new plan."
-
-"When danger leaves you no good choices?"
-
-I looked down at Ditto. It raised one sleepy eye.
-
-"Choose the least bad one," I said. "Then get us out."
-
-Oak nodded once. "I would still prefer you waited another year."
+"I would still prefer another year," he said.
 
 "I know."
 
-"You passed every standard I set. Some more than once."
+"But you passed every standard I set. Some more than once."
 
-"The emergency-response practical was badly designed."
-
-"The examiner was not supposed to require emergency response."
-
-"He released a Beedrill indoors."
-
-"An error he has acknowledged."
-
-<!--
-Oak tests adaptability rather than asking for a grand destiny. His preference that she wait remains honest, while their shared Beedrill memory compresses her imperfect, repeated preparation into human humor instead of an exam recap.
--->
-
-His mouth twitched. Then he grew quiet.
-
-"I've watched you work with dozens of Pokemon," he said. "You notice when they disagree with you. Most trainers learn to notice obedience first."
+Oak glanced at Ditto. "I've watched you work with dozens of Pokemon. You notice when they disagree with you. Most trainers learn to notice obedience first."
 
 Ditto lifted its head.
 
-"That attention creates unusually strong bonds," Oak continued. "Protect it. Especially when you are frightened. Certainty can make people stop listening."
-
-<!--
-Oak's affirmation is grounded in three years of observed work and identifies Amber's distinction as treating Pokemon as minds. The warning links that strength to a failure mode under pressure rather than flattering her without limit.
--->
-
-He bent enough to offer Ditto his hand. Ditto touched it with the edge of its body.
-
-"Believe in your judgment," he said. "But trust your Pokemon enough to let them challenge it. If Ditto tells you to run, listen."
+"That is why I trust you on the road," he continued. "Believe in your judgment, but trust your Pokemon enough to let them challenge it. If Ditto tells you to run, listen."
 
 "I will."
 
-"If Ditto chooses to stand, listen before dismissing that, too."
+"If Ditto chooses to stand, listen to that too."
 
-Then Ditto wrapped itself around his hand and pulled. Oak caught his balance against the railing.
+Ditto wrapped itself around his hand and pulled. Oak caught his balance against the railing.
 
-"I believe that means it has challenged my decision to stand here," he said.
-
-<!--
-The principle is reciprocal trust rather than courage at any cost: either retreat or resistance may be the partner's wiser choice. Oak's unusual certainty and the scale of the preparation already shown carry the 4Ever subtext without Amber identifying it; Ditto immediately restores the human scale.
--->
+"I believe it has challenged my decision to stand here," he said.
 
 I gathered Ditto into my arms and stood. "Thank you, Professor. For all of it."
 
-Oak looked toward Route 1 again. "Come back with questions."
+"Send me your scans," Oak said. "And come back with questions."
 
 "I will."
 
-"Good. I have enough answers."
-
 <!--
-The private conversation ends on the intellectual relationship beneath Oak's advice: Amber can leave without outgrowing the exchange between them. His dry reversal avoids repeating the public Pokedex assignment or closing on a generic farewell.
+Amber has not forgotten the Mega Stone; her inability to explain how she recognized it delays the question. Oak's preference for more preparation preserves his caution, while her completed standards and his observation of her Pokemon work justify his trust. His advice names the reciprocal listening he values without repeating it across multiple hypothetical dangers. Ditto immediately testing the principle keeps the farewell from becoming solemn, and Oak's request for scans returns the conversation to the Pokedex.
 -->
 
 \[^.^\]/
 
-At dawn, my Silph Co. bag was already waiting by the laboratory door.
-
-The Potions and berries sat near the opening where I could reach them without unpacking. The Pokedex was in my jacket pocket.
+At dawn, I stood outside Professor Oak's laboratory with the Silph Co. bag over my shoulders.
 
 Delia checked the left strap, then the right, though we had checked both the night before. She tucked a wrapped breakfast into the top pocket and pressed it flat with her palm.
 
@@ -524,22 +344,20 @@ Delia checked the left strap, then the right, though we had checked both the nig
 
 "Before Viridian."
 
-Satisfied, she pulled me close. I held on with both arms.
+Then she pulled me close. I held on with both arms.
 
 <!--
-Packing and night are compressed into the already-waiting Silph Co. bag. The gifts have become usable journey equipment rather than ceremonial keepsakes. Delia's repeated food instruction makes farewell care concrete and habitual; the unqualified embrace carries affection without raising the unused title of Mom.
+The gifts have become usable journey equipment rather than ceremonial keepsakes. Delia's repeated food instruction makes farewell care concrete and habitual; the unqualified embrace carries affection without raising the unused title of Mom.
 -->
 
-Professor Oak waited at the path with the lab staff. A few neighbors from the hill had joined them, along with Ms. Mori and two of the ranch hands. Arcanine sat beside Oak. Nidorino watched from the open ranch gate.
+Professor Oak and the lab staff waited beside the path. Arcanine sat beside him.
 
 Gary gave me a loose wave from one pocket. "Try not to lose to the first Bug type you see."
 
-"Study your matrices."
-
-His hand dropped. "Low blow."
+"I'll keep that in mind."
 
 <!--
-The modest sendoff represents Amber's Pallet ties without claiming the entire town. Lab staff and familiar Pokemon recur from the party as a community rather than a list of introductions, while Gary's callback keeps his affection sibling-like and unsentimental.
+The modest sendoff represents Amber's actual Pallet ties rather than filling the path with acquaintances the chapter has not made meaningful. Gary's warning keeps his affection sibling-like and unsentimental without depending on the deleted early-departure test sequence.
 -->
 
 Ash stood beside him with his hair flattened on one side. He rubbed both eyes, yawned, and nearly tipped forward.
@@ -560,14 +378,12 @@ Ash's presence costs him sleep, which makes his care legible through action. His
 
 Ditto bounced down the steps and stopped beside my left foot.
 
-Not on my shoulder. Not in its Pokeball. Beside me.
-
-I settled the bag against my back. Its weight pulled at muscles trained by months of longer and longer walks. The morning smelled of damp earth and cut grass. Beyond the last houses, Route 1 waited under a pale sky.
+The morning smelled of damp earth and cut grass. Beyond the last houses, Route 1 waited under a pale sky.
 
 My face hurt from smiling.
 
 <!--
-Ditto chooses the position of a traveling partner, giving physical form to Oak's principle without restating it. The trained muscles acknowledge preparation, while Amber's aching smile names joy through a bodily consequence rather than reflection.
+Ditto chooses the position of a traveling partner, giving physical form to Oak's principle without restating it. The bag's lightness preserves the spatial technology established during the party, while Amber's aching smile names joy through a bodily consequence rather than reflection.
 -->
 
 "Ready?" I asked.
