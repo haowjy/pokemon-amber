@@ -112,7 +112,7 @@ She stood very still, and I wondered if this was how she'd looked when Dr. Fuji 
 
 "I brought her back!" Dr. Fuji's grip tightened until I had to bite back a wince. "She's alive, Delia. Our daughter is alive again. Look at her face, her eyes---it's her, it has to be her---"
 
-"That's not---that's not Amber." Delia's words fell like broken glass. "Whatever you've done, whatever you've created..." She forced herself to look at me, really look, like someone pressing on a bruise to prove it hurts. When she finally spoke again, her voice cracked. "Our daughter is gone, and this---" her hand trembled as she gestured at me, "this is just another experiment. Another way to avoid facing what happened. The cancer---"
+"That's not---that's not Amber." Delia's words fell like broken glass. "Whatever you've done, whatever you've created..." She forced herself to look at me, really look, like someone pressing on a bruise to prove it hurts. When she finally spoke again, her voice cracked. "Our daughter is gone, and this---" her hand trembled as she gestured at me, "this is just another experiment. Another way to avoid facing what happened during the war---"
 
 The setting sun caught in her hair, painting her in shades of gold that made the whole scene feel like some twisted memorial photo.
 

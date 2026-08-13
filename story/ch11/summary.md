@@ -32,7 +32,7 @@ Fuji transports Amber to Pallet, confronts Delia with their past, and leaves Amb
 ### 3. The Confrontation with Delia:
 *   Dr. Fuji stops at a house where Delia Ketchum, now with auburn hair, is tending her garden. Amber sees a young boy playing with a Poliwag, whom she identifies as Ash Ketchum.
 *   Dr. Fuji confronts Delia, dramatically announcing he has "brought their daughter back," presenting Amber as proof.
-*   Delia reacts with disbelief and horror, denying that Amber is her daughter and calling her "just another experiment" to avoid facing the truth about the original Amber's death from cancer.
+*   Delia reacts with disbelief and horror, denying that Amber is her daughter and calling her "just another experiment" created to avoid facing the original Amber's death during the Kanto-Johto war.
 *   Ash's father (Stephen, later revealed), a man not present in the anime, emerges from the house, protecting Delia and ordering Ash inside.
 
 ### 4. Fuji's Desperation and Abandonment:
@@ -43,10 +43,9 @@ Fuji transports Amber to Pallet, confronts Delia with their past, and leaves Amb
 
 ## Potential speculation:
 *   **Fuji's Psychological Breakdown:** Dr. Fuji's increasingly erratic behavior, his desperate need to recreate the past, and his emotional outburst at Delia highlight his deepening psychological instability, suggesting he is losing touch with reality and becoming a greater threat to Amber.
-*   **Delia's Hidden Past:** Delia's strong reaction to Dr. Fuji and the revelation of their past connection (and the mention of Amber's cancer) indicates a tragic and complex history that she has clearly tried to move on from, which will likely be explored further.
+*   **Delia's Hidden Past:** Delia's strong reaction to Dr. Fuji and the revelation that their daughter died during the war indicate a tragic and complex history she has tried to move beyond.
 *   **Ash's Father's Role:** The unexpected introduction of Ash's father, a character absent from the main *Pokémon* narratives, suggests a significant divergence in this world's timeline or lore, and his protective stance hints at a deeper, potentially adversarial relationship with Dr. Fuji.
-*   **Amber's True Identity and Trauma:** The direct confrontation with Delia about the original Amber's death from cancer further complicates Amber's sense of self and underscores the profound trauma of her existence, as she is both a clone and a vessel for a lost child.
+*   **Amber's True Identity and Trauma:** The confrontation over the original Amber's wartime death further complicates Amber's sense of self and underscores the trauma surrounding her creation.
 *   **Loss of Agency and Isolation:** Amber's forced journey, the loss of Ditto, and her abandonment by Dr. Fuji emphasize her powerlessness and isolation, suggesting she will now have to find her own way in a world that is far more complex and dangerous than she initially perceived.
 *   **Pallet Town's Divergent Timeline:** The presence of both Ash and a father figure for him, along with the historical connection between Delia and Dr. Fuji, strongly indicates a distinct and potentially darker timeline of the Pokémon world, where familiar elements have been twisted or altered.
-
 
