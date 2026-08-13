@@ -7,8 +7,8 @@ commit = "ee1ddda1aa207b5eae389563e59bf86c566d6784"
 
 [dependencies.meridian-base]
 url = "github.com/haowjy/meridian-base"
-version = "v0.10.2"
-commit = "58cc4c9385a7019aef7eedc10a971b5fc831c242"
+version = "v0.10.3"
+commit = "c9d5fa989c2533de3c2af5a933c6f7b16f939453"
 
 [dependencies.meridian-prompter]
 url = "github.com/haowjy/meridian-prompter"
@@ -1280,6 +1280,18 @@ default_effort = "high"
 provider = "openai"
 match = ["gpt-5*-mini"]
 exclude = ["*-nano"]
+
+[dependency_model_aliases.grok]
+harness = "opencode"
+description = "General-purpose reasoning and coding model available through OpenCode."
+default_effort = "high"
+model = "grok-4.5"
+
+[dependency_model_aliases.kimi]
+harness = "opencode"
+description = "Long-context multimodal agentic model for coding, research, and orchestration."
+default_effort = "high"
+model = "kimi-k3"
 
 [dependency_model_aliases.luna]
 harness = "codex"
