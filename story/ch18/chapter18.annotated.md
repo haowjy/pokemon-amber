@@ -275,7 +275,7 @@ Gary frowned at him. "I thought you wanted to become a Pokemon Master."
 "I'll become Champion first."
 
 <!--
-Ash asks for the conventional title behind Amber's journey, giving her a reason to state the exploratory desire that has carried the chapter. Ditto's touch makes the goal collective. Gary's dismissal and the boys' competing ambitions preserve their familiar rivalry without reviving the discarded early-departure test sequence.
+Ash asks for the conventional title behind Amber's journey, giving her a reason to state the exploratory desire that has carried the chapter. Ditto's touch makes the goal collective. Gary's dismissal and the boys' competing ambitions preserve their familiar rivalry.
 -->
 
 It was a good cake. Light sponge, Oran cream, and enough sugar to keep Ash and Gary arguing through sunset. The assistants drifted back to evening checks one at a time. The last one stopped at the ranch door. "Field notes. More than *interesting bite marks* this time."
@@ -357,7 +357,7 @@ Gary gave me a loose wave from one pocket. "Try not to lose to the first Bug typ
 "I'll keep that in mind."
 
 <!--
-The modest sendoff represents Amber's actual Pallet ties rather than filling the path with acquaintances the chapter has not made meaningful. Gary's warning keeps his affection sibling-like and unsentimental without depending on the deleted early-departure test sequence.
+The modest sendoff represents Amber's actual Pallet ties. Gary's warning keeps his affection sibling-like and unsentimental.
 -->
 
 Ash stood beside him with his hair flattened on one side. He rubbed both eyes, yawned, and nearly tipped forward.
@@ -383,7 +383,7 @@ The morning smelled of damp earth and cut grass. Beyond the last houses, Route 1
 My face hurt from smiling.
 
 <!--
-Ditto chooses the position of a traveling partner, giving physical form to Oak's principle without restating it. The bag's lightness preserves the spatial technology established during the party, while Amber's aching smile names joy through a bodily consequence rather than reflection.
+Ditto chooses the position of a traveling partner, giving physical form to Oak's principle without restating it. Amber's aching smile conveys the size of her joy through a bodily consequence.
 -->
 
 "Ready?" I asked.
