@@ -16,7 +16,7 @@ I dragged my desk back into line and tried not to grin. The bulletin board had b
 
 I emptied my desk into the wastebasket: three pencils, two chewed erasers, loose papers, crumbs, pencil shavings, and dust. I peeled my name label from the corner and dropped it in after them. The only thing I kept was my notebook of otherworldly secrets.
 
-I opened it and ran a finger down the page as I skimmed. I had started it with everything I could remember about Pokemon from my old life: games, anime, manga, guidebooks, websites, and fan theories. Moves, evolutions, maps, and events that had not happened yet. Three years here had covered the entries in check marks, corrections, and question marks.
+I opened it and ran a finger down the page as I skimmed. I had started it with everything I could remember about Pokemon from my old life: games, anime, manga, guidebooks, websites, and fan theories. Moves, evolutions, maps, and events that had not happened yet. Four years here had covered the entries in check marks, corrections, and question marks.
 
 "Professor Oak's sponsoring you too?"
 
@@ -148,21 +148,19 @@ I wiped my eyes. "Right. Scan them all. Only catch Pokemon I intend to train, an
 
 Dragonite rested beneath the broadest tree on the ranch, its back against the trunk and its wings spread through the grass. Two Nidoran slept against its side. Farther out, Tauros grazed across the field while several Pidgey followed behind him, pecking at whatever his hooves disturbed.
 
-I waved as I passed. Dragonite opened one eye and lifted a claw.
+I waved as I passed. Dragonite opened one eye and lifted a claw in response.
 
-Most afternoons, weekends, and school breaks had brought me here. I had already finished college once. Sitting through school again had left me with very little to say to children experiencing everything for the first time.
+I spent most afternoons, weekends, and school breaks here. I had already finished college once, and sitting through school again left me with very little to say to the other children. At least the history and TV of this world most of the time gave me something new.
 
-Professor Oak had solved that problem by giving me harder work.
+I helped out around the lab. Mostly I recorded how Pokemon interacted with each other, and with people, me included.
 
-A Nidorino raised his head near the recovery fence. Three years ago, he had refused his eye drops from every adult in the building. He accepted them from me after I let him smell the bottle and waited for him to lower his head. For the next six mornings, he had been standing beside the gate before I arrived.
+A Nidorino raised his head near the recovery fence. Four years ago, he refused his eye drops from every adult in the building. He accepted them from me after I let him smell the bottle and waited for him to lower his head. For the next six mornings, he was waiting beside the gate when I arrived.
 
 I whistled. He huffed once and returned to the grass.
 
-The side door took me back into the laboratory. Rows of Pokeballs covered the storage wall. I knew which held residents who preferred quiet, which belonged to field teams, and which latch would earn you a lecture from a very old Fearow if you opened it before breakfast. A fresh strip of red tape beneath his ball read: NOT BEFORE BREAKFAST.
+The side door took me back into the laboratory. Rows of Pokeballs covered the storage wall. I knew which held residents who preferred quiet and which belonged to field teams. Nobody opened anything before the old Fearow had eaten. Any commotion before breakfast earned the whole building a lecture. New assistants learned that rule exactly once.
 
-At least the new assistants had been warned.
-
-I passed the long workbench where Professor Oak had taught me to prepare slides without trapping air beneath the glass. College had helped with the mathematics and chemistry. It had been considerably less useful for trainer law and the circulatory system of a creature with eighty tentacles.
+I passed the long workbench where Professor Oak had taught me to prepare slides without trapping air beneath the glass. College helped with the mathematics and chemistry. It was considerably less useful for trainer law and the circulatory system of a creature with eighty tentacles.
 
 Professor Oak's workbench stood at the far end. I recognized the microscope, the scale, and the stacks of bond-observation forms. The marble near the back was new.
 
@@ -170,13 +168,11 @@ Up close, it was round and polished, with two bands of color curling through its
 
 A Mega Stone.
 
-I reached toward it, then stopped. Three years in a laboratory had taught me not to touch unidentified samples. Knowing exactly what it was probably did not count as permission.
+I reached toward it, then stopped. I couldn't explain how I knew.
 
 "Amber! Cake!" Ash shouted from the other room.
 
-I left the stone where it was and headed back. Before I crossed the doorway, I looked over my shoulder once more.
-
-Why did Professor Oak have a Mega Stone?
+I left the stone where it was and headed back. In the doorway, I looked back once.
 
 Oak clapped his hands. "Before anyone touches the cake, we need a photograph."
 
@@ -224,45 +220,11 @@ It was a good cake. Light sponge, Oran cream, and enough sugar to keep Ash and G
 
 Outside the open doors, the ranch darkened from green to blue.
 
-\[@.@\]/
-
-Oak found me on the terrace after the last plates had been carried inside. Ditto had spread itself across my lap.
-
-The Mega Stone was somewhere beyond the open doors. I still had not figured out how to ask about it without explaining why I recognized it.
-
-Oak rested both hands on the railing and looked toward Route 1.
-
-"I would still prefer another year," he said.
-
-"I know."
-
-"But you passed every standard I set. Some more than once."
-
-Oak glanced at Ditto. "I've watched you work with dozens of Pokemon. You notice when they disagree with you. Most trainers learn to notice obedience first."
-
-Ditto lifted its head.
-
-"That is why I trust you on the road," he continued. "Believe in your judgment, but trust your Pokemon enough to let them challenge it. If Ditto tells you to run, listen."
-
-"I will."
-
-"If Ditto chooses to stand, listen to that too."
-
-Ditto wrapped itself around his hand and pulled. Oak caught his balance against the railing.
-
-"I believe it has challenged my decision to stand here," he said.
-
-I gathered Ditto into my arms and stood. "Thank you, Professor. For all of it."
-
-"Send me your scans," Oak said. "And come back with questions."
-
-"I will."
-
 \[^.^\]/
 
 At dawn, I stood outside Professor Oak's laboratory with the Silph Co. bag over my shoulders.
 
-Delia checked the left strap, then the right, though we had checked both the night before. She tucked a wrapped breakfast into the top pocket and pressed it flat with her palm.
+Delia checked the left strap, then the right, though we had adjusted both the night before. She tucked a wrapped breakfast into the top pocket and pressed it flat with her palm.
 
 "Eat before Viridian," she said.
 
@@ -272,7 +234,43 @@ Delia checked the left strap, then the right, though we had checked both the nig
 
 "Before Viridian."
 
-Then she pulled me close. I held on with both arms.
+She kept her hand on the bag.
+
+"Delia."
+
+She looked up.
+
+"Thank you. For taking me in. For everything after that."
+
+Her fingers tightened against the fabric.
+
+I looked down at the clasp. "Stephen would still be alive if I hadn't come here."
+
+"No." She said it hard enough that I looked at her. "Stephen died because Fuji killed him. Not because you came to us."
+
+"But---"
+
+"No." Her voice broke. She pulled me against her before I could finish. "I may not have given birth to you, but that doesn't make you any less my daughter."
+
+I went rigid in her arms.
+
+For four years, Delia had packed my lunches, bought my clothes, sat through school meetings, and waited up whenever I stayed late at the lab. She had never asked me to be the girl Fuji wanted back.
+
+My hands trembled before I wrapped them around her.
+
+"Thanks..." I swallowed. "Mom."
+
+Delia went still.
+
+Then her arms tightened until my feet nearly left the ground.
+
+"That's the first time you've called me Mom."
+
+"I can take it back, Delia."
+
+"No, you can't."
+
+She laughed into my hair. I held on.
 
 Professor Oak and the lab staff waited beside the path. Arcanine sat beside him.
 

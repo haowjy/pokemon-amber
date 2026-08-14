@@ -42,7 +42,8 @@
 - Oak's prototype Pokedex derives image, estimated height, weight, and type from each scan and stores the result as field data. It does not yet identify species by name, provide descriptions, or speak. Amber accidentally gives Oak the idea for a spoken description.
 - Amber recognizes an unlabeled Mega Stone on Oak's workbench but cannot identify its species association. She does not forget it; she delays asking because explaining her recognition would expose knowledge she should not have.
 - The Mega Stone's provenance remains unsettled. Do not state that Rowan sent it until that decision is made.
-- Oak's private farewell establishes that his trust is evidence-based: Amber passed his standards and consistently notices when Pokemon disagree rather than valuing obedience alone.
+- The private terrace farewell and its early-departure framing are deleted. Oak's gifts, sponsorship, Pokedex assignment, and years of access demonstrate his trust without a speech about standards.
+- During the sunrise farewell, Amber thanks Delia for taking her in and admits that she blames herself for Stephen's death. Delia assigns responsibility directly to Fuji and calls Amber her daughter. Amber calls Delia "Mom" for the first time, then retreats to "Delia" when Delia draws attention to it.
 
 ### License & Registration
 

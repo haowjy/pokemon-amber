@@ -20,10 +20,10 @@ The chapter enters mid-cleanup and makes the dismantling classroom a visual coun
 
 I emptied my desk into the wastebasket: three pencils, two chewed erasers, loose papers, crumbs, pencil shavings, and dust. I peeled my name label from the corner and dropped it in after them. The only thing I kept was my notebook of otherworldly secrets.
 
-I opened it and ran a finger down the page as I skimmed. I had started it with everything I could remember about Pokemon from my old life: games, anime, manga, guidebooks, websites, and fan theories. Moves, evolutions, maps, and events that had not happened yet. Three years here had covered the entries in check marks, corrections, and question marks.
+I opened it and ran a finger down the page as I skimmed. I had started it with everything I could remember about Pokemon from my old life: games, anime, manga, guidebooks, websites, and fan theories. Moves, evolutions, maps, and events that had not happened yet. Four years here had covered the entries in check marks, corrections, and question marks.
 
 <!--
-The deadpan description of the notebook as a repository of otherworldly secrets contrasts its importance with the disposable school clutter. Peeling away Amber's name label quietly removes her place in the classroom. Check marks, corrections, and question marks show how three years of observation changed her remembered knowledge without revealing specific discoveries. Amber's nervous pleasure keeps the unresolved entries emotionally active without announcing the journey a second time.
+The deadpan description of the notebook as a repository of otherworldly secrets contrasts its importance with the disposable school clutter. Peeling away Amber's name label quietly removes her place in the classroom. Check marks, corrections, and question marks show how four years of observation changed her remembered knowledge without revealing specific discoveries. Amber's nervous pleasure keeps the unresolved entries emotionally active without announcing the journey a second time.
 -->
 
 "Professor Oak's sponsoring you too?"
@@ -192,21 +192,27 @@ Oak turns Amber's eagerness into the reveal of his final gift. The demonstration
 
 Dragonite rested beneath the broadest tree on the ranch, its back against the trunk and its wings spread through the grass. Two Nidoran slept against its side. Farther out, Tauros grazed across the field while several Pidgey followed behind him, pecking at whatever his hooves disturbed.
 
-I waved as I passed. Dragonite opened one eye and lifted a claw.
+I waved as I passed. Dragonite opened one eye and lifted a claw in response.
 
-Most afternoons, weekends, and school breaks had brought me here. I had already finished college once. Sitting through school again had left me with very little to say to children experiencing everything for the first time.
+I spent most afternoons, weekends, and school breaks here. I had already finished college once, and sitting through school again left me with very little to say to the other children. At least the history and TV of this world most of the time gave me something new.
 
-Professor Oak had solved that problem by giving me harder work.
+I helped out around the lab. Mostly I recorded how Pokemon interacted with each other, and with people, me included.
 
-A Nidorino raised his head near the recovery fence. Three years ago, he had refused his eye drops from every adult in the building. He accepted them from me after I let him smell the bottle and waited for him to lower his head. For the next six mornings, he had been standing beside the gate before I arrived.
+<!--
+Author direction: no transaction framing. Nobody assigns Amber work; she helped out, and the recording is the lab's ordinary bond research (the bond-observation forms on Oak's workbench later are these records). "Me included" is quiet dramatic irony: her own interactions are part of Oak's data (KB: aura/bond system), and she does not know she is a subject. The secrecy motif is deliberately not stated here; the Mega Stone line ("I couldn't explain how I knew") carries it alone. Failed predecessors: "Professor Oak solved that problem by giving me harder work" (wrong motive, thesis line) and "unusual knowledge earned me harder work instead of questions" (opaque transaction logic).
+-->
+
+A Nidorino raised his head near the recovery fence. Four years ago, he refused his eye drops from every adult in the building. He accepted them from me after I let him smell the bottle and waited for him to lower his head. For the next six mornings, he was waiting beside the gate when I arrived.
 
 I whistled. He huffed once and returned to the grass.
 
-The side door took me back into the laboratory. Rows of Pokeballs covered the storage wall. I knew which held residents who preferred quiet, which belonged to field teams, and which latch would earn you a lecture from a very old Fearow if you opened it before breakfast. A fresh strip of red tape beneath his ball read: NOT BEFORE BREAKFAST.
+The side door took me back into the laboratory. Rows of Pokeballs covered the storage wall. I knew which held residents who preferred quiet and which belonged to field teams. Nobody opened anything before the old Fearow had eaten. Any commotion before breakfast earned the whole building a lecture. New assistants learned that rule exactly once.
 
-At least the new assistants had been warned.
+<!--
+The wall paragraph does the familiarity inventory, then the Fearow rule carries lab culture without the old latch-and-tape mechanics, which contradicted scene 2 (Fearow roosts free on the cabinet; Pokeballs have no latches). The chain: opening balls makes noise, noise before breakfast angers Fearow, so nothing opens until he has eaten. "Learned that rule exactly once" implies the incident without narrating it, keeps the lecture joke, and marks Amber's seniority over newer assistants.
+-->
 
-I passed the long workbench where Professor Oak had taught me to prepare slides without trapping air beneath the glass. College had helped with the mathematics and chemistry. It had been considerably less useful for trainer law and the circulatory system of a creature with eighty tentacles.
+I passed the long workbench where Professor Oak had taught me to prepare slides without trapping air beneath the glass. College helped with the mathematics and chemistry. It was considerably less useful for trainer law and the circulatory system of a creature with eighty tentacles.
 
 Professor Oak's workbench stood at the far end. I recognized the microscope, the scale, and the stacks of bond-observation forms. The marble near the back was new.
 
@@ -214,17 +220,15 @@ Up close, it was round and polished, with two bands of color curling through its
 
 A Mega Stone.
 
-I reached toward it, then stopped. Three years in a laboratory had taught me not to touch unidentified samples. Knowing exactly what it was probably did not count as permission.
+I reached toward it, then stopped. I couldn't explain how I knew.
+
+<!--
+The bind is knowledge, not etiquette. Amber recognizes the stone and roughly what it means, so a lab rule about unidentified samples has no grip on her: the rule manages unknown risk, and for her the risk is known. What stops her is that touching it or asking about it requires explaining recognition she cannot admit (plan scene 3: she cannot ask Oak without explaining how she recognized the stone). Seven words state the bind; the look-back then carries the unasked question. Do not reintroduce lab-rule framing or unpack the mechanism further.
+-->
 
 "Amber! Cake!" Ash shouted from the other room.
 
-I left the stone where it was and headed back. Before I crossed the doorway, I looked over my shoulder once more.
-
-Why did Professor Oak have a Mega Stone?
-
-<!--
-The ranch and laboratory form one continuous record of Amber's life during the time skip. Dragonite's casual greeting and the Pokemon using the pasture as a shared habitat establish belonging before the narration contrasts Amber's prior adulthood with her thin connection to school. Nidorino proves patient care; the Pokeball wall proves daily familiarity; the workbench joins Oak's academic demands to practical research. The unfamiliar marble interrupts that accumulated familiarity. Amber recognizes it only as a Mega Stone, respects the laboratory rule against touching it, and carries the unanswered question back into the celebration rather than forgetting the discovery.
--->
+I left the stone where it was and headed back. In the doorway, I looked back once.
 
 Oak clapped his hands. "Before anyone touches the cake, we need a photograph."
 
@@ -292,49 +296,11 @@ Outside the open doors, the ranch darkened from green to blue.
 The fading light carries the celebration into evening without inventorying every departure or adding another farewell speech.
 -->
 
-\[@.@\]/
-
-Oak found me on the terrace after the last plates had been carried inside. Ditto had spread itself across my lap.
-
-The Mega Stone was somewhere beyond the open doors. I still had not figured out how to ask about it without explaining why I recognized it.
-
-Oak rested both hands on the railing and looked toward Route 1.
-
-"I would still prefer another year," he said.
-
-"I know."
-
-"But you passed every standard I set. Some more than once."
-
-Oak glanced at Ditto. "I've watched you work with dozens of Pokemon. You notice when they disagree with you. Most trainers learn to notice obedience first."
-
-Ditto lifted its head.
-
-"That is why I trust you on the road," he continued. "Believe in your judgment, but trust your Pokemon enough to let them challenge it. If Ditto tells you to run, listen."
-
-"I will."
-
-"If Ditto chooses to stand, listen to that too."
-
-Ditto wrapped itself around his hand and pulled. Oak caught his balance against the railing.
-
-"I believe it has challenged my decision to stand here," he said.
-
-I gathered Ditto into my arms and stood. "Thank you, Professor. For all of it."
-
-"Send me your scans," Oak said. "And come back with questions."
-
-"I will."
-
-<!--
-Amber has not forgotten the Mega Stone; her inability to explain how she recognized it delays the question. Oak's preference for more preparation preserves his caution, while her completed standards and his observation of her Pokemon work justify his trust. His advice names the reciprocal listening he values without repeating it across multiple hypothetical dangers. Ditto immediately testing the principle keeps the farewell from becoming solemn, and Oak's request for scans returns the conversation to the Pokedex.
--->
-
 \[^.^\]/
 
 At dawn, I stood outside Professor Oak's laboratory with the Silph Co. bag over my shoulders.
 
-Delia checked the left strap, then the right, though we had checked both the night before. She tucked a wrapped breakfast into the top pocket and pressed it flat with her palm.
+Delia checked the left strap, then the right, though we had adjusted both the night before. She tucked a wrapped breakfast into the top pocket and pressed it flat with her palm.
 
 "Eat before Viridian," she said.
 
@@ -344,10 +310,46 @@ Delia checked the left strap, then the right, though we had checked both the nig
 
 "Before Viridian."
 
-Then she pulled me close. I held on with both arms.
+She kept her hand on the bag.
+
+"Delia."
+
+She looked up.
+
+"Thank you. For taking me in. For everything after that."
+
+Her fingers tightened against the fabric.
+
+I looked down at the clasp. "Stephen would still be alive if I hadn't come here."
+
+"No." She said it hard enough that I looked at her. "Stephen died because Fuji killed him. Not because you came to us."
+
+"But---"
+
+"No." Her voice broke. She pulled me against her before I could finish. "I may not have given birth to you, but that doesn't make you any less my daughter."
+
+I went rigid in her arms.
+
+For four years, Delia had packed my lunches, bought my clothes, sat through school meetings, and waited up whenever I stayed late at the lab. She had never asked me to be the girl Fuji wanted back.
+
+My hands trembled before I wrapped them around her.
+
+"Thanks..." I swallowed. "Mom."
+
+Delia went still.
+
+Then her arms tightened until my feet nearly left the ground.
+
+"That's the first time you've called me Mom."
+
+"I can take it back, Delia."
+
+"No, you can't."
+
+She laughed into my hair. I held on.
 
 <!--
-The gifts have become usable journey equipment rather than ceremonial keepsakes. Delia's repeated food instruction makes farewell care concrete and habitual; the unqualified embrace carries affection without raising the unused title of Mom.
+Delia's repeated food instruction makes farewell care concrete and habitual. Amber's gratitude exposes the guilt she still carries over Stephen; Delia assigns responsibility directly to Fuji rather than allowing Amber to turn her own arrival into the cause. Calling Amber her daughter rejects Fuji's replacement fantasy because Delia claims the person Amber has become, not the child she lost. Amber's first use of "Mom" lands through hesitation and physical response; her immediate return to "Delia" releases the pressure without undoing the choice.
 -->
 
 Professor Oak and the lab staff waited beside the path. Arcanine sat beside him.

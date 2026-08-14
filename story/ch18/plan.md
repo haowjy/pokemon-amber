@@ -19,15 +19,21 @@ updated: 2026-08-13
 
 ## Purpose
 
-Transition from Arc 0 to Arc 1. After three years of preparation, Amber finally begins the grand Pokemon adventure she has been waiting for. She leaves Pallet Town calmly, legitimately, and with Oak's support.
+Transition from Arc 0 to Arc 1. After four years of preparation, Amber finally begins the grand Pokemon adventure she has been waiting for. She leaves Pallet Town calmly, legitimately, and with Oak's support.
 
 The chapter should breathe. Quiet, understated, voice-forward. Sets the tonal register for Arc 1: lighter than late Arc 0, humor returning, but with earned depth underneath.
 
 ---
 
+## Revision State (2026-08-13)
+
+The terrace farewell scene is deleted: it carried early-departure framing (Oak preferring another year, standards passed). The photograph/cake/goals sequence and sunrise departure now follow the ranch/lab walk directly. The departure includes Amber thanking Delia for taking her in, Delia rejecting Amber's guilt over Stephen's death, and Amber calling her "Mom" for the first time.
+
+---
+
 ## Scene 1: Last Day of School
 
-- The chapter opens during final classroom cleanup. Amber throws away ordinary school debris and keeps only the private notebook containing remembered Pokemon knowledge from her old life, now marked by three years of corrections.
+- The chapter opens during final classroom cleanup. Amber throws away ordinary school debris and keeps only the private notebook containing remembered Pokemon knowledge from her old life, now marked by four years of corrections.
 - Reid asks whether Oak is sponsoring her. Amber recognizes his face but cannot remember his name, establishing that she shared a classroom without building friendships there.
 - Reid challenges Amber to battle once they receive their starters. Nora identifies Amber as Oak's unknown third sponsored graduate.
 - Amber reveals that Ditto is already her partner. Nora calls Ditto weak because it can only become what it faces; Amber answers that every Pokemon has more potential than people think and that her Ditto is already strong.
@@ -48,7 +54,7 @@ The chapter should breathe. Quiet, understated, voice-forward. Sets the tonal re
 ## Scene 3: Ranch and Laboratory Walk
 
 - After a section break, Amber crosses Oak's inhabited ranch. Dragonite acknowledges her from beneath a tree shared with resting Nidoran; Tauros grazes while Pidgey follow its disturbed ground.
-- Amber's prior college experience left her with little common ground at school. Most afternoons, weekends, and breaks were spent at Oak's lab, where unusual knowledge earned harder work instead of social suspicion.
+- Amber's prior college experience left her with little common ground at school. Most afternoons, weekends, and breaks were spent helping out at Oak's lab: Pokemon care and recording Pokemon interactions (with each other and with people, herself included) for Oak's bond research.
 - Nidorino's eye-drop memory proves patient Pokemon care. The labeled Pokeball wall proves daily familiarity with individual residents. The workbench proves practical laboratory training and difficult world-specific coursework.
 - An unlabeled marble-like object on Oak's workbench is the only unfamiliar item. Amber recognizes it as a Mega Stone but cannot identify its species association.
 - Ash calls her back for cake before she can investigate. Amber retains the question; she cannot ask Oak without explaining how she recognized the stone.
@@ -63,16 +69,7 @@ The chapter should breathe. Quiet, understated, voice-forward. Sets the tonal re
 - Gary calls that goal lame and declares that he will become Champion. Ash immediately claims the same goal; Gary reminds him that he wanted to become a Pokemon Master.
 - The party winds down through evening checks rather than another farewell speech.
 
-## Scene 5: Oak's Private Farewell
-
-- Oak joins Amber and Ditto on the terrace after the party.
-- Amber still has not found a safe way to ask about the Mega Stone.
-- Oak admits he would prefer another year of preparation but accepts that Amber passed every standard he set.
-- His trust rests on observed behavior: Amber notices when Pokemon disagree rather than noticing only obedience.
-- He tells Amber to trust her own judgment while allowing her Pokemon to challenge it. Ditto immediately pulls him off balance.
-- Oak asks Amber to send Pokedex scans and return with questions.
-
-## Scene 6: Sunrise Departure
+## Scene 5: Sunrise Departure
 
 - Amber leaves from the path below Oak's laboratory with the Silph bag and Ditto.
 - Delia adds breakfast, repeats that Amber must eat before Viridian, and embraces her.
