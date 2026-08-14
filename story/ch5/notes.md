@@ -20,7 +20,7 @@ updated: 2026-05-18
 - Amber approaches Celadon Gym through beautiful ginkgo tree garden
 - Creepy old man on bench (avoid at all costs)
 - **Ditto in scarf form** (still from Ch4)
-- Enters gym lobby, sees price board (₽10,000 spectator, ₽4,000 training pass)
+- Enters gym lobby, sees price board (₽100 spectator, ₽40 training pass)
 - Approaches receptionist to ask about badge challenge
 - **Receptionist dialogue:**
   - "Do you have a trainer ID?" → "No"
@@ -29,7 +29,7 @@ updated: 2026-05-18
   - **Assumes Amber already has junior permit** (seeing Ditto-scarf, thinks it's legal)
   - Suggests upgrading to trainer ID
   - Can take test at gym or Pokémon Center
-- Amber realizes she's broke (₽300 not enough)
+- Amber realizes she's broke (₽3 not enough)
 - Leaves gym, wanders gardens feeling defeated
 - Talks to "Ditto" (still scarf form) about get-rich-quick schemes
 - Finds greenhouse (doesn't see "RESTRICTED" sign - too high for child-height)
@@ -67,8 +67,8 @@ updated: 2026-05-18
 - Cost not mentioned for registration/test, only facility passes
 
 ### Money Problems
-- Amber has ₽300 (from Joey battle in Ch4)
-- Gym passes cost ₽4,000-10,000
+- Amber has ₽3 (from Joey battle in Ch4)
+- Gym passes cost ₽40-100
 - Can't afford anything
 - Sets up need to earn more money
 

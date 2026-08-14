@@ -128,7 +128,7 @@ I opened it and lowered the shoebox through the opening. It passed the place whe
 
 I looked underneath. Still a backpack.
 
-After that came a bundle of Potions, a case of Pokeballs, a weatherproof Town Map of Kanto, and a coil of rope. Then a sealed berry case stocked with Sitrus and Pecha berries, several travel packs of Pokemon food, and a tin of Lava Cookies from Lavaridge. Some of the assistants just gave me money for the road. I thanked them one by one and put everything into the bag.
+After that came a bundle of Potions, a case of fifty Pokeballs, a weatherproof Town Map of Kanto, and a coil of rope. Then a sealed berry case stocked with Sitrus and Pecha berries, several travel packs of Pokemon food, and a tin of Lava Cookies from Lavaridge. Some of the assistants just gave me money for the road. I thanked them one by one and put everything into the bag.
 
 Every gift fit without leaving a single lump in the backpack.
 
@@ -178,14 +178,14 @@ I stared up at Professor Oak with tears in my eyes. It was a little different fr
 
 "Yes! I accept! I'm going to catch them all!"
 
-Oak nodded, then paused. "Please don't catch them all. That's illegal."
+Oak nodded. "Just remember, you can't carry more than three right now."
 
-I wiped my eyes. "Right. Scan them all. Only catch Pokemon I intend to train, and no more than three until I earn my first two badges."
+I wiped my eyes. "I know. I'll have to transfer someone to you before I catch a fourth."
 
 "Precisely."
 
 <!--
-Oak turns Amber's eagerness into the reveal of his final gift. The demonstration establishes that a scan produces an image, estimated physical measurements, and type; it does not identify the Pokemon by name or supply a written description. Amber's expectation of the familiar voice accidentally gives Oak the idea for an audio description, connecting her old-world knowledge to the Pokedex's future form. Oak's mission is simple: collect scans of different Pokemon so the raw field data can become an encyclopedia. Amber's emotional promise pays off her years of waiting, while Oak's legal correction turns "catch them all" into a brief deadpan joke and restates her current three-Pokemon limit without extending the scene into a licensing lecture.
+Oak turns Amber's eagerness into the reveal of his final gift. The demonstration establishes that a scan produces an image, estimated physical measurements, and type; it does not identify the Pokemon by name or supply a written description. Amber's expectation of the familiar voice accidentally gives Oak the idea for an audio description, connecting her old-world knowledge to the Pokedex's future form. Oak's mission is simple: collect scans of different Pokemon so the raw field data can become an encyclopedia. Amber's emotional promise pays off her years of waiting. Oak does not forbid catching widely; he reminds her that her current license permits three Pokemon in her active custody, and Amber's answer establishes that she must transfer one before registering a fourth.
 -->
 
 \[^.^\]/

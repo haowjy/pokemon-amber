@@ -66,7 +66,7 @@ The atmosphere shifted as we crossed some invisible retail border. The hum of br
 
 "Good morning," Mary approached the counter, her gym uniform transforming this from shopping trip to official inquiry. "Could you tell us about your current stock of vitamins?"
 
-While Mary handled the official inquiry, I drifted toward the vitamin displays like a moth to particularly expensive flames. The bottles stood in perfect formation, their certification seals catching the light---and their price tags catching my breath. ₽9,800 or $98 for a single small HP UP bottle of vitamins. The larger ones... I did some quick mental math and decided I didn't need that kind of existential crisis today.
+While Mary handled the official inquiry, I drifted toward the vitamin displays like a moth to particularly expensive flames. The bottles stood in perfect formation, their certification seals catching the light---and their price tags catching my breath. ₽9,800 for a single small HP UP bottle of vitamins. The larger ones... I did some quick mental math and decided I didn't need that kind of existential crisis today.
 
 Each HP UP bore Celadon's Rainbow Badge seal like a designer logo, their green caps marking them as distinctly as a Gucci pattern. CALCIUM and IRON shared Pewter's Boulder Badge with their orange and yellow caps, carrying similarly painful price tags. PROTEIN, ZINC, and CARBOS bore unfamiliar badges, but their prices suggested they came from equally prestigious gyms.
 

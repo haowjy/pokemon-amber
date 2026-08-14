@@ -10,7 +10,7 @@ updated: 2025-09-20
 
 I pressed my face against the window, counting Dr. Fuji's steps as he made his way down the street. His white lab coat caught the morning sun until he disappeared around the corner. I waited another ten minutes, watching the numbers tick by on the ancient digital clock above the stove.
 
-The shiny black patent leather shoes still pinched with every step, but today I had something the previous adventure lacked: money. Three hundred pokedollars' worth of coins sat tucked deeply in my faded purple backpack along with the usual snacks, food, and spare keys.
+The shiny black patent leather shoes still pinched with every step, but today I had something the previous adventure lacked: money. Three pokedollars' worth of coins sat tucked deeply in my faded purple backpack along with the usual snacks, food, and spare keys.
 
 "Ready for landmark number 2?" I whispered, rolling a minified Pokeball between my fingers. The sphere gave a slight wobble that somehow managed to convey reluctance. After yesterday's battle, we'd agreed Ditto should stay hidden---well, I'd insisted and Ditto had blob-shrugged in what I chose to interpret as agreement.
 
@@ -20,11 +20,11 @@ But the reaction to that battle changed a few things. It didn't take a Team Rock
 
 The same elevated train station from yesterday loomed ahead. I slipped through the morning crowd toward the row of booths, ignoring how Mr. Mime's exaggerated gestures made invisible walls to guide everyone else into orderly lines. Watching him work was fascinating, but I had a mission.
 
-I checked the price board mounted above the booths. A day pass was listed at ₽300 for children. Perfect-suspiciously exactly what I'd won from yesterday's battle.
+I checked the price board mounted above the booths. A day pass was listed at ₽3 for children. Perfect-suspiciously exactly what I'd won from yesterday's battle.
 
-The ticket line was mercifully short---just a couple arguing over a regional rail map, and an elderly man who seemed to be paying entirely in ₽10 pieces that he kept producing from increasingly improbable pocket locations. The Machop manning the booth maintained an admirably stoic expression as it created neat stacks of copper-colored coins, each new pile adding to what looked like a miniature city of currency. "Chop, ma-chop," it muttered with each new stack.
+The ticket line was mercifully short---just a couple arguing over a regional rail map, and an elderly man who seemed to be paying entirely in ₽1 pieces that he kept producing from increasingly improbable pocket locations. The Machop manning the booth maintained an admirably stoic expression as it created neat stacks of copper-colored coins, each new pile adding to what looked like a miniature city of currency. "Chop, ma-chop," it muttered with each new stack.
 
-When my turn came, I emptied my own collection onto the metal tray-three hundred pokedollars in various denominations, all earned from yesterday's battle. The Machop looked down at me, then around, looked down at me again, and accepting my coin with a gruff "Ma."
+When my turn came, I emptied my own collection onto the metal tray-three pokedollars in various denominations, all earned from yesterday's battle. The Machop looked down at me, then around, looked down at me again, and accepting my coin with a gruff "Ma."
 
 The Machop's movements were musical-each coin got a quick tap against the counter that rang out with different pitches, like it was testing for counterfeits through sound alone.
 
@@ -84,7 +84,7 @@ A nearby trainer brushed past, his Growlithe padding dutifully at his heels as h
 
 'Well,' I thought, forcing myself to actually focus on the papers instead of just staring like an idiot, 'no one's going to arrest me for reading.'
 
-The cork board stretched out before me, a patchwork of colored papers that seemed to tell stories of an entire region. My eyes were immediately drawn to the right side, where crimson papers demanded attention with bold lettering and stark warnings. A proper WANTED poster-and wasn't that a shock to see in a Pokemon Center---displayed a grainy photo of a Hypno. The text warned of a "mass sleep incident" in Saffron City, with a staggering ₽2,000,000 reward for capture. It was apparently class A, whatever that meant.
+The cork board stretched out before me, a patchwork of colored papers that seemed to tell stories of an entire region. My eyes were immediately drawn to the right side, where crimson papers demanded attention with bold lettering and stark warnings. A proper WANTED poster-and wasn't that a shock to see in a Pokemon Center---displayed a grainy photo of a Hypno. The text warned of a "mass sleep incident" in Saffron City, with a staggering ₽20,000 reward for capture. It was apparently class A, whatever that meant.
 
 "They really printed them like old Western posters," I muttered, noting the dramatic 'WANTED' header.
 

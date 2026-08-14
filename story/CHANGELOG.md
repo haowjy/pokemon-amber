@@ -4,6 +4,10 @@ Substantive revisions to published chapter prose. Contains spoilers. Newest chan
 
 Omit frontmatter-only changes, notes-only updates, and routine typo or formatting fixes unless they alter meaning or continuity.
 
+## 2026-08-14
+
+- **Chapters 2, 4, 5, 7, and 9:** Normalized published Pokédollar amounts to the settled USD-like purchasing-power scale, removing in-prose dollar conversion and preserving the cost pressure of travel, Gym access, vitamins, and the Hypno bounty.
+
 ## 2026-08-11
 
 - **Chapters 1 and 15:** Restored the college-student, Pokemon Go, and truck context behind Amber's death while keeping her former identity ungendered in both the opening and her confession to Fuji.

@@ -49,7 +49,7 @@ The terrace farewell scene is deleted: it carried early-departure framing (Oak p
 - Delia asks Amber to remain a few more days. Amber refuses because she cannot wait to begin her own Pokemon adventure.
 - Oak presents the prototype Pokedex. It scans image, estimated height, weight, and type; every scan is saved as field data. It does not yet identify species, provide descriptions, or speak.
 - Amber's expectation of a spoken description gives Oak that idea. Oak entrusts her with gathering scans across Kanto.
-- Amber promises to "catch them all" before Oak reminds her that indiscriminate catching is illegal. Her current carry limit is three Pokemon until she earns two badges.
+- Amber promises to "catch them all." Oak approves but reminds her that her current license permits her to carry only three Pokemon; Amber knows she must transfer someone before registering a fourth. The limit applies to simultaneous active custody, not lifetime captures.
 
 ## Scene 3: Ranch and Laboratory Walk
 

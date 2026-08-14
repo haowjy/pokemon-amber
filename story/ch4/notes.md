@@ -19,7 +19,7 @@ updated: 2025-10-11
 - Amber arrives at Celadon Gym Outer Gardens (public training grounds)
 - **Ditto in scarf form** (continuing from Ch3)
 - Watches several amateur battles, studies battle mechanics
-- Joey challenges her to a battle for ₽300
+- Joey challenges her to a battle for ₽3
 - **Ditto slides down from scarf, enters battle as pink blob**
 - Joey starts battle without warning (no honor among kids)
 - Ditto struggles to understand "transform" command initially
@@ -47,7 +47,7 @@ updated: 2025-10-11
 - Leads into Chapter 5 still draped around neck
 
 ### Money/Economy
-- First earned money: ₽300 from Joey
+- First earned money: ₽3 from Joey
 - Amber feels guilty (hustling a kid) but needs money
 - Sets up money problems for Ch5 gym fees
 

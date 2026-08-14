@@ -34,7 +34,7 @@ Dr. Fuji's jaw tightened. He turned back to the rack, pulled out the yellow Psyd
 
 He measured it against me again---still frowning---then added swim trunks that might work as shorts and grabbed a plain button-down for himself. The man was bleeding through his shirt and his priority was finding me a dress. Sure. That tracked perfectly. Nothing weird about that at all.
 
-The girl sighed as she rung up the items, "That'll be ₽2847."
+The girl sighed as she rung up the items, "That'll be ₽28.47."
 
 Fuji produced bills from his wallet, slightly rumpled. The checkout happened in near silence besides the ring of the register.
 
@@ -60,7 +60,7 @@ His shoulders sagged. He stepped back behind the counter, pulling out a worn led
 
 "A room," Dr. Fuji repeated, tapping one finger against the counter. "For the night."
 
-The man sighed. "₽12000 for a single, ₽14000 for a twin."
+The man sighed. "₽120 for a single, ₽140 for a twin."
 
 Dr. Fuji hesitated for exactly half a second. "Single."
 

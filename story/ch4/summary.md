@@ -24,7 +24,7 @@ After observing park battles, Amber accepts a street match; Ditto learns to tran
 *   She observes a comedic battle between a Doduo and a Bellsprout, noting the real-world, non-turn-based combat differences from the games.
 
 ### 2. First Official Battle:
-*   A confident young trainer named Joey challenges Amber to a 300 Pokedollar battle.
+*   A confident young trainer named Joey challenges Amber to a 3 Pokedollar battle.
 *   Amber, despite lacking money and having doubts about Ditto's combat efficacy, accepts the challenge.
 *   Joey initiates the battle immediately and unfairly, leading with a Rattata's Tackle attack.
 
@@ -36,7 +36,7 @@ After observing park battles, Amber accepts a street match; Ditto learns to tran
 ### 4. Victory and Its Aftermath:
 *   Ditto demonstrates impressive combat precision, dodging and countering Joey's Rattata's attacks, exhausting the opponent.
 *   Amber seizes an opening, ordering a final "Quick Attack" that defeats Joey's Rattata.
-*   Joey, dejected, honorably pays Amber the 300 Pokedollars. Amber accepts, feeling a mix of triumph and guilt.
+*   Joey, dejected, honorably pays Amber the 3 Pokedollars. Amber accepts, feeling a mix of triumph and guilt.
 *   Ditto, satisfied, returns to Amber's shoulders, as they leave the park.
 
 ## Potential speculation:

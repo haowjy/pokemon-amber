@@ -36,9 +36,9 @@ The voice pulled me out of my battle-watching trance. A boy who couldn't have be
 
 Ditto perked up at my enthusiasm, already sliding down from my neck. Before I could second-guess myself, it had pooled on the ground, bouncing slightly with an eagerness that made me wonder if it had been hoping for this.
 
-The boy's face lit up. He reached into his pocket and pulled out a few coins. "Cool! Three hundred pokedollars?"
+The boy's face lit up. He reached into his pocket and pulled out a few coins. "Cool! Three pokedollars?"
 
-I flinched at the number before remembering that pokedollars were closer to yen than dollars---this was more like three bucks than three hundred. Still, I frowned as I instinctively reached for pockets where I would have had some change, but remembered I was wearing a dress when I just felt smooth fabric.
+I frowned as I instinctively reached for pockets where I would have had some change, then remembered I was wearing a dress and found only smooth fabric.
 
 The boy's smile turned sharp at my hesitation. "Unless you're scaaaared?" He drew out the last word like stretching taffy, sweet with mockery. 
 

@@ -92,7 +92,7 @@ I opened it and lowered the shoebox through the opening. It passed the place whe
 
 I looked underneath. Still a backpack.
 
-After that came a bundle of Potions, a case of Pokeballs, a weatherproof Town Map of Kanto, and a coil of rope. Then a sealed berry case stocked with Sitrus and Pecha berries, several travel packs of Pokemon food, and a tin of Lava Cookies from Lavaridge. Some of the assistants just gave me money for the road. I thanked them one by one and put everything into the bag.
+After that came a bundle of Potions, a case of fifty Pokeballs, a weatherproof Town Map of Kanto, and a coil of rope. Then a sealed berry case stocked with Sitrus and Pecha berries, several travel packs of Pokemon food, and a tin of Lava Cookies from Lavaridge. Some of the assistants just gave me money for the road. I thanked them one by one and put everything into the bag.
 
 Every gift fit without leaving a single lump in the backpack.
 
@@ -138,9 +138,9 @@ I stared up at Professor Oak with tears in my eyes. It was a little different fr
 
 "Yes! I accept! I'm going to catch them all!"
 
-Oak nodded, then paused. "Please don't catch them all. That's illegal."
+Oak nodded. "Just remember, you can't carry more than three right now."
 
-I wiped my eyes. "Right. Scan them all. Only catch Pokemon I intend to train, and no more than three until I earn my first two badges."
+I wiped my eyes. "I know. I'll have to transfer someone to you before I catch a fourth."
 
 "Precisely."
 

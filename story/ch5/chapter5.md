@@ -24,9 +24,9 @@ The automatic doors whispered open with blessed modernity, trading filtered sunl
 
 ```
 
-League Spectator Pass: ₽10,000
+League Spectator Pass: ₽100
 
-Training Facilities Day Pass: ₽4,000
+Training Facilities Day Pass: ₽40
 
 ```
 

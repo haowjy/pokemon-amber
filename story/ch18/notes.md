@@ -48,7 +48,7 @@
 ### License & Registration
 
 - Amber's Trainer License was obtained offscreen during her years in Pallet. Oak sponsored and handled it as part of her normal post-graduation journey.
-- She starts Ch 18 with the license already in hand. Carry limit: 3 Pokemon (Ditto + 2 open slots).
+- She starts Ch 18 with the license already in hand. Carry limit: 3 Pokemon (Ditto + 2 open slots). This is a simultaneous carry limit, not a lifetime catch quota; she can transfer or surrender a Pokemon to reopen a slot. Instantaneous transfer terminals are being trialed at select Pokemon Centers during her first journey year. Amber knows to ask for the beta service and can send a Pokemon to Oak's ranch; the network becomes broadly available the following year.
 - The competency test, paperwork, and bureaucracy are not shown. None of it is story.
 - Existing [trainer licensing worldbuilding][licensing] supports this: no age restriction on Trainer ID, Trainer License is a separate "more substantive" evaluation, and Oak's sponsorship is the equivalent of a full scholarship.
 
