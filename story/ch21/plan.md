@@ -5,221 +5,174 @@ chapter: 21
 spoilers: true
 status: planning
 hidden: true
-created: 2026-05-17
-updated: 2026-05-21
+created: 2026-04-06
+updated: 2026-08-17
 ---
 
-# Chapter 21 Plan: The Guarded Cave / Ursaring Rampage / Rescue
+# Chapter 21 Plan: Team Rocket Chase / Teddiursa / Alonso
 
-**POV:** Amber (1st person)  
-**Timeline:** Immediately after Ch. 20  
-**Location:** Cave near the hidden Team Rocket camp off Route 1 / Viridian outskirts
-
----
-
-## Chapter Function
-
-Amber follows the promise deeper, from human danger into environmental and Pokemon danger.
-
-Chapter 20 proves Amber will choose danger for Teddiursa. Chapter 21 makes that danger answer seriously.
-
-The emotional center is not "defeat Ursaring." It is:
-
-> How do you save Teddy's mother when she is currently terrified, enraged, and dangerous?
+**POV:** Amber (1st person)
+**Timeline:** After Chapter 20's Pidgey capture; Ditto, Caterpie, and Pidgey fill Amber's three-Pokemon custody limit
+**Location:** Maintained Route 1 corridor -> deep off-route forest -> Team Rocket operation at an isolated cave
 
 ---
 
-## Starting Situation
+## Chapter Purpose / Reader Effect
 
-Amber and Alonso have formed a temporary alliance after the Team Rocket camp encounter.
+Team Rocket collides with Amber's journey for the first time, and the collision costs her something. The chapter moves from an ordinary travel day into a chase, a skirmish with real losses, and a desperate small Pokemon whose need is bigger than the fight she just survived.
 
-Team Rocket was guarding, using, or investigating a nearby cave with psychic-reactive Mew-adjacent ore/energy readings. Ursaring is believed to be inside, recently moved through it, or connected to whatever Rocket is protecting.
-
-Party likely present:
-
-- Amber
-- Ditto
-- Teddiursa
-- Alonso Quijano
-- Charcadet — Alonso's strong starter / current ace
-- Charcadet — younger sibling; future Amber Charcadet
-
-The younger Charcadet is still Alonso's Pokemon / companion. It has noticed Amber, but has not chosen her.
+Reader effect: the journey's safety illusion breaks. Amber wins the skirmish but loses Pidgey, follows a stranger's grief into the deep forest, gets in over her head, and is pulled out by a stranger who treats rescue as the obvious thing to do. End on Teddiursa's desperation, not on resolution.
 
 ---
 
-## Beat Structure
+## Settled Direction
 
-### 1. Entering the Cave
-
-Amber and Alonso enter the cave together because the promise to Teddiursa is still open and Rocket's operation points inward.
-
-Amber should be cautious:
-
-- checks supplies,
-- worries about injury from Ch. 20,
-- notes unstable terrain,
-- distrusts the obvious path,
-- tracks signs of Rocket movement.
-
-Alonso treats the cave as something they have to face because someone has to help Teddiursa, but he remains competent. Avoid archaic or performative knight-speech; his belief should come through plain conviction and action.
-
-### 2. What Rocket Was Protecting
-
-The cave is something Team Rocket wanted guarded, hidden, exploited, or investigated.
-
-Working direction:
-
-- not a full Mystery Dungeon arc,
-- an unstable off-route cave / dungeon-adjacent anomaly,
-- a source of pale/pink psychic-reactive Mew-adjacent ore,
-- a hidden Team Rocket field site for harvesting samples and testing control/restraint methods,
-- the place where Ursaring was restrained, stressed, and turned into a living deterrent or captive asset.
-
-Do not make the cave's lore more important than Teddiursa/Ursaring. The ore is a seed for the eventual Mewtwonite Y / female Mewtwo payoff, not a reveal the characters understand here.
-
-### 3. Rocket Releases / Provokes Ursaring
-
-As a last resort, Team Rocket releases or provokes Ursaring.
-
-Ursaring is not evil. She is:
-
-- hurt,
-- restrained too long,
-- possibly drugged or control-tech affected,
-- agitated by the cave's psychic-reactive ore/field conditions,
-- furious,
-- disoriented,
-- desperate.
-
-She rampages because Rocket made her into the danger.
-
-### 4. The Rampage
-
-Ursaring's rampage turns the cave into a disaster zone.
-
-Possible hazards:
-
-- collapsing stone,
-- dust and darkness,
-- blocked paths,
-- broken Rocket equipment,
-- fire/heat/smoke from battle,
-- Amber's old fire trauma triggered by necessary flames,
-- Teddy trying to reach his mother despite danger.
-
-Amber's injury should get worse here. Ch. 20's hit was the moral proof; Ch. 21 is the actual physical cost.
-
-### 5. Almost-Reunion
-
-Teddiursa sees Ursaring.
-
-He cries out / rushes toward her.
-
-For one moment, Ursaring begins to come back to herself. She sees Teddy. The rage cracks. The mother recognizes her cub.
-
-Then Team Rocket forcefully recalls her or otherwise removes her before the reunion can happen.
-
-The cave collapses / rubble cuts them off as Rocket escapes with Ursaring.
-
-This is the cruelty beat:
-
-> Teddy finds his mother and loses her again.
-
-Amber still has not rescued Ursaring.
-
-### 6. Trapped Behind Rubble
-
-Amber, Alonso, and some/all of their Pokemon are trapped on the wrong side of the collapse.
-
-Amber and/or Alonso are injured. Alonso's larger/stronger Pokemon may be too needed to brace/stabilize the chamber, too visible to send through safely, or too risky to remove from the humans.
-
-This should feel like survival, not another battle.
-
-### 7. Small Pokemon Go For Help
-
-The escape solution is not that Amber heroically navigates everyone out while injured.
-
-Instead, the small Pokemon have to leave the humans behind and get help.
-
-Likely rescue party:
-
-- Teddiursa: small enough to fit, emotionally invested, must act despite panic and grief.
-- Charcadet: small, brave, heat-tolerant, able to guide/guard Teddy.
-- Ditto: can squeeze, scout, mimic small shapes, and help communicate urgency.
-
-This gives all three agency:
-
-- Teddiursa chooses to leave Amber/Alonso temporarily because finding help is the only way to save them.
-- Charcadet protects Teddy for Amber, echoing Amber's earlier protection of Teddy.
-- Ditto helps without using the delayed Arcanine reveal.
-
-Amber has to trust Pokemon to carry the promise when she cannot.
-
-### 8. Rescue
-
-Teddiursa, Charcadet, and Ditto escape through a crack / side passage / small animal route / unstable gap.
-
-They find help. Options:
-
-- Pokemon Center staff / Ranger patrol from Viridian,
-- trainer patrol or route safety crew,
-- Alonso's Paldean crew: Beatriz Romero and Ciro Salvatierra, already searching for him / unsurprised he ended up in trouble,
-- aftermath of the Rocket camp where responders can understand something went wrong.
-
-Grounded default: they reach people near Route 1/Viridian and cause enough alarm to bring a rescue party back.
-
-The rescue party digs/reaches Amber and Alonso before the cave settles further. Preferred texture: Charcadet knows Alonso's crew and helps Ditto/Teddiursa find them, making the rescue feel character-driven rather than random.
-
-
-### 10. Longer-Term Ursaring Rescue Thread
-
-This chapter should not resolve Teddiursa's core quest. Rocket escapes with Ursaring, and Amber's promise to help Teddiursa save his mother remains unfulfilled.
-
-Longer-term direction: Teddiursa and Ursaring should eventually reunite, but not cleanly or immediately. Ursaring may reappear later as part of a more serious Team Rocket operation or experiment, making the reunion both cathartic and horrifying.
-
-Possible future use:
-
-- Ursaring is part of a Rocket battle-drug / rage / obedience experiment.
-- Rocket uses captured powerful wild Pokemon as test subjects or living weapons.
-- Teddiursa recognizes his mother again under much worse circumstances.
-- Amber's early promise becomes one of the personal debts that keeps pulling her back into conflict with Rocket.
-
-The important durable fact: Amber does not get to simply return Teddy's mother in this mini-arc. She leaves with a debt.
-
-### 9. Aftermath Hook
-
-Possible ending locations:
-
-- Amber hears digging from the other side and realizes the Pokemon made it.
-- Hard cut to Viridian Pokemon Center aftermath.
-- Rescue finishes, but Ursaring is gone and Teddy's grief is worse.
-
-Emotional end-state:
-
-- Amber is more seriously injured than in Ch. 20.
-- Teddy has seen his mother and lost her again.
-- Amber's promise to help Teddiursa save Ursaring remains unfulfilled.
-- Alonso has seen Amber choose Teddy twice.
-- Charcadet has seen Amber protect Teddy, then watched Teddy/Charcadet/Ditto carry the promise forward.
-- Charcadet is closer to choosing Amber, but still should not join immediately unless a later decision changes pacing.
+- A Rocket operation sits deep off maintained Route 1, based at an isolated cave.
+- Teddiursa and two low-level Rocket handlers spill onto the maintained route; Amber encounters the chase already in motion.
+- Amber intervenes with Ditto and the newly caught Pidgey. Caterpie avoids fighting (Ch. 20 continuity).
+- The handlers field four standard-issue operational Pokemon and give crude objective commands, not a formal battle.
+- Pidgey faints and cannot be returned to its ball (fainted Pokemon cannot be recalled).
+- Teddiursa turns back to help Ditto; after two of the four Rocket Pokemon are disabled, the handlers panic and retreat toward their operation.
+- Teddiursa pursues. Amber follows while treating Ditto, leaving Pidgey where it fell.
+- Pidgey recovers off-page. Its fainting-broken ball connection is never restored and it has little bond with Amber, so it flies away. Neither Amber nor the reader sees this; only its later absence.
+- Amber reaches the larger confrontation and is overwhelmed. Alonso arrives and completes a meaningful rescue/battle --- not an empty face-reveal cliffhanger. The exact chapter boundary is flexible.
+- The chapter ends after danger subsides, with Teddy desperately trying to communicate a further request.
 
 ---
 
-## Important Constraints
+## Beat Sequence
 
-- Do not make Ursaring a boss monster or villain.
-- Save Ditto-Arcanine for a future crisis.
-- Do not let Alonso solve everything. He can save, brace, protect, and inspire, but the chapter should require Amber, Teddy, the younger Charcadet, Ditto, Alonso's stronger Pokemon, and Alonso to each matter.
-- Do not make Charcadet's eventual choice instant. This chapter deepens the evidence it is gathering.
+### 1. The Chase Spills Onto the Route
+
+- A frightened Teddiursa bursts out of the deep forest onto the maintained corridor, two humans in Rocket colors behind it.
+- The handlers claim Teddiursa is theirs, dangerous, or part of an authorized operation. Teddiursa's terror makes the claim suspect.
+
+**Purpose:** Inciting collision. Rocket enters Amber's journey as a physical fact, not a rumor. Amber reads a scared Pokemon fleeing humans --- enough to act on --- not a mystery to solve. The handlers' lies establish Rocket field culture at the bottom rung.
+
+### 2. Amber Intervenes
+
+- Amber steps in with Ditto and Pidgey. Caterpie hides or stays clear of the fight.
+- She acts before she understands the situation; the pursuit itself is her reason.
+
+**Purpose:** Character definition through action --- Amber interferes when humans chase a frightened Pokemon, before she has language for why. Caterpie's absence honors its settled cowardice without relitigating it.
+
+### 3. Four-on-Two Skirmish
+
+- The handlers release four standard-issue operational Pokemon at once (working set: Rattata, Ekans, Zubat, Koffing --- unconfirmed).
+- Commands are crude objectives: catch the Teddiursa, keep the Ditto off, stop the girl.
+
+**Purpose:** Establish Rocket field doctrine --- conditioned numbers, not trainer skill. The pressure is real precisely because the handlers are bad trainers with well-drilled assets. Keeps the fight dangerous without making grunts competent.
+
+### 4. Pidgey Goes Down
+
+- Pidgey is knocked unconscious and cannot be returned to its ball.
+- Amber keeps fighting around its stranded body.
+
+**Purpose:** Cost. Amber's newest capture is a living creature, not a game asset, and fainting has teeth in this world. Plants the off-page loss that lands later.
+
+### 5. Teddiursa Turns Back
+
+- Teddiursa initially keeps fleeing, then turns back at a critical moment and helps Ditto disable two of the four Rocket Pokemon.
+- Losing half their assets and control of the encounter, the handlers panic and retreat into the deep forest.
+
+**Purpose:** Teddiursa's first voluntary choice to fight beside Amber --- the bond seed is an act, not a conversation. The retreat gives Amber someone to follow into the larger problem.
+
+### 6. Amber Chooses to Follow
+
+- Teddiursa pulls at Amber to pursue immediately; Amber stops to treat Ditto instead.
+- Teddiursa cannot wait and runs after the handlers alone.
+- Amber looks between the unconscious Pidgey and the disappearing Teddiursa --- then follows, Potion on Ditto as she runs.
+
+**Purpose:** The chapter's moral hinge. Amber chooses the living ask over the safe asset. Pidgey's later absence is the price, and she makes the choice knowing something is being risked.
+
+### 7. The Larger Confrontation
+
+- Following the retreat, Amber reaches the Rocket operation around an isolated cave: more personnel, real organization, the shallow edge of something she cannot see the shape of.
+- She is overwhelmed. Under pressure she keeps shielding Teddiursa and her own Pokemon at cost to herself --- meaningful but not catastrophic injury is the ceiling for this chapter.
+
+**Purpose:** Scale reveal without lore exposition. Amber's body keeps choosing protection before she has a heroic self-image; the cost is real but the mini-arc's worst injury belongs later.
+
+### 8. Alonso Arrives
+
+- Alonso arrives with his Charcadet and completes a meaningful rescue/battle --- the danger genuinely ends because of the two of them, not because the chapter cuts away.
+- His rescue must not steal Amber's agency; it validates the choice she already made.
+- Charcadet notices Amber's protective pattern. This is only the seed; its choice comes much later, after long observation.
+
+**Purpose:** Introduce Alonso through deeds --- competence, sincerity, rescue as the obvious thing someone had to do. The exact chapter boundary is flexible, but the rescue must be substantive wherever it lands. Charcadet's notice plants the longest thread of Amber's Kanto roster.
+
+### 9. End: The Ask
+
+- After the danger subsides, Teddiursa desperately tries to communicate a further request.
+
+**Purpose:** Hook into Ch. 22. The chapter ends on need, not on the promise --- the ask is decoded and accepted next chapter.
 
 ---
 
-## Open Questions
+## Iceberg (Not Necessarily Stated On Page)
 
-- Exact cave classification: current direction is dungeon-adjacent/unstable off-route cave, **not** a full Mystery Dungeon.
-- How exactly does Rocket force Ursaring's recall/removal during the almost-reunion, and how much is that enabled by ore-amplified restraint/control tech?
-- Who receives the small Pokemon's rescue signal?
-- How badly is Amber hurt, and what limitations carry into the Viridian aftermath?
-- Does Alonso stay with Amber through Viridian, Route 2, or Viridian Forest before parting?
-- When exactly does Charcadet choose Amber?
+- The operation is **searching for Mew**, echoing the early Route 1 search in Pokemon Adventures. Nobody on page says "Mew."
+- Rocket instruments detected an exceptionally powerful psychic presence beneath/around the isolated cave. Whether it is Mew, residue, or another phenomenon is unknown --- including to Rocket.
+- The cave was Ursaring and Teddiursa's home. Rocket appropriated it as a temporary search base; Ursaring resisted and was captured, and Teddiursa escaped. The chase Amber interrupted is the tail of that capture.
+- The handlers' four Pokemon are standard-issue operational assets conditioned to roles, which is why crude objective commands still produce coordinated pressure.
+- Teddiursa's desperation from Beat 5 onward is about his mother. He already knows exactly who took her and where they went.
+
+## Constraints
+
+- **Deleted as the operation's purpose:** psychic-reactive ore / Mewtwonite, forced-evolution testing, and fossil mining. None of these survive as canon or as on-page implication.
+- Amber cannot learn about Ursaring in this chapter; she knows only that Teddiursa wants something back from these humans.
+- Caterpie does not fight.
+- Fainted Pokemon cannot be recalled; do not let Amber attempt a successful mid-faint recall.
+- Do not show Pidgey waking or leaving. The empty spot later is the whole beat.
+- Keep the operation field-level. No lore machinery, no named Mew, no visible instruments monologue --- at most, environmental strangeness Amber can't parse.
+- Alonso's arrival must complete a real rescue, not a cliffhanger face-reveal.
+- Save Ditto's Arcanine-memory reveal for a later crisis; Ditto fights with practical known forms here.
+
+## Unresolved Decisions
+
+- Exact species composition of the four Rocket Pokemon (working set Rattata/Ekans/Zubat/Koffing is provisional).
+- Exact chapter boundary: where within Alonso's rescue the chapter closes.
+- Whether Teddiursa is formally caught here, later, or never in the conventional sense.
+- How much Alonso already knows about Team Rocket, and what specifically drew him toward this site.
+
+---
+
+## Dialogue / Provenance
+
+**Author-named wording (preserve exactly if used):** none identified for this chapter in the decision trail.
+
+**Uncertain provenance:**
+- *"lost a Pidgey, huh..."* --- an Amber line the author floated in earlier discussion. Its placement and whether it belongs in the current plan at all are undecided. Do not treat as committed dialogue.
+
+**Assistant-generated working paraphrases (not canon, do not harden into quotes):**
+- Handler claims that Teddiursa is theirs / dangerous / part of an authorized operation.
+- Crude objective commands during the skirmish.
+
+**Superseded (must not silently survive):** none specific to this chapter beyond the deleted ore/fossil/forced-evolution operation purposes.
+
+---
+
+## References
+
+- [Team Rocket] --- the organization behind the operation; compartmentalized, field-level here.
+- [Alonso Quijano] --- arrival team, personality, and the rescue register.
+- [Ursaring rescue thread] --- the mini-arc spine this chapter opens.
+- [Teddiursa / Ursaring team arc] --- the promise-debt emotional movement.
+- [Charcadet / Ceruledge thread] --- why Charcadet noticing matters long-term.
+- [Amber team roster] --- Pidgey's catch (Ch. 20) and loss (this chapter); custody limits.
+- [Pokemon fainting] --- why Pidgey cannot be recalled or immediately re-balled.
+- [Trainer licensing] --- the three-Pokemon custody limit Amber is at.
+- [Caterpie] --- why it stays out of the fight.
+- [The Mewtwo thread] --- the Mew-search iceberg beneath the operation.
+- [Arc 1 overview] --- mini-arc placement.
+
+[Team Rocket]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/organizations/team-rocket.md
+[Alonso Quijano]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/alonso-quijano.md
+[Ursaring rescue thread]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/01-kanto-year-1/ursaring-rescue.md
+[Teddiursa / Ursaring team arc]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/team-arcs/amber/teddiursa-ursaring.md
+[Charcadet / Ceruledge thread]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/charcadet-ceruledge.md
+[Amber team roster]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/rosters/amber-team.md
+[Pokemon fainting]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/world/systems/pokemon/pokemon-fainting.md
+[Trainer licensing]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/world/systems/trainers/licensing.md
+[Caterpie]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/pokemon/amber-team/caterpie.md
+[The Mewtwo thread]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/mewtwo-ambertwo.md
+[Arc 1 overview]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/01-kanto-year-1/overview.md

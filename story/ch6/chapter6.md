@@ -92,9 +92,23 @@ Fuji took his seat at the table's midpoint---likely no longer the head of his ow
 
 "Replicate?" Dr. Namba's laugh held no humor. "Half of our other research was destroyed. Most of it... gone. The legendary capture systems, the fusion experiments..." He finally glanced at the photographs of the ruins behind her. "The Evolution Acceleration lab is a crater. Twenty years of strength augmentation research, gone."
 
-"Your strength augmentation machine barely worked anyway," Dr. Sebastian said with a dismissive wave. "The serum developed by Silph Co. is better."
+"Your strength augmentation machine barely worked anyway," Dr. Sebastian said with a dismissive wave. "The serum developed by Dr. Kihara was better."
 
-"That serum is unstable and unpredictable. My strength augmentation machine---"
+"Better?" Dr. Namba scoffed. "Sure, its strength increase was profound. But its also completely unpredictable. The subjects become grotesque, and instead of fainting, they die."
+
+"It hardly matters now," Archer cut in. "Dr. Kihara is dead, and the research data was destroyed."
+
+Sebastian glanced toward Fuji. "Kihara gave you one of his prototypes, didn't he?"
+
+Fuji's hand stopped halfway down the page. He looked up. "What?"
+
+"The serum," Sebastian said.
+
+Fuji paused and glanced around at the faces watching him. "Kihara's serum? I still have one."
+
+"Then we still have something to work with," Sebastian said.
+
+"Who cares about that serum," Namba snapped. "It's basically a poison."
 
 The room erupted into overlapping arguments. A junior researcher waved printouts of energy readings. Two admins argued about cover stories while Dr. Sebastian and Dr. Namba's debate about the efficacies of the strength augmentation system devolved into a shouting match about research priorities.
 

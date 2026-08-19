@@ -7,8 +7,8 @@ commit = "ee1ddda1aa207b5eae389563e59bf86c566d6784"
 
 [dependencies.meridian-base]
 url = "github.com/haowjy/meridian-base"
-version = "v0.10.3"
-commit = "c9d5fa989c2533de3c2af5a933c6f7b16f939453"
+version = "v0.10.5"
+commit = "0de2ab1476ce8c924f11927fdc08db1b13e38a00"
 
 [dependencies.meridian-prompter]
 url = "github.com/haowjy/meridian-prompter"
@@ -90,14 +90,14 @@ installed_checksum = "sha256:edfc200bf00bc4fe010801f9f032267514c0beaca0479be6362
 [items."agent/kb-lead"]
 source = "meridian-base"
 kind = "agent"
-version = "v0.10.2"
-source_checksum = "sha256:cf74069fec7795f671f037b0a82f535e6f793b62d5adb1c01ea17f2fafd43479"
+version = "v0.10.5"
+source_checksum = "sha256:837c5d521e8ff2da241f9213ca57dbe52c637fe4263ce5ac870f1bc3458aaebf"
 
 [[items."agent/kb-lead".outputs]]
 target_root = ".mars"
 dest_path = "agents/kb-lead.md"
 state = "installed"
-installed_checksum = "sha256:cf74069fec7795f671f037b0a82f535e6f793b62d5adb1c01ea17f2fafd43479"
+installed_checksum = "sha256:837c5d521e8ff2da241f9213ca57dbe52c637fe4263ce5ac870f1bc3458aaebf"
 
 [items."agent/kb-maintainer"]
 source = "meridian-base"
@@ -1289,7 +1289,7 @@ model = "grok-4.5"
 
 [dependency_model_aliases.kimi]
 harness = "opencode"
-description = "Long-context multimodal agentic model for coding, research, and orchestration."
+description = "Strong at long-running coding and research over large inputs. Slow and token-heavy; avoid bulk work. Value 4, intelligence 8, taste 6."
 default_effort = "high"
 model = "kimi-k3"
 
