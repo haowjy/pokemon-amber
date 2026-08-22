@@ -112,6 +112,4 @@ As he watched her tend the garden, memories of their university days flooded bac
 
 He'd failed her then, somehow. Been too absorbed in his work, perhaps. Not presented himself properly. But now... now he could do things right.
 
-He drove past without slowing. First, he needed better clothes. Maybe some of the best wine. And dahlias. Were there any in Pallet Town? If not, surely the florists in Viridian City would have something suitable. He could return later, properly dressed and prepared. Do things right this time. Do things right again.
-
-Behind him, in the distance, a column of smoke still rose from the forest path near Oak's laboratory.
+He drove past without slowing. First, he needed better clothes. Maybe some of the best wine. And dahlias. Were there any in Pallet Town? If not, surely the florists in Viridian City would have something suitable. He could return later, properly dressed and

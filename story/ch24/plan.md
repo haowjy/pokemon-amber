@@ -5,141 +5,147 @@ chapter: 24
 spoilers: true
 status: planning
 hidden: true
-created: 2026-08-17
-updated: 2026-08-17
+created: 2026-05-17
+updated: 2026-08-20
 ---
 
-# Chapter 24 Plan: Exit / Giovanni Field Test
+# Chapter 24 Plan: The Request / Cave Assault / Collapse
 
 **POV:** Amber (1st person)
 **Timeline:** Immediately after Chapter 23
-**Location:** Final stretch of the Mystery Dungeon -> secondary forest exit -> Giovanni's interception
+**Location:** Team Rocket's isolated cave base, off maintained Route 2
 
 ---
 
 ## Chapter Purpose / Reader Effect
 
-Bring the mini-arc's two faces into collision: the criminal operation Amber fought and the public institution whose leader owns it. Amber meets Giovanni under maximum asymmetry --- she knows who he is and cannot prove anything; he performs genial civic authority while quietly taking their measure.
+Turn Teddiursa's desperation into an explicit commitment to help, then make that commitment immediately costly. The chapter earns the promise through patient communication, pays off the cave assault with a loss instead of a rescue, and ends on the collapse cliffhanger that traps Amber, Kyle, and Alonso underground.
 
-Reader effect: escape curdles into a worse kind of danger. The most frightening thing about Giovanni is that he is charming, reasonable, and impossible to act against.
+Reader effect: hope built carefully (the partial decoded ask, three trainers choosing to help, a successful infiltration) is cut off procedurally --- Rocket had an exit plan, Ursaring is taken, and the way out is gone.
 
 ---
 
 ## Settled Direction
 
-- The chapter includes the final Dungeon obstacle/travel; depleted supplies and injuries from the whole sequence matter.
-- The group exits through a secondary forest exit --- not the collapsed entrance.
-- Giovanni was **not** inside the cave or Dungeon and is never seen with Team Rocket.
-- Giovanni intercepts after people reported intruders and a collapse.
-- He sends Nidoking to test both trainers together.
-- They satisfy the hidden test / force acknowledgment without seriously overpowering it. Whether Nidoking is a restrained ace or a lower-tier team member remains open.
-- Giovanni goes from an apparent frown to a genial smile. He announces that he is the Viridian Gym Leader, calls the attack an "impromptu test," and invites them to the Gym because he has "something" for those who passed.
-- His motive is **not** confirming Ditto. Privately: assess the immediate threat, control and occupy witnesses, and make a plausible invitation while Rocket sanitizes the cave.
-- Amber and Alonso lack any proof linking him to Rocket or the cave.
+- Take stock, treat injuries, introductions: Amber and Alonso become people to each other, not just the rescue.
+- Teddiursa communicates through repeated gestures, direction, reactions, and pantomime. Amber patiently tests interpretations after wrong guesses. She does **not** literally understand Pokemon language, and the exchange does not establish that Rocket captured his mother. It establishes only an urgent need to follow the people who fled toward the cave and help Teddiursa.
+- Amber, Kyle, and Alonso accept that immediate request for help.
+- They approach the cave, beat the exterior guards, enter, and face competent operatives --- a clear step above the route handlers.
+- Ursaring is restrained/captive and increasingly uncontrollable --- rampaging.
+- Cave geometry: main tunnel + a prepared Rocket escape route + a deeper branch. The operatives retreat through the escape route, taking Ursaring. The heroes are forced into the deeper branch.
+- Rocket collapses the junction, escapes with Ursaring, and traps the heroes deeper in the cave.
+- End on the collapse cliffhanger. The promise is unresolved.
 
 ---
 
 ## Beat Sequence
 
-### 1. The Final Obstacle
+### 1. Take Stock
 
-- One last Dungeon obstacle or hard stretch of travel, with the accumulated depletion and injuries of the collapse and fights still in the body.
+- Post-fight treatment, inventory, and introductions between Amber and Alonso.
 
-**Purpose:** Cost continuity. The exit must feel earned by everything the sequence has taken --- supplies counted in Ch. 23 run out here.
+**Purpose:** Decompress after Ch. 23's action; establish Alonso's register (sincere, competent, broke, foreign) and let Amber size him up. Pacing breath before the escalation.
 
-### 2. The Secondary Exit
+### 2. Decoding Teddiursa
 
-- The group emerges through a secondary exit into ordinary forest, away from the collapsed entrance.
+- Teddiursa repeats gestures, direction-pulling, reactions, and pantomime; Ditto may transform to illustrate.
+- Amber guesses wrong, adjusts, and tests interpretations until the picture converges only on an urgent plea for help and pursuit of the people who fled toward the cave. The specific Ursaring/mother situation is not understood yet.
 
-**Purpose:** Geographic payoff of the Dungeon's strangeness, and a clean stage for the interception --- they surface nowhere near the Rocket-sanitized site.
+**Purpose:** Communication as labor. Amber's patience and wrong guesses keep Pokemon speech non-trivial --- understanding stays partial rather than granting a translation. This is where the promise to help becomes possible. The core conveyed content is "help me" as a concept, not English (see Provenance).
 
-### 3. Interception
+### 3. Both Accept
 
-- Giovanni arrives: people reported intruders and a collapse, and he has come in his public capacity.
-- He was never inside, never seen with Rocket, and presents entirely as a civic figure responding to a reported hazard.
+- Amber, Kyle, and Alonso each commit to the rescue.
 
-**Purpose:** The asymmetry scene opens. Amber knows exactly who this is; nothing about him is actionable.
+**Purpose:** The promise begins --- the debt that binds Teddiursa to Amber for the rest of the saga. Alonso's acceptance is instant and obvious to him; Amber's is chosen. Both registers matter.
 
-### 4. The Nidoking Test
+### 4. Approach and Exterior Guards
 
-- Giovanni sends Nidoking against both trainers together.
-- Amber and Alonso fight as a pair and satisfy the hidden test --- enough to force acknowledgment, never enough to seriously overpower the Pokemon.
+- The pair scouts the cave, defeats the perimeter guards, and gets inside.
 
-**Purpose:** Giovanni takes their physical measure behind a deniable frame. For the reader: the first live look at what Gym Leader strength means, and at Amber and Alonso as a functioning team under impossible pressure. The restraint is the point --- winning was never the test.
+**Purpose:** Competence escalation and the first time Amber and Alonso fight together as a coordinated pair. Sets up the interior's jump in difficulty.
 
-### 5. Frown to Smile
+### 5. Interior: Competent Operatives, Captive Ursaring
 
-- Giovanni's apparent frown gives way to a genial smile.
-- He announces that he is the Viridian Gym Leader, frames the attack as an "impromptu test," and invites them to the Gym --- he has "something" for those who passed.
+- Inside, the opposition is a cut above the route handlers --- drilled, calm, equipped.
+- Ursaring is restrained/captive and growing increasingly uncontrollable: rampaging against her restraints.
+- Teddiursa sees his mother. She is present, alive, and unreachable.
 
-**Purpose:** The mask completes itself in front of Amber's eyes. The invitation is control wearing hospitality, and everyone except Alonso can feel the floor tilt.
+**Purpose:** The almost-rescue is shown as a procedural gap, not a failure of courage --- Rocket's competence is the antagonist here. Ursaring's rampage reads as captivity and stress, not villainy.
 
-### 6. No Proof
+### 6. The Geometry of Loss
 
-- Amber holds no evidence tying Giovanni to Rocket, the cave, or anything at all. Accepting the invitation is the only move.
+- The cave's shape decides the outcome: main tunnel, a prepared Rocket escape route, and a deeper branch.
+- The operatives fall back through the escape route with Ursaring. Amber, Alonso, and the Pokemon are forced into the deeper branch.
 
-**Purpose:** Hands Ch. 25 its loaded waiting room. Amber's private dread against Alonso's uncomplicated excitement.
+**Purpose:** The loss is structural --- Rocket planned its own withdrawal. The heroes don't lose a battle; they lose a race through terrain Rocket already mapped.
+
+### 7. Collapse
+
+- Rocket collapses the junction behind them, escaping with Ursaring and sealing Amber, Kyle, and Alonso in the deeper branch.
+- Cliffhanger ending.
+
+**Purpose:** Worst-case turn. Sets Chapter 25's survival problem. The promise is made and immediately put out of reach.
 
 ---
 
 ## Iceberg (Not Necessarily Stated On Page)
 
-- Giovanni's private motives: assess whether these two witnesses are an immediate threat, control and occupy them while Rocket sanitizes the cave operation, and wrap that containment in a plausible public invitation.
-- The reported-intruders story is both true and convenient --- it gives him a clean reason to be here that no one can dispute.
-- The Nidoking test is measurement, not aggression: he wants their capability, coordination, and character under pressure.
-- Confirming Ditto is **not** the motive.
-- Whether Giovanni recognizes Amber --- as Fuji's clone, Oak's protege, or anyone at all --- is deliberately open at this point in the sequence.
+- The escape route was prepared in advance: the base was always temporary, and Rocket drills its withdrawals. The collapse is doctrine, not improvisation.
+- Ursaring's rampage is restraint, stress, and captivity. She is a wild Pokemon defending her territory's invaders' prisoner --- not a berserker by nature.
+- Rocket's purpose at the cave is the Mew-like psychic signal (see Ch. 23 iceberg). The operatives do not discuss it within earshot.
+- Giovanni is nowhere near this site and has no visible connection to it.
+- Whether Ursaring recognizes Teddiursa in the chaos is deliberately undecided (see below) --- do not write a settled recognition moment.
 
 ## Constraints
 
-- Giovanni is never inside the cave or Dungeon and never appears alongside Rocket personnel.
-- Nidoking is not seriously overpowered; acknowledgment, not victory.
-- Amber cannot accuse, hint, or meaningfully investigate; she has no proof.
-- Keep Giovanni warm, credible, and publicly defensible in every line.
-- Do not resolve whether he recognizes Amber.
+- No Giovanni, in any capacity.
+- No Mystery Dungeon reveal yet --- the cave is still explicable geology in this chapter; impossibility surfaces in Chapter 25.
+- Ursaring is not rescued and is not freed; she leaves in Rocket custody.
+- The promise must be explicit by the collapse, and unfulfilled at it.
+- Ditto's Arcanine-memory reveal remains saved for a later crisis.
+- Do not name Mew, ore, Mewtwonite, fossils, or evolution experiments.
 
 ## Unresolved Decisions
 
-- Whether Nidoking is Giovanni's restrained ace or a lower-tier team member.
-- Whether and when Giovanni recognizes Amber.
-- Exact shape of the final Dungeon obstacle.
-- Exact Giovanni dialogue beyond the author-named fragments (see below).
+- Whether Ursaring recognizes Teddiursa before she is removed --- or whether the chaos never allows it.
+- Whether the interior operatives have a named or recurring leader.
+- How much of the operation's equipment (instruments, readings) is visible as the heroes pass through.
+- Where exactly the Chapter 23/24 boundary falls if Alonso's rescue straddles it.
 
 ---
 
 ## Dialogue / Provenance
 
-**Author-named wording / beats (preserve as intent):**
-- Giovanni goes **from frowning to smiling** --- author-named beat.
-- He says he is the **Gym Leader** and that the attack was an **"impromptu test"** --- author-named wording. (The paraphrase "impromptu assessment" describes the same beat; "impromptu test" is the author's phrase.)
-- He has **"something"** for them / for those who passed --- author-named wording; keep it vague on the page, as unsettled as it sounds.
+**Author-named wording / ideas (preserve as intent):**
+- Teddiursa conveys **"help me" as a concept, not English** --- author-named. Communication runs through gesture, pantomime, reaction, and inference; Amber never receives literal sentences.
 
 **Assistant-generated working paraphrases (not canon, do not harden into quotes):**
-- The reported-intruders framing, invitation phrasing around the named fragments, and any Nidoking commands.
+- Any Alonso introduction lines, acceptance-of-request phrasing, and operative commands.
 
 **Superseded (must not silently survive):**
-- *"Thanks for entertaining me!"* --- older Giovanni wording from a superseded version; not current intended dialogue.
-- *"Sorry for taking the credit."* --- belonged to the deleted inside-the-Dungeon version; not current intended dialogue.
-- Giovanni as a researcher already inside the Dungeon who leads the group out (deleted).
+- Giovanni inside the cave/Dungeon, guiding the group out (deleted; Giovanni intercepts outside in Chapter 26).
+- *"Sorry for taking the credit."* --- older Giovanni wording from the deleted inside-the-Dungeon version. Not current intended dialogue.
+- Small Pokemon leaving to summon a generic rescue party (deleted; the group self-rescues through the Dungeon in Chapters 25-26).
 
 ---
 
 ## References
 
-- [Giovanni] --- the public man and the private project beneath him.
-- [Viridian Gym] --- the institution he announces.
-- [Team Rocket] --- the sanitization his invitation covers for.
-- [Giovanni and Team Rocket saga thread] --- surveillance, testing, and containment escalation.
-- [Badge system] --- the discretionary standard badges this test sets up.
-- [Mystery Dungeons] --- the phenomenon they exit from.
-- [Ursaring rescue thread] --- the mini-arc spine; the promise stays unresolved through this chapter.
+- [Ursaring rescue thread] --- the mini-arc spine; this chapter's loss is its hinge.
+- [Teddiursa / Ursaring team arc] --- the promise-debt movement this chapter formalizes.
+- [Alonso Quijano] --- voice, means, and motive for instant acceptance.
+- [Team Rocket] --- compartmentalized field doctrine behind the escape route.
+- [Ditto] --- transformation as illustration during the decoding beat.
+- [Charcadet / Ceruledge thread] --- deepening evidence as Charcadet watches Amber commit.
 - [Arc 1 overview] --- mini-arc placement.
+- [The Mewtwo thread] --- the signal iceberg beneath the cave.
 
-[Giovanni]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/giovanni.md
-[Viridian Gym]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/places/kanto/viridian-gym.md
-[Team Rocket]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/organizations/team-rocket.md
-[Giovanni and Team Rocket saga thread]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/giovanni-team-rocket.md
-[Badge system]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/world/systems/trainers/badge-system.md
-[Mystery Dungeons]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/world/phenomena/mystery-dungeons.md
 [Ursaring rescue thread]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/01-kanto-year-1/ursaring-rescue.md
+[Teddiursa / Ursaring team arc]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/team-arcs/amber/teddiursa-ursaring.md
+[Alonso Quijano]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/alonso-quijano.md
+[Team Rocket]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/organizations/team-rocket.md
+[Ditto]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/pokemon/amber-team/ditto.md
+[Charcadet / Ceruledge thread]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/charcadet-ceruledge.md
 [Arc 1 overview]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/01-kanto-year-1/overview.md
+[The Mewtwo thread]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/mewtwo-ambertwo.md

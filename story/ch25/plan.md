@@ -5,145 +5,139 @@ chapter: 25
 spoilers: true
 status: planning
 hidden: true
-created: 2026-08-17
-updated: 2026-08-17
+created: 2026-08-15
+updated: 2026-08-20
 ---
 
-# Chapter 25 Plan: Gym Wait / Tour / Badges
+# Chapter 25 Plan: Mystery Dungeon
 
 **POV:** Amber (1st person)
-**Timeline:** Immediately after Chapter 24's invitation
-**Location:** Viridian Gym and its development campus
+**Timeline:** Immediately after Chapter 24's collapse
+**Location:** The deeper Route 2 cave branch, becoming an undiscovered Mystery Dungeon
 
 ---
 
 ## Chapter Purpose / Reader Effect
 
-Show Giovanni's public world in full bloom --- and make it genuinely good. The horror of the chapter is that the development campus is persuasive: real trainers getting real placements, real civic goods, real cheaper Pokeballs. Amber must sit inside the most dangerous place in Kanto and watch it be admirable.
+Shift genres after the collapse: from pursuit story to survival/exploration. The chapter introduces Mystery Dungeons properly for the first time, through Alonso's expertise and delight set against Amber and Kyle's alarm, and turns a sealed tomb into a discovered world with a way through.
 
-Reader effect: dramatic irony in every room. The wait is a cleanup operation; the tour is a hostage's view of a legitimate legacy; the badges are real and freely given --- and Amber's relief, excitement, and wry Ash-style anxiety close the mini-arc on dry humor with a real thread of fear under it.
+Reader effect: disorientation opening into wonder. The cave's secret is bigger than the Rocket operation that used it --- and nobody fully understands it, including Rocket.
 
 ---
 
 ## Settled Direction
 
-- Amber and Alonso wait hours for the thing Giovanni promised. Amber is intensely nervous; Alonso is excited and unconcerned.
-- The delay buys Rocket cleanup time at the cave.
-- Alonso talks with Giovanni's secretary Matori and gets a tour.
-- The campus shows trainer development and civic good: strong placements by Viridian trainers in Indigo/Silver and other standard/junior tournaments. The public benefits are genuinely persuasive.
-- Everything is revealed through environment and interactions, not monologue.
-- Visible programs: cheaper Pokeballs; computers, registration, and transfer infrastructure; agricultural and civic projects where consistent.
-- X Attack originates as a Viridian Gym / Giovanni-company development, in controlled Gym trials. Temporary strength, fainting intact --- a contrast to Kihara's lethal serum. Silph is a major manufacturer/distributor and may license regional production; canon does not assign Silph the origin.
-- Giovanni awards standard discretionary badges --- not ACE/Elite.
-- Amber closes on: relief, genuine excitement over her first badge, and wry Ash-like anxiety about her journey's pattern.
+- Digging out is attempted and fails: the collapse is impossible to shift and unstable to disturb.
+- The group rests, treats injuries, takes inventory, and chooses the deeper route.
+- The geology stops making sense. Alonso recognizes a Mystery Dungeon and explains only the immediate survival facts, while they prepare and rest.
+- Alonso initially thinks a valuable Dungeon may explain why Rocket protected this site. The truth remains the Mew-like signal; his inference is reasonable and wrong.
+- Rocket may have suspected anomalies but never mapped or understood the Dungeon.
+- The Dungeon is Ditto-heavy and carries psychic types.
+- Modest but meaningful loot is possible.
+- Do not confirm Mew. The truth stays open: present, recent passage, or false-positive signature.
+- The group locates a path or evidence toward another exit.
 
 ---
 
 ## Beat Sequence
 
-### 1. The Wait
+### 1. The Obvious Door Is Closed
 
-- Hours pass at the Gym while Giovanni is supposedly overwhelmed with work.
-- Amber is intensely nervous; Alonso is excited and unconcerned.
+- They try to dig out. The rubble is too heavy and the surrounding rock too unstable; digging risks bringing more down.
 
-**Purpose:** The emotional contrast carries the scene --- Alonso's uncomplicated anticipation against Amber's silent dread. The delay is the plot: it buys Rocket cave-cleanup time, and the reader can feel the stall even where Amber cannot confirm it.
+**Purpose:** Close the obvious option fast so the deeper route is a choice among realities, not stupidity. Establishes that nobody is coming to save them.
 
-### 2. Matori and the Tour
+### 2. Rest, Treat, Inventory
 
-- Giovanni's secretary Matori apologizes on his behalf, talks with Alonso, and leads the tour of the expanding Gym complex.
+- Wounds treated, supplies counted, Pokemon rested. The deeper branch is the only way forward.
 
-**Purpose:** The reveal runs through a person with a job to do, not a mouthpiece. Alonso's easy conversation with Matori keeps the tone light while Amber watches everything.
+**Purpose:** Pacing breath and logistics grounding. Supply counting here is what makes Ch. 26's depletion matter.
 
-### 3. The Development Campus
+### 3. Impossible Geology
 
-- Trainer development and civic good made visible: Viridian trainers posting strong placements in Indigo/Silver and other standard and junior tournaments.
-- Programs on display: cheaper Pokeballs; computers, registration, and transfer infrastructure; agricultural and civic projects where consistent.
+- Distances, shapes, or passages stop agreeing with ordinary cave geometry.
+- Alonso recognizes what they're in: a Mystery Dungeon. He explains only what they need to survive it, while they prepare and rest.
 
-**Purpose:** The seductive legitimacy of Giovanni's project. The benefits must be real enough that the reader believes Kanto believes in him --- that's what makes him dangerous. Worldbuilding delivered through setting, signage, staff, and demonstration, never a speech.
+**Purpose:** The world's stranger layer opens for the first time. Alonso's expertise and ecstasy pay off his Ch. 23-24 introduction --- this is the thing he crossed an ocean, broke, to find. His delight against Amber and Kyle's alarm is the chapter's emotional spine.
 
-### 4. X Attack
+### 4. Alonso's Wrong Inference
 
-- X Attack appears as a Viridian Gym / Giovanni-company development in controlled Gym trials: temporary strength with fainting intact.
-- The page contrast is Kihara's lost serum: profound unpredictable effects, grotesque deformation, fainting suppressed so defeat can become death --- one vial of which sits with Fuji. Radio-wave forced evolution is a separate thread again.
-- Silph is the major manufacturer/distributor and may license regional production; canon does not assign Silph the origin.
+- Alonso reasons that a valuable, unmapped Dungeon explains why Rocket dug in around this cave.
 
-**Purpose:** Battle-item worldbuilding that doubles as character work: Giovanni's pharma face is regulated, tested, survivable --- the opposite of the serum tradition Amber's origin is entangled with. The contrast should be inferable, not lectured.
+**Purpose:** Dramatic irony. The reader can hold both possibilities: his inference is sensible, and the iceberg truth is the psychic signal. Keeps the Mew thread alive without confirmation, and keeps Rocket's ignorance canonical --- they suspected anomalies at most; they never mapped or understood the Dungeon.
 
-### 5. Badges
+### 5. Dungeon Texture
 
-- Giovanni awards both trainers standard discretionary badges on the basis of what he witnessed --- neither completes Viridian's ordinary challenge.
-- These are not ACE/Elite badges; those require defeating the Leader's registered high-power team under formal oversight.
-- Alonso, who never sought a Kanto badge and doesn't natively understand the tradition, receives one anyway.
+- The Dungeon is Ditto-heavy, with psychic types among its inhabitants.
 
-**Purpose:** The promised "something" lands. The badge-system exposition rides on the scene instead of pausing it, and Alonso's foreigner-confusion gives Amber cover for her own disorientation.
+**Purpose:** Resonance, not explanation. Ditto-density and psychic types rhyme with the signal mystery and with Ditto's own nature without anyone naming the connection.
 
-### 6. Amber's Close
+### 6. Modest Loot
 
-- Relief at finally getting away from Giovanni.
-- Genuine excitement over her first badge.
-- Wry apprehension: her carefully planned journey is already becoming an Ash-style chain of criminal encounters, dangerous detours, and badges obtained through unexpected circumstances.
+- The Dungeon can yield modest, meaningful finds.
 
-**Purpose:** The mini-arc's emotional thesis lands as dry humor with real anxiety underneath. She is not resigned, guilty, or resentful.
+**Purpose:** Adventure reward that keeps the genre honest --- Dungeons are valuable, which is why people like Alonso chase them. Keep it modest so it never hijacks the survival story into a relic plot.
+
+### 7. A Way Through
+
+- They locate a path or evidence pointing toward another exit.
+
+**Purpose:** Direction and hope to end on. Hands Ch. 26 the final obstacle and the exit.
 
 ---
 
 ## Iceberg (Not Necessarily Stated On Page)
 
-- Every hour of the wait is Rocket cleanup time at the cave; the tour's hospitality is containment.
-- The campus's civic goods double as registration, patronage, logistics, and surveillance infrastructure --- Giovanni's modernization is sincere and instrumental at once.
-- Nothing in the Gym is provably connected to the cave operation; that absence is engineered.
-- The tournament placements are earned by real Viridian trainers --- the program's success is not a front, which is exactly why it works.
+- The psychic presence Rocket's instruments read is associated with this place. Whether the source is present now, passed through recently, or left a false-positive signature is genuinely unsettled --- including at the author level. Do not resolve it.
+- Rocket never understood what it was sitting on. Its operation treated the cave as a search site, not as a Dungeon.
+- Rocket's broader activity worsens Mystery Dungeon instability saga-wide; this Dungeon predates and is not caused by the Route 2 operation.
+- This is Alonso's first discovered Dungeon --- the personal payoff of his entire Kanto gamble, arriving as a disaster.
 
 ## Constraints
 
-- Reveal through environment and interactions, not monologue.
-- Standard badges only --- explicitly not ACE.
-- X Attack framing exactly as settled: Viridian/Giovanni-company origin, controlled trials, temporary strength, fainting intact; Silph as manufacturer/distributor, not origin.
-- Do not state the Kihara-serum contrast as exposition; it lives in juxtaposition and in what Amber notices.
-- Giovanni stays warm, credible, and unhurried.
-- Amber cannot voice or act on suspicion; she performs a normal first-year trainer.
+- Do not confirm Mew, in any direction.
+- No Giovanni and no Rocket presence inside the Dungeon.
+- No outside rescue party; the group self-rescues through exploration.
+- Loot stays modest and meaningful, never a major relic.
+- Alonso explains only immediate survival facts --- no lore dump on Dungeon science.
+- Ursaring's loss and Teddiursa's grief remain present underneath the wonder; the genre shift must not erase them.
 
 ## Unresolved Decisions
 
-- Which campus facilities are operational versus visibly under construction.
-- Whether Amber understands during the tour that the delay is deliberate.
-- Whether Charcadet chooses Amber during this Viridian stretch or later.
-- Alonso's concrete reaction to receiving a badge he never set out to pursue.
+- Which impossible-geology effects appear on page.
+- Exact Dungeon inhabitants beyond Ditto-heavy + psychic types.
+- What the modest loot concretely is.
+- Where the Chapter 25/26 boundary falls: on finding the exit path, or after reaching the surface.
 
 ---
 
 ## Dialogue / Provenance
 
-**Author-named wording / beats (preserve as intent):**
-- The badge award follows from Giovanni's Ch. 24 framing: the "impromptu test" and the "something" for those who passed. No new author-named exact lines are identified for this chapter.
+**Author-named wording:** none identified for this chapter in the decision trail.
 
 **Assistant-generated working paraphrases (not canon, do not harden into quotes):**
-- Matori's apology and tour patter.
-- Giovanni's badge-presentation phrasing and any explanation of badge discretion.
-- Alonso's confusion about Kanto badge tradition.
+- Alonso's survival-facts explanation and his "Rocket was protecting something valuable" reasoning.
+- Any naming/recognition moment where Alonso calls it a Mystery Dungeon.
 
 **Superseded (must not silently survive):**
-- Any version where the badges follow a personal battle with Giovanni at the Gym.
-- Giovanni "testing them during the cave incident" as stated basis --- the settled basis is the Ch. 24 field test.
+- The obsolete Gym tour, long wait, and discretionary-badge material formerly attached to this chapter number is deleted rather than moved.
+- Giovanni already inside the Dungeon, "beaten them to the discovery," and guiding them out (deleted).
+- *"Sorry for taking the credit."* --- superseded Giovanni wording from the deleted version; not current intended dialogue.
 
 ---
 
 ## References
 
-- [Viridian Gym] --- the institution, its public role, and its hidden overlap.
-- [Giovanni] --- modernization as sincere and instrumental at once.
-- [Badge system] --- discretionary standard badges versus Elite/ACE.
-- [Team Rocket] --- what the wait is buying.
-- [Alonso Quijano] --- why a Kanto badge is foreign to him.
-- [Giovanni and Team Rocket saga thread] --- containment and surveillance escalation.
-- [Ursaring rescue thread] --- the mini-arc closes with the promise unresolved.
+- [Mystery Dungeons] --- the phenomenon's working mechanics and constraints.
+- [Mystery Dungeon instability thread] --- the saga-level frame (Rocket as accelerant, not cause).
+- [Alonso Quijano] --- why a Dungeon discovery is his personal jackpot.
+- [Ursaring rescue thread] --- the mini-arc spine; grief underneath the wonder.
+- [The Mewtwo thread] --- the open signal question this chapter must not resolve.
 - [Arc 1 overview] --- mini-arc placement.
 
-[Viridian Gym]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/places/kanto/viridian-gym.md
-[Giovanni]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/giovanni.md
-[Badge system]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/world/systems/trainers/badge-system.md
-[Team Rocket]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/organizations/team-rocket.md
+[Mystery Dungeons]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/world/phenomena/mystery-dungeons.md
+[Mystery Dungeon instability thread]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/mystery-dungeon-instability.md
 [Alonso Quijano]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/alonso-quijano.md
-[Giovanni and Team Rocket saga thread]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/giovanni-team-rocket.md
 [Ursaring rescue thread]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/01-kanto-year-1/ursaring-rescue.md
+[The Mewtwo thread]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/saga-threads/mewtwo-ambertwo.md
 [Arc 1 overview]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/01-kanto-year-1/overview.md
