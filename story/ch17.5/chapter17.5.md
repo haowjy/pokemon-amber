@@ -20,7 +20,7 @@ Oak pressed a key with his free hand to answer the call. A young man sat straigh
 
 "Lance," Oak replied. "You certainly took your time calling me back."
 
-Lance scratched the back of his head. "My apologies. I've been rather busy these past few weeks. I'm due in Sinnoh tomorrow, and half of Indigo still seems to be waiting for me to call back."
+Lance scratched the back of his head. "My apologies. I've been rather busy these past few weeks running around Kanto trying to catch these strange psychic disturbances. I'm due in Sinnoh tomorrow as well, and half of Indigo still seems to be waiting for me to call back."
 
 Oak studied him with a grin. "Being Champion isn't easy, is it?"
 
@@ -28,17 +28,15 @@ Lance laughed. "Ha! No, it isn't. I still don't know how you ever managed withou
 
 Oak's grin faded. He looked down at his hands. His fingers had begun to tremble.
 
-"I didn't," he said quietly. "I failed as Champion. Arrogance merely kept me from realizing it sooner."
-
-He drew a slow breath and looked back at Lance. "But that isn't why I called."
+"I didn't," he said quietly. He drew a slow breath and looked back at Lance. "But that isn't why I called."
 
 Lance's expression sobered.
 
-"There was an attack in Pallet Town. One of my good assistants was killed," Oak continued. "And the killer didn't hesitate to face me either."
+"There was an attack in Pallet Town. One of my good assistants was killed," Oak continued. "And the killer didn't hesitate to face me either. He could match me."
 
-"Ha! Even if you weren't a former Champion, people shouldn't take Professors as easy targets."
+Lance frowned, "Sure your team is locked up but..."
 
-"That's the thing... he could match me," Oak said as he lifted the vial. "He injected this into a Magmar. It caused some kind of evolution. Do you know anything about it? Perhaps... a certain pet project of the Indigo League?"
+Oak lifted the vial. "He injected this into a Magmar. It looked almost like another evolution. Do you know anything about it? Perhaps... a certain pet project of the Indigo League?"
 
 Lance gave a strained chuckle. "An evolution for Magmar... I can't say I've heard of anything like it."
 
@@ -50,11 +48,11 @@ Oak lowered the vial. "I hope not."
 
 For several seconds, neither man spoke.
 
-Oak was the first to break the silence. He lowered his head and sighed. "The attack seemed personally motivated. I just fear it might not be the last we see of this."
+Oak was the first to break the silence. He lowered his head and sighed. "The attack seemed personally motivated. I just fear it might not be the last we see of this thing."
 
 "Who attacked you?" Lance asked.
 
-"Tenma Fuji. The police identified him after the arrest. Apparently, he was a Celadon University researcher before the war. I haven't been able to find anything recent about him. I would appreciate any information you can find."
+"Tenma Fuji. He was a Celadon University researcher before the war."
 
 Lance's eyes narrowed. "A Kantoan scientist, huh? I'll note it down. Send over the sample. I'll have League scientists examine it."
 
@@ -161,63 +159,69 @@ The screen filled with photographs of farmland. Neat rows of crops ended against
 
 "The primary cause is the increasing number of Mystery Dungeons. They are swallowing fields and roads, forcing caravans onto longer routes, and opening closer to cities. Rangers from each region contained two outbreaks near city limits last month."
 
-The old officer changed slides. "The second issue is legendary activity. Johto reports Raikou, Entei, and Suicune near settlements. Hoenn and Sinnoh report three unknown golem-like Pokemon emerging from ancient ruins. Kanto reports an unidentified Psychic type with power comparable to a legendary."
+The old officer changed slides. "The second issue is increased legendary and mythical Pokemon activity. Johto reports Raikou, Entei, and Suicune near settlements. Hoenn and Sinnoh report sightings of the legendary giants emerging near ancient ruins. Kanto reports an unidentified Psychic type with power comparable to a legendary. And many strong and rare pokemon and moving around as well."
 
-"Are these incidents connected?" an official asked.
+"Why are you saying all this? Are these incidents connected?" an official asked.
 
-The old officer paused before changing slides. "Maybe. That brings me to the third issue: human interference. There is one detail common to every incident."
+The old officer paused before changing slides. "According to several professors, legendaries begin to roam when the world is out of balance, and the increase of Mystery Dungeons is also a symptom of this. So, from we know, these are connected. But there have also been other problems besides these natural disasters."
 
-Grainy photographs appeared behind her. Distant figures near the ruins. Dark uniforms. A red **R** across each chest.
+Grainy photographs appeared behind her. Crowds gathered beyond police lines. Trainers camped along mountain paths. In one image, distant figures wore dark uniforms marked with a red **R**.
 
-"They call themselves Team Rocket. We have seen them near every legendary disturbance, but nothing at those sites gives us grounds to detain them. As far as the law is concerned, they are trainers responding to the same sightings as everyone else. We suspect they may be provoking these Pokemon, but suspicion is not evidence."
+"These legendary sightings are drawing trainers, collectors, and trading guilds and companies from across the regions. We have caught some intentionally causing destruction in order to further draw out the already rowdy legendaries and rare Pokemon, but we do not know to what extent these legendary disturbances are man-made."
 
-"Maybe they're just legendary-chasing fanatics," someone said.
+"Do we know of anyone who has successfully captured any of the legendaries?" someone asked.
 
-"Maybe. But they are always one step ahead of every Pokemon League and the Jenny clan. We do not know how, or whether they have already captured a legendary none of us knows about. If that red R appears, report it."
+"We know of an explorer named Brandon of the Hoenn League has successfully captured one of the giant trios so far. I believe the Hoenn League is in already in direct contact with him."
 
-The old officer changed slides again. Incident reports from ports, roads, and city precincts filled the screen.
+The old officer waited for the murrurs to die down before continuing, Incident reports from ports, roads, and city precincts filled the screen.
 
-"The disasters have also driven ordinary crime. Smuggling. Poaching. Pokemon theft. Food and medicine stolen before they reach the cities. Some steal to survive. Others have simply found easier prey."
+"Aside from people attempting to capture the legendaries, reports of smuggling, poaching, Pokemon theft, and bandits have all increased."
 
-The next photograph showed strangers opening stolen Pokeballs at the edge of a forest.
+On the next slide, several hooded figures appeared on the screen in white tabards over close-fitting dark clothes.
 
-"A religious movement from Unova has begun sending followers into our regions. They steal trained Pokemon and release them into the wild. They claim they are freeing them."
+"A Pokemon-liberation movement with origins traced to Unova has begun attracting followers in several regions. Its more fanatical adherents steal Pokemon from their trainers and release them into the wild, claiming to free them."
 
-Another photograph showed protesters surrounding a survey team at the edge of a Mystery Dungeon.
+The slide changed again. Protesters surrounded a Mystery Dungeon survey team beneath painted banners. In a smaller panel, equipment cases lay overturned beside shattered instruments.
 
-"In Hoenn, environmental groups have blocked Dungeon surveys and route-clearing work. Most have remained peaceful. Others have destroyed equipment or driven researchers away."
+"In Hoenn, a growing environmental movement claims the disasters are nature's answer to human expansion. Most of its members limit themselves to peaceful protest. More radical factions have blocked Mystery Dungeon surveys and route-clearing crews, destroyed equipment, or interfered with relief work."
 
 "Are they working together?" someone asked.
 
-"We have no evidence of that. Treat them as separate problems."
+"We have no evidence that any of these groups are coordinating. Treat them as separate problems."
 
-The old officer switched off the screen and faced the room. "That's why we're here. Over the next several days, we need to agree on who protects which routes, how we share our food reserves, when foreign trainers may operate across regional borders, and how we pay for all of it."
+The old officer worked through several more slides. Villages abandoned near new Mystery Dungeons. Pokemon Centers running short of medicine. Caravans vanishing on roads that passed from one jurisdiction into another.
 
-The negotiations consumed the next several days. The final session did not adjourn until late afternoon.
+She switched off the screen and faced the room. "For generations, the Jenny branches have protected the Joy clan's healers while they travel. Now that we have established stable Pokemon Centers in the town, we have since adopted local-first stance to distibuting Jenny's, but right now, we all must come together and cooperate instead of fighting amongst ourselves."
 
-Hours later, Dragonite crossed into Kanto beneath a fading sky. Viridian slid below his left wing, its windows beginning to glow in the dusk.
+"The treaty before you would establish the International Police. Jenny officers assigned from each branch would form its first regional network alongside investigators appointed by every member League."
 
-The western edge of the city flashed white.
+She placed both hands on the table. "It would also bind our regions into a permanent alliance for trade, disaster response, and mutual defense. Each League would keep its own government and laws. But when a shipment, crime, disaster, or attack crosses a border, all four would recognize the same interregional law. We would coordinate protection of roads and shipping, and share personnel, intelligence, food, medicine, and other emergency reserves."
 
-For a moment, the explosion made no sound.
+"Over the next several days, we must decide what each region is obligated to contribute, who may act across which borders, how disputes are judged, and how the alliance is funded."
 
-Then the boom reached them. Dragonite banked sharply as the roof of Viridian's central detention facility opened beneath a tower of fire. Glass and burning debris climbed into the darkening sky.
+The negotiations consumed the next several days and nearly stretched into a week. When the final session adjourned late that afternoon, the treaty bore the seals of all four Leagues. The alliance and its International Police now existed. Turning either into something that worked would take much longer.
 
-Lance leaned over the saddle. "Down!"
+Lance sighed as he looked down at what looked to be peaceful forrest below.
+
+Soon, Dragonite crossed into Kanto beneath a fading sky. As Viridian slid below his left wing, the western edge of the city flashed white.
+
+An explosion soon followed.
+
+Lance frowned as he leaned over the saddle. "Down!"
 
 \[!.!\]/
 
-A short while earlier, Dr. Fuji sat alone on the narrow bunk, his injured arm resting in a sling.
+Hours earlier, Dr. Fuji sat alone on a narrow bunk bed, bandages wrapped around half his form like a mummy.
 
-Most of the cell had already fallen into darkness. The last of the afternoon sun slipped through a narrow window high in the wall, laying long golden bars across the floor. One of Fuji's eyes had swollen nearly shut. Dried blood darkened the collar of the shirt the police had returned to him after processing.
+Most of the cell had already fallen into darkness. The last of the afternoon sun slipped through a narrow window high in the wall, laying long golden bars across the floor. One of Fuji's eyes had swollen nearly shut. Dried blood darkened the collar of his brand new orange jump suit.
 
 The iron bars rattled open.
 
-Fuji raised his head.
+Fuji didn't react.
 
 Two men stepped through the golden streaks of afternoon light. The first wore a finely tailored charcoal suit with a deep red tie. A Persian moved at his side, its pale shoulder nearly brushing his leg. The second was older and bald, with a thick white mustache and round dark glasses. His lab coat hung open over a dark shirt and a flame-patterned tie, the dying sunlight burning across his lenses.
 
-Fuji looked up at them. "Giovanni... Blaine..." he said weakly.
+As the shadows stretched into the cell, Fuji finally reacted and lifted his head. "Giovanni... Blaine..." he said weakly.
 
 Blaine moved to the wall opposite the bunk and crossed his arms.
 
@@ -273,7 +277,7 @@ Giovanni stepped back with a faint smile.
 
 Silence filled the cell as Fuji sat, deep in thought.
 
-Fuji finally sighed, "Memories aren't cells..."
+Fuji finally sighed, "Memories... are they even cells...?"
 
 Giovanni's brow furrowed at the final mutter before he turned to Blaine.
 

@@ -11,7 +11,9 @@ updated: 2026-08-11
 
 - Story: `./chapter17.5.md` (not yet written)
 - Placement: after Chapter 17 and before the next main Amber POV chapter
-- Approximate timing: several days after the Pallet attack; exact count remains flexible
+- Approximate timing: Oak calls Lance a few days after Chapter 17; the Viridian
+  explosion occurs roughly 10–12 days after the Pallet attack, after most of a
+  week of negotiations in Sinnoh
 - POV mode: third-person near-omniscient / camera, moving between Oak, Lance, and Fuji without entering Amber's POV
 
 ## Reader journey
@@ -288,13 +290,13 @@ Possible exchange:
 
 - Dragonite wakes Lance by nudging him and pointing to the clock.
 - Lance realizes he is late for the International Police meeting and blames Dragonite for not waking him sooner; Dragonite's stare carries the obvious rebuttal.
-- The session is hosted in Sinnoh while the region formally joins the International Police network. Lance took Oak's call from Indigo the previous night and was supposed to depart early the following morning.
+- The session is hosted in Sinnoh to negotiate the treaty that establishes the International Police and the broader four-region alliance. Lance took Oak's call from Indigo the previous night and was supposed to depart early the following morning.
 - Video phones currently rely on wired infrastructure rather than satellites. Oak and Lance can speak while both are within Indigo's network, but easy interregional video communication is not yet established.
 - Lance fastens his cape while mounting Dragonite and flies across the sea to Sinnoh. He arrives after the meeting has begun, with the sun already high.
 - He barges into the conference room, stops at the doorway, formally identifies himself as Indigo's Champion, bows to the room, and apologizes for arriving late. He does not presume to tell the chair to continue.
 - On entering, Lance briefly scans the politically meaningful faces: Pryce, Palmer, a Blackthorn elder, and representatives from four regions. Avoid a complete attendee inventory.
-- The background roster includes Lys, Lance, Pryce, one senior Blackthorn relative of Lance, International Police personnel, an Officer Jenny representative, a few government or regional delegates, a small Sinnoh delegation, and Brandon.
-- Sinnoh is being welcomed into the International Police network. Palmer is its reigning Champion; Cynthia is its unusually young Elite Four member and attends because her mythology research may help interpret activity around ancient ruins and unidentified golem-like Pokemon. She later succeeds Palmer as Champion.
+- The background roster includes Lys, Lance, Pryce, one senior Blackthorn relative of Lance, Jenny representatives, investigators proposed for the new International Police, a few government or regional delegates, a small Sinnoh delegation, and Brandon.
+- Palmer is Sinnoh's reigning Champion. Cynthia is its unusually young Elite Four member and attends because her mythology research may help interpret activity around ancient ruins and unidentified golem-like Pokemon. She later succeeds Palmer as Champion.
 - Lance and Palmer have met before. They recognize each other without the senior officer explaining their acquaintance or prompting Palmer. As Sinnoh's Champion and the host, Palmer takes the initiative, stands, formally welcomes Lance on behalf of the Sinnoh League, and congratulates him on recently becoming Champion.
 - Interregional League etiquette here is based on Japanese formal culture: Palmer and Lance bow rather than shake hands. Keep the gesture natural and restrained rather than explaining the custom in narration.
 - Brandon is currently a highly capable but otherwise ordinary Ace Trainer, not yet an established legendary explorer or Frontier Brain. He recently captured one of three golem-like Pokemon sighted near the newly exposed ruin. That feat earned him an invitation to serve as an auxiliary International Police field operative whenever available. His pursuit of the remaining two begins his eventual association with all three Regis.
@@ -344,12 +346,12 @@ Possible exchange:
 ## Beat 18: The meeting ends
 
 - Fuji never comes up during the meeting. Lance does not remember or investigate him there.
-- After the crisis overview, negotiations continue for several days through maps, quotas, escort rotations, jurisdiction, costs, and repeated revisions to the accords. The final session adjourns normally in the afternoon.
+- After the crisis overview, negotiations continue for several days through maps, quotas, escort rotations, jurisdiction, costs, and repeated revisions to the accords. The final session adjourns normally in the afternoon after all four Leagues seal the treaty. The alliance and International Police legally exist, although implementation remains incomplete.
 - Lance mounts Dragonite for his scheduled return to Indigo rather than departing in response to Fuji.
 
 ## Beat 19: The return flight
 
-- Dragonite carries Lance from Sinnoh toward Indigo. The crossing takes most of the day, and the sun is setting by the time Kanto appears beneath them.
+- Dragonite carries Lance from Sinnoh toward Indigo. The crossing takes a few hours, and the sun is fading by the time Kanto appears beneath them.
 - Their normal route carries them over Viridian; Lance is not intentionally travelling to the holding facility.
 
 ## Beat 20: The explosion
@@ -371,7 +373,7 @@ Possible exchange:
 
 ## Beat 21: Fuji in custody
 
-- Mark the temporal shift clearly as a short while earlier on the same evening. The cell is dark except for long bars of setting sunlight entering through a narrow high window; iron bars rattle before the lock turns and Giovanni appears.
+- Mark the temporal shift clearly as several hours earlier on the same evening. The cell is dark except for long bars of late-afternoon sunlight entering through a narrow high window; iron bars rattle before the lock turns and Giovanni appears.
 - Fuji is injured, exhausted, and confined after the Pallet battle.
 - He has been publicly identified and processed as Dr. Fuji.
 - The cell is ordinary and institutional, not a secret Rocket dungeon.
