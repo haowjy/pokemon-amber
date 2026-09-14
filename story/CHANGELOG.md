@@ -4,6 +4,13 @@ Substantive revisions to published chapter prose. Contains spoilers. Newest chan
 
 Omit frontmatter-only changes, notes-only updates, and routine typo or formatting fixes unless they alter meaning or continuity.
 
+## 2026-09-14
+
+- **Chapter 9:** Mary releases Amber's hand to pursue the thief and tells her to stay. Amber follows with Ditto's Pokeball in hand; Ditto remains inside rather than attempting an attack.
+- **Chapters 9–10:** Standardized the neighborhood name to Game Corner.
+- **Chapter 9:** Removed the coffee subplot and caffeine-driven reactions during the Game Corner investigation and chase.
+- **Chapters 8–9:** Removed Ditto's imitation of the Oddish thief and the resulting photographs. Amber's eyewitness memory now gives Mary a reason to bring her on the investigation, including into the Game Corner.
+
 ## 2026-08-14
 
 - **Chapters 2, 4, 5, 7, and 9:** Normalized published Pokédollar amounts to the settled USD-like purchasing-power scale, removing in-prose dollar conversion and preserving the cost pressure of travel, Gym access, vitamins, and the Hypno bounty.

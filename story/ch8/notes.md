@@ -9,6 +9,12 @@ updated: 2026-05-18
 
 - Story: ./chapter8.md
 
+## Identification Rationale
+
+- The security footage corroborates the theft but cannot show the culprit's face clearly enough to identify her.
+- Amber is the only person in the investigating party who saw the culprit's face during their earlier collision. Her eyewitness recognition, not a Ditto imitation or photograph, is why Mary needs to take her on the inquiry.
+- This is an investigation constraint, not a biological or transformational limit on Ditto.
+
 ## Character References
 
 ### Kayla

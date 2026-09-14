@@ -228,7 +228,7 @@ Mary began packing up the supplies, a small smile playing at her lips. I noticed
 
 \\\[^.^\]/
 
-The evening train rattled through Celadon's entertainment district, neon signs flashing past the windows.
+The evening train rattled through the Game Corner, neon signs flashing past the windows.
 
 I let myself smile, the handful of coins from Mary-mostly spent on another day pass-warm in my palm. First quest reward earned in this world. First real adventure too and mostly finished with Celadon's main places of interest.
 

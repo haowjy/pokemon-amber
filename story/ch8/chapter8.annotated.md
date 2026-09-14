@@ -8,15 +8,15 @@ updated: 2026-07-17
 
 # \[Chapter 8\] Start of an Unpaid Side Quest
 
-"What's your name?" Mary---who'd introduced herself during our tense walk back to the gym with all the warmth of a Glaceon-asked.
+"What's your name?" Mary---who'd introduced herself during our tense walk back to the gym with all the warmth of a Glaceon---asked.
 
-The question hit harder than it should have. In my past life, I would've answered without hesitation. Now? Now I was technically inhabiting a clone of Amber Fuji, but admitting that here would raise more questions than I could handle.
+The question hit harder than it should have. Technically, I still identified as my old college self, but I was technically inhabiting a clone of Amber Fuji. Although admitting all of that detail would definitely be hard to explain.
 
 "Amber," I said finally, the name feeling both true and false on my tongue. Mary's eyes narrowed slightly at my hesitation, but she didn't press further.
 
 Instead, she led me through the sprawling gym complex, revealing a whole new dimension of Pokemon training I'd never imagined. Indoor grass field battling rings stretched out in vast chambers, their floors marked with the scars of countless showdowns. In one room, a Victreebel demonstrated some kind of high-speed vine technique to a group of students. In another, a trainer and her Tangrowth were locked in an intense sparring match that involved more strategic retreating than actual attacking. Even after watching battles in the park, each new sight showed me just how much more there was to learn about real Pokemon training.
 
-But she wasn't here to give me a tour of the gym. She steered us away from its grand training halls and into its darker arteries-maintenance corridors and back passages where the polished presentation gave way to practical necessity. We passed a break room where a Bellsprout was delicately operating a coffee maker, then a storage area that smelled strongly of fertilizer. Finally, she stopped at a door that looked like it had started life as a supply closet before getting promoted beyond its qualifications. A small plaque read "Security" in letters that seemed almost embarrassed about their placement.
+But she wasn't here to give me a tour of the gym. She steered us away from its grand training halls and into its darker arteries---maintenance corridors and back passages where the polished presentation gave way. We passed a break room where a Bellsprout was delicately operating a coffee maker, then a storage area that smelled strongly of fertilizer. Finally, she stopped at a door that looked like it had started life as a supply closet. A small plaque read "Security" in letters that seemed almost embarrassed about their placement.
 
 She ushered me into what could barely be called a security office-more like a converted storage room. A few screens showed key areas of the gym complex, including the greenhouse where I'd been caught earlier. A Tangela stood at the main console, its vines deftly tapping buttons and swiping through different camera feeds. In the corner, a drowsy-looking girl with messy brown hair jolted upright at our entrance, her glasses slightly askew as she hastily smoothed her rumpled uniform.
 
@@ -34,7 +34,7 @@ The grainy feed rolled on, documenting my inglorious exit exactly as it had happ
 
 On screen was a girl who was much older than me practically sprinting through the greenhouse being chased by what looked to be half its inhabitants. A Vileplume skittered after her with surprising anger, followed by some flying Combee and a lone Parasect. A pair of Gloom brought up the rear, their movements suggesting they were none too pleased about this disturbance.
 
-Even through the grainy footage, her desperation was clear-one hand clutching something to her chest, the other pressed against her face as she stumbled past the camera, randomly pulling her head back and forth.
+Even through the grainy footage, her desperation was clear-one hand clutching something to her chest, the other pressed against her face as she stumbled past the camera, randomly pulling her head back and forth. Between her hand and the blur, I couldn't make out her features.
 
 "That's not me," I said quickly, still trying to process the sheer absurdity of what they were accusing me of.
 
@@ -44,7 +44,7 @@ Oh. *Oh*. My brain finally caught up to what Mary was implying. From their persp
 
 For a moment, all I could do was stare at her, my mouth slightly agape. The security room suddenly felt even smaller, the wall of screens casting an accusatory glow. Everyone watched me with varying degrees of suspicion. Only the Tangela seemed indifferent to the drama, its vines continuing their steady rhythm across the control panel like a bored stenographer taking notes.
 
-"I..." I started, then stopped, unsure of what to say next. 
+"I..." I started, then stopped, unsure of what to say next.
 
 I stared at the screen instead of trying to defend myself, watching the girl's frantic dance with her pursuers. Something about her...
 
@@ -52,68 +52,50 @@ I stared at the screen instead of trying to defend myself, watching the girl's f
 
 Everyone in the tiny room leaned forward slightly, even the diligent Tangela.
 
-"Uh, no. I just..." I watched the girl on screen jerk her head back in another violent almost sneeze. "She bumped into me while she was, you know, stealing the Oddish. I even saw her drop the Oddish."
+"Uh, no. I just..." I watched the girl on screen jerk her head back in another violent almost sneeze. "She bumped into me while she was, you know, stealing the Oddish."
 
 Mary's shoulders slumped, disappointment evident. Then she squared them again, her expression hardening into something more official. "If you don't tell us who she is, you'll be in very big trouble."
 
 I waved my hands frantically. "No, no. I really don't know her. It's all just a coincidence."
 
-We stared at each other for what felt like hours, though the timestamps clicking by on the screens said it was closer to ten seconds. 
+We stared at each other for what felt like hours, though the timestamps clicking by on the screens said it was closer to ten seconds.
 
-I glanced at my bag, where Ditto's Pokeball rested inside. An idea started forming-the kind that either solved everything or made it monumentally worse. But hey, when you're already suspected of being an accomplice to Pokemon theft, how much worse could it get?
+"I don't know her name," I said. "But I saw her face when she ran into me. I'd know her if I saw her again."
 
-"Um," I started, fingers trailing toward my bag. "I might be able to help with identifying her. Since you've already seen what my Ditto can do..." I looked at Mary hopefully. "Would it be okay if I used it? It's really good with faces."
+Mary glanced at the screen, then back at me. "You're sure?"
 
-Mary's eyebrows rose slightly, but she nodded. "Go ahead."
+I nodded.
 
-I pulled out Ditto's ball, the weight of everyone's attention making my hands clumsy. The security room felt even smaller now, crowded with anticipation. "Ditto, could you transform into the girl from last night? The one who ran into us yesterday?"
+<!--
+Amber offers eyewitness recognition, not a transferable image. The obscured footage leaves Mary needing her in Chapter 9; this does not establish a new limit on Ditto's abilities.
+-->
 
-Ditto emerged with its usual cheerful burble and hung there, its blob-like form wobbling slightly. Kayla took a step back, then adjusted her glasses and did a double-take.
+The door opened, and Mary and Kayla straightened in their chairs.
 
-"A Grimer?"
-
-"No, its..." I trailed off as I waited for Ditto to transform.
-
-"Oh!" Kayla exclaimed, "it's that transforming Pokemon! You're that girl that Mary caught first!"
-
-I resisted the urge to point out that this revelation probably shouldn't have been surprising, given that we'd just spent ten minutes watching me bumble around their greenhouse in glorious security-cam-o-vision.
-
-Mary leaned forward, professional curiosity temporarily overtaking her suspicion. "It can transform into humans too? Can it speak?"
-
-"Ditto?" Ditto answered in a voice that sounded like someone had run their voice through a helium filter.
-
-"Haha, guess not," Marry chuckled.
-
-"We should get a picture of this," Kayla said, watching Ditto maintain its eerily accurate physical imitation. "Though..." She glanced around the security room. "We don't really have a camera here."
-
-"The public relations office might have a camera," Mary offered, already rising from her chair. 
-
-Before she could take more than a step though, the door opened, and everyone in the room straightened like we'd all been hit with Stun Store. Even Ditto, still wearing the thief's face, managed to look more formal somehow \- though the effect was somewhat ruined by its attempted bow nearly sending it stumbling into a monitor.
-
-A girl stood in the doorway, and my brain took several seconds to process what I was seeing. Not because she was particularly imposing, but because seeing Erika-the Erika-in person was like watching a sprite step out of my old Game Boy and decide to join reality. Years of pixel sprites and anime frames hadn't prepared me for how she actually existed in three-dimensional space, how her kimono created patterns that would have taken weeks to animate.
+A girl stood in the doorway, and my brain took several seconds to process what I was seeing. Not because she was particularly imposing, but because I recognized her despite not ever meeting her before.
 
 She wore a traditional kimono in soft yellow with delicate blue Pokeball patterns, the fabric somehow pristine despite the stuffy security office that had turned the rest of us into disheveled messes. Her dark hair was held back with simple wooden ornaments carved with flower motifs, and even in this glorified closet of a security room, she carried herself with the quiet dignity of someone more accustomed to tending her garden than dealing with petty thieves. The space was barely big enough for the security desk and chairs, forcing everyone to stand awkwardly close together, yet she managed to make even this cramped office feel like an extension of a grand greenhouse.
 
-Mary and Kayla bowed respectfully. I followed a beat late, managing to crack my head against the back of my chair hard enough that the sound could have woken a Snorlax. So much for dignity.
+"Ah, Erika!" Mary and Kayla bowed respectfully.
 
-Erika laughed-not the polite gym leader laugh I'd imagined, but something warmer and more genuine. She crossed the room and actually patted my head, which was surreal enough to momentarily short-circuit my brain. "Oh please, none of that," she said, waving off the formality. Her eyes crinkled with genuine amusement as she looked down at me.
+I followed a beat late, managing to crack my head against the back of my chair hard enough that the sound could have woken a Snorlax. So much for dignity.
 
-I tried not to stare too obviously as she turned her attention to Mary's report, but it was hard not to notice the faint herbal scent that followed her movements, the soft rustle of her kimono, or the quiet authority that made even Ditto straighten its borrowed spine.
+Erika laughed warmly. She crossed the room and actually patted my head, which was surreal enough to momentarily short-circuit my brain. "Oh please, none of that," she said, waving off the formality. Her eyes crinkled with genuine amusement as she looked down at me.
 
-The formality melted away surprisingly fast after that. Here in the cramped security office, with no crowds or ceremonies, Erika felt less like an imposing Gym Leader and more like someone's capable older sister who just happened to run one of Kanto's most prestigious facilities. She perched on the edge of the desk while Mary walked her through the security footage, occasionally glancing my way with a smile.
+I tried not to stare too obviously as she turned her attention to Mary's report, but it was hard not to notice the faint herbal scent that followed her movements, the soft rustle of her kimono, or how carefully Mary listened whenever she spoke.
 
-"So this is our thief?" Erika asked, studying Ditto's transformation with the kind of analytical interest I usually reserved for shiny Pokemon encounters.
+"So this is our thief?" Erika asked, studying the girl on the monitor.
 
-"Yes, though we still need to get a photo to document it," Mary explained. "I was just going---"
+"Yes. Amber saw her outside the greenhouse," Mary explained. "She says she can identify the thief."
 
-"Before you fetch the camera," Erika interrupted, her casual tone suddenly sharpening, "I should share a theory I was just thinking of. The spores from Oddish are known to be a key ingredient in HP UP formula. Someone might have stolen it to try and reverse engineer our recipe."
+"Then we need to know where to look." Erika's casual tone sharpened. "The spores from Oddish are known to be a key ingredient in HP UP formula. Someone might have stolen it to try and reverse engineer our recipe."
 
-Kayla frowned, pushing her glasses up in what I was starting to recognize as her 'actually...' gesture. "But... that's not the Pokemon we use for HP UP production anymore. Oddish isn't even---"
+Kayla frowned, pushing her glasses up. "But... that's not the Pokemon we use for HP UP production anymore. That Oddish can't even---"
 
 She caught herself mid-sentence, face flushing as she registered what she'd nearly revealed. Erika's smile remained perfectly in place, but her eyes had gone sharp as razors as she glanced briefly at me. The silence stretched just a beat too long before she spoke.
 
-"I know," Erika nodded, and I had the distinct feeling I was watching a conversation happening on two different levels. "Which suggests either they got the wrong Oddish, or they didn't know and grabbed any Oddish they could find." She paused, tapping one finger against the desk. "We should check the item shops, see if anyone's selling unauthorized HP UP-or better yet, have the shops keep us updated on any information about new HP UP formulas." Her eyes gleamed with sudden purpose. "Mary, could you grab a camera from the PR office? We'll need to document everything properly. This could be the opportunity I need to advance my claim."
+"I know," Erika nodded, and I had the distinct feeling I was watching a conversation happening on two different levels. "Which suggests either they got the wrong Oddish, or they didn't know and grabbed any Oddish they could find." She paused, tapping one finger against the desk. "We should check the item shops, see if anyone's selling unauthorized HP UP-or better yet, have the shops keep us updated on any information about new HP UP formulas." Her eyes gleamed with sudden purpose. "Mary, start with the department store. This could be the opportunity I need to advance my claim of the gym."
 
-As Mary hurried off, I watched Ditto maintain its transformation, wondering if we were really about to crack open some corporate espionage plot.
+I looked from Erika to Mary, wondering if we were really about to crack open some corporate espionage plot.
 
-Mary quickly returned with the camera, and we officially began planning our investigation of Celadon's Great Oddish Heist.
+Mary pulled a chair up to the desk, and we officially began planning our investigation of Celadon's Great Oddish Heist.
