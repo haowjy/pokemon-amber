@@ -20,6 +20,7 @@ Settling into a Celadon apartment, Amber notes real-time differences in televise
 
 ## What happens:
 ### 1. New Body, Evolving Bond:
+*   After days of experience, Amber concludes this is not a dream. Fuji arranges their move, and they travel to Celadon on the Pidgeot Express.
 *   Amber struggles with her new child body and Dr. Fuji's insistence on dresses, while Ditto slowly transitions from guardian to playful companion.
 *   Ditto comically misunderstands Amber's instructions, attempting to transform into a hybrid of Amber and a cartoon trainer with two-dimensional legs.
 

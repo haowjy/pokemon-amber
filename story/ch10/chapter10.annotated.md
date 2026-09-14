@@ -8,7 +8,7 @@ updated: 2026-07-28
 
 # \[Chapter 10\] Side Quest: Complete!
 
-The girl on the ground continued to sob, each heaving breath sending fresh waves of spores spinning into the afternoon light. My nose itched in sympathy. The caffeine buzz that had powered my chase was starting to crash, leaving me with shaky legs and the dawning realization that we'd run much deeper into the alternative business district than I'd thought. The neon signs above buzzed more intermittently here, their promises of miracle cures feeling more desperate than enticing.
+The girl on the ground continued to sob, each heaving breath sending fresh waves of spores spinning into the afternoon light. My nose itched in sympathy. We'd run much deeper into the Game Corner than I'd thought. The neon signs above buzzed more intermittently here, their promises of miracle cures feeling more desperate than enticing.
 
 "Your brother?" Mary's voice remained steady, though her grip on my shoulder tightened slightly. "Tell us about him."
 
@@ -42,7 +42,7 @@ The stairwell smell hit me like a physical force-a mix of mildew and something c
 
 I found myself counting steps, mapping out escape routes like I used to plan dungeon crawls. Three flights up, two back down, factor in child-sized legs and likely encounter zones... The gaming habits were probably ridiculous, but they were keeping the panic at bay. My thumb hadn't left Ditto's Pokeball button since we'd entered the building, and right now I'd take whatever coping mechanisms I could get.
 
-Kaede fumbled with her keys at a door that had definitely seen better decades, probably back when Kanto was still considering color TV. Each clank of metal against metal echoed through the hallway like a countdown, making my fingers twitch against Ditto's Pokeball. The caffeine crash was hitting hard now, leaving me with the kind of headache that made me wonder if those "MIRACLE CURES!" shops from before could help.
+Kaede fumbled with her keys at a door that had definitely seen better decades, probably back when Kanto was still considering color TV. Each clank of metal against metal echoed through the hallway like a countdown, making my fingers twitch against Ditto's Pokeball.
 
 The lock finally surrendered with a sound like grinding teeth, and the door creaked open to reveal... well, calling it an apartment felt generous. It was more like someone had taken the concept of "indoor space" and compressed it until only the bare essentials remained. A mattress occupied one corner, while a hot plate balanced precariously on a stack of milk crates served as the kitchen. The window-singular-was partially covered by cardboard, creating strips of late afternoon light that cut through the air like search beams.
 
@@ -62,15 +62,15 @@ Kaede's shoulders slumped in helpless defeat, her previous desperation giving wa
 
 "Od-Oddish!", Oddish, however, shook its head, leaves swaying with determined refusal. It pointed one stubby foot at Hiro, then resumed its gentle spore release.
 
-I watched Mary's face cycle through frustration, resignation, and finally determination. "Right," she said, pushing herself up. "Let's go get Erika. She'll know what to do." 
+I watched Mary's face cycle through frustration, resignation, and finally determination. "Right," she said, pushing herself up. "Let's go get Erika. She'll know what to do."
 
 She then turned to Kaede. "Stay here. Keep him comfortable. We'll be back as quick as we can."
 
-We hurried down the creaking stairs, my shorter legs working double-time to keep up with Mary's pace. The caffeine crash was hitting hard now, but I pushed forward to keep my eyes open.
+We hurried down the creaking stairs, my shorter legs working double-time to keep up with Mary's pace.
 
 \-\[v.v\]-
 
-The next hour passed in fragments. I vaguely remember Mary paying for train tickets, and then suddenly we were moving, the gentle sway of the carriage finally defeating my caffeine-fueled stubbornness. My head drooped against the window, and for a precious few minutes, the world faded away entirely.
+The next hour passed in fragments. I vaguely remember Mary paying for train tickets, and then suddenly we were moving, the gentle sway of the carriage lulling me to sleep. My head drooped against the window, and for a precious few minutes, the world faded away entirely.
 
 I woke to Mary gently shaking my shoulder, the afternoon sun casting long shadows through the train windows. We hurried through Celadon's streets, where the day's business was still in full swing but had taken on that particular energy that comes when people start thinking about closing time. My shorter legs worked double-time to keep up with Mary's determined pace.
 
@@ -92,7 +92,7 @@ Erika spared us a glance and a nod before quickly refocusing on her battle.
 
 The grace of the initial exchanges suddenly shattered as the challenger called out: "Golbat, climb and dive! Wing Attack!"
 
-With a piercing "SCREEE!", Golbat shot upward, nearly brushing the gym's high ceiling. 
+With a piercing "SCREEE!", Golbat shot upward, nearly brushing the gym's high ceiling.
 
 Erika's eyes narrowed. "Stun Spore, wide dispersion!" she commanded. Weepinbell's bell-shaped body pulsed, releasing a glittering cloud that began spreading through the air.
 
@@ -108,7 +108,7 @@ Weepinbell let out a pained "BEEEELL!" as it tumbled backward. Though it righted
 
 Erika didn't flinch. She watched, perfectly still, as the bat Pokemon banked into position. Three heartbeats passed. Then-
 
-"Wrap, then slam!" 
+"Wrap, then slam!"
 
 Weepinbell's vines shot out like striking Ekans, snaring Golbat mid-dive. The poison-type didn't resist \- instead, it used the bat's own momentum, redirecting that speed into a whiplashing arc that ended with a thunderous crash against the arena floor. Golbat's pained "SCREE!" echoed off the glass walls.
 

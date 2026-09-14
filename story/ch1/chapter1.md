@@ -12,7 +12,7 @@ The world beyond my container was a blur of orange-tinted shadows. For what seem
 
 Sound reached me in waves, distorted and strange. Everything felt muffled except for the deep vibrations that traveled through the fluid itself, pressing against skin that felt too new, too small, like clothes that had shrunk in the wash.
 
-I couldn't remember how long I'd been here. In my old world, I'd been a college student. My last memory was leaving campus to chase a Shadow Mewtwo raid in Pokemon Go, the timer ticking down on my phone as I stepped into the street. A horn. Headlights. A truck. Then nothing.
+I couldn't remember how long I'd been here. In my old world, I'd been a simple college student. My last memory was leaving campus to chase after a Shadow Mewtwo raid in Pokemon Go, the timer ticking down on my phone as I stepped into the street. Then a horn. Headlights. A truck. Could it be...?
 
 Was I dead? Was I alive? I didn't know. How did I get here?
 
@@ -26,7 +26,7 @@ A pair of arms caught me while I fell---arms that seemed impossibly large. They 
 
 He pulled back just enough to shrug off his lab coat with shaking hands, wrapping it around my shoulders and pulling me close with gentle urgency. The fabric draped over me like a tent, still warm from his body and carrying a mix of scents---antiseptic, coffee, and something earthy that spoke of long hours.
 
-"Who---?" I started to say, but stopped to clear my throat. This voice... wasn't mine. It felt too young. Even my coughs were weirdly super high-pitched... almost like a little girl's.
+"Who---?" I started to say, but stopped to clear my throat. This voice... wasn't mine. It was too young. Even my coughs were weirdly super high-pitched... almost like that of a little girl's.
 
 "Amber!" the giant middle-aged man whispered through his choking sobs. He eased me back so we could really see each other.
 
@@ -34,7 +34,7 @@ His eyes were red and swollen; he looked at me with a mix of disbelief and joy, 
 
 Suddenly, in my peripheral vision, something caught my eye.
 
-A tail. Purple and massive, sweeping through broken equipment with casual, elegant destruction. Trails of violet energy hung in the air behind it, making the world look unstable and unfinished. 
+A tail. Purple and massive, sweeping through broken equipment with casual, elegant destruction. Trails of violet energy hung in the air behind it, making the world look unstable and unfinished.
 
 And there, suspended in the chaos of its own liberation, was a goddamn Mewtwo. Not the 8-bit sprite or 3D render, but a terrifyingly real thing. Its form rippled with power that hadn't quite settled into being, each movement carrying the weight of something that existed outside the natural order.
 
@@ -46,7 +46,7 @@ Everything suddenly clicked into place like a puzzle I hadn't known I was solvin
 
 Mewtwo, laboratory, and... I stared at the disheveled scientist in front of me. Was this perhaps... "Dr. Fuji?"
 
-It felt strange to be looked at with such intensity by a man I'd only ever seen animated or an 8-bit pixel sprite.
+It felt strange to be looked at with such intensity by a real man I'd only ever seen animated.
 
 The middle-aged man I assumed to be Dr. Fuji nodded and wiped his tears, though he kept staring at me with a hint of disbelief. "Yes... Amber... you're alive."
 
@@ -80,7 +80,7 @@ Around the laboratory, reality had stopped trying to make sense. Alarms wailed i
 
 A pained grunt drew my attention back to Dr. Fuji. He was hunched forward now, one hand pressed against the wall for support as he groaned in pain.
 
-"A-Are you alright?" The question slipped out in my new voice.
+"A-Are you alright?"
 
 Dr. Fuji grunted with a pained smile. "I'm fine," he said, before he quickly grabbed my arm and pulled me along.
 

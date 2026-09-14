@@ -6,6 +6,9 @@ Omit frontmatter-only changes, notes-only updates, and routine typo or formattin
 
 ## 2026-09-14
 
+- **Chapter 10:** Removed the remaining caffeine buzz/crash references and their associated symptoms; Amber still dozes on the train without a stimulant explanation.
+- **Chapters 1–3:** Revised Amber's early reactions, retitled Chapter 2 "A Dream," and connected its questioning ending to Chapter 3's rejection of the dream explanation.
+- **Chapters 4–7:** Revised Amber's battle reasoning and early city interactions, made the failed-Mew-clone explanation explicitly her theory, and lowered the Gym spectator pass to ₽10.
 - **Chapter 9:** Mary releases Amber's hand to pursue the thief and tells her to stay. Amber follows with Ditto's Pokeball in hand; Ditto remains inside rather than attempting an attack.
 - **Chapters 9–10:** Standardized the neighborhood name to Game Corner.
 - **Chapter 9:** Removed the coffee subplot and caffeine-driven reactions during the Game Corner investigation and chase.

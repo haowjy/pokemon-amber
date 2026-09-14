@@ -8,17 +8,23 @@ updated: 2026-08-08
 
 # \[Chapter 3\] Into the World of (Pocket) Monsters
 
-A few days ago, the Pidgeot Express set us down at Celadon's airfield. By breakfast I was in a small rental that smelled like old tea and new dust, and Dr. Fuji was already back to barked instructions and dress codes.
+It wasn't a dream.
 
-"What do you mean you don't want to wear a dress? You love dresses," Dr. Fuji had said three mornings ago, his voice gentle but brooking no argument as he'd laid out the powder-blue monstrosity. The words hung between us like a wall, trapping the truth behind teeth that didn't feel like mine. How could I explain that his daughter's preferences hadn't transferred along with her DNA?
+That was the conclusion I made after several days and nights.
 
-Now, I stood before a mirror, tugging uselessly at another one of Dr. Fuji's stupid doll dresses. I glanced up at the mirror, seeing a deep frown etched on the girl's face. Her mint-green hair caught light at impossible angles and her dark green eyes held a wariness that didn't belong on a child's face. Five days in this new world, and I still couldn't reconcile the image before me with my sense of self.
+The next few days weren't all that eventful. Dr. Fuji basically just told me to stay in the room while he arranged some stuff, and after another few days, we took what was called the "Pidgeot Express" to fly to Celadon.
+
+Today, I was in a small rental apartment that smelled like old tea and new dust and Dr. Fuji finally paid me some attention.
+
+"What do you mean you don't want to wear this? You love your dresses," Dr. Fuji asked as he'd laid out the powder-blue monstrosity of a sundress. He had a slightly crazed look in his eyes that I didn't want to argue with at the time.
+
+Now, I stood before a mirror, tugging uselessly at the stupid doll-like dress. I glanced up at the mirror, seeing a deep frown etched on the girl's face. Her mint-green hair caught light at impossible angles and her dark green eyes held a wariness that didn't belong on a child's face. Five days in this new world, and I still couldn't reconcile the image before me with my sense of self.
 
 I caught Ditto watching me from its perch on the dresser, its amorphous form somehow managing to convey both attention and amusement. "You try wearing this," I muttered, tugging at the dress's hem for the hundredth time. The words had barely left my mouth when Ditto's body rippled with interest. It oozed down from the dresser like spilled honey, its mass pooling briefly on the floor before surging upward.
 
 The transformation caught me off-guard-pink substance flowing, reshaping, solidifying into... into...
 
-"Oh," I breathed, turning to face my duplicate. Ditto's version of me stood with perfect posture, making my own awkward stance feel even more obvious. Every detail was uncomfortably accurate, from the mint-green hair color to the power-blue dress.
+"Oh, ha!" I chuckled, turning to face my duplicate. Ditto's version of me stood with perfect posture, making my own awkward stance feel even more obvious. Every detail was uncomfortably accurate, from the mint-green hair color to the powder-blue dress.
 
 "You know," I said, glancing between us, "If we're going to be stuck here, you could at least transform into me with something more practical. Even the girls in these cartoons that Dr. Fuji left for us are wearing pants!"
 
@@ -30,13 +36,13 @@ Ditto-me tilted its head, brow furrowing in concentration. For a moment, nothing
 
 "That's not quite what I..." I started, but the words died in my throat as Ditto tried to take a step. The cartoonish legs, utterly unsuited for three-dimensional movement, immediately gave out. My doppelganger collapsed in a heap, the realistic upper half merging with the animated lower half into a puddle of confused purple goo.
 
-A laugh escaped me as I watched the purple mass reform into its natural purple blob shape with a (\~\_\~) face, feeling an unexpected wave of affection for my shapeshifting companion. 
+A laugh escaped me as I watched the purple mass reform into its natural purple blob shape with a (\~\_\~) face, feeling an unexpected wave of affection for my shapeshifting companion.
 
 I couldn't help but marvel at the difference between its current actions and just a few days ago.
 
 Back then, it had been all business---maintaining a careful distance, watching me from corners with an unreadable expression. But yesterday, I'd caught it mimicking my movements in the mirror when it thought I wasn't looking, practicing expressions with an almost childlike curiosity before morphing back to neutrality the moment our eyes met. And now here it was, sprawled dramatically on my floor after its enthusiastically misguided attempt at cartoon fashion.
 
-I shook my head with a smile underneath as I focused on my only other source of entertainment. 
+I shook my head with a smile underneath as I focused on my only other source of entertainment.
 
 I flopped onto the worn couch, its familiar softness reminding me of lazy weekend afternoons from another life.
 
@@ -66,23 +72,19 @@ Ditto made a sound that might have been appreciation, transforming briefly into 
 
 The broadcast cut to what passed for a post-match analysis---two men wedged behind a desk overlooking the battlefield wearing huge headsets and speaking into a massive black speaker like an old sports commentary broadcast.
 
-I found myself nodding along to their commentary, memories of countless battle showdown simulators suddenly cast in a new light. 
+I found myself nodding along to their commentary, memories of countless battle showdown simulators suddenly cast in a new light.
 
-I'd never been a sports person in my old life-couldn't have cared less about football stats or basketball plays. But this was different. This was Pokemon battling---real Pokemon battling, not the simplified turn-based system I'd known from games. 
+I'd never been a sports person in my old life-couldn't have cared less about football stats or basketball plays. But this was different. This was Pokemon battling---real Pokemon battling, not the simplified turn-based system I'd known from games.
 
 My legs started swinging, the toes of my feet barely scraping the ground, heels drumming a restless beat against the couch base. The worn fabric that had felt so comfortably familiar minutes ago now pressed awkwardly against the backs of my knees, a constant reminder that this body was sized all wrong for casual lounging.
 
-I tried tucking my legs under me instead, but that just made the couch feel deeper, like sitting in an oversized dollhouse. Even as my eyes stayed locked on the battle channel, this body hummed with a restless energy I'd never known in my previous life.
-
-In my old life, I would have channeled this into another Nuzlocke run, grinding levels for hours. But here... here I had no console. No game.
+I tried tucking my legs under me instead, but that just made the couch feel deeper, like sitting in an oversized dollhouse. Even as my eyes stayed locked on the battle channel, this body hummed with a restless child-like energy to do something.
 
 My eyes darted around the room, landing on the purple blob dozing near the TV.
 
-I had a Ditto.
+I did have a Ditto...
 
-A jolt, more powerful than the restlessness, shot through me. I wasn't powerless. I wasn't just waiting. I had a Pokemon. My first Pokemon. And what does a trainer do with their Pokemon?
-
-They train.
+A jolt, more powerful than the restlessness, shot through me. I was in the world of Pokemon, right? And I had a Pokemon right there. And what does a trainer do with their Pokemon?
 
 "Ditto!" I whisper-shouted, sliding off the couch. "Up and at 'em. Training session starts now."
 
@@ -92,7 +94,7 @@ Ditto oozed into a more alert posture, its dot-eyes blinking. (o.o)
 
 Ditto wobbled, then flowed into a near-perfect replica of the cheap lampshade on the end table.
 
-"Good. Now, hold still. Dodge this!" I tossed the sock gently. The Ditto-lamp didn't move, and the sock bounced off its side with a soft *thump*. 
+"Good. Now, hold still. Dodge this!" I tossed the sock gently. The Ditto-lamp didn't move, and the sock bounced off its side with a soft *thump*.
 
 "No, no! You have to *dodge*!" I explained, getting more animated. I crouched down, mimicking a boxer's weave. "See? Move out of the way! Like the Sandslash on TV!"
 
@@ -106,7 +108,7 @@ Ditto's blobby form tilted, its simple face scrunching into an expression of pur
 
 Of course. Just Transform. The ultimate one-trick pony. A wry smile touched my lips.
 
-"Right, right. My mistake," I said, already reformulating the plan. "If you can't learn Tackle, you'll just have to become a Tackler. Let's start with something small! A Pidgey!"
+"Right, right. My mistake," I said, already reformulating the plan. "If you can't learn Tackle, you'll just have to become a Tackler. Let's start with something small like a bird! How about a Pidgey!"
 
 Ditto's form tilted. It seemed to ponder the word for a moment, its surface bubbling thoughtfully. Then, with a surge of confidence, it rippled and reshaped itself. It wasn't a Pidgey. It was a plump, vaguely bird-like creature with bright blue feathers, a comical yellow crest, and wings far too stubby for flight. It chirped proudly, puffing out its chest.
 
@@ -168,7 +170,7 @@ I found 2 of the major landmarks of Celadon fairly easily.
 
 The Gym was clearly marked and not that far from here. The Game Corner on the other hand looked to be at least 20 blocks away.
 
-I had to step back and squint my eyes to find the Department Store and Game Corner somewhere further north. 
+I had to step back and squint my eyes to find the Department Store and Game Corner somewhere further north.
 
 I glanced back at the toll booths and sighed---should have thought about the money problem as well. I definitely needed money to get there.
 

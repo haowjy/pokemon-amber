@@ -21,7 +21,7 @@ Priced out of gym fees, Amber wanders the greenhouse, befriends a Gloom, is caug
 ## What happens:
 ### 1. Gym Challenge and Financial Realities:
 *   Amber and Ditto arrive at the modern Celadon Gym, noting its pristine gardens and encountering an unsettling elderly man.
-*   Amber learns she needs a Trainer ID and parental consent to challenge the gym, and lacks the funds for other passes, leaving her disheartened.
+*   Amber learns she needs a Trainer ID and parental consent to challenge the gym. Even the ₽10 spectator pass is beyond her funds, leaving her disheartened.
 
 ### 2. Greenhouse Discovery and Ditto's Playfulness:
 *   Amber wanders into a less-maintained greenhouse, discovering a Gloom.

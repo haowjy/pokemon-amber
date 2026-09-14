@@ -24,7 +24,7 @@ The automatic doors whispered open with blessed modernity, trading filtered sunl
 
 ```
 
-League Spectator Pass: ₽100
+League Spectator Pass: ₽10
 
 Training Facilities Day Pass: ₽40
 
@@ -54,7 +54,7 @@ I drifted away from the gym's entrance, deliberately choosing a direction that w
 
 "I don't suppose you know any get-rich-quick schemes for the Pokemon world?" I murmured to Ditto. The living scarf offered no advice beyond a sympathetic tightening. "Yeah, didn't think so."
 
-My path meandered away from the gym and its pristine gardens back to the regular grass and dirt training fields where battles had wound down for the day, then back to other sections of garden, though not as maintained as the ones near the gym. 
+My path meandered away from the gym and its pristine gardens back to the regular grass and dirt training fields where battles had wound down for the day, then back to other sections of garden, though not as maintained as the ones near the gym.
 
 Out of the corner of my eye, I spotted a neat little greenhouse, its glass panels catching the sunset in ways that made it look almost molten. Azaleas clustered around its base, their fading blooms still adding splashes of color to the approaching evening. I didn't know where I was, but something about its warm glow drew me closer.
 
@@ -68,9 +68,9 @@ A Gloom waddled out from behind a large pot, regarding us with an expression tha
 
 Except no battle music began. No options appeared. The Gloom just... blinked at us, then yawned, displaying an impressive set of teeth that the games had definitely never rendered in such detail.
 
-"Um, hi?" I offered, my voice coming out in Amber's higher pitch. The word hung in the humid air between us like another drop of condensation.
+"Um, hi?"
 
-The Gloom considered this for a moment, then made a sound somewhere between a sigh and a gurgle. It was probably the most accurate representation of its name I'd ever heard. Before I could decide if this was a good sign or not, I felt Ditto begin to slide down my arm.
+The Gloom considered us for a moment, then made a sad sound somewhere between a sigh and a gurgle. It was probably the most accurate representation of its name I'd ever heard. Before I could decide if this was a good sign or not, I felt Ditto begin to slide down my arm.
 
 "Wait, what are you---" I started, but Ditto had already pooled on the ground and was beginning to reshape itself. I watched, fascinated despite my nerves, as it quickly twisted and grew until a second Gloom stood before me, matching the first down to the slightly droopy flower on its head.
 
@@ -98,7 +98,7 @@ The gym trainer's eyes widened, all pretense of authority momentarily forgotten.
 
 "There are signs everywhere saying 'Do Not Enter' and 'Staff Only,'" she said, gesturing vaguely behind her, though her stern tone had lost its edge. Then her eyes tracked down to my height, really seeing me for the first time, and something in her expression softened.
 
-"I'm sorry," I managed, the words coming out smaller than intended. "We were just..." Just what? Playing? Exploring? Breaking and entering? None of those explanations seemed likely to help our case.
+"I'm sorry," I managed, the words coming out smaller than intended. "We were just... uh..."
 
 The girl's expression shifted, authority melting into something closer to concern. "Where are your parents?" she asked, her voice gentler now. The Bellsprout beside her swayed less aggressively, its head tilting in curiosity.
 

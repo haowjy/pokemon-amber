@@ -1,12 +1,12 @@
 ---
 chapter: 2
-title: "[Chapter 2] First Pokemon"
+title: "[Chapter 2] A Dream"
 status: published
 hidden: false
 updated: 2025-10-11
 ---
 
-# [Chapter 2] First Pokemon
+# [Chapter 2] A Dream
 
 The convenience store's fluorescent lights buzzed overhead, casting everything in that particular shade of artificial white that made 2 AM feel even more surreal. Dr. Fuji had spotted it a few blocks from where we'd emerged---one of those 24-hour places that seemed to exist in a temporal pocket, serving tourists who'd forgotten essentials and insomniacs who'd given up on sleep.
 
@@ -18,7 +18,7 @@ For about two seconds, her expression cycled through concern, confusion, then---
 
 Dr. Fuji limped past without acknowledgment.
 
-Medical supplies first---an entire wall of them. Different grades of bandages, burn cream, antiseptic sorted by brand, painkillers arranged by strength. He grabbed what he needed methodically, added bottled water and pre-packaged sandwiches that looked like they'd been sitting there since Cinnabar's last newsworthy eruption. 
+Medical supplies first---an entire wall of them. Different grades of bandages, burn cream, antiseptic sorted by brand, painkillers arranged by strength. He grabbed what he needed methodically, added bottled water and pre-packaged sandwiches that looked like they'd been sitting there since Cinnabar's last newsworthy eruption.
 
 Then he stopped at the clothing rack.
 
@@ -70,9 +70,9 @@ Bills slid across the counter, slightly rumpled. The clerk didn't comment on the
 
 Dr. Fuji's license appeared like a magic trick, already in hand before the man finished asking.
 
-The clerk examined it briefly, nodded. "Okay, Mr. Fuji. Second floor, room 202. Check out's at eleven." He slid a key across the counter. "And the Pokemon Center's southeast of here, if you---"
+The clerk examined it briefly, nodded. "Okay, Mr. Fuji. Second floor, room 202. Check out's at eleven." He slid a key across the counter. "And the Pokemon Center is just southeast of here, if you---"
 
-Dr. Fuji already had the key, already had his hand on my shoulder guiding me toward the stairs. No thank you. No acknowledgment.
+Dr. Fuji already had the key, already had his hand on my shoulder guiding me toward the stairs without even a hint of thank you or acknowledgment.
 
 "---need it," the man finished to our backs.
 
@@ -82,13 +82,11 @@ Dr. Fuji set the convenience store bag on the desk.
 
 "Get changed and go to sleep."
 
-It seemed more like a command than a request. He pulled out the Psyduck shirt and swim trunks, tore off the tags and tossed them onto the bed.
+It was more a command than a request. He pulled out the Psyduck shirt and swim trunks, tore off the tags and tossed them onto the bed.
 
 He grabbed the rest of the supplies and disappeared into the bathroom. The door swung mostly closed---not latched, just... mostly. Water started running. A sharp hiss of breath cut through the sound.
 
-I reached for the Psyduck shirt.
-
-My hands stopped halfway.
+I reached for the Psyduck shirt but my hands stopped halfway.
 
 Gray-black grime smudged across my fingers, dirt crusted under nails that were too small, too new. When had I gotten this filthy? I touched my face. My hand came away with a dark smear.
 
@@ -228,12 +226,10 @@ Maybe tomorrow.
 
 I climbed onto the bed. Ditto immediately shifted to the far corner, maintaining its watchful gaze. I lay down on my side, still in the ridiculous Psyduck shirt, drawstring of the swim trunks digging slightly into my hip.
 
-My last thought before sleep claimed me wasn't profound. Wasn't about my old life or this new nightmare or what tomorrow would bring or how I was going to survive being someone's science project daughter.
+My last thought before the tiredness claimed me into dreamland wasn't that profound.
 
-It was just: *I touched a Ditto.*
+*The world of Pokemon... this must be just a dream, right?*
 
-Even in a hotel room that smelled like antiseptic and industrial soap. Even with a mouth that still tasted like bile and metal. Even under the watch of a Pokemon playing prison guard.
-
-I'd touched a real Pokemon.
-
-Sleep took me before I could decide if that was wonderful or heartbreaking.
+<!--
+The ending leaves Amber questioning whether this world is real; Chapter 3 answers the question rather than beginning with settled acceptance.
+-->

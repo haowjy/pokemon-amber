@@ -8,15 +8,15 @@ updated: 2025-10-11
 
 # [Chapter 4] Achievement Unlocked! First Battle!
 
-I found myself at the edge of a sprawling park, staring at a wooden sign that pointed toward "Celadon Gym Outer Gardens." Ditto shifted against my neck, its scarf-form weight familiar and comforting after our morning's city walk.
+I found myself at the edge of a sprawling park, staring at a wooden sign that pointed toward "Celadon Gym Outer Gardens." Ditto shifted against my neck, its scarf-form weight familiar and comforting after our morning's walk.
 
-The gardens spread out before us, though they looked more like a public park than an actual garden. A patchwork of dirt and grass stretched across the grounds, with morning light catching the dew that still clung to the few spots untrampled by feet and attacks.
+The gardens spread out before us, though they looked more like a public park than an actual garden. A patchwork of dirt and grass stretched across the grounds.
 
-A battle between two young trainers caught my attention---a Doduo facing off against a Bellsprout on worn dirt. The Doduo actually had a clear advantage whenever it attacked---its attacks super effective when they connected---but its heads seemed more interested in arguing with each other than listening to commands. 
+A battle between two young trainers caught my attention---a Doduo facing off against a Bellsprout on worn dirt. The Doduo actually had a clear advantage whenever it attacked---its attacks super effective when they connected---but its heads seemed more interested in arguing with each other than listening to commands.
 
 Its trainer shouted "Focus!" which, ironically, only made both heads turn to stare at him instead of dodging the incoming Vine Whip.
 
-The Doduo trainer seemed ready to tear his hair out.
+The Doduo's trainer seemed just about ready to tear his own hair out.
 
 I settled against a tree trunk, oddly captivated. Ditto's weight shifted, stretching slightly as if also trying to get a better view. The battle meandered on, punctuated by moments of accidental competence---the Doduo managed a super effective peck, ending the battle and knocking out the Bellsprout.
 
@@ -36,17 +36,17 @@ The voice pulled me out of my battle-watching trance. A boy who couldn't have be
 
 Ditto perked up at my enthusiasm, already sliding down from my neck. Before I could second-guess myself, it had pooled on the ground, bouncing slightly with an eagerness that made me wonder if it had been hoping for this.
 
-The boy's face lit up. He reached into his pocket and pulled out a few coins. "Cool! Three pokedollars?"
+The boy's face lit up. He reached into his pocket and pulled out a few coins. "Cool! 3 pokedollars?"
 
 I frowned as I instinctively reached for pockets where I would have had some change, then remembered I was wearing a dress and found only smooth fabric.
 
-The boy's smile turned sharp at my hesitation. "Unless you're scaaaared?" He drew out the last word like stretching taffy, sweet with mockery. 
+The boy's smile turned sharp at my hesitation. "Unless you're scaaaared?" He drew out the last word like stretching taffy, sweet with mockery.
 
 Fifteen years of Pokemon experience bristled at his tone. I'd bred perfect IVs, chained shinies, climbed to Master rank---and now a tiny kid... well, technically I was about the same age as him now, but that wasn't the point. I looked down at Ditto, who met my gaze with unwavering confidence.
 
-This wasn't a game. I had no idea if Ditto's transformations worked the same way---if most stats and moves were copied. But, looking at its eager wobble, I felt something settle in my chest. Dr. Fuji had trusted this Ditto to guard his most precious creation, Ambertwo. If it was good enough for the scientist who created Mewtwo, it was good enough for a street battle.
+This wasn't a game. I had no idea if Ditto's transformations worked the same way---if most stats and moves were copied. But, looking at its eager wobble, I felt something settle in my chest. No way this kid had anything good right? And besides, Dr. Fuji left Ditto to guard me, his precious Ambertwo. Maybe I was missing something with Ditto.
 
-'I've been playing Pokemon for longer than you've been alive' I thought, a familiar competitive spark igniting. 'There's no way I can lose to a brat like you.'
+'Besides, I've been playing Pokemon for longer than you've been alive' I thought, a familiar competitive spark igniting. 'There's no way I can lose to a brat like you.'
 
 "Deal," I said, forcing steel into my voice. I only had to figure out the money situation if we lost.
 
@@ -56,7 +56,7 @@ This wasn't a game. I had no idea if Ditto's transformations worked the same way
 
 The ball flew up, a flash of red light materializing into a Rattata. "Rat-TAT!" It hissed with quiet ferocity.
 
-I squared my shoulders, channeling confidence I didn't quite feel in a Ditto. "I could say the same to you."
+I squared my shoulders as I started to gain confidence. Rattata had a lower HP stat than Ditto normally, so even if Ditto just copied all stats except HP like in the game, we beat it in pure stats right now. "I could say the same to you."
 
 Ditto bounced beside me, still in its pink blob form, already focused on the opponent with what I could only describe as battle-ready intensity.
 
@@ -66,13 +66,13 @@ Joey's grin widened. Without warning, he thrust his arm forward. "Go! Rattata! T
 
 Joey's grin turned smug. "You said you were ready, didn't you? Rattata! Keep going! Keep up the pressure!"
 
-'Right,' I thought, watching Rattata wheel around for another pass. 'One of those people.' The kind who thought rules were for other people and basic courtesy was optional. The kind who'd cut in line at a coffee shop and then complain about the service. The kind who desperately needed someone to knock them down a peg or two, preferably in front of an audience.
+'Brat,' I thought, watching Rattata wheel around for another pass.
 
 "Ditto, dodge and transform!"
 
 Ditto weaved away from another tackle, but instead of transforming, it turned its face toward me with an expression that could only be described as confusion. The sight was so unexpected that for a moment, I forgot we were in the middle of a battle.
 
-"Ditto, transform!" I tried again, my voice climbing an octave higher than I'd have preferred. 
+"Ditto, transform!" I tried again, my voice climbing an octave higher than I'd have preferred.
 
 Joey's laughter cut through the air, sharp and mean in that particular way only pre-teens could manage. "Haha! A Pokemon that doesn't even know how to fight? What kind of weird blob did you catch? Rattata! Finish this loser up!"
 
@@ -92,17 +92,13 @@ I paused, the sudden attention prickling against my skin. A half-remembered theo
 
 Ditto spun with a fluid grace that caught me off-guard. Joey's Rattata tracked the motion, whiskers twitching rapidly, and when it settled back into its fighting stance, its movements carried a new hesitation.
 
-'Huh,' I thought, watching the subtle shift in the Rattata's body language. 'So that's what a status move looks like in real life.'
-
 "Ha!" Joey's voice cracked with false bravado. "Wasting time with fancy twirls? Rattata! Keep tackling! Full force! You can't lose to a copy!"
 
 "Perfect! Ditto, dodge and counter with Tackle!"
 
-Ditto sidestepped the charging Rattata with the same fluid grace it had shown in its tail movement. It made me wonder if Dr. Fuji had spent some time combat-training it.
+Ditto sidestepped the charging Rattata with the same fluid grace it had shown in its tail movement. The original Rattata overextended, its eagerness working against it, and Ditto's counter-attack landed with precise timing. The impact sent Joey's Pokemon tumbling back, its previous confidence visibly shaken.
 
-The original Rattata overextended, its eagerness working against it, and Ditto's counter-attack landed with precise timing. The impact sent Joey's Pokemon tumbling back, its previous confidence visibly shaken.
-
-I felt my confidence growing. This wasn't just button inputs and damage calculations---Ditto wasn't just copying Rattata's form, it was moving with a precision that spoke of experience. Each dodge was efficient, each attack perfectly timed.
+I smiled with growing confidence as I just learned that the most OP move in all of Pokemon was available here: dodge!
 
 "Stop running away!" Joey's voice cracked. "Quick Attack! Don't let it dodge!"
 
@@ -112,7 +108,7 @@ The collision came with a sharp crack. "RATTA!" Both Pokemon cried out in unison
 
 Joey's composure cracked entirely. "Keep attacking! Don't stop until you hit it!"
 
-His Rattata launched into a frenzy of attacks, each wilder than the last. But Ditto moved like water, each dodge flowing into the next, letting Joey's Pokemon exhaust itself against empty air. It was the difference between button-mashing and actual technique-and Ditto had years of the latter programmed into whatever Dr. Fuji had done to it.
+His Rattata launched into a frenzy of attacks, each wilder than the last. But Ditto moved like water, each dodge flowing into the next, letting Joey's Pokemon exhaust itself against empty air. It was the difference between button-mashing and actual technique. Perhaps Dr. Fuji had spent some time combat training Ditto.
 
 "Stop! Moving!" Joey's commands devolved into frustrated shouts, each one making his Rattata's attacks wilder. The poor Pokemon's movements were becoming ragged, each lunge leaving it more exposed than the last.
 
@@ -124,7 +120,7 @@ The counter was devastating in its simplicity---a clean strike that sent Joey's 
 
 I almost felt bad for them. Almost. "One more time, Ditto!"
 
-The final Quick Attack landed with surgical precision. "Rat...ta..." Joey's Rattata slid to a stop at his feet, managed one defiant attempt to stand, and then collapsed with the classic swirls in its eyes that I'd only ever seen in the anime.
+The final Quick Attack landed with surgical precision. "Rat...ta..." Joey's Rattata slid to a stop at his feet, managed one defiant attempt to stand, and then collapsed with the classic swirls in its eyes.
 
 Scattered applause broke out from the small crowd that had gathered. Too many eyes, too much attention for what was supposed to be a simple amateur battle.
 
@@ -140,8 +136,8 @@ I stared at the coins, my earlier triumph mixing with an unexpected twinge of gu
 
 "Thanks," I said quietly, accepting the money. "It was a good battle." The words felt a bit inadequate, but they were true enough.
 
-I tucked the coins deep into my backpack, trying not to think too hard about winning my first real Pokemon currency through what basically amounted to hustling a kid. Joey had already trudged back to his Rattata, nursing it with a potion. 
+I tucked the coins deep into my backpack, trying not to think too hard about winning my first real Pokemon currency through what basically amounted to hustling a kid. Joey had already trudged back to his Rattata, nursing it with a potion.
 
-'A good kid at heart,' I thought as I watched him care for his fainted Pokemon.
+'A good brat at heart,' I thought as I watched him care for his fainted Pokemon.
 
 Ditto oozed back over to me, its pink form rippling with satisfaction. Without prompting, it flowed up my arm and draped itself back around my neck.

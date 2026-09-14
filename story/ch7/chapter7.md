@@ -16,7 +16,7 @@ The shiny black patent leather shoes still pinched with every step, but today I 
 
 Nobody had really seemed to care about Ditto hanging around my shoulders yesterday---in a city where Machop worked ticket booths and Meowth handled currency, another Pokemon companion barely raised an eyebrow.
 
-But the reaction to that battle changed a few things. It didn't take a Team Rocket scientist to connect the dots that the Ditto failed Mew clone theory was true. One glimpse from a Team Rocket Scientist of a Ditto with a girl who looked exactly like Amber Fuji, and we'd probably never be able to go on another adventure.
+But the reaction to that battle changed a few things. It didn't take a Team Rocket scientist to connect the dots that the theory that Ditto was a failed Mew clone might be true, at least in this world. It would be dangerous if a Team Rocket operative or scientist saw me out and about with Ditto right now. Who knows if they might report me to Dr. Fuji. I shuddered at the thought of his cold stare and what kind of punishment would happen. At the very least, we probably would never be able to go on another adventure.
 
 The same elevated train station from yesterday loomed ahead. I slipped through the morning crowd toward the row of booths, ignoring how Mr. Mime's exaggerated gestures made invisible walls to guide everyone else into orderly lines. Watching him work was fascinating, but I had a mission.
 
@@ -48,7 +48,7 @@ I pushed against the turnstile, only for it to respond with the mechanical equiv
 
 I glanced back at the person behind me, a middle-aged businessman in a suit a bit too tight for him. His collar was already dark with sweat despite the early hour, and his expression suggested I was single-handedly responsible for every train delay he'd ever experienced.
 
-Heat crept up my neck as I embarrassingly trudged back to swipe again. The card felt flimsier now, like it might dissolve under the weight of everyone's stares. 
+Heat crept up my neck as I embarrassingly trudged back to swipe again.
 
 Beep-beep-click.
 
@@ -86,7 +86,7 @@ A nearby trainer brushed past, his Growlithe padding dutifully at his heels as h
 
 The cork board stretched out before me, a patchwork of colored papers that seemed to tell stories of an entire region. My eyes were immediately drawn to the right side, where crimson papers demanded attention with bold lettering and stark warnings. A proper WANTED poster-and wasn't that a shock to see in a Pokemon Center---displayed a grainy photo of a Hypno. The text warned of a "mass sleep incident" in Saffron City, with a staggering ₽20,000 reward for capture. It was apparently class A, whatever that meant.
 
-"They really printed them like old Western posters," I muttered, noting the dramatic 'WANTED' header.
+"They printed them like old Western posters," I muttered, noting the dramatic 'WANTED' header.
 
 Moving left, I found a much more varied assortment of colors. Yellow \[Rescue\] notices confused me. Why were there so many about retrieving "fainted" Pokemon left in forests? Who abandons their Pokemon like that but still wanted them back? The descriptions were vague, but the urgency in the writing was clear.
 
@@ -118,7 +118,7 @@ The trainer lowered her Pokeball slightly, but her stance remained ready. "You w
 
 I glanced around the Center. The morning crowd had mostly gone silent, their attention locked on our little drama. Even the healing station's chime felt judgmental now.
 
-I nodded, making sure to keep Ditto's Pokeball small. It felt impossibly heavy between my fingertips. 
+I nodded, making sure to keep Ditto's Pokeball small. It felt impossibly heavy between my fingertips.
 
 The gym trainer gestured toward the door, not bothering to pick up the fallen notices, "After you."
 

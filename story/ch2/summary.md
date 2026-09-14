@@ -14,7 +14,7 @@ updated: 2025-10-12
 
 # Chapter 2 - Summary
 
-Immediate aftermath of the Mewtwo escape. Dr. Fuji takes Amber to a convenience store and then a hotel in Cinnabar. Amber throws up from trauma and showers to clean off blood and grime. When she emerges, Dr. Fuji is gone and Ditto has been left to watch her. Amber is excited to encounter her first real Pokemon, touches Ditto briefly, but Ditto maintains distance and won't let her play. She falls asleep disappointed but clinging to the thought: "I touched a real Pokemon."
+Immediate aftermath of the Mewtwo escape. Dr. Fuji takes Amber to a convenience store and then a hotel in Cinnabar. Amber throws up from trauma and showers to clean off blood and grime. When she emerges, Dr. Fuji is gone and Ditto has been left to watch her. Amber is excited to encounter her first real Pokemon, touches Ditto briefly, but Ditto maintains distance and won't let her play. She falls asleep wondering whether the Pokemon world could be a dream.
 
 - Story: [Chapter 2](./chapter2.md)
 
@@ -32,7 +32,7 @@ Immediate aftermath of the Mewtwo escape. Dr. Fuji takes Amber to a convenience 
 *   Upon exiting the bathroom, Amber finds Dr. Fuji gone, replaced by a Ditto sitting near the door, acting as a guard.
 *   Overwhelmed with excitement, Amber attempts to interact with the Ditto, achieving a brief, warm touch.
 *   The Ditto, however, maintains its distance, refusing to engage in play.
-*   Amber falls asleep, disappointed by the lack of playful interaction, but deeply impacted by the reality of having touched a real Pokemon.
+*   Amber falls asleep wondering whether this world is a dream.
 
 ## Potential speculation:
 *   **Fuji's Paternal Instincts:** Dr. Fuji's insistence on finding a dress for Amber, despite their dire circumstances, could symbolize his desperate attempt to restore normalcy and an idealized image of his lost daughter, contrasting sharply with the scientific and violent reality of her creation.
