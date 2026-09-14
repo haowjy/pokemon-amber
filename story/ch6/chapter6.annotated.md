@@ -8,175 +8,203 @@ updated: 2026-07-29
 
 # \[Chapter 6\] Scientist Fuji
 
-The photo album barely fit on the fold-out card table, its leather-bound elegance a stark contrast to the hastily assembled furniture around it. Dawn painted thin strips of light through the apartment's single window, the shadows of Celadon's towering apartments creating a striped pattern across the worn carpet.
+Fuji turned another page in the photo album, making the fold-out card table wobble. He steadied it with one hand and stopped at a photograph of Amber at seven, twirling in a light blue sundress. Her mother had sewn it herself and spent weeks getting the pleats right.
 
-Fuji turned another page with practiced care, the album's weight making the card table wobble. Each photograph was a window into a past that felt increasingly like someone else's life---birthday parties, beach trips, family dinners in a house that no longer belonged to him. His thumb traced the edge of a particular image: Amber at seven, twirling in a light blue sundress that made her look like a piece of sky brought down to earth. Her mother had sewn it herself, spending weeks getting the pleats just right.
+<!--
+The worn furniture grounds Fuji's reduced circumstances while his attention stays on the family photograph. The handmade dress links his wife's care to the replica he now insists Amber wear.
+-->
 
-"Perfect," he whispered, carefully removing the photo. The apartment's thin walls carried the sound of his chair scraping back, a neighbor's Meowth yowling in protest at the noise. Three steps took him across the narrow hallway to Amber's room---no longer a museum of memories, but a blank canvas of rental beige, hastily decorated with the few family portraits he'd managed to save.
+He removed the photograph from its sleeve and held it beside the dress he had laid out. The dress was an exact replica, down to the last stitch of white trim. Satisfied, he carried the dress across the narrow hall and hung it from Amber's doorknob, adjusting it three times.
 
-He paused at her door, today's chosen dress draped over his arm. An exact replica of the one in the photograph, down to the last stitch of white trim. He hung the dress carefully on the doorknob, adjusting it three times before he was satisfied.
+With the dress ready, he went to the kitchenette to make breakfast. His wedding ring clicked against the aluminum pan as he took it down. His wife had always insisted on making breakfast herself; it wasn't proper to start the day without a homemade meal.
 
-The kitchenette felt like a dollhouse version of their old one, everything scaled down and simplified. His wedding ring clinked against the cheap aluminum pan as he reached for it, the sound sharp in the morning silence. She had always insisted on making breakfast herself---said it wasn't proper to start the day without a homemade meal. Now he performed a cramped imitation of their old life, careful not to bump his elbows against the narrow counters as he cracked eggs into the pan.
+That was his job now. He set the pan on the stove and made room for the eggs on the narrow counter, careful not to knock them into the sink.
 
-Three plates, three sets of chopsticks, three glasses of juice, all arranged on a table meant for one. The third setting sat like a promise at the empty end of the tiny table, waiting.
+<!--
+The change of responsibility connects the memory of his wife to his present cooking. This is connective thought, not a second explanation of his emotional state; keep it when tightening the scene.
+-->
 
-He was nearly done when he heard movement from Amber's room. His hands stilled on the last plate, listening for... something. A sign. A word. Anything that might tell him if today would be different. But there was only the soft padding of feet and the quiet click of a door.
+Three plates, three sets of chopsticks, three glasses of juice, all arranged on a table meant for one.
 
-Breakfast passed in silence. Questions died unasked in the space between them, their knees almost touching under the small table. He watched her pick at her food, noted how she held her chopsticks---all wrong, nothing like before---and added it to his mental list of differences to fix later.
+<!--
+The replicated objects and exact sequence carry Fuji's attempted reunion; the absent third person is left for the reader to register.
+-->
 
-"Go get dressed," he said quietly after they finished.
+He was setting down the last plate when Amber's door clicked open. He paused to listen, but she crossed the hall and took her seat without speaking.
 
-While she changed, he placed the dishes in the sink and set up the VCR player, an old tape of "Adventures of Pikachu & Friends" whirring to life.
+Breakfast passed in silence, their knees almost touching beneath the table. He watched her pick at her food and noted the way she held her chopsticks---all wrong, nothing like before. Another difference to fix later.
 
-When she stepped out in the blue dress, Fuji averted his gaze from the way she tugged at the collar, her fingers clawing at the trim as if it were choking her. Amber loved this dress---he reminded himself of that, clinging to the memory of her delight in every stitch of these resurrected gifts.
+"Go get dressed," he said when they finished.
 
-"Stop that!" The words erupted from him, sharp and unbidden.
+While she changed, he placed the dishes in the sink and started an old tape of "Adventures of Pikachu & Friends." The VCR whirred beneath the television.
 
-Amber froze, her hands hesitating at the collar before drifting warily to her sides.
+Amber came out in the blue dress and immediately tugged at the collar.
 
-"Just a rebellious phase," Fuji muttered under his breath, turning toward his room to gather his things---folders swollen with data, security cards, and a single photograph slipped into his breast pocket. Not the one from this morning---that would return to the album---but another, its image so etched in his mind he didn't need to glance at it.
+She had loved this dress. Once she settled in, she would remember.
 
-"I'll likely be late tonight... again," he said, the phrase worn smooth by repetition. "Ditto will---"
+"Stop that!"
 
-"Ditto will watch me. I know," she cut in, her voice edged with a sigh as her eyes rolled upward.
+Amber froze. Her hands hovered at the white trim before dropping to her sides.
 
-Fuji's arm snapped up, a coiled spring of frustration, hovering midair. Amber flinched, her arms rising instinctively to shield herself, a reflex that struck him like a cold gust.
+"It's just a rebellious phase," Fuji muttered. Leaving her by the television, he went to his room to collect his folders and security cards.
 
-Fuji forced his hand back down slowly and took a few deep breaths. "Mind your tone, young lady."
+Before putting on his coat, he checked the photograph in its breast pocket. Not the one from the album; this one showed the three of them at the beach, Amber holding her mother's hat against the wind with one hand and clutching his lab coat with the other. He slipped it back into place and returned to the living room.
 
-Another discrepancy. Another flaw to note and mend later.
+"I'll likely be late tonight... again," he said. "Ditto will---"
 
-He exhaled sharply, then turned to slip on his shoes. At the door, keys weighing heavy in his palm, he lingered, hoping for... something. A farewell? A flicker of warmth? The echo of what once was? But Amber had already retreated into her own world, her back to him, lost in whatever thoughts filled her mind these days.
+"Ditto will watch me. I know." She sighed and rolled her eyes.
 
-The stairwell lights still hadn't been fixed, leaving his descent in that peculiar twilight that made every shadow look like a memory trying to take shape. In his pocket, the photograph pressed against his heart like a wound that refused to heal---the three of them at the beach, Amber holding her mother's hat against the wind, her other hand clutching his lab coat. He pushed through the door at ground level, stepping into the morning light of a city that had long since moved on without him.
+Fuji's arm snapped up. It stopped above her, his hand open.
+
+Amber flinched and threw both arms over her head.
+
+He forced his hand down and took a few breaths. "Mind your tone, young lady."
+
+Another discrepancy. Another flaw to mend later.
+
+<!--
+The raised arm and flinch carry the threat. Fuji treats Amber's reaction as another discrepancy; no new explanation of the reflex or its history is needed.
+-->
+
+He slipped on his shoes. At the door, he waited with the keys in his palm, but Amber had already turned toward the television.
+
+The stairwell lights still had not been fixed, so he descended with one hand near the wall. At the bottom, he checked his breast pocket once more before pushing through the ground-floor door into the morning.
 
 \-\[v.v\]-
 
-The Game Corner's neon signs cast sickly patterns across the morning crowd, their faces bathed in artificial twilight despite the sun outside. Fuji moved through the sea of early gamblers with practiced indifference, his coat pocket heavy with the photo he refused to look at again. The sound of slot machines created a hypnotic rhythm---clicks and whirs and electronic chimes that almost masked the sound of footsteps behind him.
+The Game Corner's neon signs bathed the morning crowd in red and violet. Rows of slot machines stretched back into an artificial twilight, their chrome trim flashing with each burst of light from the jackpot displays. Fuji moved among the gamblers with practiced indifference, the clicks and whirs and electronic chimes swallowing his footsteps.
 
-He reached the back wall, fingers finding the hidden panel by memory. The poster above advertised "Big Wins!" in garish colors, a Meowth's golden coin reflecting nothing. Three precise taps, pause, two more. A slim card reader emerged with barely a whisper. He drew the white keycard from his inner pocket, its magnetic strip worn from repeated use. The wall slid away with hydraulic efficiency when he swiped it.
+<!--
+Colored light, reflective surfaces, and overlapping machine sounds give the casino a Las Vegas atmosphere. Fuji's practiced indifference keeps that spectacle familiar rather than wondrous in his perspective.
+-->
 
-The stairwell beyond was everything the Game Corner wasn't---sterile, silent, serious. Another swipe at the bottom of the stairs, this time with the higher-clearance black card. The temperature dropped with each step, the air taking on that distinctive underground chill. Even the sounds changed---the muffled thump of his footsteps against metal stairs replacing the chaos of slot machines above.
+At the back wall, his fingers found the hidden panel by memory. The poster above advertised "Big Wins!" in garish colors beside a grinning Meowth. Three precise taps, a pause, then two more. A slim card reader slid out, and he drew the white keycard from his inner pocket, its magnetic strip worn from repeated use. One swipe, and the wall opened onto a metal stairwell.
 
-"Dr. Fuji!" The voice echoed off polished surfaces. A young man in a lab coat hurried toward him, a folder clutched like a shield. "I have those documents you requested forged, doctor."
+The wall closed behind him, cutting off the chimes. His footsteps rang against the stairs as he descended into the underground chill. At the bottom, he used the higher-clearance black card and entered the corridor.
 
-Fuji accepted the folder without breaking stride, Gideon falling into step beside him. The younger scientist's nervousness manifested in a constant stream of words.
+"Dr. Fuji!" A young man in a lab coat hurried toward him with a folder against his chest. "I have those documents you requested forged, doctor."
 
-"I backdated everything through the hospital records and inserted it into the League registry databases---birth certificate, vaccination records, medical history, school enrollment, everything. It's all in the official systems now. Anyone who looks will find a perfectly ordinary ten-year-old girl who's lived here all her life." Gideon paused, glancing sideways, a slight blush coloring his cheeks. "Oh, and Agent Domino was asking about you last night. Said she has something you'll find interesting. She's at the Rose Heights Apartments, Unit 742."
+Fuji accepted the folder without breaking stride. Gideon fell into step beside him and began speaking before Fuji had opened it.
 
-The conference room door loomed ahead, voices already leaking through. Fuji's hand tightened on the folder, creasing its edge. "Thank you, Dr. Gideon. That will be all."
+"I backdated everything through the hospital records and inserted it into the League registry databases---birth certificate, vaccination records, medical history, school enrollment, everything. It's all in the official systems now. Anyone who looks will find a perfectly ordinary ten-year-old girl who's lived here all her life." Gideon glanced sideways. "Oh, and Agent Domino was asking about you last night. Said she has something you'll find interesting. She's at the Rose Heights Apartments, Unit 742."
 
-"Doctor?" Gideon hesitated. "About the meeting... some of the admins are saying---"
+Voices carried through the conference room door ahead. Fuji slowed to open the folder before going in. "Thank you, Dr. Gideon. That will be all."
 
-The conference room hummed with barely contained chaos. Screens covered every wall-damage reports on the left, casualty lists straight ahead, power readings to the right. Junior scientists clustered in the back corners like anxious Rattata, while admins claimed the chairs closest to the vacant seat at the head of the table.
+"Doctor? About the meeting... some of the admins are saying---"
 
-Fuji took his seat at the table's midpoint---likely no longer the head of his own research division---and opened Gideon's folder of forged records. He didn't need the position now anyway.
+Fuji entered without waiting for the rest.
 
-"Twenty-three dead," Admin Archer began without preamble. "Forty-five support staff. Billions in equipment." He stood at the room's front, hands clasped behind his back, reflection fractured across the wall of screens. "And a weapon of unprecedented power loose in the world, when it should've been under our control." His eyes were fixed on Fuji. "Would you care to explain how this happened, Doctor?"
+Screens covered the conference room walls: damage reports on the left, casualty lists straight ahead, power readings on the right. Junior scientists stood along the back wall while admins occupied the chairs nearest the vacant seat at the head of the table.
 
-"I've already explained in the previous meetings." Fuji's voice sagged with fatigue. Even still, he opened his folder, beginning a methodical review of Gideon's forged documents, each page a lifeline to a daughter he was trying to hold together.
+Fuji sat at the table's midpoint---likely no longer the head of his own research division---and laid out Gideon's forged records. He didn't need the position now anyway.
 
-"Dr. Fuji!" Archer's hands slammed onto the conference table. Coffee cups rattled. A junior researcher in the back dropped her clipboard.
+"Twenty-three dead," Admin Archer began. "Forty-five support staff. Billions in equipment." He stood at the front with his hands clasped behind his back, his reflection split across the screens. "And a weapon of unprecedented power loose in the world, when it should've been under our control." He looked directly at Fuji. "Would you care to explain how this happened, Doctor?"
 
-"Dr. Samba," Dr. Sebastian quickly interrupted, turning the attention away from Dr. Fuji. "Perhaps you could explain the sequence of events from your monitoring station?"
+"I've already explained in the previous meetings." Fuji checked the birth date on Amber's certificate against the hospital record beneath it.
 
-"Ah, yes." Dr. Samba stood, her hands steady as she manipulated the central display. Multiple graphs materialized, showing increasingly erratic patterns. "The readings were unprecedented from the start. Even in stasis, its psychic signature exceeded our strongest Alakazam baseline by several orders of magnitude. But look here---" She highlighted a specific timestamp. "At 0247 hours, a huge spike in brain activity followed."
+"Dr. Fuji!" Archer slammed both hands onto the conference table. Cups rattled. A junior researcher at the back dropped her clipboard.
 
-"The containment system---" Archer started.
+Before Archer could speak again, Dr. Sebastian turned to the scientists at the back. "Dr. Samba, perhaps you could explain the sequence of events from your monitoring station?"
 
-"Was operating at maximum capacity," Samba continued, advancing through her data. "But the power levels kept climbing. Each spike was stronger than the last, until..." The graph shot upward, disappearing off the scale. "Until---"
+"Ah, yes." Dr. Samba stood and brought several graphs onto the central display. "The readings were unprecedented from the start. Even in stasis, its psychic signature exceeded our strongest Alakazam baseline by several orders of magnitude. But look here---" She highlighted a timestamp. "At 0247 hours, a huge spike in brain activity followed."
 
-"Until it escaped." Archer interrupted. "We created something we couldn't control."
+"The containment system---" Archer began.
 
-"The evolutionary acceleration was unprecedented," Dr. Zager added, leaning forward. His excitement briefly overcame his caution. "If we could replicate even a fraction of that growth rate in other specimens---"
+"Was operating at maximum capacity," Samba continued. "But the power levels kept climbing. Each spike was stronger than the last, until..." The graph rose off the scale. "Until---"
 
-"Replicate?" Dr. Namba's laugh held no humor. "Half of our other research was destroyed. Most of it... gone. The legendary capture systems, the fusion experiments..." He finally glanced at the photographs of the ruins behind her. "The Evolution Acceleration lab is a crater. Twenty years of strength augmentation research, gone."
+"Until it escaped," Archer said. "We created something we couldn't control."
 
-"Your strength augmentation machine barely worked anyway," Dr. Sebastian said with a dismissive wave. "The serum developed by Dr. Kihara was better."
+"The evolutionary acceleration was unprecedented." Dr. Zager leaned forward. "If we could replicate even a fraction of that growth rate in other specimens---"
 
-"Better?" Dr. Namba scoffed. "Sure, its strength increase was profound. But its also completely unpredictable. The subjects become grotesque, and instead of fainting, they die."
+"Replicate?" Dr. Namba laughed once. "Half of our other research was destroyed. Most of it... gone without hope of recovery. The legendary capture systems, the fusion experiments..." He glanced at the photographs of the ruins behind him. "The Evolution Acceleration lab is a crater. And ten years of my strength augmentation research, gone."
 
-"It hardly matters now," Archer cut in. "Dr. Kihara is dead, and the research data was destroyed."
+"Your strength augmentation machine barely worked anyway," Dr. Sebastian said. "The serum developed by Dr. Kihara was better."
 
-Sebastian glanced toward Fuji. "Kihara gave you one of his prototypes, didn't he?"
+"Better?" Namba scoffed. "Its strength increase was profound, but it's completely unpredictable. The subjects become grotesque, and instead of fainting, they die."
 
-Fuji's hand stopped halfway down the page. He looked up. "What?"
+"It hardly matters now," Archer said. "Dr. Kihara is dead, and the research data was destroyed."
 
-"The serum," Sebastian said.
+Sebastian looked toward Fuji. "Kihara gave you one of his prototypes, didn't he?"
 
-Fuji paused and glanced around at the faces watching him. "Kihara's serum? I still have one."
+Fuji stopped halfway down the page. "What?"
+
+"The serum."
+
+The room was watching him. "Kihara's serum? I still have a vial."
 
 "Then we still have something to work with," Sebastian said.
 
-"Who cares about that serum," Namba snapped. "It's basically a poison."
+"Who cares about that serum?" Namba said. "It's basically a poison."
 
 <!--
-The dispute establishes the serum as a lost rival augmentation project, places its sole surviving vial with Fuji, and foreshadows why Magmar later dies instead of fainting without explaining the serum's evolutionary side effects in advance.
+Keep the surviving prototype with Fuji. The later claim that research was preserved remains unresolved against the loss reported here; this style pass does not invent a distinction between research programs.
 -->
 
-The room erupted into overlapping arguments. A junior researcher waved printouts of energy readings. Two admins argued about cover stories while Dr. Sebastian and Dr. Namba's debate about the efficacies of the strength augmentation system devolved into a shouting match about research priorities.
+Several people answered at once. A junior researcher waved printouts of energy readings. Two admins argued about cover stories while Sebastian and Namba shouted over the relative merits of their augmentation projects.
 
-Through it all, Fuji continued reading his documents, marking errors that didn't make sense. Each forged page helping to build the foundation of his daughter's new existence. Only occasionally did his eyes flick to the photographs of the ruined facility, lingering on the massive hole torn through three sublevels---the path of Mewtwo's destruction.
+Fuji returned to the forged records and marked the errors he found. Between pages, he looked up at a photograph of the hole Mewtwo had torn through three sublevels, then checked the next document.
 
 The door opened.
 
-The change in the room was instant. Scientists who had been shouting moments ago snapped upright in their chairs. Archer's face went pale. Even Dr. Namba's sharp retort died in her throat. The temperature seemed to drop several degrees.
+Sebastian stopped speaking. Namba sat back. Archer's hands came away from the table.
 
-Giovanni entered like he was taking a casual stroll through one of his gardens. His Persian padded silently beside him, its eyes scanning the room with predatory intensity. The gem on its forehead caught the fluorescent light, casting tiny red reflections across the walls. He wore a charcoal suit that probably cost more than most of the scientists made in a year, every line of it perfect despite the early hour.
+Giovanni entered in a charcoal suit, his Persian beside him. It turned its head from face to face as he took the vacant chair, then curled at his feet.
 
-"Please," he said, his voice smooth as silk, "don't let me interrupt." He took the empty seat at the head of the table, Persian curling at his feet. No one moved. "I simply thought I should... personally assess the situation."
+"Please, don't let me interrupt," Giovanni said. No one resumed the argument. "I simply thought I should... personally assess the situation."
 
-His eyes found Fuji, who had finally looked up from his papers. The two men regarded each other for a long moment---the crime lord and the scientist, each seeing something in the other that the rest of the room couldn't quite grasp.
+He looked at Fuji. "How is my biggest investment?"
 
-"My investment?" Giovanni asked, staring at Fuji.
+Fuji left one finger on the line he had been reading. "This investment exceeded all parameters. The enhanced clone demonstrated power levels beyond anything in recorded history."
 
-"This investment," Fuji echoed, meeting Giovanni's gaze with the same detached interest he'd shown in his papers, "exceeded all parameters. The enhanced clone demonstrated power levels beyond anything in recorded history."
+"What about its personality? You mixed some human DNA, correct?"
 
-"What about its personality? You mixed some human DNA, correct?" Giovanni's question carried a weight that seemed to thicken the air.
+Fuji looked past Giovanni to the monitors. "As demonstrated by the almost complete destruction of the facility, I believe it thinks like a human, not a Pokemon. It carries human ambition and human desires. And..." He met Giovanni's eyes again. "It may hold grudges."
 
-Dr. Fuji paused, contemplating the question. His eyes drifted to the wall of monitors behind Giovanni's desk. "As demonstrated by the almost complete destruction of the facility, I believe it thinks like a human, not a Pokemon. It carries human ambition and human desires. And..." he turned back to Giovanni, his voice dropping slightly, "it may hold grudges."
+"Then it can understand reason." Giovanni turned back to the screens and motioned for the presentation to continue.
 
-"Then it can understand reason," Giovanni replied, his lips curving into a slight smile. He gestured for the meeting to continue, settling back in his chair like a theatergoer at a particularly amusing play.
+Dr. Sebastian cleared his throat and replaced the power readings with a list of the surviving projects. "The forced evolution serum research was largely preserved. We saved the formula, and not many were forced to use the serum before Mewtwo left."
 
-Dr. Sebastian cleared his throat, clicking through his presentation. "The forced evolution serum research was largely preserved. We managed to save both the formula and not many were forced to use it because it left so quickly."
+"What about the fusion experiments?" Archer asked.
 
-"What about the fusion experiments?" Archer interrupted.
-
-"The successful specimens were killed in the collapse," A scientist said, her voice tight. "Though frankly, given their condition, perhaps that was a mercy."
+"The successful specimens were killed in the collapse," a scientist said. "Though frankly, given their condition, perhaps that was a mercy."
 
 "And the legendary capture projects?"
 
-Dr. Zager pulled up a new set of files. "Most of our legendary capture research data was recovered. The theoretical frameworks for containing Mew, the legendary birds, even Celebi---"
+Dr. Zager brought up a new set of files. "Most of our legendary capture research data was recovered. The theoretical frameworks for containing Mew, the legendary birds, even Celebi---"
 
 "Theoretical being the operative word," someone muttered.
 
-"The equipment was lost," Zager continued, ignoring the comment. "But considering we haven't actually located any of these Pokemon besides Mew, rebuilding the containment units isn't our highest priority."
+"The equipment was lost," Zager continued. "But considering we haven't actually located any of these Pokemon besides Mew, rebuilding the containment units isn't our highest priority."
 
-"Before we discuss future legendary projects," Archer cut in, "what about the immediate threat? Can we capture Mewtwo, the clone of a legendary?" He turned to Fuji. "Doctor, exactly how strong is this thing?"
+"Before we discuss future legendary projects," Archer said, "what about the immediate threat? Can we capture Mewtwo, the clone of a legendary?" He turned to Fuji. "Doctor, exactly how strong is this thing?"
 
-Fuji looked up from his papers, something flickering behind his eyes---a flash of annoyance at yet another interruption of his reading. But after a moment's consideration, he set the documents aside with exaggerated care.
+Fuji finished the line he was reading and set the documents down.
 
-"As we've discussed already," he began, emphasizing each word like he was speaking to particularly slow students, "the psychic readings were beyond our highest measuring capabilities. Far stronger than any trained Pokemon we've documented. Likely on par with legendary Pokemon, at minimum." He picked up his papers again, adding almost as an afterthought: "It was designed for battle, after all."
+"As we've discussed already," he said, giving each word the care required for slow students, "the psychic readings were beyond our highest measuring capabilities. Far stronger than any trained Pokemon we've documented. Likely on par with legendary Pokemon, at minimum." He picked up the documents. "It was designed for battle, after all."
 
 "Could the legendary containment systems for Mew work on it?" Ariana asked.
 
-Dr. Zager shook his head. "Those were designed around Mew's specific abilities---transformation, teleportation. Mewtwo..." He paused, studying the destruction footage. "Mewtwo is far more aggressive."
+Dr. Zager shook his head. "Those were designed around Mew's specific abilities---transformation, teleportation. Mewtwo..." He studied the destruction footage. "Mewtwo is far more aggressive."
 
-Through the ensuing debate, Giovanni remained silent, his dark eyes studying each speaker in turn. His Persian stretched lazily at his feet, tail flicking with each raised voice. Only when the arguments began cycling back on themselves did he finally speak, his quiet words cutting through the chaos.
+The discussion returned to the lost equipment and whether any of it could contain Mewtwo. Giovanni listened from the head of the table. His Persian stretched at his feet. When the same arguments began again, he raised one hand.
 
-"Dr. Fuji." The room fell silent. "Could another be created? With the few Mew DNA samples we have left?"
+"Dr. Fuji. Could another be created? With the few Mew DNA samples we have left?"
 
-Fuji looked up from his papers again, a flash of annoyance at the interruption. But this wasn't Archer or one of the other administrators. This was Giovanni.
+Fuji looked up. Unlike Archer, Giovanni was asking about another attempt, not demanding that he defend the last one.
 
-"The successful synthesis was, honestly, more luck than science," Fuji replied, his tone carefully modulated. "We're not entirely sure what triggered its awakening." He held Giovanni's gaze for a moment longer than strictly necessary before returning to his documents.
+"The successful synthesis was, honestly, more luck than science," Fuji said. "We're not entirely sure what triggered its awakening."
 
-"But could you? Make one? One more... amenable to our goals?" Giovanni's voice remained gentle, almost conversational. The room held its breath.
+"But could you make one? One more... amenable to our goals?"
 
-Fuji's hand stilled on his papers. For the first time in the meeting, his detachment wavered. A new thought flickered through his mind---not just another Mewtwo, but another chance at perfection. Another Amber, one who wouldn't tug at her dress or roll her eyes or hold her chopsticks wrong...
+Fuji's hand stopped on Amber's hospital records. Another attempt, with Giovanni's funding behind it. The work wouldn't have to end with Mewtwo. He could make another Amber, one who wouldn't tug at her dress or roll her eyes or hold her chopsticks wrong...
 
-"...It's possible," he responded, not looking up, his fingers unconsciously tightening on the forged hospital records of his current "success."
+"...It's possible." His fingers tightened on the pages.
 
-The afternoon dragged on all the way into night. Status updates from field operatives revealed no more psychic disturbances, suggesting Mewtwo had already learned to mask its signature. Division heads argued over resource allocation, blame shifted like shadows, and through it all, Giovanni watched, occasionally asking a pointed question that would send discussions spiraling in new directions.
+<!--
+The prospect of another Mewtwo remains fused in Fuji's thinking with another, more compliant Amber; this is his association, not an outside diagnosis.
+-->
+
+The meeting continued into the night. Field operatives reported no further psychic disturbances, suggesting Mewtwo had learned to mask its signature. Division heads argued over resources while Giovanni asked questions from the head of the table.
 
 "The Evolution Research Division needs priority funding---"
 
@@ -188,50 +216,54 @@ The afternoon dragged on all the way into night. Status updates from field opera
 
 "Our supporters wouldn't have the funds---"
 
-The sun had set by the time Giovanni stood, silencing the room once more. "I expect daily updates," he said simply. He stood to leave, his Persian following like a shadow.
+At last Giovanni stood. "I expect daily updates."
 
-The meeting fractured into smaller arguments, then into resigned silence. Scientists and Admins gathered their materials, some still debating in hushed tones about containment protocols and power readings that had exceeded their equipment's maximum scale.
+The scientists and admins gathered their materials. Some continued their arguments in low voices as they left.
 
-Fuji stood with them, hurriedly gathering his other papers. His fingers brushed against the photograph in his pocket---a reflexive check, like ensuring a key was still there.
+Fuji collected his papers and checked the photograph in his pocket.
 
 He had another meeting to attend.
 
 \-\[v.v\]-
 
-Rose Heights Apartments loomed over the northern edge of Celadon City, its modern glass facade reflecting the soft glow of the moon. Fuji took the elevator to the seventh floor, his reflection in the mirrored walls looking more worn than he remembered. The fluorescent lights made the shadows under his eyes deeper and turned his lab coat a sickly shade of yellow.
+Rose Heights Apartments stood at the northern edge of Celadon City. Fuji crossed the glass lobby and took the elevator to the seventh floor. In the mirrored wall, the fluorescent lights deepened the shadows beneath his eyes and yellowed his lab coat.
 
-Domino opened the door in exercise clothes, a gym towel around her neck. Sweat gleamed on her skin, but her smile was perfectly composed. "Dr. Fuji. You're very late."
+Domino opened Unit 742 in exercise clothes with a gym towel around her neck. "Dr. Fuji. You're very late."
 
-He followed her into an apartment that was notably sparse---a few pieces of furniture, no personal items visible. Exercise equipment dominated one corner, news with captions playing silently on the TV.
+He followed her inside. A few pieces of furniture occupied the apartment, exercise equipment filled one corner, and captioned news played silently on the television. No personal photographs were displayed.
 
-"Trying to track down your wife after, what, fifteen years?" Domino pulled the towel from her neck, her tone playful.
+"Trying to track down your wife after, what, fifteen years?" Domino pulled the towel from her neck.
 
-"The timing is right," Fuji said quietly. "Everything is finally in place."
+"The timing is right," Fuji said. "Everything is finally in place."
 
-"You mean... Mewtwo?" She studied him for a moment, then shrugged and picked up a folder from the coffee table. "Well, I did find something interesting."
+"You mean... Mewtwo?" She picked up a folder from the coffee table. "Well, I did find something interesting."
 
-She held it just out of reach, smile sharpening. "New address, a few photos, some documents. Just... don't be too shocked, okay? Fifteen years is a long time."
+She held it beyond his reach, her smile sharpening. "New address, a few photos, some documents. Just... don't be too shocked, okay? Fifteen years is a long time."
 
-Fuji nodded, snatching the folder out of her hand.
+Fuji snatched the folder from her.
 
 "Do you want anything?" Domino called from the kitchen. "Wine, whiskey?"
 
-"Water is fine." He had it open already.
+"Water is fine." He sat by the coffee table and opened the folder.
 
-Inside the folder, time had continued without him. A more recent photo stared up from the top of the stack. Her auburn hair was pulled back in that familiar ponytail, barely touched by gray. She was crouched among the freshly planted garden, laughing at something off-camera, her face as youthful and bright as he remembered. His fingers traced the edge of the frame, carefully covering the man standing beside her.
+The top photograph was recent. Her auburn hair was pulled into the same ponytail, barely touched by gray. She crouched among new plantings in a garden, laughing at something outside the frame, as young and bright as he remembered. A man stood beside her. Fuji traced the photograph's edge, placing his thumb over the man's face.
 
 Domino set a glass of water by his elbow.
 
 "Actually, pour me some whiskey."
 
-He went through the rest without putting the first one down. Delia behind the counter of a restaurant he'd never seen, sleeves pushed to the elbow. Delia at some local festival, paper lanterns strung above her. Delia at her garden gate, and the man's arm across her shoulders.
+<!--
+The offer, refusal, and reversal stay unremarked. Their history is deliberately unavailable in this chapter.
+-->
 
-"It's natural, you know." Domino set the whiskey down next to the water. "For her to want companionship after all this time."
+Fuji went through the remaining photographs without putting down the first. Delia behind the counter of a restaurant he had never seen, sleeves pushed to her elbows. Delia at a local festival beneath strings of paper lanterns. Delia at her garden gate with the man's arm across her shoulders.
 
-He nodded slowly, still staring at the half-covered photo. The anger he'd expected didn't come---just a strange, hollow certainty that this too was temporary. Just another obstacle to overcome.
+"It's natural, you know." Domino set the whiskey beside the water. "For her to want companionship after all this time."
 
-He drank half the glass and coughed into his fist. "Been a while," he muttered.
+He looked back at the first photograph, the man's face still hidden beneath his thumb. The anger he had expected didn't come. Whoever the man was, he was temporary. Another obstacle, nothing more.
 
-The glass came down harder than he meant. Whiskey went across the coffee table and pooled against the water he hadn't touched.
+He drank half the whiskey and coughed into his fist. "Been a while."
 
-As he walked back through the darkening city streets, he whispered her name. "Delia..."
+He set the glass down harder than he intended, spilling whiskey across the coffee table. It pooled around the untouched glass of water.
+
+On the walk back through the dark streets, he whispered her name. "Delia..."
