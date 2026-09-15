@@ -4,12 +4,19 @@ Substantive revisions to published chapter prose. Contains spoilers. Newest chan
 
 Omit frontmatter-only changes, notes-only updates, and routine typo or formatting fixes unless they alter meaning or continuity.
 
+## 2026-09-15
+
+- **Chapter 17:** Tightened repeated descriptions and questioning while preserving the emotional aftermath, hospital waiting, word echoes, and Amber's relief at Ditto's return.
+- **Chapter 17:** Oak playfully reassures Amber and confirms Fuji's capture, replacing the obsolete account of losing consciousness and leaving his Pokemon to retaliate independently.
+
 ## 2026-09-14
 
+- **Chapter 16:** Restored transformation detail, combat pressure, Pokemon reactions, and pauses around Oak's injury and the final defeat; clarified attack launches, supporting moves, and movement between the yard and street.
 - **Chapters 10–15:** Reduced repeated emotional interpretation and tightened prose while repairing transitions between actions, observations, and thoughts.
 - **Chapter 15:** Retained battle atmosphere and Electabuzz's windmill motion, let Smokescreen conceal the exchange from Amber, and clarified her perception and recovery during the earthquake.
 - **Chapters 10 and 12:** Kaede, Hiro, and Stephen are named only after Amber learns their names; Chapter 10 connects prepared medicine to Hiro's improvement with an explicit first dose.
 - **Chapter 6:** Tightened repeated emotional interpretation and description, repaired connections between actions and thoughts, and restored the Game Corner entrance's Las Vegas-like neon and slot-machine atmosphere.
+- **Chapter 16:** Clarified Oak reboarding Dragonite with the children and identified him as the speaker monitoring the evacuation.
 - **Chapter 10:** Removed the remaining caffeine buzz/crash references and their associated symptoms; Amber still dozes on the train without a stimulant explanation.
 - **Chapters 1–3:** Revised Amber's early reactions, retitled Chapter 2 "A Dream," and connected its questioning ending to Chapter 3's rejection of the dream explanation.
 - **Chapters 4–7:** Revised Amber's battle reasoning and early city interactions, made the failed-Mew-clone explanation explicitly her theory, and lowered the Gym spectator pass to ₽10.

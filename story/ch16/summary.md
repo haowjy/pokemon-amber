@@ -9,7 +9,7 @@ title: "Chapter 16 Summary"
 description: "Brief plot summary for Chapter 16."
 status: draft
 created: 2025-09-21
-updated: 2025-10-12
+updated: 2026-09-15
 ---
 
 # Chapter 16 - Summary
@@ -31,9 +31,11 @@ Professor Oak extracts the kids on Dragonite and confronts Dr. Fuji; Ditto becom
 *   Fuji injects a pink serum into Magmar; its body grotesquely mutates (cannon‑like arm) and Overheat injures Oak.
 *   Tauros guts through status with Facade; Earthquake and coordinated pressure begin to swing momentum.
 
-### 4. Turning point:
-*   Ditto flickers and reverts; Oak's team, enraged, forces Fuji back as officers evacuate neighbors.
-*   The battlefield stabilizes with Oak's trio in control and Fuji's options narrowing.
+### 4. Final exchange and aftermath:
+*   Ditto reverts after Overheat, and Oak's team stops to look toward the smoke. Oak emerges burned but conscious.
+*   Once the neighbors are clear, Oak orders Tauros's Earthquake and Arcanine's Giga Impact against Magmar while Exeggutor throws Fuji clear.
+*   Magmar falls, and Fuji unsuccessfully orders Ditto to attack again. Oak recalls the unresisting Ditto.
+*   Oak examines Magmar, finding no breath or pulse, then looks at the broken syringe. He does not lose consciousness during this ending.
 
 ## Potential speculation:
 *   **Unstable bio‑augmentation:** The serum hints at weaponized research (Team Rocket or related), raising stakes for future conflicts.

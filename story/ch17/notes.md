@@ -2,12 +2,36 @@
 description: Chapter 17 notes
 hidden: true
 status: draft
-updated: 2026-08-11
+updated: 2026-09-15
 ---
 
 # Chapter 17 - Notes
 
 - Story: ./chapter17.md
+
+## Revision Anchors
+
+The author approved this selective revision on 2026-09-15. It follows a return
+to the pre-cut wording and a passage-by-passage assessment. Do not resume the
+earlier broad style-cut draft.
+
+Preserve the emotional turns, not only the events: Delia's searching and
+collapse, Ash's grief within the fights, Jenny's withdrawal of reassurance,
+Oak's warmth, the felt return of Ditto, and Amber's private lore interest and
+unguarded excitement. Do not explain the reasons for Jenny's withdrawal or
+Delia's avoidance, or disclose Oak's prior knowledge to Amber.
+
+The earlier draft's identifying scratch on Ditto's ball is not in the approved
+prose. Chapter 18's unapproved draft also uses that detail; review the connection
+there rather than treating it as established canon that must be seeded here.
+
+## Battle Account Continuity
+
+Oak remains conscious after Overheat in Chapter 16 and directs the final
+Earthquake, Giga Impact, and Psychic displacement of Fuji once the neighbors
+are clear. He then recalls Ditto and examines Magmar. His Chapter 17 account
+must not claim a blackout or an independently retaliating team. The earlier
+memory-loss dialogue was stale continuity, not intentional deception.
 
 ## Seeded Beats (For Future Payoff)
 
