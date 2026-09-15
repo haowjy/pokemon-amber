@@ -8,108 +8,110 @@ updated: 2026-08-07
 
 # \[Chapter 13\] A Very Reasonable Man
 
-A winding path cut through the trees on Pallet Town's outskirts. Dr. Fuji fidgeted on a fallen log, where he'd spent the afternoon, a manila folder gripped tightly in his lap. The wine stood upright in the leaf litter by his shoe, most of the way down.
+A winding path cut through the trees on Pallet Town's outskirts. Dr. Fuji sat on a fallen log, a folder in his lap. The wine stood upright in the leaf litter by his shoe, most of the way down.
 
-Through the branches, Oak's lab silhouetted against the afternoon sky. Champion Oak. Professor Oak now. The grant ceremony seemed a lifetime ago---Oak's firm handshake, flashing cameras, admiring looks. 
+From the log, he could see Oak's lab through the branches, silhouetted against the afternoon sky. Champion Oak. Professor Oak now. He still remembered the man at the grant ceremony: the firm handshake, the flashing cameras, the admiring looks.
 
-Yet here Dr. Fuji sat, overshadowed while Oak transitioned from victory to victory, as if remaking a life were as simple as a title change.
+Yet here Dr. Fuji sat while Oak moved from victory to victory, as if remaking a life were as simple as changing titles.
 
-He spread the folder's contents across the damp bark: surveillance reports from Domino mixed with photos old and new. The older ones, soft-edged from years of handling, showed happier times---their wedding day, beach trips with little Amber building sandcastles, family picnics in the summer sun.
+He spread the folder's contents across the damp bark: Domino's surveillance reports mixed with photographs old and new. The older ones, soft-edged from years of handling, showed their wedding day, beach trips with little Amber building sandcastles, family picnics in the summer sun.
 
-The newer photos captured Delia around her restaurant, in her garden, and walking through town. His fingers trembled slightly as he sifted through them. He found a few that stood out: Delia laughing at her garden gate, Stephen's arm draped her shoulders.
+The newer photographs captured Delia at her restaurant, in her garden, walking through town. His fingers trembled as he found one of her laughing at the garden gate, Stephen's arm draped over her shoulders.
 
 "Just a reasonable discussion," he muttered, taking out his pen. The ink moved methodically across Stephen's face. "Man to man. You must understand that Delia and I..." His hand pressed harder, the pen tip catching on the glossy surface. "We kind of have a history."
 
 He reached down for the bottle without looking, drank, and set it back in the leaves.
 
-Another photo. Stephen and Delia at some local festival together. His pen dug into the paper, scratching violently until it tore through. "I'm not being unreasonable." The next one---their garden. His fingers seized the edge of Stephen's figure and ripped, the sound sharp in the quiet afternoon. "I just need you to understand..." He was tearing them now, hands shaking as pieces fell around his feet like strange confetti. "...that you're in the way of something bigger than yourself."
+Another photograph. Stephen and Delia at some local festival together. His pen dug into the paper until it tore through. "I'm not being unreasonable." The next one showed them in the garden. He seized the edge of Stephen's figure and ripped. "I just need you to understand..." He was tearing them now, pieces falling around his feet. "...that you're in the way of something bigger than yourself."
 
-A young trainer passed by with her Rattata, giving him an uncertain glance before hurrying on. The sound of footsteps pulled Dr. Fuji from his frenzy, and he quickly gathered the scattered pieces, stuffing them back into the folder. 
+Footsteps interrupted him. A young trainer passed with her Rattata, giving him an uncertain glance before hurrying on. He gathered the scattered pieces and stuffed them into the folder.
 
-His hands steadied as he checked his watch. Soon. Stephen took this path to the lab, so he'll probably take the same path back. Just two reasonable men, having a discussion about Delia's future.
+Once she was out of sight, he checked his watch. Aparently Stephen took this path to the lab at dawn; he would have to come back sometime. It was already afternoon. How much longer could it be?
 
-The shadows had shifted since dawn, when he'd first noticed Stephen walking this path. Dr. Fuji's legs had gone numb hours ago, but he barely registered the discomfort. 
+His legs had gone numb on the log, but he stayed where he was. He only needed a few minutes with Stephen. Just two reasonable men having a discussion about Delia's future.
 
-Last night's confrontation in Delia's garden replayed incessantly, each memory morphing into something more twisted. Her accusations of "trying to play god," her dismissal of his life's work as just "another experiment," the disdain she'd looked at Amber like she was a mere *thing* instead of their daughter---it all twisted into something darker with each echo. And that final command to leave their property? As if he were just some stranger disrupting her perfect little life with her *lab assistant*.
+He tried rehearsing his opening again, but kept hearing Delia's words from last night instead. She had accused him of "trying to play god," dismissed his life's work as "another experiment," looked at Amber as though she were a mere *thing* instead of their daughter. Then she'd ordered him off their property, as if he were some stranger disrupting her perfect little life with her *lab assistant*.
 
 He'd been tenured at Celadon University while Stephen was probably still fumbling with undergraduate chemistry sets, pioneering genetic research while this... this *lab assistant* was likely still trying to memorize the basic type chart.
 
-He'd spent the day here, watching Oak's lab through the trees, watching the path, shuffling through his photos until the edges went soft. The bottle beside his shoe was empty.
+There was still no sign of Stephen. Fuji opened the folder again and shuffled through the photographs, their edges going soft with all the handling. The bottle beside his shoe was empty now.
 
 That cheerful blue house of hers, with its wooden swing and carefully tended garden beds, kept swimming before his eyes. Such *pastoral mediocrity*. Yet she'd chosen that---chosen Stephen---over everything he'd accomplished, everything he'd promised her he'd do.
 
-The sound of footsteps along gravel pulled him from his spiral. Stephen was right on schedule, probably heading home to make dinner in that cozy kitchen. The sight of him sent a wave of static through Dr. Fuji's mind, drowning out the words he'd rehearsed all day. His hand found a Pokeball in his pocket, fingers trembling slightly.
+Footsteps sounded on the gravel. Stephen was right on schedule, probably heading home to make dinner in that cozy kitchen. The words Dr. Fuji had rehearsed all day deserted him. His hand found a Pokeball in his pocket.
 
 He stood. The bottle went over in the leaves behind him and he left it there.
 
 "Hey." Dr. Fuji's voice broke as he stepped onto the path. "We need to talk about Delia."
 
-Stephen stopped, briefcase shifting in his grip. His expression was guarded, but not yet afraid. 
+Stephen stopped, his briefcase shifting in his grip.
 
-"Dr. Fuji." He spoke like someone approaching a wounded Pokémon. "What you're doing with that child... Delia told me everything about Amber. About what happened. I understand what you went through, but---"
+"Dr. Fuji." He spoke like someone approaching a wounded Pokemon. "What you're doing with that child... Delia told me everything about Amber. About what happened. I understand what you went through, but---"
 
-"Understand?" The word tasted like acid. "You understand?" Dr. Fuji's hand tightened around the Pokeball. The static in his head crescendoed, drowning out whatever patronizing comfort this *lab assistant* thought he could offer. "I was reconstructing genetic sequences while you were still learning how to operate a centrifuge. I brought our daughter back while you were... what? Filing reports? Cleaning test tubes?"
+"Understand?" Dr. Fuji's hand tightened around the Pokeball. "You understand? I was reconstructing genetic sequences while you were still learning how to operate a centrifuge. I brought our daughter back while you were... what? Filing reports? Cleaning test tubes?"
 
-"Sir, please." Stephen set his briefcase down slowly, his hand moving toward his neck, but paused as he felt nothing. "You're not thinking clearly. Why don't we---"
+"Sir, please." Stephen set his briefcase down slowly. He reached toward his neck, then patted his shirtfront. "I was a trainer and soldier. But that's besides the point. You're not thinking clearly. Why don't we---"
 
 "I brought her back!" The words burst out of him. "I did what no one else could do, what they said was impossible. And now you... you dare to judge me? To stand there in what should be *my* house, with my wife, while my daughter..."
 
-His hands clenched into claws at his sides, tendons bulging. For a moment, only his ragged breathing filled the air. When he spoke again, his voice stripped bare of any pretense.
+His hands clenched at his sides. For a moment, only his breathing filled the air.
 
 "Ditto!" The Pokeball arced through the air, exploding with red light, and releasing a small pink blob. "Protocol Five."
 
-The pink blob erupted upward like a geyser, twisting and contorting until a massive serpentine form blocked out the afternoon sun.
+The pink blob surged upward, twisting until a massive serpentine form blocked the afternoon sun.
 
 Stephen stumbled backward, fumbling in his pockets for a Pokeball. "Poliwag, help---"
 
-The tiny tadpole materialized, looking pitifully fragile under Ditto-Gyarados's coiled form. A tremor shook the great serpent's body---hesitation, or resistance?---but Dr. Fuji's next words cut through the air like a knife:
+The tiny tadpole materialized beneath Ditto-Gyarados's coils. A tremor passed through the great serpent's body.
 
 "Dragon Rage."
 
-The pink-purple flames roared through the afternoon air. The Poliwag tried to dodge, but the attack's ferocity left nowhere to go. The blast engulfed the area, kicking up dust and debris.
+Pink-purple flames engulfed the path. Poliwag tried to dodge and vanished into the blast.
 
-When the dust cleared, Poliwag lay motionless in a scorched crater. Stephen was already running forward, reaching for his fallen Pokémon. "Poliwag! Are you---"
+When the dust cleared, Poliwag lay motionless in a scorched crater. Stephen ran for it. "Poliwag! Are you---"
 
 "Hyper Beam."
 
-Ditto-Gyarados's massive form shuddered. For a heartbeat, its eyes met Stephen's-and in them was something almost human. The great serpentine body coiled backward, resisting.
+Ditto-Gyarados shuddered. Its eyes met Stephen's. The serpentine body coiled backward, scales trembling.
 
-"I said Hyper Beam!" Dr. Fuji's voice cracked with hysteria as he pointed towards the only obstacle remaining. "NOW!"
+"I said Hyper Beam!" Dr. Fuji's voice cracked as he pointed towards the only obstacle remaining. "NOW!"
 
-Another heartbeat of resistance-scales trembling, eyes squeezed shut-then a white-hot beam erupted from its maw.
+Its eyes squeezed shut. Then a white beam erupted from its maw.
 
-The blinding light of Hyper Beam carved a trench through the earth. As the devastating attack subsided, the forest path transformed into a scorched corridor shrouded in darkness. Steam wafted from the charred ground, and the acrid tang of ozone pervaded the air.
+Hyper Beam carved a trench through the earth. When the light subsided, dust and steam hid the far end of the scorched path.
 
-Ditto-Gyarados wavered, its massive form beginning to lose cohesion as patches of pink showed through the blue scales. Dr. Fuji walked forward through the devastation, shoes crunching on scorched earth. He stopped at the edge of the impact zone, where Stephen's body lay crumpled beside Poliwag.
+Ditto-Gyarados wavered, patches of pink showing through its blue scales. Dr. Fuji walked along the trench until he found Stephen crumpled beside Poliwag.
 
-His foot nudged the man and the small tadpole Pokémon. He briefly glanced back at the giant serpentine monster behind him, annoyance clearly visible on his face. "Ditto. Why did you hold back? Finish them. Bite."
+He nudged the man and the small tadpole Pokemon with his shoe, then looked back. "Ditto. Why did you hold back? Finish them. Bite."
 
-The great serpentine form shuddered, scales rippling as Ditto fought against the command. Its eyes, still holding that terrible awareness, squeezed shut.
+The great serpentine form shuddered. Its jaws stayed closed.
 
 Silence stretched between them, broken only by the soft crackle of burning grass.
 
-"I... created... you." Dr. Fuji whispered dangerously. Ditto's form wavered further, pink seeping through the scales as its transformation began to collapse. "You exist because of me. How dare you defy me now?"
+"I... created... you." Pink spread through Ditto's scales as its transformation began to collapse. "You exist because of me. How dare you defy me now?"
 
-The great serpentine form trembled, then began to shrink, refusing the command. Dr. Fuji's face twisted with rage as he raised the Pokeball.
+The great serpentine form trembled, then began to shrink. Dr. Fuji raised the Pokeball.
 
 "Useless." His hand shook as he recalled the Ditto. "Mewtwo killed twenty-three of Team Rocket's best scientists the moment it awoke. But you act like you're a..."
 
-He stared down at Ditto's Pokeball for a long moment, something flickering behind his eyes. Then his other hand moved to a different ball, and whatever had passed across his face vanished completely.
+He stared down at Ditto's Pokeball. Then his other hand moved to a different ball.
 
-"Magmar." His voice was steady now, almost serene. The fire Pokémon materialized in a flash of red light, its flame-wreathed form casting dancing shadows across the scorched earth. "Incinerate the bodies. Leave nothing."
+"Magmar." His voice was steady now. The fire Pokemon materialized in red light. "Incinerate the bodies. Leave nothing."
 
-The Magmar's flames ignited instantly, no hesitation, no flicker of doubt---just pure mechanical obedience. Its maw opened, and blue-white fire roared forth with devastating intensity.
+Magmar opened its maw. Blue-white fire swallowed Stephen and Poliwag.
 
-Dr. Fuji watched dispassionately, hands clasped behind his back, as Magmar's flames devoured the fallen Stephen and Poliwag.
+Dr. Fuji watched with his hands clasped behind his back.
 
 He brushed some ash from his sleeve. "Unfortunate, but necessary." He spoke softly to himself as he turned away. "I'll need to console Delia. She'll understand. She has to."
 
-The late afternoon sun cast long shadows as he drove through Pallet Town's dirt paths. Nearing Delia's house, he caught a glimpse of her through the hedgerow-kneeling in the garden, meticulously tending her flower beds.
+He left the scorched path and returned to his car. By the time he drove back into Pallet Town, the late afternoon sun was casting long shadows across the road. Nearing Delia's house, he caught a glimpse of her through the hedgerow, kneeling in the garden and tending her flower beds.
 
-Dr. Fuji's hands tightened on the steering wheel, then deliberately relaxed. No, this wasn't right. Not like this, still smelling of smoke. Delia deserved better. This was, after all, a reunion.
+Dr. Fuji's hands tightened on the steering wheel. No, this wasn't right. Not like this, still smelling of smoke. Delia deserved better. This was, after all, a reunion.
 
-As he watched her tend the garden, memories of their university days flooded back. He'd spent months in the greenhouse, painstakingly cross-breeding varieties until he created the perfect hybrid dahlia-a delicate pink bloom with golden-tipped petals spiraling inward like a mathematical dream, made just for her. When he proposed, the entire conservatory was filled with them.
+Watching her among the flower beds, he remembered the dahlias he'd made for her at university. Months of cross-breeding had produced the perfect hybrid: a delicate pink bloom with golden-tipped petals spiraling inward. When he proposed, the entire conservatory was filled with them.
 
-He'd failed her then, somehow. Been too absorbed in his work, perhaps. Not presented himself properly. But now... now he could do things right.
+Somewhere after that, he'd failed her. Been too absorbed in his work, perhaps. Not presented himself properly. But now... now he could do things right.
 
-He drove past without slowing. First, he needed better clothes. Maybe some of the best wine. And dahlias. Were there any in Pallet Town? If not, surely the florists in Viridian City would have something suitable. He could return later, properly dressed and
+He drove past without slowing. First, he needed better clothes. Maybe some of the best wine. And dahlias. Were there any in Pallet Town? If not, surely the florists in Viridian City would have something suitable. He could return later, properly dressed and prepared. Do things right this time. Do things right again.
+
+Behind him, in the distance, a column of smoke still rose from the forest path near Oak's laboratory.

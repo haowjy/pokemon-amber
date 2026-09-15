@@ -8,11 +8,13 @@ updated: 2026-07-28
 
 # \[Chapter 10\] Side Quest: Complete!
 
-The girl on the ground continued to sob, each heaving breath sending fresh waves of spores spinning into the afternoon light. My nose itched in sympathy. We'd run much deeper into the Game Corner than I'd thought. The neon signs above buzzed more intermittently here, their promises of miracle cures feeling more desperate than enticing.
+The girl on the ground continued to sob, each heaving breath sending fresh waves of spores spinning into the afternoon light. My nose itched in sympathy.
 
-"Your brother?" Mary's voice remained steady, though her grip on my shoulder tightened slightly. "Tell us about him."
+With the chase over, I finally had a chance to look around. Half the neon signs above us had stopped buzzing. We'd run much deeper into the Game Corner than I'd thought.
 
-"He's---" Another sneeze interrupted her explanation, and I watched as Mary instinctively moved to help her sit up. "He's only six, and the hospital said---" She broke off, wiping her nose with her sleeve. "They said they couldn't do anything without proper registration, but we don't have---we can't---"
+"Your brother?" Mary kept a hand on my shoulder. "Tell us about him."
+
+"He's---" Another sneeze interrupted her explanation, and I watched as Mary instinctively moved to help her sit up. "Hiro's only six, and the hospital said---" She broke off, wiping her nose with her sleeve. "They said they couldn't do anything without proper registration, but we don't have---we can't---"
 
 Healthcare. Right. In all my hours of playing Pokemon, healing had just been a cheerful jingle at a Pokemon Center. I'd never thought about human hospitals here, or if they were as nightmarish about insurance as back in my world.
 
@@ -20,49 +22,41 @@ Healthcare. Right. In all my hours of playing Pokemon, healing had just been a c
 
 The girl's eyes darted between us, and then to her fallen bag. "You won't... you're not going to report me?"
 
-I stepped forward, suddenly very aware of how the oversized dress Dr. Fuji insisted I wear made me look even smaller than I was. "We want to understand. That's all."
+I stepped forward. The oversized dress Dr. Fuji insisted I wear made me look even smaller than I was. "We want to understand. That's all."
 
-Kaede's red-rimmed eyes flickered to me for just a moment, then slid past me to Mary.
+The girl's red-rimmed eyes flickered to me for just a moment, then slid past me to Mary.
 
 "I'm Kaede," she said, pushing herself to her feet. Another sneeze nearly sent her back down, but Mary caught her arm. "He's... he's still at my apartment."
 
-As we followed Kaede deeper into the district, the electronic pulse of the Game Corner faded behind us. The neon became more sporadic, creating patches of shadow that seemed to breathe in the afternoon light. A Meowth watched us pass from atop a dumpster, but this one wasn't wearing the practiced swagger of the patrol pairs we'd seen earlier. Its ribs showed through matted fur, and its coin looked dull, almost tarnished.
+As we followed Kaede farther from the casinos, the neon signs grew fewer and the electronic music faded behind us. A Meowth watched us pass from atop a dumpster, but this one had none of the swagger of the patrol pairs we'd seen earlier. Its ribs showed through matted fur, and the coin on its forehead was dull with grime.
 
-The mechanical drone of industrial fans began to fill the air, along with other sounds I couldn't quite identify. A cry echoed from somewhere above-maybe a Pokemon, maybe just the wind through the increasingly decrepit buildings.
+The mechanical drone of industrial fans grew louder as we walked. A cry echoed somewhere above it, maybe a Pokemon, maybe wind between the buildings. I moved closer to Mary and rested my fingers over the release button on Ditto's occupied Pokeball. Bellsprout kept pace on her other side.
 
-Either way, it made me walk a little closer to Mary, my fingers absently finding Ditto's Pokeball and settling over the release button. I was grateful for Mary's steady presence and the watchful Bellsprout that moved silently alongside us.
-
-The neon grew sicker the deeper we went, bleeding into puddles of color that reflected off grimy windows and collected in the corners of weathered concrete. Signs that had promised "MIRACLE CURES!" and "INSTANT HEALING!" gave way to bare wires and empty frames, their desperate promises fading into the growing shadows of late afternoon.
-
-Kaede led us down a narrow passage between buildings, ducking under a web of power lines that hummed with angry electricity. A Grimer oozed past an overflowing dumpster, its amorphous body glistening sickly in the fading light. In the games, they'd always been these cute purple blobs with googly eyes-the kind of monster you could almost imagine hugging if you ignored the poison typing. The real thing was... well, let's just say there was a reason they thrived in urban decay, and it had nothing to do with being huggable.
+Kaede ducked beneath sagging power lines and led us past bare sign frames, cracked concrete, and an overflowing dumpster with a Grimer oozing around its base. In the games, Grimer had been a cute purple blob with googly eyes. Passing this one, I pulled my collar over my nose.
 
 "It's just up here," Kaede mumbled between sniffles, gesturing to a concrete building that looked like it had been designed by someone who really hated windows. "Third floor."
 
-The stairwell smell hit me like a physical force-a mix of mildew and something chemical that made my eyes water. Each step echoed off bare walls, creating a chorus of footfalls that seemed to mock how small we were in this space. Mary's Bellsprout wrapped one vine around the rusted railing as we climbed, like even it didn't trust the structural integrity of this place.
+The stairwell stank of mildew and something chemical that made my eyes water. Bellsprout looped a vine around the rusted railing as we climbed. I counted three flights and kept my thumb on Ditto's Pokeball.
 
-I found myself counting steps, mapping out escape routes like I used to plan dungeon crawls. Three flights up, two back down, factor in child-sized legs and likely encounter zones... The gaming habits were probably ridiculous, but they were keeping the panic at bay. My thumb hadn't left Ditto's Pokeball button since we'd entered the building, and right now I'd take whatever coping mechanisms I could get.
-
-Kaede fumbled with her keys at a door that had definitely seen better decades, probably back when Kanto was still considering color TV. Each clank of metal against metal echoed through the hallway like a countdown, making my fingers twitch against Ditto's Pokeball.
-
-The lock finally surrendered with a sound like grinding teeth, and the door creaked open to reveal... well, calling it an apartment felt generous. It was more like someone had taken the concept of "indoor space" and compressed it until only the bare essentials remained. A mattress occupied one corner, while a hot plate balanced precariously on a stack of milk crates served as the kitchen. The window-singular-was partially covered by cardboard, creating strips of late afternoon light that cut through the air like search beams.
+Kaede fumbled with her keys, then shouldered open the door. A mattress occupied one corner of the single room. A hot plate balanced on a stack of milk crates, and cardboard covered half the only window.
 
 An Oddish sat in the room's center, releasing gentle puffs of spores over a small figure huddled under a thin blanket. Each sparkle of golden dust made Kaede sneeze, but she moved forward anyway, kneeling beside what I now realized was her brother.
 
 The boy's breathing came in shallow waves, each exhale sending ripples through the golden spores that Oddish kept carefully releasing. Up close, I could see the sheen of sweat on his forehead, the way his fingers twitched restlessly against the thin blanket.
 
-Mary knelt beside the mattress, her expression shifting from trainer authority to something softer, more concerned. She studied the boy's face, then the cramped room with its cardboard-patched window and milk crate furniture. When she spoke, her voice was quiet but certain. "She's telling the truth."
+Mary knelt beside the mattress and studied the boy's face, then the cramped room. "She's telling the truth."
 
 Kaede's shoulders sagged with relief, though another sneeze quickly followed. "So you'll help? You won't take Oddish away?"
 
-Mary glanced at the grass Pokemon, who had paused in its spore production to fix her with a surprisingly stern look. For a moment, they seemed to have a silent conversation-gym trainer and Pokemon, each weighing obligations against necessities. Finally, Mary sighed.
+Mary glanced at the grass Pokemon. Oddish had paused its spore production to fix her with a stern look.
 
 "Oddish," Mary said, "let's return to the gym. Everyone's been worried sick."
 
-Kaede's shoulders slumped in helpless defeat, her previous desperation giving way to resignation. The faint wheezing from her brother Hiro seemed to echo in the tiny apartment.
+Kaede's shoulders slumped. Hiro wheezed beneath the blanket.
 
-"Od-Oddish!", Oddish, however, shook its head, leaves swaying with determined refusal. It pointed one stubby foot at Hiro, then resumed its gentle spore release.
+"Od-Oddish!" Oddish shook its head, pointed one stubby foot at Hiro, then resumed its gentle spore release.
 
-I watched Mary's face cycle through frustration, resignation, and finally determination. "Right," she said, pushing herself up. "Let's go get Erika. She'll know what to do."
+Mary stared at it, then pushed herself up. "Right. Let's go get Erika. She'll know what to do."
 
 She then turned to Kaede. "Stay here. Keep him comfortable. We'll be back as quick as we can."
 
@@ -70,21 +64,21 @@ We hurried down the creaking stairs, my shorter legs working double-time to keep
 
 \-\[v.v\]-
 
-The next hour passed in fragments. I vaguely remember Mary paying for train tickets, and then suddenly we were moving, the gentle sway of the carriage lulling me to sleep. My head drooped against the window, and for a precious few minutes, the world faded away entirely.
+The next hour passed in fragments. Mary paid for train tickets. Then we were moving, and the gentle sway of the carriage put me to sleep with my head against the window.
 
-I woke to Mary gently shaking my shoulder, the afternoon sun casting long shadows through the train windows. We hurried through Celadon's streets, where the day's business was still in full swing but had taken on that particular energy that comes when people start thinking about closing time. My shorter legs worked double-time to keep up with Mary's determined pace.
+I woke to Mary shaking my shoulder at our stop. We joined the crowd leaving the station and hurried toward the gym.
 
-The gym's ginkgo trees cast dappled shadows across the path, their leaves beginning to take on that golden late-afternoon glow. Instead of being stopped at the entrance, Mary led us straight through a side door I hadn't even noticed during my previous visits. A familiar greenhouse scents of soil and sweet grass filled my nose.
+The gym's ginkgo trees cast dappled shadows across the path. Instead of stopping at the entrance, Mary took us through a side door I hadn't noticed before. The familiar greenhouse scents of soil and sweet grass filled my nose.
 
-We wound through the now-familiar hallways of the gym. The sounds of battle echoed from multiple directions-a complex symphony of trainers calling moves, Pokemon responding, and the constant background rustle of various grass-types moving through their natural environment.
+We wound through the now-familiar hallways of the gym. The sounds of battle echoed from multiple directions: trainers calling moves, Pokemon responding, and grass-types rustling through their habitats.
 
-Mary led us toward what seemed to be the main arena. It was divided in two by a large retractable wall, with many bleachers on each side, each somewhat filled with people. Two battles were running simultaneously, and I caught a glimpse of Erika directing a Weepinbell through a rapid exchange. Mary paused at the edge of the window, her eyes tracking Weepinbell's movements with professional interest.
+Mary stopped at a window overlooking the main arena. A retractable wall divided it in two, with partly filled bleachers on both sides and a battle running in each half. Through the glass, I spotted Erika directing a Weepinbell through a rapid exchange.
 
 "We'll have to wait until she finishes with this challenger," Mary said, already moving toward a door marked 'Staff Only.' "It shouldn't be long."
 
-My heart did a little skip at those words. A real life gym challenge... Not the simplified turn-based battles from the games, nor the dramatic anime-style matches I'd watched growing up.
+My heart did a little skip. A real gym challenge, not turn-based combat or an anime battle edited around commercial breaks. I was about to watch the whole thing.
 
-The narrow corridor curved around the arena's edge, and as we emerged onto the bleachers on Erika's side, I could finally see my first real gym challenge battle.
+I followed Mary through the staff door and along a narrow corridor that curved around the arena. We emerged onto the bleachers on Erika's side, with a clear view of the field.
 
 Weepinbell moved with an almost dance-like grace, vines weaving intricate patterns, while the challenger's Golbat darted through the air like a living shadow, each wingbeat turning its body with startling precision.
 
@@ -96,21 +90,21 @@ With a piercing "SCREEE!", Golbat shot upward, nearly brushing the gym's high ce
 
 Erika's eyes narrowed. "Stun Spore, wide dispersion!" she commanded. Weepinbell's bell-shaped body pulsed, releasing a glittering cloud that began spreading through the air.
 
-"Stop! Split the cloud! Gust!" The trainer quickly reacted. Golbat's wings snapped wide, arresting its dive with shocking precision. With a harsh "SCREEE!", it began beating its wings powerfully, creating violent air currents that tore the spore cloud apart before it could settle.
+"Stop! Split the cloud! Gust!" the challenger called. Golbat's wings snapped wide, arresting its dive with startling precision. Powerful wingbeats tore the spore cloud apart before it could settle.
 
 "Wrap and Acid!" Erika called. Weepinbell's vines shot out like lightning, but Golbat was already banking hard, its wingspan allowing for tight turns that kept it just out of reach. A spray of Acid splashed harmlessly against the wall.
 
-"Acid spray, full coverage!" Erika commanded sharply, but Weepinbell was still shaking off the Screech's effects. Its spray went wide, and in that split second of disorientation, Golbat struck again, wings flashing. This time its attack connected solidly.
+"Acid spray, full coverage!" Erika commanded, but Weepinbell was still shaking off the Screech's effects. Its spray went wide. Golbat struck again, and this time the attack connected solidly.
 
 Weepinbell let out a pained "BEEEELL!" as it tumbled backward. Though it righted itself quickly with its vines, I could see the battle was turning.
 
-"Circle around for Wing Attack!" The challenger pressed their advantage, their Golbat's wings cutting sharp crescents through the humid greenhouse air.
+"Circle around for Wing Attack!" The challenger pressed the advantage. Golbat's wings cut sharp crescents through the humid greenhouse air.
 
-Erika didn't flinch. She watched, perfectly still, as the bat Pokemon banked into position. Three heartbeats passed. Then-
+Erika watched the bat Pokemon bank into position. Three heartbeats passed. Then---
 
 "Wrap, then slam!"
 
-Weepinbell's vines shot out like striking Ekans, snaring Golbat mid-dive. The poison-type didn't resist \- instead, it used the bat's own momentum, redirecting that speed into a whiplashing arc that ended with a thunderous crash against the arena floor. Golbat's pained "SCREE!" echoed off the glass walls.
+Weepinbell's vines snared Golbat mid-dive. Instead of stopping the bat, Weepinbell swung with its momentum and slammed it into the arena floor. Golbat's pained "SCREE!" echoed off the glass walls.
 
 "Break free with Bite!" Golbat's fangs clamped onto the vine, causing Weepinbell to release its grip with a sharp "WEE!". The bat launched skyward again, wobbling slightly.
 
@@ -118,37 +112,37 @@ Weepinbell's vines shot out like striking Ekans, snaring Golbat mid-dive. The po
 
 "Bank left, then Leech Life!" Golbat wheeled away from the powder, its fangs glowing as it dove. The strike connected, draining some of Weepinbell's remaining energy while restoring its own.
 
-Erika's eyes flashed. "Vine trap and Acid!" Two vines shot out, crossing to form an X. For a moment, Golbat was caught in the intersection-just long enough for a direct hit with Acid.
+"Vine trap and Acid!" Two vines crossed into an X. Golbat caught at the intersection just long enough for a direct hit with Acid.
 
-But the challenger had been waiting for Weepinbell to commit. "Endure and supersonic!"
+But the challenger had been waiting for Weepinbell to commit. "Endure and Supersonic!"
 
-Despite its burned wings, Golbat's resistance to poison let it hold firm in the vine trap and unleashed waves of disorienting energy at point-blank range. Weepinbell swayed, its vines going slack as confusion set in.
+Despite its burned wings, Golbat's resistance to poison let it hold firm in the vine trap and unleash waves of disorienting energy at point-blank range. Weepinbell swayed, its vines going slack as confusion set in.
 
 "Shake it off! Get back!" Erika called, but Weepinbell's vines whipped wildly, striking itself in its confused state.
 
-"Now, Wing Attack!" As Weepinbell reeled from its self-inflicted hit, Golbat powered through its pain for one final strike. The impact sent Weepinbell spinning across the floor. This time, it didn't get back up, it's eyes swirling.
+"Now, Wing Attack!" As Weepinbell reeled from its self-inflicted hit, Golbat powered through its pain for one final strike. The impact sent Weepinbell spinning across the floor. This time, it didn't get back up, its eyes swirling.
 
 "Weepinbell is unable to battle!" the referee announced.
 
-Two gym trainers quickly moved onto the field to carefully lift the unconscious Weepinbell onto a stretcher. I frowned slightly, wondering why Erika didn't just use a Pokeball to return it.
+Two gym trainers moved onto the field and lifted the unconscious Weepinbell onto a stretcher. Why didn't Erika just return it to its Pokeball? Was that a Gym rule, or did being knocked out make recall unsafe somehow?
 
-But my attention was drawn to back to the battle as Erika published her Tangela. The challenger's Golbat was still airborne, but its wingbeats seeming labored after the hits, and its earlier exertions were starting to show. The challenger frowned as he studied their exhausted Pokemon.
+Erika released her Tangela. The challenger's Golbat was still airborne, but its wingbeats had turned labored after the Acid and the slam.
 
 "Final round!" the referee called, readying his flags. "Begin!"
 
 "Tangela, Ingrain!" At Erika's command, Tangela let out a deep "TANG!" as a mass of vines burrowed into the arena floor, anchoring itself.
 
-"Don't give it time-Golbat, Screech then Wing Attack!" The challenger pressed their advantage against the immobile target. Golbat's "SCREEEEEE!" made everyone wince as it dove toward Tangela.
+"Don't give it time---Golbat, Screech then Wing Attack!" The challenger went after the immobile target. Golbat's "SCREEEEEE!" made everyone wince as it dove toward Tangela.
 
-"Stun Spore-blanket the air!" Erika's command cut through the fading echoes. Some of tangela's vines writhed in response, releasing a shimmering cloud of yellow-gold spores that filled the space between the combatants. The challenger's lips curved into a smile.
+"Stun Spore---blanket the air!" Some of Tangela's vines writhed, releasing a shimmering cloud of yellow-gold spores between the combatants. The challenger smiled.
 
-"Same as before-Gust!" the challenger called confidently. Golbat's wings spread wide, ready to disperse the spores.
+"Same as before---Gust!" the challenger called. Golbat's wings spread wide.
 
-But suddenly vines erupted from the floor behind Golbat, where they'd been quietly spreading during the Ingrain. The unexpected attack disrupted Golbat's wingbeats, forcing it through part of the spore cloud. Its wings stiffened instantly, sending it tumbling through the air.
+Vines erupted from the floor behind Golbat. They'd been spreading through the arena during Ingrain. One caught a wing and knocked Golbat through the edge of the spore cloud. Its wings stiffened, sending it tumbling.
 
 "Now, Constrict into Giga Drain!" More vines shot out, wrapping around the paralyzed Golbat before it could recover. Green energy began flowing through the vines as Tangela drained its opponent's strength.
 
-"Break free with Bite!" the challenger called desperately, but Golbat's paralyzed state made it too weak. As Tangela continued draining its energy, the bat's struggles grew weaker.
+"Break free with Bite!" the challenger called desperately, but paralysis slowed Golbat's jaws. As Tangela continued draining its energy, the bat's struggles weakened.
 
 "Finish with Vine Whip!" Multiple vines lashed out simultaneously, striking Golbat from several angles. With a final weak "scree...", Golbat's eyes turned to swirls. Tangela's vines gently unwound, lowering the defeated Pokemon to the arena floor.
 
@@ -156,7 +150,7 @@ But suddenly vines erupted from the floor behind Golbat, where they'd been quiet
 
 'Wait... gym trainer?'
 
-The challenger rushed forward to check on their fallen Pokemon, cradling it gently. "You fought amazingly," they murmured as he helped to put it on the stretcher.
+The challenger rushed forward and cradled the fallen Golbat. "You fought amazingly," he murmured as he helped place it on the stretcher.
 
 Erika nodded to her Tangela with a soft smile. "Thanks for the hard work." The Tangela responded with a happy "Tang!" before being returned to its Pokeball in a flash of red light.
 
@@ -168,41 +162,31 @@ Mary looked at me like I was an idiot. "She's way too young to be Gym Leader."
 
 I didn't get the chance to follow up before we joined Erika in the Staff hallway.
 
-"Tell me everything," Erika commanded as we walked, her battle-worn demeanor bleeding into her words. "That should be my last challenger for today, so we have time."
+"That should be my last challenger for today." Erika said as we walked. "So what did you find?"
 
-Mary quickly outlined what we'd found: Kaede's theft wasn't corporate espionage, but a desperate attempt to help her brother Hiro in the 'Factory Ward.' "The kid's really sick-fever or something. Our Oddish won't leave him."
+Mary quickly outlined what we'd found: Kaede's theft wasn't corporate espionage, but a desperate attempt to help her brother Hiro in the 'Factory Ward.' "The kid's really sick---fever or something. Our Oddish won't leave him."
 
-Erika's stern expression shifted as Mary spoke. When she heard the symptoms, her eyes sharpened with recognition. "Sludge Fever," she said, her voice taking on a clinical tone. "It's been spreading through the Factory Ward again." She quickened her pace. "We need to move fast. The longer we wait with Sludge Fever..." She didn't finish the sentence.
+At the description of Hiro's symptoms, Erika quickened her pace. "Sludge Fever. I guess its spreading through the Factory Ward again..."
 
-I noticed how her earlier formality had completely vanished, replaced by focused urgency.
-
-Erika paused as we passed the main arena again, watching a maintenance crew prepare it for tomorrow's matches. "It's a bit of a shame that it wasn't corporate espionage," she remarked to Mary. "The publicity would've been great for my future gym leader claim."
-
-Mary nodded, understanding clear in her expression.
+Erika paused as we passed the main arena again, watching a maintenance crew prepare it for tomorrow's matches. "It's a bit of a shame that it wasn't a spy," she remarked to Mary. "The publicity would've been great for my future gym leader claim."
 
 'Ah, this was before Erika became gym leader. That made sense.'
 
-Before we left the whole gym grounds, Erika made a brief detour to one of the smaller greenhouses, not the grand one I'd trespassed in earlier. She moved with practiced efficiency, stuffing various herbs and berries into a simple leather pouch. The scents mixed together-sharp, sweet, medicinal-creating something that reminded me of a traditional pharmacy. Even in her haste, she handled each plant with precise care.
+Before we left the gym grounds, Erika took us into one of the smaller greenhouses, not the grand one I'd trespassed in earlier. Mary and I waited by the door while she gathered herbs and berries into a leather pouch. By the time she rejoined us, I could smell the mix: sharp and sweet and medicinal.
 
-We hurried through Celadon's crowded rush hour streets to catch the train. The setting sun painted long shadows between the buildings, and the factory district's smokestacks looked particularly ominous against the orange sky. The train car fell quiet as we entered an industrial sector, as if the very air grew heavier.
-
-Through the window, I watched in growing unease as the bright signs of the shopping district faded away. I'd slept through this transition on our way out earlier, but the stark industrial landscape was like entering an entirely different city.
-
-Even the few other passengers seemed to hunch their shoulders, as if trying to make themselves smaller in the thickening air.
+We hurried through Celadon's rush-hour streets to catch the train. Through the window, I watched the shopping district give way to smokestacks and stained concrete. I'd slept through the transition earlier. It really was like entering another city.
 
 \-\[v.v\]-
 
-The apartment's stairwell was even darker than I remembered, the bare concrete steps echoing with each step. Mary led the way, with Erika following close behind, her expression focused as she pulled various herbs and supplies from the leather bag.
+The apartment's stairwell was darker than I remembered. Mary led the way while Erika checked the contents of her leather bag.
 
 When we entered the small room, the Oddish was still there, releasing waves of Sweet Scent over Hiro's thin mattress. The boy's breathing was labored, each inhale a concerning whistle. Kaede sat beside him, gripping his hand, her eyes red and puffy.
 
-Erika didn't hesitate. She knelt beside Hiro, one hand checking his pulse while the other tested his forehead. Her movements reminded me of a veteran trainer checking a Pokemon's condition-quick, for sure, born from experience.
+Erika knelt beside Hiro, checked his pulse, then tested his forehead. Her hands were quick and sure.
 
-Kaede kept sneezing and rubbing at her reddened eyes. Between the stress and whatever was making her eyes water, she looked absolutely miserable. "I've been trying everything else for weeks," she managed, voice thick. "The Oddish... it helps him breathe better than anything else we tried."
+Kaede kept sneezing and rubbing at her reddened eyes. "I've been trying everything else for weeks," she managed, voice thick. "The Oddish... it helps him breathe better than anything else we tried."
 
-She hadn't moved an inch from her brother's side, despite whatever was affecting her. I wondered if it was the industrial air in this part of town, or maybe the stress was just getting to her. Either way, her dedication was clear.
-
-Mary's voice was gentle, but her question cut through the room like a knife: "Is this why you stole Oddish?"
+"Is this why you stole Oddish?" Mary asked.
 
 Kaede sniffed up a thick glob of snot before looking down guiltily. With a soft whisper, she responded, "Yes... I thought I could make HP UP to extend his life..."
 
@@ -210,29 +194,27 @@ Mary's eyes widened. "That's not---" She caught herself, softening her tone. "HP
 
 Kaede's eyes widened in horror. She looked at the Oddish, then back at her brother. "I... I almost..."
 
-"You were desperate," Erika cut in, not looking up from her work. Her hands moved swiftly, crushing leaves into a fine powder. "But now we can help properly. Mary, could you bring that mortar closer? And hold the vial steady-yes, just like that."
+"You were desperate," Erika cut in, not looking up from her work. Her hands moved swiftly, crushing leaves into a fine powder. "But now we can help properly. Mary, could you bring that mortar closer? And hold the vial steady---yes, just like that."
 
-The mixture they created had a sharp, clean scent that cut through the industrial air. As Erika worked, I noticed Hiro's breathing becoming less labored, though Kaede's sneezing seemed to intensify.
+The mixture they created had a sharp, clean scent. Erika administered the first dose, then stayed beside Hiro to watch his breathing. It gradually eased while Oddish continued releasing Sweet Scent.
 
 "The Oddish can stay," Erika said, writing something on official-looking paperwork. "It's got good instincts. But you'll need to bring him to the gym's medical wing every other day for the next two weeks."
 
-Erika paused, looking around the small room-taking in the thin mattress, the bare walls, the single window clouded by factory smoke. She sighed. "I assume you don't have insurance?"
+Erika looked around the small room: thin mattress, bare walls, one window clouded by factory smoke. "I assume you don't have medical insurance?"
 
 Kaede shook her head, shoulders slumping.
 
-Another sigh from Erika as she looked down at the crushed herbs in her mortar. For a moment, she seemed to be calculating something. Then her expression softened, just slightly. "It's free. The herbs grow in our greenhouse anyway." She tapped her pen against the paperwork before adding, "Just... don't mention this to anyone. The gym has procedures."
+Erika looked down at the crushed herbs in her mortar. "It's free. The herbs grow in our greenhouse anyway." She tapped her pen against the paperwork. "Just... don't mention this to anyone. The gym has certain procedures."
 
 Relief flooded Kaede's face, even as another sneeze wracked her body. Through tears and snot, she thanked Erika, "Thank you. Thank you so much."
 
-Mary began packing up the supplies, a small smile playing at her lips. I noticed she was careful to keep her face turned away from Erika, as if worried her approval might somehow make the gym trainer change her mind.
+Mary began packing the supplies with her face turned away from Erika. I caught the edge of her smile anyway.
 
 \\\[^.^\]/
 
 The evening train rattled through the Game Corner, neon signs flashing past the windows.
 
-I let myself smile, the handful of coins from Mary-mostly spent on another day pass-warm in my palm. First quest reward earned in this world. First real adventure too and mostly finished with Celadon's main places of interest.
-
-My backpack sat heavy in my lap, rocking gently with the train.
+My backpack rocked gently in my lap as I counted what remained of Mary's reward. Most had gone toward another day pass, but there were still a few coins left. I let myself smile. First quest reward earned in this world. First real adventure too, complete with a chase, a Gym battle, and actual medicine instead of a Potion.
 
 The train's brakes squealed at the Game Corner station. Through the window's neon-streaked glass stood Dr. Fuji, stark in his white coat.
 
@@ -240,9 +222,9 @@ Our eyes met through the scratched glass as the doors slid open with a pneumatic
 
 My smile froze.
 
-He stepped into the car of the train with careful, measured movements, his deep frown a stark contrast to the cheerful advertisements plastered on the walls.
+He stepped into the train car, his deep frown fixed beneath the cheerful advertisements.
 
-He reached out a palm, "Ditto?"
+He held out his palm. "Ditto?"
 
 I hesitated, glancing around the train, noting only a single person sleeping to the side.
 
@@ -250,10 +232,8 @@ I hesitated, glancing around the train, noting only a single person sleeping to 
 
 I hesitantly placed the minimized Pokeball into his palm.
 
-The moment the Pokeball was placed into his hand, he pulled back and a stinging sensation filled my face as he slapped me.
+The moment the Pokeball touched his palm, he slapped me. Pain flashed across the right side of my face.
 
 Neither of us spoke as he sat in the empty seat next to me, close enough to smell the alcohol on his breath.
 
-The train lurched forward, carrying us away from my brief taste of freedom. Away from the friends I'd just made in this new world.
-
-I held the right side of my face as I looked through the window, watching the last traces of neon fade into industrial darkness as we entered a tunnel, flickering lights casting strange shadows across Dr. Fuji's frown.
+The train lurched forward. I held my face and watched the last traces of neon disappear as we entered a tunnel.

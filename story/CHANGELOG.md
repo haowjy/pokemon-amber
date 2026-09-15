@@ -6,6 +6,9 @@ Omit frontmatter-only changes, notes-only updates, and routine typo or formattin
 
 ## 2026-09-14
 
+- **Chapters 10–15:** Reduced repeated emotional interpretation and tightened prose while repairing transitions between actions, observations, and thoughts.
+- **Chapter 15:** Retained battle atmosphere and Electabuzz's windmill motion, let Smokescreen conceal the exchange from Amber, and clarified her perception and recovery during the earthquake.
+- **Chapters 10 and 12:** Kaede, Hiro, and Stephen are named only after Amber learns their names; Chapter 10 connects prepared medicine to Hiro's improvement with an explicit first dose.
 - **Chapter 6:** Tightened repeated emotional interpretation and description, repaired connections between actions and thoughts, and restored the Game Corner entrance's Las Vegas-like neon and slot-machine atmosphere.
 - **Chapter 10:** Removed the remaining caffeine buzz/crash references and their associated symptoms; Amber still dozes on the train without a stimulant explanation.
 - **Chapters 1–3:** Revised Amber's early reactions, retitled Chapter 2 "A Dream," and connected its questioning ending to Chapter 3's rejection of the dream explanation.
