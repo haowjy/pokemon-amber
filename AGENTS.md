@@ -17,11 +17,7 @@ pokemon-amber/
 │       ├── summary.md    # What happened (load for context)
 │       ├── notes.md      # Author craft notes
 │       └── plan.md       # Planning for unwritten chapters
-└── $MERIDIAN_CONTEXT_KB_DIR/  # Resolved Meridian KB context, not repo-local
-    ├── wiki/                  # Entity, concept, and summary pages
-    ├── styles/                # Voice/tone reference for writing
-    ├── issues/                # Craft backlog
-    └── research/              # Raw external sources
+└── $MERIDIAN_CONTEXT_KB_DIR/  # Resolved Meridian KB context, not repo-local; its AGENTS.md has the layout
 ```
 
 See `story/AGENTS.md` for story file conventions.

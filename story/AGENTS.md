@@ -112,7 +112,7 @@ See root `AGENTS.md` for full style rules. Key points:
 
 ## Linking to Story Files
 
-From KB: `../../story/ch10/chapter10.md`
+From KB: `[ch10]` (see the KB's `AGENTS.md`)
 From agent prompt: `story/ch10/summary.md`
 
 For links to references outside this repo (especially KB files resolved via `$MERIDIAN_CONTEXT_KB_DIR`), follow root `AGENTS.md` link guidance: do not use local filesystem path links; use GitHub URLs (reference-style links preferred).
