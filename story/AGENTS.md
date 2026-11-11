@@ -101,8 +101,7 @@ See root `AGENTS.md` for full style rules. Key points:
 - Em dash: `---` (three hyphens)
 - Ellipsis: `...` (three periods, no unicode)
 - Quotes: plain ASCII `"` and `'`
-- `Pokeball`, `Pokedex`, `Potion`
-- `Pokemon` or `Pokémon`, never both in one file
+- `Pokeball`, `Pokedex`, `Potion`, `Pokemon` (no accents)
 
 ## Revision Workflow
 
