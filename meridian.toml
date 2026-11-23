@@ -66,7 +66,7 @@ agent = "muse"
 # -- State retention --------------------------------------------------------
 [state]
 # Days to retain spawn artifacts and session data (-1 = keep forever).
-# retention_days = 30
+retention_days = -1  # keep sessions for the writing-assistant real-use benchmark
 
 # -- Hook examples -----------------------------------------------------------
 # Hooks are dynamic arrays of tables. Keep examples commented until needed.
