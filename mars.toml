@@ -4,6 +4,9 @@ url = "https://github.com/haowjy/creative-writing-skills"
 [dependencies.meridian-prompter]
 url = "https://github.com/haowjy/meridian-prompter"
 
+[dependencies.writing-sync]
+url = "https://github.com/haowjy/writing-sync"
+
 [settings]
 targets = [
     ".codex",

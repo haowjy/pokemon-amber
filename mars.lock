@@ -2,270 +2,203 @@ version = 3
 
 [dependencies.creative-writing-skills]
 url = "github.com/haowjy/creative-writing-skills"
-version = "v0.5.9"
-commit = "ee1ddda1aa207b5eae389563e59bf86c566d6784"
+version = "v0.7.7"
+commit = "4db128bf8e23293b89a446120f042a35f75308b6"
 
 [dependencies.meridian-base]
 url = "github.com/haowjy/meridian-base"
-version = "v0.10.5"
-commit = "0de2ab1476ce8c924f11927fdc08db1b13e38a00"
+version = "v0.15.1"
+commit = "b56369da33debf666d16f5ff392de70ee6effd0c"
 
 [dependencies.meridian-prompter]
 url = "github.com/haowjy/meridian-prompter"
-version = "v0.4.1"
-commit = "0fb6d9a28f9c1af78d4ed9a1808a52bf9917aa3e"
+version = "v0.6.5"
+commit = "0dc2723d5d2aba0f0ecd42606ebb9d226756d052"
+
+[dependencies.writing-sync]
+url = "github.com/haowjy/writing-sync"
+version = "v0.2.0"
+commit = "6b7d6c8c84052029f1a8079bd497509da835cc45"
 
 [items."agent/brainstormer"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.5.9"
-source_checksum = "sha256:14c843286d16d713b94bc2c01bf45d258a060b7e8dbfcf7afda2ac913e066978"
+version = "v0.7.6"
+source_checksum = "sha256:4219c549305582feb4ecf1b825b0e5243235ac8f2001e22805baec99f2c42bfa"
 
 [[items."agent/brainstormer".outputs]]
 target_root = ".mars"
 dest_path = "agents/brainstormer.md"
 state = "installed"
-installed_checksum = "sha256:14c843286d16d713b94bc2c01bf45d258a060b7e8dbfcf7afda2ac913e066978"
+installed_checksum = "sha256:4219c549305582feb4ecf1b825b0e5243235ac8f2001e22805baec99f2c42bfa"
 
 [items."agent/character-sim"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.5.9"
-source_checksum = "sha256:eb31b73a5e0fffdb60c4119a0594f4b22b3d4e9645dfe07b4f4282c308878a1a"
+version = "v0.7.6"
+source_checksum = "sha256:2300f6b34047f2e79787fd6896992c6357e9cf13680993eddcc94d0b823c83bc"
 
 [[items."agent/character-sim".outputs]]
 target_root = ".mars"
 dest_path = "agents/character-sim.md"
 state = "installed"
-installed_checksum = "sha256:eb31b73a5e0fffdb60c4119a0594f4b22b3d4e9645dfe07b4f4282c308878a1a"
+installed_checksum = "sha256:2300f6b34047f2e79787fd6896992c6357e9cf13680993eddcc94d0b823c83bc"
 
 [items."agent/continuity-checker"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.5.9"
-source_checksum = "sha256:875da2b28caaa6f48c3006cd863ab791fd5a918b6b224068fe67876ef4bdddf9"
+version = "v0.7.6"
+source_checksum = "sha256:e4486bde2b5597040c17ab04784afa8299f8f0bf972e9778f457399b79191463"
 
 [[items."agent/continuity-checker".outputs]]
 target_root = ".mars"
 dest_path = "agents/continuity-checker.md"
 state = "installed"
-installed_checksum = "sha256:875da2b28caaa6f48c3006cd863ab791fd5a918b6b224068fe67876ef4bdddf9"
+installed_checksum = "sha256:e4486bde2b5597040c17ab04784afa8299f8f0bf972e9778f457399b79191463"
+
+[items."agent/creative-researcher"]
+source = "creative-writing-skills"
+kind = "agent"
+version = "v0.7.6"
+source_checksum = "sha256:c7013bcd3086e77b8567f45ea954c658b3987e48d47e19978cf7224d9bd51f67"
+
+[[items."agent/creative-researcher".outputs]]
+target_root = ".mars"
+dest_path = "agents/creative-researcher.md"
+state = "installed"
+installed_checksum = "sha256:c7013bcd3086e77b8567f45ea954c658b3987e48d47e19978cf7224d9bd51f67"
 
 [items."agent/critic"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.5.9"
-source_checksum = "sha256:f37b597f8e4fa9b3bb9cea438bf917c4f72e923e7f63835777d73986966c9444"
+version = "v0.7.6"
+source_checksum = "sha256:7a1419538fd7682193af8a5fd7d7fd4c815b9ab5aa955307d08382d8edfa2c39"
 
 [[items."agent/critic".outputs]]
 target_root = ".mars"
 dest_path = "agents/critic.md"
 state = "installed"
-installed_checksum = "sha256:f37b597f8e4fa9b3bb9cea438bf917c4f72e923e7f63835777d73986966c9444"
-
-[items."agent/editor"]
-source = "creative-writing-skills"
-kind = "agent"
-version = "v0.5.9"
-source_checksum = "sha256:d0ffca522c82f91d8220ac6c03827d5e9d7e544ef94e8f4ca23a7a3f41bc0d80"
-
-[[items."agent/editor".outputs]]
-target_root = ".mars"
-dest_path = "agents/editor.md"
-state = "installed"
-installed_checksum = "sha256:d0ffca522c82f91d8220ac6c03827d5e9d7e544ef94e8f4ca23a7a3f41bc0d80"
-
-[items."agent/explorer"]
-source = "meridian-base"
-kind = "agent"
-version = "v0.10.2"
-source_checksum = "sha256:edfc200bf00bc4fe010801f9f032267514c0beaca0479be63625f52c9ec6de74"
-
-[[items."agent/explorer".outputs]]
-target_root = ".mars"
-dest_path = "agents/explorer.md"
-state = "installed"
-installed_checksum = "sha256:edfc200bf00bc4fe010801f9f032267514c0beaca0479be63625f52c9ec6de74"
-
-[items."agent/kb-lead"]
-source = "meridian-base"
-kind = "agent"
-version = "v0.10.5"
-source_checksum = "sha256:837c5d521e8ff2da241f9213ca57dbe52c637fe4263ce5ac870f1bc3458aaebf"
-
-[[items."agent/kb-lead".outputs]]
-target_root = ".mars"
-dest_path = "agents/kb-lead.md"
-state = "installed"
-installed_checksum = "sha256:837c5d521e8ff2da241f9213ca57dbe52c637fe4263ce5ac870f1bc3458aaebf"
-
-[items."agent/kb-maintainer"]
-source = "meridian-base"
-kind = "agent"
-version = "v0.10.2"
-source_checksum = "sha256:cbb95850603630100e139f173d347025ad3f0f908ddd6a1ded71f1354f1f9834"
-
-[[items."agent/kb-maintainer".outputs]]
-target_root = ".mars"
-dest_path = "agents/kb-maintainer.md"
-state = "installed"
-installed_checksum = "sha256:cbb95850603630100e139f173d347025ad3f0f908ddd6a1ded71f1354f1f9834"
+installed_checksum = "sha256:7a1419538fd7682193af8a5fd7d7fd4c815b9ab5aa955307d08382d8edfa2c39"
 
 [items."agent/muse"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.5.9"
-source_checksum = "sha256:34efab492d461138bab672204a68edc30fde27499f7ee943e35dc796924bd5e4"
+version = "v0.7.6"
+source_checksum = "sha256:1c7f40bfded71bd6d620955020211f6ec681ef18f4ee76ce5d1f3899cc5aa3bb"
 
 [[items."agent/muse".outputs]]
 target_root = ".mars"
 dest_path = "agents/muse.md"
 state = "installed"
-installed_checksum = "sha256:34efab492d461138bab672204a68edc30fde27499f7ee943e35dc796924bd5e4"
+installed_checksum = "sha256:1c7f40bfded71bd6d620955020211f6ec681ef18f4ee76ce5d1f3899cc5aa3bb"
 
 [items."agent/outliner"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.5.9"
-source_checksum = "sha256:19b5465049fe947bec2388c1fbef3f20d7f9d90340a5db04205748ed27bdf164"
+version = "v0.7.6"
+source_checksum = "sha256:22b22d52126f7a86479e3e9719d78e3735617b4ab9f8d9dd17c96b5d1643554c"
 
 [[items."agent/outliner".outputs]]
 target_root = ".mars"
 dest_path = "agents/outliner.md"
 state = "installed"
-installed_checksum = "sha256:19b5465049fe947bec2388c1fbef3f20d7f9d90340a5db04205748ed27bdf164"
+installed_checksum = "sha256:22b22d52126f7a86479e3e9719d78e3735617b4ab9f8d9dd17c96b5d1643554c"
 
 [items."agent/prompt-dev"]
 source = "meridian-prompter"
 kind = "agent"
-version = "v0.4.1"
-source_checksum = "sha256:7ce11e5407c9a5bc81e58175676564093446c8dab256b5012115e0fb4a3ee550"
+version = "v0.6.4"
+source_checksum = "sha256:d82f4eed112e15cee893a91abdfa6ed0b290fb13a6693e605258ebaea3a13781"
 
 [[items."agent/prompt-dev".outputs]]
 target_root = ".mars"
 dest_path = "agents/prompt-dev.md"
 state = "installed"
-installed_checksum = "sha256:7ce11e5407c9a5bc81e58175676564093446c8dab256b5012115e0fb4a3ee550"
+installed_checksum = "sha256:d82f4eed112e15cee893a91abdfa6ed0b290fb13a6693e605258ebaea3a13781"
 
 [items."agent/prompt-reviewer"]
 source = "meridian-prompter"
 kind = "agent"
-version = "v0.4.1"
-source_checksum = "sha256:97fb1f00db0bd35850c96fea67b664d59575c41203161951a54e0df1e4829e44"
+version = "v0.6.4"
+source_checksum = "sha256:7db148cac0d9dfa45f7f1729d0c2ac73a8153079f1870b99cdf7f9fab2980c8d"
 
 [[items."agent/prompt-reviewer".outputs]]
 target_root = ".mars"
 dest_path = "agents/prompt-reviewer.md"
 state = "installed"
-installed_checksum = "sha256:97fb1f00db0bd35850c96fea67b664d59575c41203161951a54e0df1e4829e44"
+installed_checksum = "sha256:7db148cac0d9dfa45f7f1729d0c2ac73a8153079f1870b99cdf7f9fab2980c8d"
 
 [items."agent/prompt-tester"]
 source = "meridian-prompter"
 kind = "agent"
-version = "v0.4.1"
-source_checksum = "sha256:d867ced13557e42f4d7dcb15c2bd62a07770355c8666b41519464fb1492dfbda"
+version = "v0.6.4"
+source_checksum = "sha256:cf93cedd9dd29d373c1a74407d5cdcb57114f6f2ffccaa4b4cdec4f2b76b003d"
 
 [[items."agent/prompt-tester".outputs]]
 target_root = ".mars"
 dest_path = "agents/prompt-tester.md"
 state = "installed"
-installed_checksum = "sha256:d867ced13557e42f4d7dcb15c2bd62a07770355c8666b41519464fb1492dfbda"
+installed_checksum = "sha256:cf93cedd9dd29d373c1a74407d5cdcb57114f6f2ffccaa4b4cdec4f2b76b003d"
 
 [items."agent/python-tool-writer"]
 source = "meridian-prompter"
 kind = "agent"
-version = "v0.4.1"
-source_checksum = "sha256:160665cfa24cfee8c833ace107bb288237259b7a0364c07f29a862d86cf66b48"
+version = "v0.6.4"
+source_checksum = "sha256:e4d3d4a88905c8924a4fb740d1afd52e32d3d321900e7b02b75e1d8d4a8086d5"
 
 [[items."agent/python-tool-writer".outputs]]
 target_root = ".mars"
 dest_path = "agents/python-tool-writer.md"
 state = "installed"
-installed_checksum = "sha256:160665cfa24cfee8c833ace107bb288237259b7a0364c07f29a862d86cf66b48"
+installed_checksum = "sha256:e4d3d4a88905c8924a4fb740d1afd52e32d3d321900e7b02b75e1d8d4a8086d5"
 
 [items."agent/reader-sim"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.5.9"
-source_checksum = "sha256:65a9bc72968e2e2425c506243597fc5ce9ebabf7857841d073d5399539682155"
+version = "v0.7.6"
+source_checksum = "sha256:5c3f6768f6cd7d36f48991d9c3ffea7192cf97e908c329814b089321e35f0f7e"
 
 [[items."agent/reader-sim".outputs]]
 target_root = ".mars"
 dest_path = "agents/reader-sim.md"
 state = "installed"
-installed_checksum = "sha256:65a9bc72968e2e2425c506243597fc5ce9ebabf7857841d073d5399539682155"
-
-[items."agent/session-miner"]
-source = "meridian-base"
-kind = "agent"
-version = "v0.10.2"
-source_checksum = "sha256:18fc86d786563f461ebee793daa5b607171e5710bd6f1eb1cfb93e2ef88ee47a"
-
-[[items."agent/session-miner".outputs]]
-target_root = ".mars"
-dest_path = "agents/session-miner.md"
-state = "installed"
-installed_checksum = "sha256:18fc86d786563f461ebee793daa5b607171e5710bd6f1eb1cfb93e2ef88ee47a"
+installed_checksum = "sha256:5c3f6768f6cd7d36f48991d9c3ffea7192cf97e908c329814b089321e35f0f7e"
 
 [items."agent/style-creator"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.5.9"
-source_checksum = "sha256:8c52fd31a0ea078fba2fae1dbb985bc6315251ce397e18c65e86adf275cc05be"
+version = "v0.7.6"
+source_checksum = "sha256:75e3dbd110673c8fcf490d1b54063afafb6bc527d109cc0468725a27c55997c4"
 
 [[items."agent/style-creator".outputs]]
 target_root = ".mars"
 dest_path = "agents/style-creator.md"
 state = "installed"
-installed_checksum = "sha256:8c52fd31a0ea078fba2fae1dbb985bc6315251ce397e18c65e86adf275cc05be"
-
-[items."agent/subagent"]
-source = "meridian-base"
-kind = "agent"
-version = "v0.10.2"
-source_checksum = "sha256:e63d7d49e9e1187063bc1861df266fe432ec00a492d14af80ac3963247d1afdd"
-
-[[items."agent/subagent".outputs]]
-target_root = ".mars"
-dest_path = "agents/subagent.md"
-state = "installed"
-installed_checksum = "sha256:e63d7d49e9e1187063bc1861df266fe432ec00a492d14af80ac3963247d1afdd"
+installed_checksum = "sha256:75e3dbd110673c8fcf490d1b54063afafb6bc527d109cc0468725a27c55997c4"
 
 [items."agent/web-prompt-researcher"]
 source = "meridian-prompter"
 kind = "agent"
-version = "v0.4.1"
-source_checksum = "sha256:4d29bc9a98790d1835eff2b0c2dbc64e45e06546a0b7712e7a53890f3655346b"
+version = "v0.6.4"
+source_checksum = "sha256:cc544731916c7fe7b332a09a26ecc54fae24d8f0d19d6aa8fdd3db63c6b4bd88"
 
 [[items."agent/web-prompt-researcher".outputs]]
 target_root = ".mars"
 dest_path = "agents/web-prompt-researcher.md"
 state = "installed"
-installed_checksum = "sha256:4d29bc9a98790d1835eff2b0c2dbc64e45e06546a0b7712e7a53890f3655346b"
-
-[items."agent/web-researcher"]
-source = "creative-writing-skills"
-kind = "agent"
-version = "v0.5.9"
-source_checksum = "sha256:590955a3eb7508850bfe4f9f066ba4c26e6e755c7b72864da89a84200f57b746"
-
-[[items."agent/web-researcher".outputs]]
-target_root = ".mars"
-dest_path = "agents/web-researcher.md"
-state = "installed"
-installed_checksum = "sha256:590955a3eb7508850bfe4f9f066ba4c26e6e755c7b72864da89a84200f57b746"
+installed_checksum = "sha256:cc544731916c7fe7b332a09a26ecc54fae24d8f0d19d6aa8fdd3db63c6b4bd88"
 
 [items."agent/writer"]
 source = "creative-writing-skills"
 kind = "agent"
-version = "v0.5.9"
-source_checksum = "sha256:41bbf7fc1b6f280a938a1f8a2e6452f177e6603166a08430d43ad4734bdd2333"
+version = "v0.7.6"
+source_checksum = "sha256:49f16ff6630f79b3ec16f6975b89c4770f80fdc2bb0e15ac3c758e16c4426f77"
 
 [[items."agent/writer".outputs]]
 target_root = ".mars"
 dest_path = "agents/writer.md"
 state = "installed"
-installed_checksum = "sha256:41bbf7fc1b6f280a938a1f8a2e6452f177e6603166a08430d43ad4734bdd2333"
+installed_checksum = "sha256:49f16ff6630f79b3ec16f6975b89c4770f80fdc2bb0e15ac3c758e16c4426f77"
 
 [items."bootstrap-doc/context-setup"]
 source = "meridian-base"
@@ -282,50 +215,50 @@ installed_checksum = "sha256:661a72b41dd8157a0ad291e4354537701e8901c92f2b622141e
 [items."bootstrap-doc/harness-setup"]
 source = "meridian-base"
 kind = "bootstrapdoc"
-version = "v0.10.2"
-source_checksum = "sha256:838a25f2a5ceae609c59e6f2f16f11ba9e18980f6fd9fe9704a003c59dccf227"
+version = "v0.14.13"
+source_checksum = "sha256:1c4c76d206eea43a5ac2ad5ea8bf2b12fec38b1eaa4352fca88e460c5b74f56c"
 
 [[items."bootstrap-doc/harness-setup".outputs]]
 target_root = ".mars"
 dest_path = "bootstrap/harness-setup/BOOTSTRAP.md"
 state = "installed"
-installed_checksum = "sha256:838a25f2a5ceae609c59e6f2f16f11ba9e18980f6fd9fe9704a003c59dccf227"
+installed_checksum = "sha256:1c4c76d206eea43a5ac2ad5ea8bf2b12fec38b1eaa4352fca88e460c5b74f56c"
 
 [items."bootstrap-doc/meridian-guide"]
 source = "meridian-base"
 kind = "bootstrapdoc"
-version = "v0.10.2"
-source_checksum = "sha256:60f907391073f6966174905413af3d957ab45bbec60f82d269e892ec02f71416"
+version = "v0.14.13"
+source_checksum = "sha256:3bb969cebd502b30b850c3ad59f4d037df7bca5f6631d6cbf134ebef4737577e"
 
 [[items."bootstrap-doc/meridian-guide".outputs]]
 target_root = ".mars"
 dest_path = "bootstrap/meridian-guide/BOOTSTRAP.md"
 state = "installed"
-installed_checksum = "sha256:60f907391073f6966174905413af3d957ab45bbec60f82d269e892ec02f71416"
+installed_checksum = "sha256:3bb969cebd502b30b850c3ad59f4d037df7bca5f6631d6cbf134ebef4737577e"
 
 [items."bootstrap-doc/project-knowledge"]
 source = "meridian-base"
 kind = "bootstrapdoc"
-version = "v0.10.2"
-source_checksum = "sha256:93fdf84cc9b466a456fe0db033f4a9fced6553f4fc86b552d9b607047ab5f0af"
+version = "v0.14.13"
+source_checksum = "sha256:9263ddd63ac5387646bd8ec9cf813b035f9e8216cd910d93baeb8cad211373e2"
 
 [[items."bootstrap-doc/project-knowledge".outputs]]
 target_root = ".mars"
 dest_path = "bootstrap/project-knowledge/BOOTSTRAP.md"
 state = "installed"
-installed_checksum = "sha256:93fdf84cc9b466a456fe0db033f4a9fced6553f4fc86b552d9b607047ab5f0af"
+installed_checksum = "sha256:9263ddd63ac5387646bd8ec9cf813b035f9e8216cd910d93baeb8cad211373e2"
 
 [items."bootstrap-doc/project-setup"]
 source = "creative-writing-skills"
 kind = "bootstrapdoc"
-version = "v0.5.9"
-source_checksum = "sha256:7fd00d1964908558d65c39c23525316cdd77b6268defca4c9a478ea88b1b46ec"
+version = "v0.7.6"
+source_checksum = "sha256:6e13045182928c8be318acb756030c42eef23ddd2ed72421eaa17def81f78744"
 
 [[items."bootstrap-doc/project-setup".outputs]]
 target_root = ".mars"
 dest_path = "bootstrap/project-setup/BOOTSTRAP.md"
 state = "installed"
-installed_checksum = "sha256:7fd00d1964908558d65c39c23525316cdd77b6268defca4c9a478ea88b1b46ec"
+installed_checksum = "sha256:6e13045182928c8be318acb756030c42eef23ddd2ed72421eaa17def81f78744"
 
 [items."bootstrap-doc/workspace-setup"]
 source = "meridian-base"
@@ -339,1012 +272,710 @@ dest_path = "bootstrap/workspace-setup/BOOTSTRAP.md"
 state = "installed"
 installed_checksum = "sha256:12cfc12a6df6683b0f1004648458fcc81ce16c0f2ecd4be713cfa5aabd93b373"
 
-[items."hook/deny-interactive-prompts@codex"]
-source = "meridian-base"
-kind = "hook"
-version = "v0.10.2"
-source_checksum = "sha256:a5304e71014287555edc22f337f8632046458b77ef97e914d56de64484d4ff9d"
-
-[[items."hook/deny-interactive-prompts@codex".outputs]]
-target_root = ".mars"
-dest_path = "hooks/codex/deny-interactive-prompts"
-state = "installed"
-installed_checksum = "sha256:a5304e71014287555edc22f337f8632046458b77ef97e914d56de64484d4ff9d"
-
-[[items."hook/deny-interactive-prompts@codex".outputs]]
-target_root = ".codex"
-dest_path = "hooks/deny-interactive-prompts"
-state = "installed"
-installed_checksum = "sha256:a5304e71014287555edc22f337f8632046458b77ef97e914d56de64484d4ff9d"
-
 [items."skill/agent-artifacts"]
 source = "meridian-prompter"
 kind = "skill"
-version = "v0.4.1"
-source_checksum = "sha256:45430b19429a0afcc1b63a43fec0f0bc6c4eb5e6a6a3c1303e89b21b4925e978"
-
-[[items."skill/agent-artifacts".outputs]]
-target_root = ".codex"
-dest_path = "skills/agent-artifacts"
-state = "installed"
-installed_checksum = "sha256:a15d5e8dce6342b11def592af7bde34c4b6aa6ff27792bed8ac2eb4b20b376f5"
+version = "v0.6.4"
+source_checksum = "sha256:6cda86eb1f2238d926076054c933636590fd9657038c8310ae27014057658526"
 
 [[items."skill/agent-artifacts".outputs]]
 target_root = ".mars"
 dest_path = "skills/agent-artifacts"
 state = "installed"
-installed_checksum = "sha256:45430b19429a0afcc1b63a43fec0f0bc6c4eb5e6a6a3c1303e89b21b4925e978"
+installed_checksum = "sha256:6cda86eb1f2238d926076054c933636590fd9657038c8310ae27014057658526"
+
+[[items."skill/agent-artifacts".outputs]]
+target_root = ".codex"
+dest_path = "skills/agent-artifacts"
+state = "installed"
+installed_checksum = "sha256:e3667df02b479ae8dca7bf3917ec7976296f38f7501f2ea1c0c03605199ce44b"
 
 [[items."skill/agent-artifacts".outputs]]
 target_root = ".opencode"
 dest_path = "skills/agent-artifacts"
 state = "installed"
-installed_checksum = "sha256:0974f41843494e339d97db5989499307bb9bc3c1fa7471c0dc16f2842a4146d4"
+installed_checksum = "sha256:e3667df02b479ae8dca7bf3917ec7976296f38f7501f2ea1c0c03605199ce44b"
 
 [items."skill/character-sim"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.5.9"
-source_checksum = "sha256:d2a6cc354511ef553f683928f86f4e093675b0c1bda4417d20ab338f9e299ce6"
-
-[[items."skill/character-sim".outputs]]
-target_root = ".codex"
-dest_path = "skills/character-sim"
-state = "installed"
-installed_checksum = "sha256:c23b70892abfb75b0ddc7e4d1b96f5ad6f545894d3a5ee09b963ca3ccc05e894"
+version = "v0.7.6"
+source_checksum = "sha256:f310f92c7324315c5bd9858c2208e34ec2b6f1c8fc2718d84261004a01250501"
 
 [[items."skill/character-sim".outputs]]
 target_root = ".mars"
 dest_path = "skills/character-sim"
 state = "installed"
-installed_checksum = "sha256:d2a6cc354511ef553f683928f86f4e093675b0c1bda4417d20ab338f9e299ce6"
+installed_checksum = "sha256:f310f92c7324315c5bd9858c2208e34ec2b6f1c8fc2718d84261004a01250501"
+
+[[items."skill/character-sim".outputs]]
+target_root = ".codex"
+dest_path = "skills/character-sim"
+state = "installed"
+installed_checksum = "sha256:2f120deec8fac30ce3d83d4f887929340804d2678a6f63500f9bebdfea81b3a9"
 
 [[items."skill/character-sim".outputs]]
 target_root = ".opencode"
 dest_path = "skills/character-sim"
 state = "installed"
-installed_checksum = "sha256:c23b70892abfb75b0ddc7e4d1b96f5ad6f545894d3a5ee09b963ca3ccc05e894"
+installed_checksum = "sha256:2f120deec8fac30ce3d83d4f887929340804d2678a6f63500f9bebdfea81b3a9"
 
 [items."skill/creative-research"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.5.9"
-source_checksum = "sha256:0dd7710e4bd00c6b83d7d51327492267a5c1aff2a79e6b19cd71f0ba82ba0309"
-
-[[items."skill/creative-research".outputs]]
-target_root = ".codex"
-dest_path = "skills/creative-research"
-state = "installed"
-installed_checksum = "sha256:027149cda917820b817f91790c25fa2ce91b7c0dcc0c1aed5560b1377d9d0ad1"
+version = "v0.7.6"
+source_checksum = "sha256:98d8bf5c6815c692276464dce391b6ddde16d33149d3b4aa2dede18e4b4c2edc"
 
 [[items."skill/creative-research".outputs]]
 target_root = ".mars"
 dest_path = "skills/creative-research"
 state = "installed"
-installed_checksum = "sha256:0dd7710e4bd00c6b83d7d51327492267a5c1aff2a79e6b19cd71f0ba82ba0309"
+installed_checksum = "sha256:98d8bf5c6815c692276464dce391b6ddde16d33149d3b4aa2dede18e4b4c2edc"
+
+[[items."skill/creative-research".outputs]]
+target_root = ".codex"
+dest_path = "skills/creative-research"
+state = "installed"
+installed_checksum = "sha256:e229086643da7c795d797e688acee4261389f33783028b5e2cb4c5afdb1faed6"
 
 [[items."skill/creative-research".outputs]]
 target_root = ".opencode"
 dest_path = "skills/creative-research"
 state = "installed"
-installed_checksum = "sha256:027149cda917820b817f91790c25fa2ce91b7c0dcc0c1aed5560b1377d9d0ad1"
+installed_checksum = "sha256:e229086643da7c795d797e688acee4261389f33783028b5e2cb4c5afdb1faed6"
 
 [items."skill/creative-writing-craft"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.5.9"
-source_checksum = "sha256:d134daeaa162b1c93e4f1afb19ab050911482802261c9349514f7afdc952ecc4"
-
-[[items."skill/creative-writing-craft".outputs]]
-target_root = ".codex"
-dest_path = "skills/creative-writing-craft"
-state = "installed"
-installed_checksum = "sha256:96a582acd610c3128495b1027c5f86bb37ac0f985ac4f97ee8eaa53625a02c19"
+version = "v0.7.6"
+source_checksum = "sha256:a86324f4b5a9d94f88c6cbfd99a41156db5ceaee92ad0a72dcad7e46e4a01b9e"
 
 [[items."skill/creative-writing-craft".outputs]]
 target_root = ".mars"
 dest_path = "skills/creative-writing-craft"
 state = "installed"
-installed_checksum = "sha256:d134daeaa162b1c93e4f1afb19ab050911482802261c9349514f7afdc952ecc4"
+installed_checksum = "sha256:a86324f4b5a9d94f88c6cbfd99a41156db5ceaee92ad0a72dcad7e46e4a01b9e"
+
+[[items."skill/creative-writing-craft".outputs]]
+target_root = ".codex"
+dest_path = "skills/creative-writing-craft"
+state = "installed"
+installed_checksum = "sha256:72b5e21d0be749266816d5809dedfac1d8524ea0ea41003c109708ce2e94c48b"
 
 [[items."skill/creative-writing-craft".outputs]]
 target_root = ".opencode"
 dest_path = "skills/creative-writing-craft"
 state = "installed"
-installed_checksum = "sha256:96a582acd610c3128495b1027c5f86bb37ac0f985ac4f97ee8eaa53625a02c19"
-
-[items."skill/creative-writing-modes"]
-source = "creative-writing-skills"
-kind = "skill"
-version = "v0.5.9"
-source_checksum = "sha256:8b3f0bcccc52c6a9adad8b021ff50af5bf61085ead3369a32fe3e3436c157c65"
-
-[[items."skill/creative-writing-modes".outputs]]
-target_root = ".codex"
-dest_path = "skills/creative-writing-modes"
-state = "installed"
-installed_checksum = "sha256:9462d12fd9a43831533a9b28b404d8f4dc94ed4a9fdda389dacf42f964b48b79"
-
-[[items."skill/creative-writing-modes".outputs]]
-target_root = ".mars"
-dest_path = "skills/creative-writing-modes"
-state = "installed"
-installed_checksum = "sha256:8b3f0bcccc52c6a9adad8b021ff50af5bf61085ead3369a32fe3e3436c157c65"
-
-[[items."skill/creative-writing-modes".outputs]]
-target_root = ".opencode"
-dest_path = "skills/creative-writing-modes"
-state = "installed"
-installed_checksum = "sha256:9462d12fd9a43831533a9b28b404d8f4dc94ed4a9fdda389dacf42f964b48b79"
+installed_checksum = "sha256:72b5e21d0be749266816d5809dedfac1d8524ea0ea41003c109708ce2e94c48b"
 
 [items."skill/creative-writing-muse"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.5.9"
-source_checksum = "sha256:4bbee77060c81f7de4df2bbe21c74e0c4109cf306cd41ae39c6a862397e403f1"
-
-[[items."skill/creative-writing-muse".outputs]]
-target_root = ".codex"
-dest_path = "skills/creative-writing-muse"
-state = "installed"
-installed_checksum = "sha256:fd7480fc98d434b5d4483aa66add608aa61db82e2d209518b887b4a948a1c8f1"
+version = "v0.7.6"
+source_checksum = "sha256:b11c4ee03386b74faf01724c784a9aab20f19d203c60b0060e4e094e236cdf18"
 
 [[items."skill/creative-writing-muse".outputs]]
 target_root = ".mars"
 dest_path = "skills/creative-writing-muse"
 state = "installed"
-installed_checksum = "sha256:4bbee77060c81f7de4df2bbe21c74e0c4109cf306cd41ae39c6a862397e403f1"
+installed_checksum = "sha256:b11c4ee03386b74faf01724c784a9aab20f19d203c60b0060e4e094e236cdf18"
+
+[[items."skill/creative-writing-muse".outputs]]
+target_root = ".codex"
+dest_path = "skills/creative-writing-muse"
+state = "installed"
+installed_checksum = "sha256:aea2d3d0fe56d8a07898c508461fb6fde7b77086b464eabb01dd6ddc46b8338f"
 
 [[items."skill/creative-writing-muse".outputs]]
 target_root = ".opencode"
 dest_path = "skills/creative-writing-muse"
 state = "installed"
-installed_checksum = "sha256:2334b1a110c9fc9dcd23e508a7c9db998c527435b3492d08e78c09e3e17b2cbf"
+installed_checksum = "sha256:a1b5a5400bc40da5997c2f37441b5a74dbb3b10ac25bb5e5c8372bfbf189bcd0"
 
 [items."skill/explore-and-engage"]
 source = "meridian-base"
 kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:aeb45cc971891b5a45186809a10bd2573e52eb9b55a1d842ab6dfeb1e24ed561"
-
-[[items."skill/explore-and-engage".outputs]]
-target_root = ".codex"
-dest_path = "skills/explore-and-engage"
-state = "installed"
-installed_checksum = "sha256:7f84bd1c007285a962fc0abac2d31bcc63becadee36137c7c5d6157f5b0d976b"
+version = "v0.14.13"
+source_checksum = "sha256:7ccd4394f01fae64f95ff49be4d242923b86126115686ecefe76c48e77ff7c59"
 
 [[items."skill/explore-and-engage".outputs]]
 target_root = ".mars"
 dest_path = "skills/explore-and-engage"
 state = "installed"
-installed_checksum = "sha256:aeb45cc971891b5a45186809a10bd2573e52eb9b55a1d842ab6dfeb1e24ed561"
+installed_checksum = "sha256:7ccd4394f01fae64f95ff49be4d242923b86126115686ecefe76c48e77ff7c59"
+
+[[items."skill/explore-and-engage".outputs]]
+target_root = ".codex"
+dest_path = "skills/explore-and-engage"
+state = "installed"
+installed_checksum = "sha256:a51cb2c71c28afae5334d89fda1ba3926d49b0665813f7db46ac7fdc68453baa"
 
 [[items."skill/explore-and-engage".outputs]]
 target_root = ".opencode"
 dest_path = "skills/explore-and-engage"
 state = "installed"
-installed_checksum = "sha256:7f84bd1c007285a962fc0abac2d31bcc63becadee36137c7c5d6157f5b0d976b"
-
-[items."skill/goal-writing"]
-source = "meridian-base"
-kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:7aacd16503bdbef36cafabdfcdbe33b942d543cd785e955b54d163ab929a51fe"
-
-[[items."skill/goal-writing".outputs]]
-target_root = ".codex"
-dest_path = "skills/goal-writing"
-state = "installed"
-installed_checksum = "sha256:afc6665f648b471d6efec2f05a98d405311975948871deb97641206a02a5bbe9"
-
-[[items."skill/goal-writing".outputs]]
-target_root = ".mars"
-dest_path = "skills/goal-writing"
-state = "installed"
-installed_checksum = "sha256:7aacd16503bdbef36cafabdfcdbe33b942d543cd785e955b54d163ab929a51fe"
-
-[[items."skill/goal-writing".outputs]]
-target_root = ".opencode"
-dest_path = "skills/goal-writing"
-state = "installed"
-installed_checksum = "sha256:afc6665f648b471d6efec2f05a98d405311975948871deb97641206a02a5bbe9"
+installed_checksum = "sha256:a51cb2c71c28afae5334d89fda1ba3926d49b0665813f7db46ac7fdc68453baa"
 
 [items."skill/grill"]
 source = "meridian-base"
 kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:88624b55ce4a445b104a22729e1011effa5e6624bbac92ebfa52040a2d57510f"
-
-[[items."skill/grill".outputs]]
-target_root = ".codex"
-dest_path = "skills/grill"
-state = "installed"
-installed_checksum = "sha256:05a098d0b4ed8305c839d4ff8684968b71023713068a707425116aa60675c020"
+version = "v0.14.13"
+source_checksum = "sha256:b786f8efef2b4342c209e9e5a7018effeb4ff39e9876623a403d4091b93db92b"
 
 [[items."skill/grill".outputs]]
 target_root = ".mars"
 dest_path = "skills/grill"
 state = "installed"
-installed_checksum = "sha256:88624b55ce4a445b104a22729e1011effa5e6624bbac92ebfa52040a2d57510f"
+installed_checksum = "sha256:b786f8efef2b4342c209e9e5a7018effeb4ff39e9876623a403d4091b93db92b"
+
+[[items."skill/grill".outputs]]
+target_root = ".codex"
+dest_path = "skills/grill"
+state = "installed"
+installed_checksum = "sha256:b87222c4bd81a5f1ccc8ed9b2ad38a0b6033cab6383284c20a4c793c31f77ed6"
 
 [[items."skill/grill".outputs]]
 target_root = ".opencode"
 dest_path = "skills/grill"
 state = "installed"
-installed_checksum = "sha256:05a098d0b4ed8305c839d4ff8684968b71023713068a707425116aa60675c020"
-
-[items."skill/grill-with-docs"]
-source = "meridian-base"
-kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:1fcee45a89041bae108d95373bbb7552d2f009452565c7f311e3e990116f6c3a"
-
-[[items."skill/grill-with-docs".outputs]]
-target_root = ".codex"
-dest_path = "skills/grill-with-docs"
-state = "installed"
-installed_checksum = "sha256:c1b538356c70556d6757a6671088b42ba34b16106bd42472cb2575ecea81c76d"
-
-[[items."skill/grill-with-docs".outputs]]
-target_root = ".mars"
-dest_path = "skills/grill-with-docs"
-state = "installed"
-installed_checksum = "sha256:1fcee45a89041bae108d95373bbb7552d2f009452565c7f311e3e990116f6c3a"
-
-[[items."skill/grill-with-docs".outputs]]
-target_root = ".opencode"
-dest_path = "skills/grill-with-docs"
-state = "installed"
-installed_checksum = "sha256:c1b538356c70556d6757a6671088b42ba34b16106bd42472cb2575ecea81c76d"
-
-[items."skill/grill-with-evidence"]
-source = "meridian-base"
-kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:38fa91ea19e04c9e15f761344754bf855912d413ed1b267b3bfe9a7e20f9a732"
-
-[[items."skill/grill-with-evidence".outputs]]
-target_root = ".codex"
-dest_path = "skills/grill-with-evidence"
-state = "installed"
-installed_checksum = "sha256:01c6e6ecb48bf7246d245bd6a2fe4aa1bb7720d33fe339b68fdeaa2b436405bc"
-
-[[items."skill/grill-with-evidence".outputs]]
-target_root = ".mars"
-dest_path = "skills/grill-with-evidence"
-state = "installed"
-installed_checksum = "sha256:38fa91ea19e04c9e15f761344754bf855912d413ed1b267b3bfe9a7e20f9a732"
-
-[[items."skill/grill-with-evidence".outputs]]
-target_root = ".opencode"
-dest_path = "skills/grill-with-evidence"
-state = "installed"
-installed_checksum = "sha256:1a0c3acd3df58f784c21caa25c982193c6ed6e074f9dbae803dd2a88b6a5cbf5"
-
-[items."skill/handoff"]
-source = "meridian-base"
-kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:23769a20439fb6a10c4a01e5b48c05fe609aeb641c322596fb14ace218b42ee7"
-
-[[items."skill/handoff".outputs]]
-target_root = ".codex"
-dest_path = "skills/handoff"
-state = "installed"
-installed_checksum = "sha256:f94bff7b99abce1c68426d05e003170e3b59e2f89122b65bb85ebb039422e918"
-
-[[items."skill/handoff".outputs]]
-target_root = ".mars"
-dest_path = "skills/handoff"
-state = "installed"
-installed_checksum = "sha256:23769a20439fb6a10c4a01e5b48c05fe609aeb641c322596fb14ace218b42ee7"
-
-[[items."skill/handoff".outputs]]
-target_root = ".opencode"
-dest_path = "skills/handoff"
-state = "installed"
-installed_checksum = "sha256:f94bff7b99abce1c68426d05e003170e3b59e2f89122b65bb85ebb039422e918"
-
-[items."skill/information-hierarchy"]
-source = "meridian-base"
-kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:bf79c387d8098218ad45ba5e7f96da5a91742e25adafbe6006b5f55a250ffa7e"
-
-[[items."skill/information-hierarchy".outputs]]
-target_root = ".codex"
-dest_path = "skills/information-hierarchy"
-state = "installed"
-installed_checksum = "sha256:ee37f435cc45cea7a4678fef6918cab85dd6dbce64ff3321cd1b87e5cb37c216"
-
-[[items."skill/information-hierarchy".outputs]]
-target_root = ".mars"
-dest_path = "skills/information-hierarchy"
-state = "installed"
-installed_checksum = "sha256:bf79c387d8098218ad45ba5e7f96da5a91742e25adafbe6006b5f55a250ffa7e"
-
-[[items."skill/information-hierarchy".outputs]]
-target_root = ".opencode"
-dest_path = "skills/information-hierarchy"
-state = "installed"
-installed_checksum = "sha256:ee37f435cc45cea7a4678fef6918cab85dd6dbce64ff3321cd1b87e5cb37c216"
+installed_checksum = "sha256:b87222c4bd81a5f1ccc8ed9b2ad38a0b6033cab6383284c20a4c793c31f77ed6"
 
 [items."skill/intent-modeling"]
 source = "meridian-base"
 kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:a45ae63d8c9850aaaa3008180a5c7c21eca37ecc61a7fa6106cb65a8cb6fdeb2"
-
-[[items."skill/intent-modeling".outputs]]
-target_root = ".codex"
-dest_path = "skills/intent-modeling"
-state = "installed"
-installed_checksum = "sha256:e1bb98d8bada83038153337bbc69dcaf1b27b23ff98a06bd39f749ef13d9cd25"
+version = "v0.14.13"
+source_checksum = "sha256:e6f77e92003fb97fd187cf5a232773e9acf76dc658e04bf8469200fd9a0940f1"
 
 [[items."skill/intent-modeling".outputs]]
 target_root = ".mars"
 dest_path = "skills/intent-modeling"
 state = "installed"
-installed_checksum = "sha256:a45ae63d8c9850aaaa3008180a5c7c21eca37ecc61a7fa6106cb65a8cb6fdeb2"
+installed_checksum = "sha256:e6f77e92003fb97fd187cf5a232773e9acf76dc658e04bf8469200fd9a0940f1"
+
+[[items."skill/intent-modeling".outputs]]
+target_root = ".codex"
+dest_path = "skills/intent-modeling"
+state = "installed"
+installed_checksum = "sha256:465f3d4db06447e60af0a0c88f9a3fcacdaea1857a6d8bf948033ff11c9755fb"
 
 [[items."skill/intent-modeling".outputs]]
 target_root = ".opencode"
 dest_path = "skills/intent-modeling"
 state = "installed"
-installed_checksum = "sha256:e1bb98d8bada83038153337bbc69dcaf1b27b23ff98a06bd39f749ef13d9cd25"
-
-[items."skill/knowledge-layers"]
-source = "meridian-base"
-kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:3511bf7782d105526572a4227bef8c4dbf707a538a2b6f6e4159fbf251e632a5"
-
-[[items."skill/knowledge-layers".outputs]]
-target_root = ".codex"
-dest_path = "skills/knowledge-layers"
-state = "installed"
-installed_checksum = "sha256:ee4316387e99373f282aad1f94bc7185cb5ddf27e2d0adacd994454145436500"
-
-[[items."skill/knowledge-layers".outputs]]
-target_root = ".mars"
-dest_path = "skills/knowledge-layers"
-state = "installed"
-installed_checksum = "sha256:3511bf7782d105526572a4227bef8c4dbf707a538a2b6f6e4159fbf251e632a5"
-
-[[items."skill/knowledge-layers".outputs]]
-target_root = ".opencode"
-dest_path = "skills/knowledge-layers"
-state = "installed"
-installed_checksum = "sha256:ee4316387e99373f282aad1f94bc7185cb5ddf27e2d0adacd994454145436500"
+installed_checksum = "sha256:465f3d4db06447e60af0a0c88f9a3fcacdaea1857a6d8bf948033ff11c9755fb"
 
 [items."skill/llm-writing"]
 source = "meridian-base"
 kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:b68d8d089d5ee4333bc2b703f17ee2aeb35909369efe073222cb5ee9f8a9138b"
-
-[[items."skill/llm-writing".outputs]]
-target_root = ".codex"
-dest_path = "skills/llm-writing"
-state = "installed"
-installed_checksum = "sha256:630b0298de7f8c8e30187e90c22a4b53987ac46a71672d9c382a51d1e8dda121"
+version = "v0.14.13"
+source_checksum = "sha256:0676f3d7c557c7e934699de829674f6cc6df935d66bb04ab6b71832b4fe0da98"
 
 [[items."skill/llm-writing".outputs]]
 target_root = ".mars"
 dest_path = "skills/llm-writing"
 state = "installed"
-installed_checksum = "sha256:b68d8d089d5ee4333bc2b703f17ee2aeb35909369efe073222cb5ee9f8a9138b"
+installed_checksum = "sha256:0676f3d7c557c7e934699de829674f6cc6df935d66bb04ab6b71832b4fe0da98"
+
+[[items."skill/llm-writing".outputs]]
+target_root = ".codex"
+dest_path = "skills/llm-writing"
+state = "installed"
+installed_checksum = "sha256:cc8d40ef96972a6fac186efa3586e9d02981d8d2e0ea23b519e007a0ad81c94d"
 
 [[items."skill/llm-writing".outputs]]
 target_root = ".opencode"
 dest_path = "skills/llm-writing"
 state = "installed"
-installed_checksum = "sha256:630b0298de7f8c8e30187e90c22a4b53987ac46a71672d9c382a51d1e8dda121"
+installed_checksum = "sha256:cc8d40ef96972a6fac186efa3586e9d02981d8d2e0ea23b519e007a0ad81c94d"
 
 [items."skill/md-validation"]
 source = "meridian-base"
 kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:d076b84c042a4572dd28768748a67a8d052e26cc3355d4df46d53a4a5c29451b"
-
-[[items."skill/md-validation".outputs]]
-target_root = ".codex"
-dest_path = "skills/md-validation"
-state = "installed"
-installed_checksum = "sha256:0f06a6a8974d42855547e3128ef98d53e55d27d1bb29d003cff2d79b0d728c8e"
+version = "v0.14.13"
+source_checksum = "sha256:d5f560468bbaf45a51c37e338d66342db6e31bb7935278ee14789192258e2769"
 
 [[items."skill/md-validation".outputs]]
 target_root = ".mars"
 dest_path = "skills/md-validation"
 state = "installed"
-installed_checksum = "sha256:d076b84c042a4572dd28768748a67a8d052e26cc3355d4df46d53a4a5c29451b"
+installed_checksum = "sha256:d5f560468bbaf45a51c37e338d66342db6e31bb7935278ee14789192258e2769"
+
+[[items."skill/md-validation".outputs]]
+target_root = ".codex"
+dest_path = "skills/md-validation"
+state = "installed"
+installed_checksum = "sha256:ee19001244278af25af2c6d876fd7412bd4b9c1e247cbd231c1867ac4372ef4e"
 
 [[items."skill/md-validation".outputs]]
 target_root = ".opencode"
 dest_path = "skills/md-validation"
 state = "installed"
-installed_checksum = "sha256:0f06a6a8974d42855547e3128ef98d53e55d27d1bb29d003cff2d79b0d728c8e"
+installed_checksum = "sha256:ee19001244278af25af2c6d876fd7412bd4b9c1e247cbd231c1867ac4372ef4e"
 
-[items."skill/meridian-privilege-escalation"]
-source = "meridian-base"
+[items."skill/project-setup"]
+source = "creative-writing-skills"
 kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:0a8593122ba9552736f4346d71e94b8c4a70d41daf5a3105f3c49c7f98905305"
+version = "v0.7.6"
+source_checksum = "sha256:de148e12600b3f7aaa141b862e378a147d110d1260eb38b2ee8b1521ca01fd40"
 
-[[items."skill/meridian-privilege-escalation".outputs]]
+[[items."skill/project-setup".outputs]]
 target_root = ".codex"
-dest_path = "skills/meridian-privilege-escalation"
+dest_path = "skills/project-setup"
 state = "installed"
-installed_checksum = "sha256:81438c9a86b9e7a37967ccc2a6de83266388690b628d1150cbd238647eb717e8"
+installed_checksum = "sha256:6138cc15467a299fca129c3fcaa2506968e6a0afade952e0ffc70e0ff81015f9"
 
-[[items."skill/meridian-privilege-escalation".outputs]]
+[[items."skill/project-setup".outputs]]
 target_root = ".mars"
-dest_path = "skills/meridian-privilege-escalation"
+dest_path = "skills/project-setup"
 state = "installed"
-installed_checksum = "sha256:0a8593122ba9552736f4346d71e94b8c4a70d41daf5a3105f3c49c7f98905305"
+installed_checksum = "sha256:de148e12600b3f7aaa141b862e378a147d110d1260eb38b2ee8b1521ca01fd40"
 
-[[items."skill/meridian-privilege-escalation".outputs]]
+[[items."skill/project-setup".outputs]]
 target_root = ".opencode"
-dest_path = "skills/meridian-privilege-escalation"
+dest_path = "skills/project-setup"
 state = "installed"
-installed_checksum = "sha256:81438c9a86b9e7a37967ccc2a6de83266388690b628d1150cbd238647eb717e8"
+installed_checksum = "sha256:2730e455c3466906a785655fe5f4aec9bfece7fea0372b0a711211e4e8519300"
 
 [items."skill/prompt-principles"]
 source = "meridian-prompter"
 kind = "skill"
-version = "v0.4.1"
-source_checksum = "sha256:2951efdd96ab930d26012ff1d8406b3472d6d86c1a9cb908bf6c4ce79c2ba5b5"
-
-[[items."skill/prompt-principles".outputs]]
-target_root = ".codex"
-dest_path = "skills/prompt-principles"
-state = "installed"
-installed_checksum = "sha256:9f0c0d8f456295e831f4296257a181745458433cb55813b72e04fedda0754c06"
+version = "v0.6.4"
+source_checksum = "sha256:5a45dca469a020ff88aa0121235b86646d75e9f81b9873b0349a2664ddeb02cf"
 
 [[items."skill/prompt-principles".outputs]]
 target_root = ".mars"
 dest_path = "skills/prompt-principles"
 state = "installed"
-installed_checksum = "sha256:2951efdd96ab930d26012ff1d8406b3472d6d86c1a9cb908bf6c4ce79c2ba5b5"
+installed_checksum = "sha256:5a45dca469a020ff88aa0121235b86646d75e9f81b9873b0349a2664ddeb02cf"
+
+[[items."skill/prompt-principles".outputs]]
+target_root = ".codex"
+dest_path = "skills/prompt-principles"
+state = "installed"
+installed_checksum = "sha256:a9020591c0ef3355a695b221df6a9105bd547d36674bf4733831c63fab2631e0"
 
 [[items."skill/prompt-principles".outputs]]
 target_root = ".opencode"
 dest_path = "skills/prompt-principles"
 state = "installed"
-installed_checksum = "sha256:9f0c0d8f456295e831f4296257a181745458433cb55813b72e04fedda0754c06"
+installed_checksum = "sha256:a9020591c0ef3355a695b221df6a9105bd547d36674bf4733831c63fab2631e0"
 
 [items."skill/prompt-review"]
 source = "meridian-prompter"
 kind = "skill"
-version = "v0.4.1"
-source_checksum = "sha256:bb5ce61481ae63865aa850174c3fd1dbcf545e95afbfd5f97c7d12f3351101ed"
-
-[[items."skill/prompt-review".outputs]]
-target_root = ".codex"
-dest_path = "skills/prompt-review"
-state = "installed"
-installed_checksum = "sha256:ed4b354808f73172a86272bfcb0503215eee16f9580a398ed581eae31c97955e"
+version = "v0.6.4"
+source_checksum = "sha256:7e0eb3301049137575fa7748dcbda4ab3d4cfb1ec4d512c3f482bf94822ed110"
 
 [[items."skill/prompt-review".outputs]]
 target_root = ".mars"
 dest_path = "skills/prompt-review"
 state = "installed"
-installed_checksum = "sha256:bb5ce61481ae63865aa850174c3fd1dbcf545e95afbfd5f97c7d12f3351101ed"
+installed_checksum = "sha256:7e0eb3301049137575fa7748dcbda4ab3d4cfb1ec4d512c3f482bf94822ed110"
+
+[[items."skill/prompt-review".outputs]]
+target_root = ".codex"
+dest_path = "skills/prompt-review"
+state = "installed"
+installed_checksum = "sha256:3494ccae0ed1fdae889c207fd0eda10cc21c33e102a8fb126c3bfc2f801a740d"
 
 [[items."skill/prompt-review".outputs]]
 target_root = ".opencode"
 dest_path = "skills/prompt-review"
 state = "installed"
-installed_checksum = "sha256:f4ee2bf2bf95c740d1f50448bb8ecc9e74f71ad3137d60988d7178e123f33206"
-
-[items."skill/qi-layer"]
-source = "meridian-base"
-kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:093bfc1854bc90ff0a57fa0140502e0feaa86f6749d5d5e3fac86444ebdcd85c"
-
-[[items."skill/qi-layer".outputs]]
-target_root = ".codex"
-dest_path = "skills/qi-layer"
-state = "installed"
-installed_checksum = "sha256:bb21319bc9e0c902393dc5a3bec8fe776ebd4fa06bba63d85a36f630bae2ebd5"
-
-[[items."skill/qi-layer".outputs]]
-target_root = ".mars"
-dest_path = "skills/qi-layer"
-state = "installed"
-installed_checksum = "sha256:093bfc1854bc90ff0a57fa0140502e0feaa86f6749d5d5e3fac86444ebdcd85c"
-
-[[items."skill/qi-layer".outputs]]
-target_root = ".opencode"
-dest_path = "skills/qi-layer"
-state = "installed"
-installed_checksum = "sha256:bb21319bc9e0c902393dc5a3bec8fe776ebd4fa06bba63d85a36f630bae2ebd5"
-
-[items."skill/qi-maintenance"]
-source = "meridian-base"
-kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:c5b3453308e09e44e4bdeb003cad518967b9d0d9978e7734f2aae1e2969c621d"
-
-[[items."skill/qi-maintenance".outputs]]
-target_root = ".codex"
-dest_path = "skills/qi-maintenance"
-state = "installed"
-installed_checksum = "sha256:73a7274a3329b4a0b1f25e15866ccf8378764d8ed898757dcd99be24c95447db"
-
-[[items."skill/qi-maintenance".outputs]]
-target_root = ".mars"
-dest_path = "skills/qi-maintenance"
-state = "installed"
-installed_checksum = "sha256:c5b3453308e09e44e4bdeb003cad518967b9d0d9978e7734f2aae1e2969c621d"
-
-[[items."skill/qi-maintenance".outputs]]
-target_root = ".opencode"
-dest_path = "skills/qi-maintenance"
-state = "installed"
-installed_checksum = "sha256:0333f7a65d33127a62cb16bfebf12efa4fcccbf10b77b784ac2f388e8b1bfea3"
+installed_checksum = "sha256:bcb7d49807fcab55d82fdd1a90a68e90cf24133474f99c8680d5929aa5072a41"
 
 [items."skill/reader-sim"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.5.9"
-source_checksum = "sha256:6f29c038cf544e260fd191acd15e07f353722967ebe8097eb1fa08f7a79f333e"
-
-[[items."skill/reader-sim".outputs]]
-target_root = ".codex"
-dest_path = "skills/reader-sim"
-state = "installed"
-installed_checksum = "sha256:5db03a604851893b219daa9ab05f60dbf1da5024b73144796b7219f923f10959"
+version = "v0.7.6"
+source_checksum = "sha256:0949864234ef98b7d1bb8730a152b5ae72ec9737532e1869e731274a197d454d"
 
 [[items."skill/reader-sim".outputs]]
 target_root = ".mars"
 dest_path = "skills/reader-sim"
 state = "installed"
-installed_checksum = "sha256:6f29c038cf544e260fd191acd15e07f353722967ebe8097eb1fa08f7a79f333e"
+installed_checksum = "sha256:0949864234ef98b7d1bb8730a152b5ae72ec9737532e1869e731274a197d454d"
+
+[[items."skill/reader-sim".outputs]]
+target_root = ".codex"
+dest_path = "skills/reader-sim"
+state = "installed"
+installed_checksum = "sha256:44bd1c04e5a8eec170bf70d6b10736bc470c599a8e2c9a1fc243c627c95d09d9"
 
 [[items."skill/reader-sim".outputs]]
 target_root = ".opencode"
 dest_path = "skills/reader-sim"
 state = "installed"
-installed_checksum = "sha256:5db03a604851893b219daa9ab05f60dbf1da5024b73144796b7219f923f10959"
-
-[items."skill/reflect"]
-source = "meridian-base"
-kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:6be25290468ed41573c806d9c58c60f1234cb6f3fa23f59a85504a0716d09dcc"
-
-[[items."skill/reflect".outputs]]
-target_root = ".codex"
-dest_path = "skills/reflect"
-state = "installed"
-installed_checksum = "sha256:34c3c026553b0b1d3facbbf652c5fa35dd3c2b3e11f1e5d458aa0f9de564f068"
-
-[[items."skill/reflect".outputs]]
-target_root = ".mars"
-dest_path = "skills/reflect"
-state = "installed"
-installed_checksum = "sha256:6be25290468ed41573c806d9c58c60f1234cb6f3fa23f59a85504a0716d09dcc"
-
-[[items."skill/reflect".outputs]]
-target_root = ".opencode"
-dest_path = "skills/reflect"
-state = "installed"
-installed_checksum = "sha256:701c71ac426ee3d987b35e2fa45dce4202a1d441a4e83bd75794c8c50323a7a0"
-
-[items."skill/session-mining"]
-source = "meridian-base"
-kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:9bc6b247ae4c7c9e864afc9f7ced478376e71b5f37737a1636cf688c2d390822"
-
-[[items."skill/session-mining".outputs]]
-target_root = ".codex"
-dest_path = "skills/session-mining"
-state = "installed"
-installed_checksum = "sha256:fe923571016e734df47be887d7f62d1ea00ed27480520f5db85ea868bd07cdb6"
-
-[[items."skill/session-mining".outputs]]
-target_root = ".mars"
-dest_path = "skills/session-mining"
-state = "installed"
-installed_checksum = "sha256:9bc6b247ae4c7c9e864afc9f7ced478376e71b5f37737a1636cf688c2d390822"
-
-[[items."skill/session-mining".outputs]]
-target_root = ".opencode"
-dest_path = "skills/session-mining"
-state = "installed"
-installed_checksum = "sha256:fe923571016e734df47be887d7f62d1ea00ed27480520f5db85ea868bd07cdb6"
+installed_checksum = "sha256:44bd1c04e5a8eec170bf70d6b10736bc470c599a8e2c9a1fc243c627c95d09d9"
 
 [items."skill/shared-dao"]
 source = "meridian-base"
 kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:b110c6a1dde104e955092bf4bf08ba0a7eb524fbd80fb075d35cbf13c5a6931e"
-
-[[items."skill/shared-dao".outputs]]
-target_root = ".codex"
-dest_path = "skills/shared-dao"
-state = "installed"
-installed_checksum = "sha256:d4d7adc6aee4bf395482729c3ab61fa40c4606648a4110ab493f5ed56a748528"
+version = "v0.14.13"
+source_checksum = "sha256:d298f22a66b4d036fe28494d70fa3d453e70ce046037c11f562df2eff1938c38"
 
 [[items."skill/shared-dao".outputs]]
 target_root = ".mars"
 dest_path = "skills/shared-dao"
 state = "installed"
-installed_checksum = "sha256:b110c6a1dde104e955092bf4bf08ba0a7eb524fbd80fb075d35cbf13c5a6931e"
+installed_checksum = "sha256:d298f22a66b4d036fe28494d70fa3d453e70ce046037c11f562df2eff1938c38"
+
+[[items."skill/shared-dao".outputs]]
+target_root = ".codex"
+dest_path = "skills/shared-dao"
+state = "installed"
+installed_checksum = "sha256:505a36aeef0bb06c9f968b4ec72245612f67505292aabe6a533330df8a8ec5c7"
 
 [[items."skill/shared-dao".outputs]]
 target_root = ".opencode"
 dest_path = "skills/shared-dao"
 state = "installed"
-installed_checksum = "sha256:d4d7adc6aee4bf395482729c3ab61fa40c4606648a4110ab493f5ed56a748528"
-
-[items."skill/shared-workspace"]
-source = "meridian-base"
-kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:d3ee489c40a95e6763387934270191a4ef436044d01b6ad7e45350c107b5a0ed"
-
-[[items."skill/shared-workspace".outputs]]
-target_root = ".codex"
-dest_path = "skills/shared-workspace"
-state = "installed"
-installed_checksum = "sha256:c64e103b20229e48b44ad5579a378c8aa792f9dd1cc87560f9cd59aefd5e4947"
-
-[[items."skill/shared-workspace".outputs]]
-target_root = ".mars"
-dest_path = "skills/shared-workspace"
-state = "installed"
-installed_checksum = "sha256:d3ee489c40a95e6763387934270191a4ef436044d01b6ad7e45350c107b5a0ed"
-
-[[items."skill/shared-workspace".outputs]]
-target_root = ".opencode"
-dest_path = "skills/shared-workspace"
-state = "installed"
-installed_checksum = "sha256:c64e103b20229e48b44ad5579a378c8aa792f9dd1cc87560f9cd59aefd5e4947"
+installed_checksum = "sha256:505a36aeef0bb06c9f968b4ec72245612f67505292aabe6a533330df8a8ec5c7"
 
 [items."skill/skill-artifacts"]
 source = "meridian-prompter"
 kind = "skill"
-version = "v0.4.1"
-source_checksum = "sha256:83f4ef348d31ee5404f7ee7eae6cf91c956aaa0277a6516aecc44cebdf7ca318"
-
-[[items."skill/skill-artifacts".outputs]]
-target_root = ".codex"
-dest_path = "skills/skill-artifacts"
-state = "installed"
-installed_checksum = "sha256:31449762d782351b2d743e4f17472fc223ad7f2c94110ada75924f5044f880f1"
+version = "v0.6.4"
+source_checksum = "sha256:20bb8525affa0ea923d5260a7a5507a4d47147b7cdf0df198337a5359d6c369f"
 
 [[items."skill/skill-artifacts".outputs]]
 target_root = ".mars"
 dest_path = "skills/skill-artifacts"
 state = "installed"
-installed_checksum = "sha256:83f4ef348d31ee5404f7ee7eae6cf91c956aaa0277a6516aecc44cebdf7ca318"
+installed_checksum = "sha256:20bb8525affa0ea923d5260a7a5507a4d47147b7cdf0df198337a5359d6c369f"
+
+[[items."skill/skill-artifacts".outputs]]
+target_root = ".codex"
+dest_path = "skills/skill-artifacts"
+state = "installed"
+installed_checksum = "sha256:484e5445b0ec7a92c37603181d1aefa94ff210fdd52261e527d8d7c5c9422b4c"
 
 [[items."skill/skill-artifacts".outputs]]
 target_root = ".opencode"
 dest_path = "skills/skill-artifacts"
 state = "installed"
-installed_checksum = "sha256:c56467c74ba6cecc550d7d5ecafb5ef65503aa7adc7b0543a6ad5f849efe42b2"
+installed_checksum = "sha256:484e5445b0ec7a92c37603181d1aefa94ff210fdd52261e527d8d7c5c9422b4c"
 
 [items."skill/story-memory"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.5.9"
-source_checksum = "sha256:b42590c6b49b1c46a512e9fdd5032ff01a2efb1acd341354802f29ca98473212"
-
-[[items."skill/story-memory".outputs]]
-target_root = ".codex"
-dest_path = "skills/story-memory"
-state = "installed"
-installed_checksum = "sha256:da5e89f63bcb4a8bbca58f06b2474450d1a1eb6aa58e24e65bbbba96e9d5c016"
+version = "v0.7.6"
+source_checksum = "sha256:a48fe07e943e9edb7249cf74c12fb89cce202c0733987f98233d09a10f9a7c22"
 
 [[items."skill/story-memory".outputs]]
 target_root = ".mars"
 dest_path = "skills/story-memory"
 state = "installed"
-installed_checksum = "sha256:b42590c6b49b1c46a512e9fdd5032ff01a2efb1acd341354802f29ca98473212"
+installed_checksum = "sha256:a48fe07e943e9edb7249cf74c12fb89cce202c0733987f98233d09a10f9a7c22"
+
+[[items."skill/story-memory".outputs]]
+target_root = ".codex"
+dest_path = "skills/story-memory"
+state = "installed"
+installed_checksum = "sha256:7735e07924c3d8e33be66e79617aafd3191450b0d7dd8d68775a67166e7e57be"
 
 [[items."skill/story-memory".outputs]]
 target_root = ".opencode"
 dest_path = "skills/story-memory"
 state = "installed"
-installed_checksum = "sha256:da5e89f63bcb4a8bbca58f06b2474450d1a1eb6aa58e24e65bbbba96e9d5c016"
+installed_checksum = "sha256:7735e07924c3d8e33be66e79617aafd3191450b0d7dd8d68775a67166e7e57be"
 
 [items."skill/story-planning"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.5.9"
-source_checksum = "sha256:153c5c7b1aa251bcca6d78f7f00aa88cc1289e9ad11ea0682d0dbda060041649"
-
-[[items."skill/story-planning".outputs]]
-target_root = ".codex"
-dest_path = "skills/story-planning"
-state = "installed"
-installed_checksum = "sha256:79e1824ba43472b4ebb88c94756f324c9b1eaeb34bed44535986b7edf66ba906"
+version = "v0.7.6"
+source_checksum = "sha256:afc96787192dd1780f169d5ea2ba4a5c3afe64e4519e8e650a9d5513405c3154"
 
 [[items."skill/story-planning".outputs]]
 target_root = ".mars"
 dest_path = "skills/story-planning"
 state = "installed"
-installed_checksum = "sha256:153c5c7b1aa251bcca6d78f7f00aa88cc1289e9ad11ea0682d0dbda060041649"
+installed_checksum = "sha256:afc96787192dd1780f169d5ea2ba4a5c3afe64e4519e8e650a9d5513405c3154"
+
+[[items."skill/story-planning".outputs]]
+target_root = ".codex"
+dest_path = "skills/story-planning"
+state = "installed"
+installed_checksum = "sha256:4473761b741486ac058578827db63a3d7f99584fb4e9f0b56386ef0c7589adb4"
 
 [[items."skill/story-planning".outputs]]
 target_root = ".opencode"
 dest_path = "skills/story-planning"
 state = "installed"
-installed_checksum = "sha256:79e1824ba43472b4ebb88c94756f324c9b1eaeb34bed44535986b7edf66ba906"
+installed_checksum = "sha256:4473761b741486ac058578827db63a3d7f99584fb4e9f0b56386ef0c7589adb4"
 
 [items."skill/story-review"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.5.9"
-source_checksum = "sha256:e03d982d6f9c106ebe599cedfe51fbc34933358e4c74a338cd3a0bb5bc766edf"
-
-[[items."skill/story-review".outputs]]
-target_root = ".codex"
-dest_path = "skills/story-review"
-state = "installed"
-installed_checksum = "sha256:ad36d2e05a9a5770b93f756f5823c689686146bf3519a7f3b770b32a2420547c"
+version = "v0.7.6"
+source_checksum = "sha256:25e97e0a3a97c4ad55c6b68f6821eb12b7dc5ca4ea1ee2d0ae84bb0b5db1f010"
 
 [[items."skill/story-review".outputs]]
 target_root = ".mars"
 dest_path = "skills/story-review"
 state = "installed"
-installed_checksum = "sha256:e03d982d6f9c106ebe599cedfe51fbc34933358e4c74a338cd3a0bb5bc766edf"
+installed_checksum = "sha256:25e97e0a3a97c4ad55c6b68f6821eb12b7dc5ca4ea1ee2d0ae84bb0b5db1f010"
+
+[[items."skill/story-review".outputs]]
+target_root = ".codex"
+dest_path = "skills/story-review"
+state = "installed"
+installed_checksum = "sha256:2c68ff156b9c4af196107b8311343258d7a76aef0b9642497b695f17dc439405"
 
 [[items."skill/story-review".outputs]]
 target_root = ".opencode"
 dest_path = "skills/story-review"
 state = "installed"
-installed_checksum = "sha256:ad36d2e05a9a5770b93f756f5823c689686146bf3519a7f3b770b32a2420547c"
+installed_checksum = "sha256:2c68ff156b9c4af196107b8311343258d7a76aef0b9642497b695f17dc439405"
+
+[items."skill/story-workflow"]
+source = "creative-writing-skills"
+kind = "skill"
+version = "v0.7.6"
+source_checksum = "sha256:6bd8ab7349c415d38ae8693abd967d30535670d33e366f558a85fa34401d2c38"
+
+[[items."skill/story-workflow".outputs]]
+target_root = ".codex"
+dest_path = "skills/story-workflow"
+state = "installed"
+installed_checksum = "sha256:a675f19296189ed0aaeefd0a88f0b69f39513d42434b3e1e498ff2c4a7dcd51a"
+
+[[items."skill/story-workflow".outputs]]
+target_root = ".mars"
+dest_path = "skills/story-workflow"
+state = "installed"
+installed_checksum = "sha256:6bd8ab7349c415d38ae8693abd967d30535670d33e366f558a85fa34401d2c38"
+
+[[items."skill/story-workflow".outputs]]
+target_root = ".opencode"
+dest_path = "skills/story-workflow"
+state = "installed"
+installed_checksum = "sha256:a675f19296189ed0aaeefd0a88f0b69f39513d42434b3e1e498ff2c4a7dcd51a"
 
 [items."skill/structured-artifact"]
 source = "meridian-base"
 kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:1179130bf5fb4c4a883ed50cec30b29efec471f22f4cd725d1f68435206c22ad"
-
-[[items."skill/structured-artifact".outputs]]
-target_root = ".codex"
-dest_path = "skills/structured-artifact"
-state = "installed"
-installed_checksum = "sha256:2e82ad66a3dd16c741e19525daffbcc1c5d6958808320df23833af5e1c7ffaa9"
+version = "v0.14.13"
+source_checksum = "sha256:6977e97c003b54117419408830eb7f916a91d1342bcd0d3f9fcd1d3e853cf1c5"
 
 [[items."skill/structured-artifact".outputs]]
 target_root = ".mars"
 dest_path = "skills/structured-artifact"
 state = "installed"
-installed_checksum = "sha256:1179130bf5fb4c4a883ed50cec30b29efec471f22f4cd725d1f68435206c22ad"
+installed_checksum = "sha256:6977e97c003b54117419408830eb7f916a91d1342bcd0d3f9fcd1d3e853cf1c5"
+
+[[items."skill/structured-artifact".outputs]]
+target_root = ".codex"
+dest_path = "skills/structured-artifact"
+state = "installed"
+installed_checksum = "sha256:281c344d2912649e0bf3a7a098deb4174afda49de18056fc2ad26da99f8d5a62"
 
 [[items."skill/structured-artifact".outputs]]
 target_root = ".opencode"
 dest_path = "skills/structured-artifact"
 state = "installed"
-installed_checksum = "sha256:4e95bd44e5e8a64ec1a9c2d7eea59bb937117010fb974b65add3da4271cc936f"
-
-[items."skill/work-artifacts"]
-source = "meridian-base"
-kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:172fbf75aa33c556a2a3ecb98568aeefc401ca15fbea3a18c42c1316e5215c0e"
-
-[[items."skill/work-artifacts".outputs]]
-target_root = ".codex"
-dest_path = "skills/work-artifacts"
-state = "installed"
-installed_checksum = "sha256:6cf60c1df1edb620edd28ce02616582d6230d14e3f262aeddd9799ce525cfc92"
-
-[[items."skill/work-artifacts".outputs]]
-target_root = ".mars"
-dest_path = "skills/work-artifacts"
-state = "installed"
-installed_checksum = "sha256:172fbf75aa33c556a2a3ecb98568aeefc401ca15fbea3a18c42c1316e5215c0e"
-
-[[items."skill/work-artifacts".outputs]]
-target_root = ".opencode"
-dest_path = "skills/work-artifacts"
-state = "installed"
-installed_checksum = "sha256:6cf60c1df1edb620edd28ce02616582d6230d14e3f262aeddd9799ce525cfc92"
+installed_checksum = "sha256:281c344d2912649e0bf3a7a098deb4174afda49de18056fc2ad26da99f8d5a62"
 
 [items."skill/writing-principles"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.5.9"
-source_checksum = "sha256:63dd1c19e60211a732bd9a2107a8d5df1cb80a7f1bd84ab249ecd3b1ff9ca2ad"
-
-[[items."skill/writing-principles".outputs]]
-target_root = ".codex"
-dest_path = "skills/writing-principles"
-state = "installed"
-installed_checksum = "sha256:9b597b4b10e3e3a725343323e82c7946bee5802036b18acd9ff21f70ee862360"
+version = "v0.7.6"
+source_checksum = "sha256:813376756d3c14e5bbf5fb4b8172edecb5cdce49a8bdd7b6bc1dc6572528a5b3"
 
 [[items."skill/writing-principles".outputs]]
 target_root = ".mars"
 dest_path = "skills/writing-principles"
 state = "installed"
-installed_checksum = "sha256:63dd1c19e60211a732bd9a2107a8d5df1cb80a7f1bd84ab249ecd3b1ff9ca2ad"
+installed_checksum = "sha256:813376756d3c14e5bbf5fb4b8172edecb5cdce49a8bdd7b6bc1dc6572528a5b3"
+
+[[items."skill/writing-principles".outputs]]
+target_root = ".codex"
+dest_path = "skills/writing-principles"
+state = "installed"
+installed_checksum = "sha256:5c678e67ebf6fcb962fc78dbba156ccb26972106cfda7a1e69a73455a6cc3a2a"
 
 [[items."skill/writing-principles".outputs]]
 target_root = ".opencode"
 dest_path = "skills/writing-principles"
 state = "installed"
-installed_checksum = "sha256:9b597b4b10e3e3a725343323e82c7946bee5802036b18acd9ff21f70ee862360"
+installed_checksum = "sha256:5c678e67ebf6fcb962fc78dbba156ccb26972106cfda7a1e69a73455a6cc3a2a"
 
 [items."skill/writing-staffing"]
 source = "creative-writing-skills"
 kind = "skill"
-version = "v0.5.9"
-source_checksum = "sha256:69b2a4d61778270d36c85e1cc64c933e98202b100b06cf61b44973961cc7ab99"
-
-[[items."skill/writing-staffing".outputs]]
-target_root = ".codex"
-dest_path = "skills/writing-staffing"
-state = "installed"
-installed_checksum = "sha256:ee3d91e07efdb7ddfe540a9a32f79d010f2fc5f4a89b8473f3ad577bde6143e1"
+version = "v0.7.6"
+source_checksum = "sha256:ace62a4164a19ad87fe278f79fb647cee10a0ae8ec85d0148467d713a137105a"
 
 [[items."skill/writing-staffing".outputs]]
 target_root = ".mars"
 dest_path = "skills/writing-staffing"
 state = "installed"
-installed_checksum = "sha256:69b2a4d61778270d36c85e1cc64c933e98202b100b06cf61b44973961cc7ab99"
+installed_checksum = "sha256:ace62a4164a19ad87fe278f79fb647cee10a0ae8ec85d0148467d713a137105a"
+
+[[items."skill/writing-staffing".outputs]]
+target_root = ".codex"
+dest_path = "skills/writing-staffing"
+state = "installed"
+installed_checksum = "sha256:cbe3833a9276d6e2721682a268d62e7cfa67b1a288b1880f1daa530c52236b58"
 
 [[items."skill/writing-staffing".outputs]]
 target_root = ".opencode"
 dest_path = "skills/writing-staffing"
 state = "installed"
-installed_checksum = "sha256:debebb83eb7a146424253242176f479f9eac7679b1fc12ea768699f90b26a644"
+installed_checksum = "sha256:cbe3833a9276d6e2721682a268d62e7cfa67b1a288b1880f1daa530c52236b58"
 
-[items."skill/zoom-out"]
-source = "meridian-base"
+[items."skill/writing-sync"]
+source = "writing-sync"
 kind = "skill"
-version = "v0.10.2"
-source_checksum = "sha256:2b0965d521ec65f09612c0b0f1dc7fe81297939a1bedbf31b19e5808f006e53a"
+version = "v0.2.0"
+source_checksum = "sha256:4f978cfd552badfc38e5d4947d00ce5c4541ef48b8632b4ee5597a35e05a25a6"
 
-[[items."skill/zoom-out".outputs]]
-target_root = ".codex"
-dest_path = "skills/zoom-out"
-state = "installed"
-installed_checksum = "sha256:b175d089c3480f4d30f9324b9bf4efa4ca8f84381e6c6d33ccb86c87a634fac4"
-
-[[items."skill/zoom-out".outputs]]
+[[items."skill/writing-sync".outputs]]
 target_root = ".mars"
-dest_path = "skills/zoom-out"
+dest_path = "skills/writing-sync"
 state = "installed"
-installed_checksum = "sha256:2b0965d521ec65f09612c0b0f1dc7fe81297939a1bedbf31b19e5808f006e53a"
+installed_checksum = "sha256:4f978cfd552badfc38e5d4947d00ce5c4541ef48b8632b4ee5597a35e05a25a6"
 
-[[items."skill/zoom-out".outputs]]
+[[items."skill/writing-sync".outputs]]
+target_root = ".codex"
+dest_path = "skills/writing-sync"
+state = "installed"
+installed_checksum = "sha256:7f3de40e21716378c6243a45b9d488bf9731f7c2937cfaf50ba66240c976e08a"
+
+[[items."skill/writing-sync".outputs]]
 target_root = ".opencode"
-dest_path = "skills/zoom-out"
+dest_path = "skills/writing-sync"
 state = "installed"
-installed_checksum = "sha256:b175d089c3480f4d30f9324b9bf4efa4ca8f84381e6c6d33ccb86c87a634fac4"
+installed_checksum = "sha256:7f3de40e21716378c6243a45b9d488bf9731f7c2937cfaf50ba66240c976e08a"
 
-[config_entries.".codex"."hook:PreToolUse:deny-interactive-prompts"]
-emitted_json = '[{"hooks":[{"command":"bash \"/home/jimyao/gitrepos/personal/pokemon-amber/.codex/hooks/deny-interactive-prompts/run.sh\"","type":"command"}],"matcher":"Bash"}]'
+[dependency_model_aliases.argon]
+description = "Creative writing and long-form fiction: a second voice for drafting and revision, and a strong structural editor of long manuscripts. Drafts can run dense and verbose. Tool calling is unreliable: send it the text inline and take text back."
+match = ["*gemini*argon*"]
+exclude = [
+    "*image*",
+    "*tts*",
+    "*live*",
+    "*contributor*",
+]
+
+[dependency_model_aliases.argon-contributor]
+harness = "opencode"
+description = "Same model as `argon` on a free endpoint that may train on submitted prompts and completions; select it only when that is acceptable, never for unpublished manuscripts the author hasn't cleared."
+model = "opencode-go/gemini-4-argon-contributor"
+provider = "opencode-go"
+
+[dependency_model_aliases.astra]
+harness = "codex"
+description = "The hardest cross-system decisions, computer use and browser work, software engineering, important communication. Best judge of correctness: bugs, security, regressions. Slow; cyber-safety checks can pause legitimate security work. Value 5, intelligence 8, taste 6."
+default_effort = "high"
+match = ["gpt-*-astra"]
 
 [dependency_model_aliases.composer]
 harness = "cursor"
-description = "Strong and cheap coding model, but only for coding. Value 10, intelligence 6, taste 3."
+description = "Coding for bounded edits, scaffolding, tests, and implementing a settled plan. Unreliable on long-horizon, ambiguous, or high-risk work; plan and review with a stronger model. Value 10, intelligence 6, taste 3."
 model = "composer-2.5"
 provider = "cursor"
 
 [dependency_model_aliases.deepseek]
-description = "Cheap, good text coder for constrained tasks. Stronger reasoning than flash. Value 9, intelligence 6, taste 3."
+description = "Coding and agent work: concrete repo changes, tool loops, bulk drafting from focused briefs; takes image input. Review its ambiguous or high-stakes work. Value 9, intelligence 6, taste 3."
+prompting = "Give the desired outcome, relevant source/design context, constraints, acceptance criteria, and concrete verification evidence. Define a coherent objective rather than prescribing each edit."
 default_effort = "high"
-model = "deepseek-v4-pro"
+match = ["deepseek*flash*"]
+exclude = [
+    "*/*",
+    "*:*",
+    "*vision*",
+    "*exp*",
+]
 
-[dependency_model_aliases.deepseekflash]
-description = "Cheapest option for mechanical tasks. Fast, low cost, good enough for bulk reading and simple edits. Value 10, intelligence 5, taste 2."
+[dependency_model_aliases.deepseekpro]
+description = "Legacy alias. Until DeepSeek ships a new Pro model, it routes Pro requests to Flash at Flash pricing, so this is `deepseek` under another name. Value 9, intelligence 6, taste 3."
 default_effort = "high"
-model = "deepseek-v4-flash"
+match = ["deepseek*pro*"]
+exclude = [
+    "*/*",
+    "*:*",
+    "*flash*",
+]
 
 [dependency_model_aliases.fable]
 harness = "claude"
-description = "Most capable model for complex tasks. Value 1, intelligence 9, taste 9."
+description = "Escalation only, never a default or fallback: when a strong model has run out of depth on long-horizon planning, architecture, critique, or bug-finding, a second opinion on work that can be verified. Slow and the most expensive; Opus is the better general orchestrator. Value 2, intelligence 10, taste 8."
 default_effort = "high"
 match = ["claude*fable*"]
 exclude = ["*:*"]
 
 [dependency_model_aliases.glm]
 harness = "opencode"
-description = "Strong coder. Codes well but lacks writing taste. Value 7, intelligence 7, taste 3."
+description = "Open-weight coder for backend, repository-scale implementation, and code review. Slow to start and verbose; makes confident assumptions and stops following steering late in long runs. No image input; weak at UI. Value 7, intelligence 7, taste 3."
 default_effort = "high"
 model = "opencode-go/glm-5.2"
 provider = "opencode-go"
 
-[dependency_model_aliases.gpt]
-description = "Strong coding model family. Prefer as leaf models that do not orchestrate."
-default_effort = "high"
-match = ["gpt-5*"]
-exclude = [
-    "*codex*",
-    "*-pro",
-    "*-mini",
-    "*-nano",
-    "*-chat",
-    "*-turbo",
-]
-
-[dependency_model_aliases.gpt55]
-harness = "codex"
-description = "Temporary compatibility alias for Sol. Use sol in new model policies."
-prompting = "Outcome-first executor. Include the north-star goal, success criteria, relevant high-level context, constraints, expected output shape, and concrete verification: how to prove the goal is met and what evidence to report."
-default_effort = "low"
-model = "gpt-5.6-sol"
-
-[dependency_model_aliases.gptmini]
-description = "Fast and cheap. Good for bulk exploration and simple tasks. Value 9, intelligence 5, taste 3."
-default_effort = "high"
-provider = "openai"
-match = ["gpt-5*-mini"]
-exclude = ["*-nano"]
-
 [dependency_model_aliases.grok]
 harness = "opencode"
-description = "General-purpose reasoning and coding model available through OpenCode."
+description = "Long-horizon coding and knowledge work. Verbose and slow. Value 3, intelligence 8, taste 5."
 default_effort = "high"
-model = "grok-4.5"
+provider = "xai"
+match = ["grok-*"]
+exclude = [
+    "*-imagine-*",
+    "*-image*",
+    "*-video*",
+    "grok-build-*",
+]
+
+[dependency_model_aliases.haiku]
+harness = "claude"
+description = "Summaries, compaction, classification, notes, cold reads, lightweight review, parallel subagents; not ambiguous architecture or complex autonomous implementation. Value 9, intelligence 6."
+match = ["claude*haiku*"]
+exclude = ["*:*"]
 
 [dependency_model_aliases.kimi]
 harness = "opencode"
-description = "Strong at long-running coding and research over large inputs. Slow and token-heavy; avoid bulk work. Value 4, intelligence 8, taste 6."
+description = "Long-running coding and research over large inputs; native multimodal, good at frontend and web apps. Slow and token-heavy; avoid bulk work. Value 4, intelligence 7, taste 5."
 default_effort = "high"
 model = "kimi-k3"
 
 [dependency_model_aliases.luna]
 harness = "codex"
-description = "Cheapest capable coder. Good for bulk and background work, but longer trajectories and weaker judgment make it a poor lead. Value 10, intelligence 8, taste 3."
+description = "General worker for implementation, exploration, summaries, and bounded execution; can own substantial coherent objectives given clear context and verification criteria. Can stall or report done early, so check its claims. Fine for quick, low-risk checks; not for ambiguous architecture or subtle cross-module debugging. Value 10, intelligence 6, taste 4."
 prompting = "Outcome-first executor. Include the north-star goal, success criteria, relevant high-level context, constraints, expected output shape, and concrete verification: how to prove the goal is met and what evidence to report."
-model = "gpt-5.6-luna"
+match = ["gpt-*-luna"]
+
+[dependency_model_aliases.muse]
+harness = "opencode"
+description = "Coding and agent or computer-use work; does well on simpler and UI tasks, loops on hard ones. Prompts and completions are not used for training. Value 6, intelligence 8, taste 4."
+model = "muse-spark-1.3"
+
+[dependency_model_aliases.muse-contributor]
+harness = "opencode"
+description = "Same model as `muse` on a free endpoint that may train on submitted prompts and completions; select it only when that is acceptable. Suits inexpensive visual probing."
+model = "opencode-go/muse-spark-1.3-contributor"
+provider = "opencode-go"
 
 [dependency_model_aliases.opus]
 harness = "claude"
-description = "Opus family catch-all. Prefer pinned versions (opus46, opus48); each has distinct strengths."
+description = "Orchestration and interactive primaries, conversation, frontend, prompt and prose writing, deep sustained work. Best judge of code quality and long-term direction: structure, taste, refactoring, thermo-nuclear review, and what should be deleted. Can over-delegate. Value 5, intelligence 9, taste 9."
 default_effort = "high"
 match = ["claude*opus*"]
 exclude = ["*:*"]
 
-[dependency_model_aliases.opus46]
-harness = "claude"
-description = "Best at inferring human intent. Strong conversational model; preferred for interactive primaries. Value 4, intelligence 8, taste 9."
-default_effort = "high"
-model = "claude-opus-4-6"
-
-[dependency_model_aliases."opus46[1m]"]
-harness = "claude"
-description = "Opus 4.6 with 1M context window. Same taste and intent inference as opus46 with five times the context for manuscript-scale work. Value 3, intelligence 8, taste 9."
-default_effort = "high"
-model = "claude-opus-4-6[1m]"
-
-[dependency_model_aliases.opus48]
-harness = "claude"
-description = "Best at long-horizon orchestration and managing large numbers of subagents. Value 3, intelligence 8, taste 8."
-default_effort = "high"
-model = "claude-opus-4-8"
-
 [dependency_model_aliases.sol]
 harness = "codex"
-description = "Strongest raw coder. Follows instructions, catches edge cases, and handles difficult technical work, but can miss unstated intent. Value 7, intelligence 9, taste 5."
+description = "Difficult technical analysis, complex coding, computer use, long-horizon implementation. Slow to stream and output-heavy; a review benchmark on the previous version found many of its findings unactionable. Less sure-footed on ambiguous architecture. Value 7, intelligence 8, taste 5."
 prompting = "Outcome-first executor. Include the north-star goal, success criteria, relevant high-level context, constraints, expected output shape, and concrete verification: how to prove the goal is met and what evidence to report."
-model = "gpt-5.6-sol"
+match = ["gpt-*-sol"]
 
 [dependency_model_aliases.sonnet]
 harness = "claude"
-description = "Sonnet family catch-all. Prefer the pinned sonnet5 alias."
+description = "Daily implementation: bug fixes, multi-file coding, frontend polish, documents, bounded review. Opus is better for ambiguous architecture and open-ended judgment. Value 7, intelligence 8, taste 5."
 default_effort = "high"
 match = ["claude*sonnet*"]
 exclude = ["*:*"]
 
-[dependency_model_aliases.sonnet5]
-harness = "claude"
-description = "Best combination of speed and intelligence in the Sonnet tier; near-Opus quality on coding and agentic work at Sonnet cost. Value 6, intelligence 8, taste 6."
-default_effort = "high"
-model = "claude-sonnet-5"
-
 [dependency_model_aliases.terra]
 harness = "codex"
-description = "Best daily-driver coding value. Strong on bounded, verifiable work, but less reliable when ambiguity or taste matters. Value 9, intelligence 8, taste 4."
-prompting = "Outcome-first executor. Include the north-star goal, success criteria, relevant high-level context, constraints, expected output shape, and concrete verification: how to prove the goal is met and what evidence to report."
-model = "gpt-5.6-terra"
+description = "Fast and capable computer use. Good technical communication (writing). Value 8, intelligence 7, taste 5."
+prompting = "To be used as as subagent. Make sure to provide all the important context of what it needs to do. "
+match = ["gpt-*-terra"]
