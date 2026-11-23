@@ -6,113 +6,137 @@ spoilers: true
 status: planning
 hidden: true
 created: 2026-06-07
-updated: 2026-08-13
+updated: 2026-09-19
 ---
 
-# Chapter 18 Plan: Departure (Working Title)
+# Chapter 18 Plan: The Road Opens
 
 **POV:** Amber (1st person)
-**Timeline:** Amber's last day in Pallet before her journey
-**Location:** Pallet Town — school, Oak's lab, Ketchum house, Route 1
+**Timeline:** Graduation day; departure the following morning
+**Locations:** Oak's lab, the ranch and lab, the Ketchum house, the road north
 
----
+> **Decision boundary:** The four-scene structure and facts below are author-confirmed. Scene beats and wording are provisional; the chapter is not canon.
 
 ## Purpose
 
-Transition from Arc 0 to Arc 1. After four years of preparation, Amber finally begins the grand Pokemon adventure she has been waiting for. She leaves Pallet Town calmly, legitimately, and with Oak's support.
+Comeback after the four-year timeskip and the publication hiatus. Plant the road. Warmth supports the launch.
 
-The chapter should breathe. Quiet, understated, voice-forward. Sets the tonal register for Arc 1: lighter than late Arc 0, humor returning, but with earned depth underneath.
+**Spine:** she is already a trainer with Ditto → Pallet is home she can leave → she still wants to explore the world of Pokemon → she goes. Anticipation owns the ending.
 
----
+## Chronology
 
-## Revision State (2026-08-13)
+| Relative time | Scene | Movement |
+|---|---|---|
+| Morning, graduation day | 1. Oak's sendoff | Speech; the trio of starters; the license; Ditto registered; work released |
+| Same day, midday | 2. Goodbye round → Mega Stone → lab party | Four years of belonging; distant lore; the Pokedex; farewell |
+| Same evening | 3. Walk home with Delia and Ash | Warmth and its limit; packing |
+| Following dawn | 4. Departure | She goes; last image is the road |
 
-The terrace farewell scene is deleted: it carried early-departure framing (Oak preferring another year, standards passed). The photograph/cake/goals sequence and sunrise departure now follow the ranch/lab walk directly. The departure includes Amber thanking Delia for taking her in, Delia rejecting Amber's guilt over Stephen's death, and Amber calling her "Mom" for the first time.
+## Scene 1 — Oak's sendoff (Oak's lab, morning)
 
----
+**Job:** The game opening, delivered to one graduate. Establish that Amber is already a trainer, that the license changes her legal status, and that Oak and Amber have four years of unspoken closeness.
 
-## Scene 1: Last Day of School
+| Beat | Purpose |
+|---|---|
+| Empty lab; the pedestal with three domed balls and a button | The iconic trio, seen by one person. The image is the homage; the button is seeded. |
+| Oak's speech (modified intro text), broken by one description and one thought | Reader-facing game allusion. After the second movement, Oak finishes uninterrupted. |
+| "Press the button" and the domes rise | The homage pays off literally; the trio is revealed. |
+| The three starters named (Cyndaquil, Eevee, Electrike) | Worldbuilding: the lab receives visiting professors' partners. |
+| The license: one Pokemon without paperwork vs three with a license; Ditto's name already in the registration slot | **Show** the carry-limit lore through the beat, not a lecture. |
+| Oak asks for Ditto's ball, registers it, and returns it with the ID: "Here's Ditto. Officially. And your ID." | The ball passes through Oak's hands to become official; partner and credential arrive together. |
+| The gag: he offers a starter; the ball wobbles in her hand; she declines | Partner loyalty, deadpan. Oak's dry "the other professors didn't believe me." |
+| Oak's half-second-too-long look | The Sam/4Ever undercurrent. Never explained. |
+| "Go say goodbye before it's a formality" | Hands off to Scene 2. Does not reveal the party. |
 
-- The chapter opens during final classroom cleanup. Amber throws away ordinary school debris and keeps only the private notebook containing remembered Pokemon knowledge from her old life, now marked by four years of corrections.
-- Reid asks whether Oak is sponsoring her. Amber recognizes his face but cannot remember his name, establishing that she shared a classroom without building friendships there.
-- Reid challenges Amber to battle once they receive their starters. Nora identifies Amber as Oak's unknown third sponsored graduate.
-- Amber reveals that Ditto is already her partner. Nora calls Ditto weak because it can only become what it faces; Amber answers that every Pokemon has more potential than people think and that her Ditto is already strong.
-- Amber accepts Reid's challenge for the finals at Indigo Plateau, turning a casual challenge into a long-term rivalry promise.
-- Ms. Mori sends everyone back to cleaning. The class leaves without a sentimental farewell.
-- Delia waits outside while Ash and Gary race out of their younger class. The four walk to Oak's lab.
+## Scene 2 — Goodbye round → Mega Stone → lab party
 
-## Scene 2: Graduation Party at Oak's Lab
+**Job:** Show four years of real belonging, open one distant mystery, then concentrate the warmth into a sendoff.
 
-- Delia brings Amber, Ash, and Gary from school to the laboratory.
-- Oak, his assistants, Ditto, and the research Pokemon welcome Amber with party poppers and cake.
-- The assistants give Amber practical journey equipment: Rapidash Athletics trail runners, a Silph Co. spatial bag, Potions, Pokeballs, a Town Map, rope, a freshness case with berries, Pokemon food, Lava Cookies, and money for the road.
-- Delia asks Amber to remain a few more days. Amber refuses because she cannot wait to begin her own Pokemon adventure.
-- Oak presents the prototype Pokedex. It scans image, estimated height, weight, and type; every scan is saved as field data. It does not yet identify species, provide descriptions, or speak.
-- Amber's expectation of a spoken description gives Oak that idea. Oak entrusts her with gathering scans across Kanto.
-- Amber promises to "catch them all." Oak approves but reminds her that her current license permits her to carry only three Pokemon; Amber knows she must transfer someone before registering a fourth. The limit applies to simultaneous active custody, not lifetime captures.
+| Beat | Purpose |
+|---|---|
+| Amber walks the ranch and lab, greeting and releasing Pokemon, watching them play | Belonging shown through routine and specific animals, not summary. She worked here; this is hers. |
+| The unfamiliar quiet / everyone already off work | Plants the party without announcing it. |
+| Oak's bench; the unlabeled stone under its dome | The **one** distant-lore hook: Amber recognizes a Mega Stone, cannot identify its species, cannot ask without exposing what she knows. |
+| The package box beside the dome | Amber reads the sender: Professor Rowan, and possibly a second Hoenn name (Steven Stone, pending). Concrete provenance without Oak explaining it. |
+| Oak catches her; lets it go with a dry line | Four years of him letting her get away with things. |
+| Oak reveals he closed the lab early for her | The turn into the party. |
+| Lab party: assistants, presents, Ash present | Warmth as fuel. Specific staff, specific gifts, no crowd inventory. |
+| Oak's Pokedex prototype | Field tool handoff. Functions in **Mechanics** below. |
+| Amber's "no wacky descriptions?" → Oak takes it seriously → Amber clocks the paradox | Plant the description feature and the folklore source. Dry comedy, not lore lecture. |
 
-## Scene 3: Ranch and Laboratory Walk
+## Scene 3 — Walk home with Delia and Ash
 
-- After a section break, Amber crosses Oak's inhabited ranch. Dragonite acknowledges her from beneath a tree shared with resting Nidoran; Tauros grazes while Pidgey follow its disturbed ground.
-- Amber's prior college experience left her with little common ground at school. Most afternoons, weekends, and breaks were spent helping out at Oak's lab: Pokemon care and recording Pokemon interactions (with each other and with people, herself included) for Oak's bond research.
-- Nidorino's eye-drop memory proves patient Pokemon care. The labeled Pokeball wall proves daily familiarity with individual residents. The workbench proves practical laboratory training and difficult world-specific coursework.
-- An unlabeled marble-like object on Oak's workbench is the only unfamiliar item. Amber recognizes it as a Mega Stone but cannot identify its species association.
-- Ash calls her back for cake before she can investigate. Amber retains the question; she cannot ask Oak without explaining how she recognized the stone.
-- The stone's exact provenance remains unsettled. Chapter 18 does not state that Rowan sent it.
+**Job:** Land the household relationship at its true shape: maternal love on one side, friendlike cohabitant on the other, warm and unresolved.
 
-## Scene 4: Photograph, Cake, and Goals
+| Beat | Purpose |
+|---|---|
+| Delia and Amber walk home after the party; Ash comes along | Ordinary close, not a staged farewell. Ash keeps the household trio on the page. |
+| Delia hugs her and calls her her daughter | Delia's maternal truth, offered plainly. |
+| Amber cannot return "Mom"; it is awkward for her | The asymmetry, shown without making it a wound or a task. |
+| Delia says she is always welcome | No debt, no grievance. |
+| "Thanks... Delia." | Amber's honest limit, kept warm. |
+| Home; all smiles as she packs | The awkwardness sits beside ordinary joy, not above it. |
 
-- Oak gathers the assistants, family, and research Pokemon for a photograph before the cake is cut.
-- Ditto complicates the photograph by becoming Oak and then Amber.
-- Amber makes the first cut.
-- Ash asks whether Amber intends to become a Pokemon Master. Amber says she wants to travel, meet Pokemon, see unfamiliar places, and perhaps challenge Gyms.
-- Gary calls that goal lame and declares that he will become Champion. Ash immediately claims the same goal; Gary reminds him that he wanted to become a Pokemon Master.
-- The party winds down through evening checks rather than another farewell speech.
+**Candidate (try, may delete):** the explicit goal statement — explore the world of Pokemon, the same childhood dream — placed on the walk home. Author may move it to Scene 4 or cut it.
 
-## Scene 5: Sunrise Departure
+**Boundary:** this is not a reconciliation scene and not a guilt beat. Delia's affection is not a debt Amber owes. Do not stage a first "Mom."
 
-- Amber leaves from the path below Oak's laboratory with the Silph bag and Ditto.
-- Delia adds breakfast, repeats that Amber must eat before Viridian, and embraces her.
-- Oak, the lab assistants, Arcanine, Gary, and a sleepy Ash see her off.
-- Ditto travels beside Amber rather than being carried.
-- Amber looks back once at Pallet, waves until the path curves, and continues north with the sunrise behind her.
+## Scene 4 — Departure
 
-## What This Chapter Is NOT
+**Job:** Compress nothing. Move from ready to gone.
 
-- Not a trauma chapter. She's past it.
-- Not an exposition chapter. No long explanations of the licensing system, the exam, the world.
-- Not dramatic. The farewell can carry ordinary sadness without displacing Amber's excitement.
+| Beat | Purpose |
+|---|---|
+| Amber wakes early, fresh | Eagerness without labeling it. |
+| Backpack, Ditto on her shoulder | Ready. |
+| First steps onto the road | The childhood dream, entered. End on the road. |
 
----
+**Candidate (try, may delete):** the explicit goal statement lives here instead of Scene 3. Pick one, not both.
 
-## Tonal Notes
+## Mechanics and lore
 
-- Humor returning — closer to Ch 1-5 register than Ch 11-17 (maybe 40-50% humor-inflected)
-- Game references: sparse. She's been here long enough that this is her world.
-- The kaomoji section breaks can return here as a signal that we're back in lighter territory
-- Sentence rhythm: varied, punchy. Short fragments for emotional beats. Longer for observation.
+- **Carry limit.** No license = one companion, no paperwork (the household default). Trainer License = three. Badges expand further. The chapter shows this once, through Oak registering Ditto and offering the third slot.
+- **No automatic adult registration.** There is no "at 18 you register three" rule; the license is the first team-building threshold and the only path shown.
+- **Starters as a lab fact.** The trio on the pedestal are this year's cohort partners. Cyndaquil (Johto) and Electrike (Hoenn) are imports from visiting professors; Eevee is Kanto-native. Amber declines. Their later owners are open.
+- **Pokedex prototype.** Shows image scan, approximate level, estimated height, estimated weight, and type. It does **not** have the species name. Oak's "the identification problem remains" line fits.
+- **"Level" is literal.** The device reads a Pokemon's approximate level, calculated from its (type) energy, per the anime's first-season usage: an estimate of power from type-energy readings, not a mystical number.
+- **Descriptions.** Next year's iteration adds the name plus descriptions drawn from historical folklore accounts. Thin official records are why the entries read strangely. Amber's Scene 2 request is what puts descriptions on Oak's list.
+- **Mega Stone.** Amber recognizes the category, not the species. She does not ask. Provenance arrives through the package box: Rowan, possibly plus Steven Stone.
+- **Ditto's pronoun:** it.
+- **Ditto in its ball.** For the ceremony Ditto rides in its Pokeball, not on Amber's shoulder; Oak takes the ball to register it, then returns it officially. Ditto is out on her shoulder elsewhere.
 
----
+## Constraints
 
-## Character Ages (Confirmed)
+- Amber is a loner. No classmates or peers on-page. Reid and Nora are deferred to a later episode that uses them, including any "Amber doesn't remember them" comedy.
+- No Ditto object-copy. Scarf posture is not a transform.
+- Oak is warm, dry, and restrained. His trust is demonstrated through gifts and access, not a speech about standards.
+- No trauma-resolution, no guilt confession, no orphanage/legal-limbo plot.
+- Delia's affection is maternal; Amber's response is honest, not corrective.
 
-- **Amber:** 14 (normal post-graduation start, Oak-sponsored)
-- **Kyle Kong:** 14 (normal post-graduation start; appears later)
-- **Sabrina:** 14 (normal post-graduation trainer phase)
-- **Reid and Nora:** 14 (Amber's graduating cohort)
-- **Ash and Gary:** 13 (one school year remains before their starts)
+## Open Decisions
 
----
+1. **Steven Stone.** Is he a second sender on the package, or is Rowan alone?
+2. **Goal statement.** Scene 3 or Scene 4, or cut. Author will decide while drafting.
+3. **Starter owners.** Cyndaquil, Eevee, and Electrike's later trainers remain open.
 
-## Cross-Refs
+## KB updates pending
 
-- [Chapter 19 plan](../ch19/plan.md) — Route 1, Day 1
-- [Chapter 20 plan](../ch20/plan.md) — Route 1, Day 2, Team Rocket camp, Alonso
-- [Chapter 21 plan](../ch21/plan.md) — Guarded cave, Ursaring, rescue
-- [Trainer-start age and peer cohort][age-cohort]
-- [Pallet cohort rival roles][rival-roles]
-- [Kanto Year 1][kanto-year-1] — full arc planning
+- Professor Oak page + Pokedex canon: the prototype includes an approximate level; descriptions arrive in the next iteration from folklore accounts; the name-absent state and the folklore origin need recording.
 
-[age-cohort]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/decisions/age-cohort.md
-[kanto-year-1]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/01-kanto-year-1/overview.md
-[rival-roles]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/decisions/pallet-cohort-rival-roles.md
+## Sources
+
+- [Chapter 18 notes](notes.md) — controlling author decisions
+- [Chapter 19 plan](../ch19/plan.md) — first-day Pidgey chase and supplied equipment
+- [Chapter 20 plan](../ch20/plan.md) — Caterpie and first team interactions
+- [Chapter 21 plan](../ch21/plan.md) — Route 1 Kyle/Rocket/Mew encounter
+- [Chapter 22 plan](../ch22/plan.md) — Viridian passage
+- [Chapter 23 plan](../ch23/plan.md) — Route 2, Alonso, and Teddiursa
+- [Arc 0 handoff][arc0-handoff]
+- [Licensing][licensing]
+- [Professor Oak][oak]
+- [Amber][amber-mc]
+
+[arc0-handoff]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/00-perfect-family/handoff.md
+[licensing]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/world/systems/trainers/licensing.md
+[oak]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/professor-oak.md
+[amber-mc]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/amber-mc.md

@@ -1,61 +1,95 @@
 # Chapter 18 — Notes
 
-- Draft: [chapter18.md](./chapter18.md) (not yet canon)
+- Annotated source: [chapter18.annotated.md](./chapter18.annotated.md)
+- Compiled draft: [chapter18.md](./chapter18.md) (not yet canon)
+- For this drafting pass, the author requests comprehensive line and wording explanations in standalone HTML comments after each prose unit. These are craft notes, not reader-facing explanation; compile the commentless draft before reading it.
 - Plan: [plan.md](./plan.md)
 
+## Load
+
+- [Arc 0 handoff][arc0-handoff]
+- [Amber][amber-mc]
+- [Ditto][ditto-ref] / [Ditto identity][ditto-id]
+- [ch17 summary](../ch17/summary.md)
+- [Age/cohort][age-cohort] / [Pallet rivals][rival-roles]
+
+Beats: [plan.md](plan.md). Do not recap the handoff in prose.
+
 ## Decisions
+
+### Current Chapter Direction (September 2026)
+
+- Draft under revision; not canon. Graduation is off-page.
+- Four scenes: Oak's sendoff; goodbye round → Mega Stone → lab party; walk home with Delia and Ash; dawn departure. Beats live in [plan.md](plan.md).
+- Amber is alone at the ceremony. Reid and Nora are off-page, deferred to a later episode that uses them.
+- Ditto rides in its Pokeball for the ceremony. Amber presses the pedestal's button, the domes rise on the starter trio, and Oak registers Ditto's ball, returning it with her ID: "Here's Ditto. Officially. And your ID."
+- No Ditto object-copy. Scarf posture is not a transform.
+- Delia's asymmetry stays warm and unresolved; first "Mom" is not required.
+
+### Household Relationships
+
+- From Amber's side, Delia is an affectionate, friendlike cohabitant after four years together. Delia's affection is maternal, and she is comfortable being called "Delia." Their asymmetry is not a grievance, debt, or reconciliation task.
+- Ash is little-brother-like to Amber. She has helped him regain his energetic footing after Stephen's death; Chapter 18 need not explain a recovery process or imply that his present energy is false.
 
 ### Graduation and Journey Age (August 2026)
 
 - Amber, Reid, and Nora graduate middle school normally at age 14 as part of the same cohort.
 - Amber does not graduate or begin her journey early. Oak sponsors and prepares her, but does not grant an age exception.
 - Ash and Gary are one year younger, so they have one school year remaining.
-- Keep the classroom-cleanup opening and notebook sequence, but remove every claim that Amber graduates or departs early. Amber has completed middle school normally at 14.
-- The formal graduation ceremony is the following day. Attendance is ceremonial: Amber's graduation is already certified, and her Oak-sponsored Trainer License becomes valid that morning. She plans to leave at sunrise rather than attend.
-- Oak normally sponsors three Pallet graduates each year. Reid and Nora are publicly known as two of this year's three; Amber has not told her classmates that she is the third.
-- Reid approaches Amber about Professor Oak sponsoring her. Nora confirms that this makes Amber the unknown third. The exchange should establish Reid and Nora as real members of Amber's cohort without presenting the class as a prebuilt future tournament field.
-- Nora questions Ditto's apparent ceiling. Amber answers that every Pokemon has more potential than people think and that her Ditto is already strong, then accepts Reid's challenge for the finals at Indigo Plateau.
-- Oak's lab hosts a private graduation celebration and journey send-off that afternoon, with party poppers, cake, gifts, and a photograph shared by Amber's actual Pallet community.
-- During the celebration, Delia asks Amber to remain a few more days and rest. The request is ordinary reluctance to say goodbye, not conflict. Amber shakes her head; she cannot wait to begin her journey.
-- When someone asks Amber's goal, she says she wants to experience the world of Pokemon. She is motivated by discovery rather than a title.
-- Gary calls that goal lame and declares that he will become Pokemon Champion when his turn comes. Ash immediately talks over him and insists that he will become Champion instead. Gary answers, "I thought you wanted to become a Pokemon Master." Ash treats becoming Champion as part of that larger goal. Their argument supplies the louder, conventional ambition surrounding Amber's quieter goal.
-- Amber, Reid, and Nora's exact class rankings and any valedictorian status remain unsettled.
+- Kyle visits Oak separately, specifically for Riolu. Kyle is not part of the Chapter 18 ceremony, and Riolu is not an available choice for these graduates.
+- Class rankings / valedictorian remain unset. A finals promise is allowed if it happens; it is not required.
 
 ### Reid (conventional recurring rival)
 
 - Reid is Amber's fiery Pallet contemporary and the only newly introduced conventional recurring/tournament rival currently promised.
 - He has bright red hair.
 - He has a fiery personality: proud, theatrical, quick to react, openly competitive, and determined not to be left behind. Embarrassment becomes louder confidence; challenge excites him rather than making him withdraw.
-- His starter, team, career, type focus, and exact tournament cadence remain unsettled.
+- He is off-page in Chapter 18 and deferred to the episode that uses him. His starter, later team, career, type focus, and exact tournament cadence remain unsettled.
 
 ### Nora (academic foil)
 
-- Nora is Amber's nerdy, obsessively analytical classmate, academic foil, fellow Oak-sponsored graduate, and member of the same graduating cohort. She collects details, checks assumptions, and keeps analyzing after everyone else considers a question answered.
+- Nora is Amber's nerdy, obsessively analytical classmate and academic foil. She collects details, checks assumptions, and keeps analyzing after everyone else considers a question answered.
 - She has square glasses and a tidy brown bob.
-- Her intensity is precise rather than cold: she pushes up her glasses, supplies the missing fact, and asks the follow-up everyone else overlooked. She knows about Oak's sponsorship and turns Reid's question into wider classroom interest.
+- Her intensity is precise rather than cold: she pushes up her glasses, supplies the missing fact, and asks the follow-up everyone else overlooked.
 - She may recur, but the story does not promise her as a major battle rival, recurring tournament opponent, or tournament fixture.
-- Her starter, team, trainer path, career, degree of recurrence, and any tournament participation remain unsettled.
+- She is off-page in Chapter 18 and deferred. Her starter, later team, trainer path, career, degree of recurrence, and tournament participation remain unsettled.
 
-### Lab Sendoff, Pokedex, and Mega Stone (August 2026)
+### Post-Graduation Paths and Gym Prestige
+
+- The dominant post-graduation trainer paths are an independent journey or attendance at a trainer school. Ordinary academic, vocational, and direct-work paths also exist.
+- Moving to a Gym for a residential training program is rarer and usually more prestigious than either common trainer path. Receiving a full Gym scholarship is an exceptional achievement and draws immediate peer attention.
+- Oak's personal sponsorship carries comparable or greater prestige and functions like a fully funded elite placement.
+- Students discuss destinations, acceptances, starters, moving, and whether supervised school challenges count as a real journey. They do not explain financing systems to one another for the reader's benefit.
+- **Journey** is the ordinary character-facing term for traveling independently to train and challenge Gyms. **Circuit** may describe the structure in planning documents but should not replace natural student speech.
+
+### Lab Sendoff, Pokedex, and Mega Stone (September 2026)
 
 - Oak's assistants give Amber the practical journey supplies shown in the draft, including the Rapidash Athletics Stormweave trail runners and Silph Co. spatial bag.
-- Oak's prototype Pokedex derives image, estimated height, weight, and type from each scan and stores the result as field data. It does not yet identify species by name, provide descriptions, or speak. Amber accidentally gives Oak the idea for a spoken description.
-- Amber recognizes an unlabeled Mega Stone on Oak's workbench but cannot identify its species association. She does not forget it; she delays asking because explaining her recognition would expose knowledge she should not have.
-- The Mega Stone's provenance remains unsettled. Do not state that Rowan sent it until that decision is made.
-- The private terrace farewell and its early-departure framing are deleted. Oak's gifts, sponsorship, Pokedex assignment, and years of access demonstrate his trust without a speech about standards.
-- During the sunrise farewell, Amber thanks Delia for taking her in and admits that she blames herself for Stephen's death. Delia assigns responsibility directly to Fuji and calls Amber her daughter. Amber calls Delia "Mom" for the first time, then retreats to "Delia" when Delia draws attention to it.
+- Pokedex prototype: image scan, approximate level (power estimated from type energy), estimated height, estimated weight, and type. It does not yet identify species by name. Oak's "the identification problem remains" line fits.
+- Next year's iteration adds the species name plus descriptions drawn from historical folklore accounts. Thin official records are why the entries read strangely. Amber's Scene 2 request is what puts descriptions on Oak's list.
+- The Mega Stone's provenance arrives through the package box beside the dome: Professor Rowan, possibly with a second Hoenn name (Steven Stone, pending).
+- Amber recognizes the stone's category but cannot identify its species. She cannot ask without exposing knowledge she should not have; Oak lets it go.
+- Oak is still investigating the stone. This is distant foreshadowing, not an imminent technique or power-up.
+- Provisional future direction: early on-page Mega Evolution instances are unintentional in Hoenn; consistent deliberate use may arrive with Kalos much later. Whose Pokemon, exact incidents, and placement remain OPEN. Reconcile with the adventurer-interval direction later. Chapter 18 does not need those distant details settled.
+
+### Oak's bond research — the iceberg
+
+- Oak's lab studies Human–Pokemon dynamics, general Pokemon biology/classification, and maintains the Pokedex.
+- **The iceberg (NOT stated in prose; annotation/subtext only):** the trainer–Pokemon partnership is symbiotic and cultivation-like. The bond is a growth medium --- the deeper the mutual trust, the faster both partners develop, compounding across shared time and adversity. The Pokemon's body and abilities strengthen beyond its solitary baseline; the human is altered too (perception, intuition, latent capacity). A clean survey comparison is structurally unavailable, because human-raised Pokemon are bonded from the egg, so the only "unbonded" specimens are wild/feral --- a differently selected population.
+- **Culmination:** at sufficient bond depth the latent biology is briefly rewritten --- Mega Evolution. The Mega Stone is the key that, combined with a peak bond, unlocks that potential.
+- **Payoff / use:** this thread justifies the later Oak–Rowan joint work and the Mega Stone on Oak's bench, and gives Amber's eventual Mega-capable bond a coherent foundation. Keep the cultivation framing OFF-PAGE; let the stone and Rowan's visit carry it as implication rather than explaining the theory to readers in Chapter 18.
 
 ### License & Registration
 
-- Amber's Trainer License was obtained offscreen during her years in Pallet. Oak sponsored and handled it as part of her normal post-graduation journey.
-- She starts Ch 18 with the license already in hand. Carry limit: 3 Pokemon (Ditto + 2 open slots). This is a simultaneous carry limit, not a lifetime catch quota; she can transfer or surrender a Pokemon to reopen a slot. Instantaneous transfer terminals are being trialed at select Pokemon Centers during her first journey year. Amber knows to ask for the beta service and can send a Pokemon to Oak's ranch; the network becomes broadly available the following year.
+- Amber completes the Trainer License requirements offscreen as part of her normal post-graduation journey, with Oak's sponsorship. By departure she is licensed to carry three Pokemon (Ditto + 2 open slots).
+- The limit is simultaneous carry, not a lifetime catch quota; she can transfer or surrender a Pokemon to reopen a slot. Instantaneous transfer terminals are being trialed at select Pokemon Centers during her first journey year. Amber knows to ask for the beta service and can send a Pokemon to Oak's ranch; the network becomes broadly available the following year.
 - The competency test, paperwork, and bureaucracy are not shown. None of it is story.
 - Existing [trainer licensing worldbuilding][licensing] supports this: no age restriction on Trainer ID, Trainer License is a separate "more substantive" evaluation, and Oak's sponsorship is the equivalent of a full scholarship.
 
 ### Route & Geography
 
-- Departure is Pallet → Route 1 (south to north toward Viridian). Ch 19-21 plans stay intact.
-- Viridian Gym / Giovanni encounter happens AFTER the Route 1 mini-arc, not during departure.
+- Departure is Pallet → Route 1 (south to north toward Viridian).
+- Amber begins the journey without Kyle. Kyle first appears in Chapter 21 on Route 1 after his separate visit to Oak for Riolu; Chapter 22 reaches Viridian; Chapter 23 begins the Route 2 Alonso/Teddiursa material.
 
 ### Vocational School Framing (pending)
 
@@ -67,6 +101,10 @@
 - [Trainer-start age and peer cohort][age-cohort]
 - [Pallet cohort rival roles][rival-roles]
 
+[arc0-handoff]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/arcs/00-perfect-family/handoff.md
+[amber-mc]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/amber-mc.md
+[ditto-ref]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/pokemon/amber-team/ditto.md
+[ditto-id]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/team-arcs/amber/ditto-identity.md
 [age-cohort]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/decisions/age-cohort.md
 [licensing]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/world/systems/trainers/licensing.md
 [rival-roles]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/planning/decisions/pallet-cohort-rival-roles.md

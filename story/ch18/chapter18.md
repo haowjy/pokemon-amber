@@ -1,313 +1,73 @@
 ---
 chapter: 18
-title: "[Chapter 18] Departure"
+title: "[Chapter 18] The Road Opens"
 status: draft
-hidden: true
-updated: 2026-08-13
+hidden: false
+updated: 2026-09-19
 ---
 
-# \[Chapter 18\] Departure
+# [Chapter 18] The Road Opens
 
-The scrape of twenty desks across the floor drowned out our teacher's last instructions.
+"In the world which you are about to enter," Oak said, "you will embark on a grand adventure."
 
-Perfect.
+Oak stood at the far end of the empty lab, beside a round pedestal I had never watched him use. Three Pokeballs sat on it in a triangle, one to a cradle, each under its own glass dome. A big red button sat at the center, the paint scuffed.
 
-I dragged my desk back into line and tried not to grin. The bulletin board had been stripped to cork.
+"Speak to the people and check things wherever you go," Oak said. "Be it towns, roads, or caves. Gather information and hints from every source."
 
-I emptied my desk into the wastebasket: three pencils, two chewed erasers, loose papers, crumbs, pencil shavings, and dust. I peeled my name label from the corner and dropped it in after them. The only thing I kept was my notebook of otherworldly secrets.
+I had heard this speech before, through a screen the size of my thumb, under a title theme. Wasn't this the intro to Pokemon? I let him finish.
 
-I opened it and ran a finger down the page as I skimmed. I had started it with everything I could remember about Pokemon from my old life: games, anime, manga, guidebooks, websites, and fan theories. Moves, evolutions, maps, and events that had not happened yet. Four years here had covered the entries in check marks, corrections, and question marks.
+"New paths will open to you by helping people in need, overcoming challenges, and solving mysteries. At times, you will be challenged by others and attacked by wild Pokemon. Be brave, and keep pushing on. Through your adventure, we hope that you will interact with all sorts of people and achieve personal growth. That is our biggest objective."
 
-"Professor Oak's sponsoring you too?"
+"You really love that speech, don't you, Professor Oak?"
 
-I snapped the notebook shut. A few heads turned my way.
+He held up a finger. "Let me finish."
 
-A round-faced boy with a crooked fringe of bright red hair stood beside my desk, his dust cloth forgotten in one hand.
+The finger stayed up a moment longer.
 
-I remembered his face. One of the loud, excitable kids. His name, though...
+"Press the button, and let your adventure begin."
 
-"Uh..." I pressed a finger to my forehead. "Who are you again?"
+I cracked a smile and pressed it.
 
-The boy froze. Then his cheeks reddened.
+The domes rose. Three Pokeballs, one to a cradle, each catching the light as the glass lifted clear.
 
-"I'm Reid!" He tossed the dust cloth over his shoulder like a tiny gray cape. "He's sponsoring me too. Once we get our starters, battle me."
+"Not for you." He rested one hand on the rim. "Cyndaquil, Eevee, Electrike. Two of them are imports --- Johto and Hoenn, if you want the research version. They're for this year's graduates."
 
-"Can't. I'm leaving tomorrow morning."
+"I'm a graduate."
 
-"You're leaving Pallet?" someone asked.
+"You are." He said it plainly. "You're just not choosing today. The house rule has been one Pokemon since you were nine. One companion, no paperwork. That's how most people first hold a Pokemon --- a parent's, an older sibling's, something that followed them home. It's also how you've been holding Ditto."
 
-"I'm starting my journey!"
+He said the next part the way he said things that mattered, which was to say without ceremony at all.
 
-A girl near the windows pushed her square glasses up with one finger. Her brown hair had been cut into a tidy bob.
+"A trainer's license is different. It says the League recognizes you as responsible for three." He held out his hand. "May I?"
 
-Nora. I knew her name. I had seen it beside mine on enough exam rankings.
+I dug the ball out of my coat and laid it in his palm. He set it on the pedestal's bare rim and left his hand over it.
 
-"Then you're the third," she said. "But we don't have our starters."
+A small flat case came out of his coat and met the pedestal with a click. "Which makes today the day Ditto stops being a Pokemon you're holding and starts being one you're keeping."
 
-"I already have mine."
+Something behind my ribs did a small, embarrassing thing I chose not to examine.
 
-Reid leaned closer. "Really? Who?"
+Oak flipped the case open. My photograph sat in the corner. Under the League seal, a line of print licensed me to travel with three active Pokemon; beneath that, at the bottom, someone had already typed a name into the first registration slot. Not mine. His.
 
-"Ditto," I said proudly.
+I read it twice.
 
-"Ditto?" Nora adjusted her glasses. "That's kind of weak, isn't it? At best, it only becomes what it's fighting."
+"Four years," Oak said. "I assumed you'd want it."
 
-I smirked. "Every Pokemon has more potential than people think. My Ditto is already strong."
+He closed the case and handed it to me, then set Ditto's ball on top of it.
 
-I turned to Reid and made a fist. "And I'll take that battle. In the finals at Indigo Plateau."
+"Here's Ditto," he said. "Officially. And your ID."
 
-His whole face lit up. "You're on!"
+He nodded at the pedestal. "You may still take one of these. It's allowed."
 
-"Everyone, back to cleaning!" Ms. Mori called from the front of the room. "Reid, wearing the dust cloth does not count."
+In my hand, the ball gave a small, definite wobble.
 
-By the final bell, the desks stood in two clean rows and the shelves were bare. We spilled through the school doors into the afternoon. Delia was waiting outside.
+"No," I said. "I don't think that would go over well."
 
-Ash and Gary came charging out a moment later, racing to reach Delia first.
+"Mm." Oak's mouth moved a fraction. "I told the other professors you'd say that. They didn't believe me."
 
-She waved me over, and the four of us headed toward Professor Oak's laboratory on the hill above Pallet.
+Something crossed his face then --- not quite a smile, and gone before I could name it. He looked at me a half-second too long, the way he sometimes did, like he was checking me against a photograph that wasn't the one in the case.
 
-\[^.^\]/
+"Take the day," he said. "Go say goodbye before it's a formality instead of a goodbye."
 
-The side door stuck in humid weather. I hit it with my shoulder at the usual angle.
+"To who?"
 
-The door gave. Four party poppers went off at once.
-
-"Congratulations!"
-
-Paper streamers caught in my hair. Ash shouted beside me, Gary coughed through a cloud of confetti, and Delia laughed somewhere behind us. Then Ditto launched off a workbench and struck me in the chest like a warm sack of dough.
-
-I caught it, barely. "Hi to you too."
-
-It flowed up over my shoulder, burbling into my ear. Professor Oak stood beyond the drifting paper in a crooked party hat. His assistants crowded around a graduation cake on the center table, while one of the research Pokemon worried a fallen streamer and the old Fearow watched the noise from the highest cabinet with deep personal disapproval. Delia came over and plucked a streamer from my hair.
-
-Two of the lab assistants stepped forward first. One held out a compact backpack with SILPH CO. stamped across the clasp. The other handed me a shoebox.
-
-"New trail runners," she said. "Rapidash Athletics' latest Stormweave. Water and mud slide right off, but they still breathe."
-
-"Whoa! Thanks!"
-
-"And a Silph Co. spatial bag," the first assistant said. "It holds far more than it looks like it should, and makes everything easier to carry."
-
-I opened it and lowered the shoebox through the opening. It passed the place where the bottom should have been and kept going.
-
-I looked underneath. Still a backpack.
-
-After that came a bundle of Potions, a case of fifty Pokeballs, a weatherproof Town Map of Kanto, and a coil of rope. Then a sealed berry case stocked with Sitrus and Pecha berries, several travel packs of Pokemon food, and a tin of Lava Cookies from Lavaridge. Some of the assistants just gave me money for the road. I thanked them one by one and put everything into the bag.
-
-Every gift fit without leaving a single lump in the backpack.
-
-I opened it again and stared inside. "This is awesome."
-
-Then I swung it onto one shoulder. Even packed, it rested lightly against my back.
-
-"Seriously, thank you, everyone. For the gifts, and for letting me help around the lab all these years." I smiled.
-
-"Amber, make sure to come and visit us sometime!"
-
-The lab Pokemon answered with a jumble of cries. Ditto bounced on my shoulder, and even the old Fearow gave one sharp screech from the cabinet.
-
-Delia touched my arm. "Why don't you stay a few more days? You could rest properly before you go."
-
-I shook my head. "I can't wait even one more day. I'm finally starting my very own Pokemon adventure!"
-
-Professor Oak laughed and stepped forward, holding a red device small enough for one hand. A round camera lens sat above its dark screen.
-
-"Since you're so eager, I have one final gift for you." He held out the device. "This is a prototype of something I call a Pokedex."
-
-My eyes lit up. "A Pokedex? Really? A real Pokedex? You never told me about this!"
-
-"It's been a side project of mine, and it isn't complete yet." Oak flipped it open and pointed the lens at Ditto. "But that's where you come in."
-
-He pressed a button. A red beam washed over Ditto for several seconds, then disappeared.
-
-The screen displayed a picture of Ditto, along with its estimated height, weight, and type.
-
-I waited for the robotic voice.
-
-Nothing.
-
-"It doesn't talk? Or give you a description?"
-
-Oak rubbed his chin. "A talking description... You could listen without taking your eyes off a wild Pokemon." His face brightened. "That's a good idea! I knew you'd be perfect for this mission."
-
-I felt like I had revealed something I shouldn't have. I took a deep breath. "What mission?"
-
-He handed me the Pokedex. "It automatically records data on every Pokemon you scan! It's a high-tech encyclopedia! Well... not yet. I still need more data, so I want you to help me complete it while you travel."
-
-I stared up at Professor Oak with tears in my eyes. It was a little different from what I remembered, but...
-
-"Yes! I accept! I'm going to catch them all!"
-
-Oak nodded. "Just remember, you can't carry more than three right now."
-
-I wiped my eyes. "I know. I'll have to transfer someone to you before I catch a fourth."
-
-"Precisely."
-
-\[^.^\]/
-
-Dragonite rested beneath the broadest tree on the ranch, its back against the trunk and its wings spread through the grass. Two Nidoran slept against its side. Farther out, Tauros grazed across the field while several Pidgey followed behind him, pecking at whatever his hooves disturbed.
-
-I waved as I passed. Dragonite opened one eye and lifted a claw in response.
-
-I spent most afternoons, weekends, and school breaks here. I had already finished college once, and sitting through school again left me with very little to say to the other children. At least the history and TV of this world most of the time gave me something new.
-
-I helped out around the lab. Mostly I recorded how Pokemon interacted with each other, and with people, me included.
-
-A Nidorino raised his head near the recovery fence. Four years ago, he refused his eye drops from every adult in the building. He accepted them from me after I let him smell the bottle and waited for him to lower his head. For the next six mornings, he was waiting beside the gate when I arrived.
-
-I whistled. He huffed once and returned to the grass.
-
-The side door took me back into the laboratory. Rows of Pokeballs covered the storage wall. I knew which held residents who preferred quiet and which belonged to field teams. Nobody opened anything before the old Fearow had eaten. Any commotion before breakfast earned the whole building a lecture. New assistants learned that rule exactly once.
-
-I passed the long workbench where Professor Oak had taught me to prepare slides without trapping air beneath the glass. College helped with the mathematics and chemistry. It was considerably less useful for trainer law and the circulatory system of a creature with eighty tentacles.
-
-Professor Oak's workbench stood at the far end. I recognized the microscope, the scale, and the stacks of bond-observation forms. The marble near the back was new.
-
-Up close, it was round and polished, with two bands of color curling through its center. There was no label.
-
-A Mega Stone.
-
-I reached toward it, then stopped. I couldn't explain how I knew.
-
-"Amber! Cake!" Ash shouted from the other room.
-
-I left the stone where it was and headed back. In the doorway, I looked back once.
-
-Oak clapped his hands. "Before anyone touches the cake, we need a photograph."
-
-Ash was already close enough to fog the icing with his breath. Delia pulled him back by both shoulders. Gary moved to the opposite side of the table, discovered that this put him behind Arcanine, and tried to move Arcanine. Arcanine did not participate in the decision.
-
-The assistants squeezed in around Oak. Pokemon filled every gap they left. Ditto became a second Professor Oak, party hat and all, and stepped solemnly into the front row.
-
-"No," Oak told it. "One of me has proven difficult enough."
-
-Ditto became me instead.
-
-Gary looked between us. "Put the fake one by Ash."
-
-"Gary," Delia said.
-
-"I meant Ditto."
-
-By the time the camera timer began blinking, Delia had one arm around each Amber, Oak was leaning sideways to remain visible over Arcanine, and the assistants were holding two curious research Pokemon just outside cake range. Ash lunged into the last open space as the shutter clicked.
-
-Delia examined the photograph, nodded, and offered me the cake knife. "Amber, make the first cut."
-
-I cut through the first row of piped icing. Ash cheered as if the difficult part had been in doubt.
-
-Delia finished dividing the cake. Ash took the chair closest to it. Gary sat between Ash and the remaining slices.
-
-"What's your goal?" Ash asked. "Are you going to be a Pokemon Master?"
-
-For the road north. For cities I had only seen flattened onto screens. For wild Pokemon that would not wait in tall grass for their turn to attack. For the chance to reach a fork and choose a direction because I wanted to know what was there.
-
-"I want to travel," I said. "Meet Pokemon. See places I've never seen. Maybe challenge some Gyms along the way."
-
-I touched two fingers to Ditto's side. It curled around them.
-
-"That's lame," Gary said. "I'm going to become Champion."
-
-"No, I am!" Ash said.
-
-Gary frowned at him. "I thought you wanted to become a Pokemon Master."
-
-"I'll become Champion first."
-
-It was a good cake. Light sponge, Oran cream, and enough sugar to keep Ash and Gary arguing through sunset. The assistants drifted back to evening checks one at a time. The last one stopped at the ranch door. "Field notes. More than *interesting bite marks* this time."
-
-"No promises," I said.
-
-Outside the open doors, the ranch darkened from green to blue.
-
-\[^.^\]/
-
-At dawn, I stood outside Professor Oak's laboratory with the Silph Co. bag over my shoulders.
-
-Delia checked the left strap, then the right, though we had adjusted both the night before. She tucked a wrapped breakfast into the top pocket and pressed it flat with her palm.
-
-"Eat before Viridian," she said.
-
-"I will."
-
-"Not when you reach Viridian. Before."
-
-"Before Viridian."
-
-She kept her hand on the bag.
-
-"Delia."
-
-She looked up.
-
-"Thank you. For taking me in. For everything after that."
-
-Her fingers tightened against the fabric.
-
-I looked down at the clasp. "Stephen would still be alive if I hadn't come here."
-
-"No." She said it hard enough that I looked at her. "Stephen died because Fuji killed him. Not because you came to us."
-
-"But---"
-
-"No." Her voice broke. She pulled me against her before I could finish. "I may not have given birth to you, but that doesn't make you any less my daughter."
-
-I went rigid in her arms.
-
-For four years, Delia had packed my lunches, bought my clothes, sat through school meetings, and waited up whenever I stayed late at the lab. She had never asked me to be the girl Fuji wanted back.
-
-My hands trembled before I wrapped them around her.
-
-"Thanks..." I swallowed. "Mom."
-
-Delia went still.
-
-Then her arms tightened until my feet nearly left the ground.
-
-"That's the first time you've called me Mom."
-
-"I can take it back, Delia."
-
-"No, you can't."
-
-She laughed into my hair. I held on.
-
-Professor Oak and the lab staff waited beside the path. Arcanine sat beside him.
-
-Gary gave me a loose wave from one pocket. "Try not to lose to the first Bug type you see."
-
-"I'll keep that in mind."
-
-Ash stood beside him with his hair flattened on one side. He rubbed both eyes, yawned, and nearly tipped forward.
-
-"You can go back to bed," I said.
-
-"No." He forced his eyes open. "I wasn't gonna miss it."
-
-He managed to hold my gaze for two seconds before yawning again.
-
-"Become a Pokemon Master later," I told him.
-
-"Okay."
-
-Ditto bounced down the steps and stopped beside my left foot.
-
-The morning smelled of damp earth and cut grass. Beyond the last houses, Route 1 waited under a pale sky.
-
-My face hurt from smiling.
-
-"Ready?" I asked.
-
-Ditto bounced once.
-
-We started down the path.
-
-At the edge of Pallet, I turned. Delia stood with one hand raised. Oak stood beside her. The lab assistants waved both arms. Gary's hand rose from his pocket again. Ash was still rubbing his eyes, but he waved too.
-
-I waved until the path curved.
-
-The sun lifted behind us, laying our shadows long across the road ahead.
-
-Ditto stretched into them, pink against gold, then hurried to my side.
-
-Together, we walked north.
+"Everyone." He picked up a pen and found a paper that needed him, which meant the conversation was finished. "They'll be expecting you."
