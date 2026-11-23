@@ -121,7 +121,6 @@ Lance rejects the request immediately because Oak's former Champion team is inse
 KB: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/lance.md
 -->
 
-
 \[?.?\]/
 
 Oak vanished from the screen, leaving Lance with his own dim reflection. He sat looking at it for several seconds, one hand curled into a fist. Then his shoulders sagged, and he sank into his chair.
